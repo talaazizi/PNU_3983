@@ -1,0 +1,172 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00.004 --> 00:00:04.003
+- When I was assigned my first new build software project,
+
+2
+00:00:04.003 --> 00:00:08.006
+I thought, no problem how hard can this be, it's brand new.
+
+3
+00:00:08.006 --> 00:00:11.002
+Boy, was I wrong.
+
+4
+00:00:11.002 --> 00:00:13.004
+I quickly learned how hard it can be
+
+5
+00:00:13.004 --> 00:00:16.000
+and how many things can go wrong.
+
+6
+00:00:16.000 --> 00:00:18.006
+This type of project has its own unique
+
+7
+00:00:18.006 --> 00:00:21.001
+set of challenges to get in front of.
+
+8
+00:00:21.001 --> 00:00:22.006
+Lets take a look at them.
+
+9
+00:00:22.006 --> 00:00:26.008
+First, there's user experience, UX for short.
+
+10
+00:00:26.008 --> 00:00:29.004
+No matter what type of application you're building,
+
+11
+00:00:29.004 --> 00:00:32.002
+a website, mobile app, or an accounting system,
+
+12
+00:00:32.002 --> 00:00:35.004
+you're going to need a feature rich front end.
+
+13
+00:00:35.004 --> 00:00:37.006
+If you don't build it with UX in mind,
+
+14
+00:00:37.006 --> 00:00:40.007
+you may produce an application your users won't want to use.
+
+15
+00:00:40.007 --> 00:00:44.008
+Next, comes the fact that no application stands alone.
+
+16
+00:00:44.008 --> 00:00:47.005
+Address issues related to
+
+17
+00:00:47.005 --> 00:00:50.003
+existing legacy systems and infrastructure.
+
+18
+00:00:50.003 --> 00:00:51.007
+Maybe the app you're building
+
+19
+00:00:51.007 --> 00:00:53.003
+is replacing a legacy system
+
+20
+00:00:53.003 --> 00:00:55.004
+or perhaps it's just integrating
+
+21
+00:00:55.004 --> 00:00:57.005
+with these existing apps.
+
+22
+00:00:57.005 --> 00:00:59.003
+Either way, you may face barriers
+
+23
+00:00:59.003 --> 00:01:02.007
+to your new application because of these entrenched areas.
+
+24
+00:01:02.007 --> 00:01:06.005
+Another challenge unique to new build appplications
+
+25
+00:01:06.005 --> 00:01:08.003
+is building it for the future.
+
+26
+00:01:08.003 --> 00:01:11.009
+I don't mean that your application needs to be futuristic,
+
+27
+00:01:11.009 --> 00:01:14.008
+but it does need to be built for scalability.
+
+28
+00:01:14.008 --> 00:01:17.006
+Your application will grow and be modified
+
+29
+00:01:17.006 --> 00:01:21.009
+over time in a way that enhances its usefulness.
+
+30
+00:01:21.009 --> 00:01:24.009
+Finally, along the lines of scalability,
+
+31
+00:01:24.009 --> 00:01:28.006
+is developing your application for maintenance and support.
+
+32
+00:01:28.006 --> 00:01:31.003
+Your team needs to release an application
+
+33
+00:01:31.003 --> 00:01:34.008
+that both users and support teams love.
+
+34
+00:01:34.008 --> 00:01:36.009
+There's a special balance your team
+
+35
+00:01:36.009 --> 00:01:41.000
+has to use to make sure both sides are being heard
+
+36
+00:01:41.000 --> 00:01:42.006
+as the design progresses.
+
+37
+00:01:42.006 --> 00:01:45.005
+While on the surface it seems that building something
+
+38
+00:01:45.005 --> 00:01:49.006
+from scratch is easy, it's far more difficult than that.
+
+39
+00:01:49.006 --> 00:01:52.007
+As you tackle your new build software project,
+
+40
+00:01:52.007 --> 00:01:54.009
+keep these challenges in mind
+
+41
+00:01:54.009 --> 00:01:56.005
+so you can prepare for them.
+
+42
+00:01:56.005 --> 00:02:02.000
+When you do, you'll deliver a new app everyone will love.
+

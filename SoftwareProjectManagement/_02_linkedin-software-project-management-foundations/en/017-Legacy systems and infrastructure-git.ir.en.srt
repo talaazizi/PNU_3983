@@ -1,0 +1,204 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:03.005
+- Your new application won't be launched
+
+2
+00:00:03.005 --> 00:00:05.002
+into a world of its own.
+
+3
+00:00:05.002 --> 00:00:07.004
+What I mean is that your new software
+
+4
+00:00:07.004 --> 00:00:10.004
+will move into an existing ecosystem.
+
+5
+00:00:10.004 --> 00:00:12.009
+This poses a challenge to your project.
+
+6
+00:00:12.009 --> 00:00:15.003
+You must take into account the current
+
+7
+00:00:15.003 --> 00:00:18.005
+technology infrastructure and tackle integrations
+
+8
+00:00:18.005 --> 00:00:21.003
+with legacy or existing systems.
+
+9
+00:00:21.003 --> 00:00:23.008
+There's one popular mechanism your team
+
+10
+00:00:23.008 --> 00:00:25.009
+can use to take on this challenge.
+
+11
+00:00:25.009 --> 00:00:27.005
+It's called DevOps.
+
+12
+00:00:27.005 --> 00:00:29.009
+DevOps has been around for a while,
+
+13
+00:00:29.009 --> 00:00:33.003
+and it came from lean and agile approaches to working.
+
+14
+00:00:33.003 --> 00:00:36.000
+Currently, DevOps focuses on the collaboration
+
+15
+00:00:36.000 --> 00:00:40.009
+of development teams, Dev, and operations teams, Ops.
+
+16
+00:00:40.009 --> 00:00:43.004
+The goal is for collaboration on both sides
+
+17
+00:00:43.004 --> 00:00:46.008
+of the system, original development teams working with
+
+18
+00:00:46.008 --> 00:00:49.007
+the operations or maintenance and support teams.
+
+19
+00:00:49.007 --> 00:00:53.002
+This teamwork creates fantastic products
+
+20
+00:00:53.002 --> 00:00:57.008
+because development takes into account post go-live support.
+
+21
+00:00:57.008 --> 00:01:01.006
+You'll build a more robust product simply because
+
+22
+00:01:01.006 --> 00:01:06.000
+the product is designed to work well with legacy systems.
+
+23
+00:01:06.000 --> 00:01:09.006
+Further, the application is designed to perform
+
+24
+00:01:09.006 --> 00:01:13.000
+throughout its normal application lifetime.
+
+25
+00:01:13.000 --> 00:01:14.009
+So how do you do that?
+
+26
+00:01:14.009 --> 00:01:16.007
+Well, keeping your team grounded
+
+27
+00:01:16.007 --> 00:01:20.005
+in an agile mindset of learning, experimentation,
+
+28
+00:01:20.005 --> 00:01:24.000
+and collaboration is a great place to start.
+
+29
+00:01:24.000 --> 00:01:26.009
+From there, explore DevOps practices
+
+30
+00:01:26.009 --> 00:01:28.007
+and use all the approaches you can
+
+31
+00:01:28.007 --> 00:01:32.002
+to ensure the integrity of your app.
+
+32
+00:01:32.002 --> 00:01:35.004
+A great example of a DevOps practice is to use
+
+33
+00:01:35.004 --> 00:01:39.003
+continuous integration where code from all your developers
+
+34
+00:01:39.003 --> 00:01:42.008
+is integrated together at least once a day.
+
+35
+00:01:42.008 --> 00:01:46.001
+This makes sure coding errors don't break the build,
+
+36
+00:01:46.001 --> 00:01:49.008
+and if they do, the team knows which code it is
+
+37
+00:01:49.008 --> 00:01:52.005
+so they can fix it quickly.
+
+38
+00:01:52.005 --> 00:01:55.002
+Automation is another hallmark of DevOps
+
+39
+00:01:55.002 --> 00:01:57.006
+and is particularly helpful.
+
+40
+00:01:57.006 --> 00:02:00.006
+You can automate your build and your testing.
+
+41
+00:02:00.006 --> 00:02:04.001
+When you automate your testing, it's easier to validate
+
+42
+00:02:04.001 --> 00:02:07.005
+your integrations with legacy systems.
+
+43
+00:02:07.005 --> 00:02:11.006
+A third DevOps practice is to automate your provisioning.
+
+44
+00:02:11.006 --> 00:02:13.007
+When your development team needs to establish
+
+45
+00:02:13.007 --> 00:02:16.006
+a new environment, perhaps for user testing,
+
+46
+00:02:16.006 --> 00:02:21.002
+it can do so with minimal support from the operations teams.
+
+47
+00:02:21.002 --> 00:02:24.005
+Deploying a new app into an existing ecosystem
+
+48
+00:02:24.005 --> 00:02:27.006
+presents its own set of challenges.
+
+49
+00:02:27.006 --> 00:02:30.001
+Using DevOps practices can help you
+
+50
+00:02:30.001 --> 00:02:33.000
+and your team do it gracefully.
+

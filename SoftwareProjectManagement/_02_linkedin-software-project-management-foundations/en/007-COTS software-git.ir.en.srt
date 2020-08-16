@@ -1,0 +1,308 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:04.000
+- Many companies and government organizations
+
+2
+00:00:04.000 --> 00:00:06.004
+prefer to solve their business problems
+
+3
+00:00:06.004 --> 00:00:09.002
+using commercially available software.
+
+4
+00:00:09.002 --> 00:00:11.004
+The logic is pretty straightforward.
+
+5
+00:00:11.004 --> 00:00:16.000
+It's much more economical to buy software than to build it.
+
+6
+00:00:16.000 --> 00:00:18.002
+There are six steps to implementing
+
+7
+00:00:18.002 --> 00:00:22.000
+a commercial off-the-shelf or COTS application.
+
+8
+00:00:22.000 --> 00:00:24.003
+Let's use an example to explore further.
+
+9
+00:00:24.003 --> 00:00:25.007
+Say we're on a project
+
+10
+00:00:25.007 --> 00:00:29.001
+to find the perfect customer relationship management
+
+11
+00:00:29.001 --> 00:00:32.005
+or CRM system for our company.
+
+12
+00:00:32.005 --> 00:00:34.005
+What steps would we take?
+
+13
+00:00:34.005 --> 00:00:37.006
+Well the first step is understanding the requirements
+
+14
+00:00:37.006 --> 00:00:39.005
+of the software you're shopping for.
+
+15
+00:00:39.005 --> 00:00:42.006
+In this step we'd start by working with our users.
+
+16
+00:00:42.006 --> 00:00:43.008
+We'll need to understand
+
+17
+00:00:43.008 --> 00:00:46.001
+what functions they need to perform.
+
+18
+00:00:46.001 --> 00:00:49.005
+For example, the sales team may need to maintain
+
+19
+00:00:49.005 --> 00:00:51.008
+customer contact information
+
+20
+00:00:51.008 --> 00:00:55.007
+and a workflow that matches the sales cycle.
+
+21
+00:00:55.007 --> 00:00:57.006
+Requirements for customer support
+
+22
+00:00:57.006 --> 00:00:59.009
+and the IT teams will be different.
+
+23
+00:00:59.009 --> 00:01:02.003
+So identify all the potential users
+
+24
+00:01:02.003 --> 00:01:05.002
+and capture everyone's needs.
+
+25
+00:01:05.002 --> 00:01:09.004
+The second step is to evaluate and select a product.
+
+26
+00:01:09.004 --> 00:01:11.008
+In our case we'll start researching
+
+27
+00:01:11.008 --> 00:01:14.008
+potential vendors in the CRM space.
+
+28
+00:01:14.008 --> 00:01:18.003
+Usually in a COTS project the users think they know
+
+29
+00:01:18.003 --> 00:01:19.008
+which vendor they want.
+
+30
+00:01:19.008 --> 00:01:22.002
+At the same time it's a great idea
+
+31
+00:01:22.002 --> 00:01:24.008
+to host a competitive bid process
+
+32
+00:01:24.008 --> 00:01:28.002
+where we select several vendors, share our requirements,
+
+33
+00:01:28.002 --> 00:01:32.004
+and ask them to submit a proposal for our review.
+
+34
+00:01:32.004 --> 00:01:34.008
+The third step is to finalize terms
+
+35
+00:01:34.008 --> 00:01:36.003
+with your selected vendor.
+
+36
+00:01:36.003 --> 00:01:37.008
+This will include interaction
+
+37
+00:01:37.008 --> 00:01:40.002
+with your legal and procurement teams.
+
+38
+00:01:40.002 --> 00:01:42.009
+Let them know in advance that a purchase is coming
+
+39
+00:01:42.009 --> 00:01:44.006
+and provide them insight
+
+40
+00:01:44.006 --> 00:01:47.008
+into when their assistance will be needed.
+
+41
+00:01:47.008 --> 00:01:51.008
+The fourth step is to implement the solution we've selected.
+
+42
+00:01:51.008 --> 00:01:54.008
+In my experience the vendor that's selected
+
+43
+00:01:54.008 --> 00:01:56.006
+will do most of the work.
+
+44
+00:01:56.006 --> 00:01:59.005
+However, it's essential that you and your team
+
+45
+00:01:59.005 --> 00:02:01.007
+are partnered closely with them.
+
+46
+00:02:01.007 --> 00:02:03.004
+For COTS applications
+
+47
+00:02:03.004 --> 00:02:06.002
+there are significant configurations to be made
+
+48
+00:02:06.002 --> 00:02:09.005
+so the solution works the way your users need it to.
+
+49
+00:02:09.005 --> 00:02:12.007
+And don't forget to account for data migration
+
+50
+00:02:12.007 --> 00:02:15.007
+if you're moving from one system to another.
+
+51
+00:02:15.007 --> 00:02:19.000
+Keep in mind any integrations that need to happen.
+
+52
+00:02:19.000 --> 00:02:23.003
+For our CRM system perhaps we want to include an integration
+
+53
+00:02:23.003 --> 00:02:25.001
+with the inventory system
+
+54
+00:02:25.001 --> 00:02:27.001
+so when our customer buys something
+
+55
+00:02:27.001 --> 00:02:29.007
+the inventory counts are updated.
+
+56
+00:02:29.007 --> 00:02:32.000
+Finally, in a COTS implementation
+
+57
+00:02:32.000 --> 00:02:34.007
+you'll need a lot of of system validation.
+
+58
+00:02:34.007 --> 00:02:37.001
+Be sure your project team, user base,
+
+59
+00:02:37.001 --> 00:02:39.009
+and technical experts are ready to validate
+
+60
+00:02:39.009 --> 00:02:42.009
+that everything is working as needed.
+
+61
+00:02:42.009 --> 00:02:46.006
+The fifth step is maintenance and upgrade of the solution.
+
+62
+00:02:46.006 --> 00:02:49.007
+While this probably won't happen during your project,
+
+63
+00:02:49.007 --> 00:02:52.001
+as the project itself closes down,
+
+64
+00:02:52.001 --> 00:02:55.001
+make sure the IT infrastructure and support teams
+
+65
+00:02:55.001 --> 00:02:59.001
+are ready to take this on when your project wraps up.
+
+66
+00:02:59.001 --> 00:03:01.008
+Include these teams well before going live
+
+67
+00:03:01.008 --> 00:03:04.009
+to ensure support is available.
+
+68
+00:03:04.009 --> 00:03:06.006
+The sixth and last step
+
+69
+00:03:06.006 --> 00:03:10.000
+is to maintain licenses and subscription fees.
+
+70
+00:03:10.000 --> 00:03:13.002
+Again this will be outside the control of the project,
+
+71
+00:03:13.002 --> 00:03:14.008
+but it's your responsibility
+
+72
+00:03:14.008 --> 00:03:17.005
+to make sure the area paying for the software
+
+73
+00:03:17.005 --> 00:03:20.009
+has this accounted for in their annual budgets.
+
+74
+00:03:20.009 --> 00:03:24.002
+While there aren't many steps to a COTS implementation
+
+75
+00:03:24.002 --> 00:03:26.005
+there are several items to consider.
+
+76
+00:03:26.005 --> 00:03:32.000
+When you do your COTS implementation will be a huge success.
+
