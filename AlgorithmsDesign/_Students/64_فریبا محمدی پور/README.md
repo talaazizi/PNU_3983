@@ -1,2 +1,2 @@
-+ [فریبا محمدی پور]( https://fmohammadipour.github.io/)  
-  - [@fmohammadipour]()	  - [@fmohammadipour](https://github.com/fmohammadipour)
++ [فریبا محمدی پور]( https://fmohammadipour.github.io/)
+  - [@fmohammadipour](https://github.com/fmohammadipour)
