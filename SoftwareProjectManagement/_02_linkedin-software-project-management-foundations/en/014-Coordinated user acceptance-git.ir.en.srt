@@ -1,0 +1,260 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:05.002
+- You've done a great job at listening to your stakeholders.
+
+2
+00:00:05.002 --> 00:00:07.001
+You know what they need and why.
+
+3
+00:00:07.001 --> 00:00:10.000
+And your teams been at working building
+
+4
+00:00:10.000 --> 00:00:11.004
+what they've asked for.
+
+5
+00:00:11.004 --> 00:00:13.000
+But is that enough?
+
+6
+00:00:13.000 --> 00:00:15.001
+In my experience it's not.
+
+7
+00:00:15.001 --> 00:00:18.004
+You need to verify that what your stakeholders have
+
+8
+00:00:18.004 --> 00:00:21.009
+asked for truly matches what's being delivered.
+
+9
+00:00:21.009 --> 00:00:25.003
+In Agile frameworks, user acceptance is handled
+
+10
+00:00:25.003 --> 00:00:28.003
+in the form of demos at the end of each sprint.
+
+11
+00:00:28.003 --> 00:00:30.002
+That's a great first step,
+
+12
+00:00:30.002 --> 00:00:33.000
+but I believe more needs to happen.
+
+13
+00:00:33.000 --> 00:00:36.001
+Demonstrating software to the people who use it
+
+14
+00:00:36.001 --> 00:00:39.007
+is a one dimensional review of what you've built.
+
+15
+00:00:39.007 --> 00:00:43.004
+Adding in additional hands on access will deepen
+
+16
+00:00:43.004 --> 00:00:46.002
+users' understanding of what's built
+
+17
+00:00:46.002 --> 00:00:49.003
+and reveal issues that a demo can't.
+
+18
+00:00:49.003 --> 00:00:51.007
+So, how do you do this?
+
+19
+00:00:51.007 --> 00:00:54.001
+Well first off, make sure you've created
+
+20
+00:00:54.001 --> 00:00:56.008
+a test environment where users can access
+
+21
+00:00:56.008 --> 00:01:00.004
+what's been developed throughout the life of the project.
+
+22
+00:01:00.004 --> 00:01:02.006
+Work with the stakeholder groups you've mapped
+
+23
+00:01:02.006 --> 00:01:05.007
+and schedule their resources for testing.
+
+24
+00:01:05.007 --> 00:01:09.002
+Ideally, everyone should do coordinated testing
+
+25
+00:01:09.002 --> 00:01:11.000
+at the same time.
+
+26
+00:01:11.000 --> 00:01:12.009
+This is the only way to see
+
+27
+00:01:12.009 --> 00:01:14.009
+how your enhancements hold up
+
+28
+00:01:14.009 --> 00:01:17.007
+in something like the real world.
+
+29
+00:01:17.007 --> 00:01:20.003
+You'll want them all to have hands on access
+
+30
+00:01:20.003 --> 00:01:23.008
+to your development at least once a month.
+
+31
+00:01:23.008 --> 00:01:25.006
+I know this sounds like a lot
+
+32
+00:01:25.006 --> 00:01:28.006
+but the early errors are found the better.
+
+33
+00:01:28.006 --> 00:01:31.006
+It costs less to make changes earlier
+
+34
+00:01:31.006 --> 00:01:35.005
+and consistently throughout the life of the project.
+
+35
+00:01:35.005 --> 00:01:37.000
+You'll work with your stakeholders
+
+36
+00:01:37.000 --> 00:01:39.008
+to define the tests they'll perform.
+
+37
+00:01:39.008 --> 00:01:42.004
+This doesn't need to be a formal exercise
+
+38
+00:01:42.004 --> 00:01:44.003
+in building test cases.
+
+39
+00:01:44.003 --> 00:01:47.002
+It can be as simple as having them select
+
+40
+00:01:47.002 --> 00:01:50.008
+their normal, abnormal and unusual work scenarios
+
+41
+00:01:50.008 --> 00:01:52.002
+from their area.
+
+42
+00:01:52.002 --> 00:01:55.003
+With these samples, they can execute their work
+
+43
+00:01:55.003 --> 00:01:57.002
+in the new environment and see
+
+44
+00:01:57.002 --> 00:02:00.009
+how the enhanced system handles them.
+
+45
+00:02:00.009 --> 00:02:03.009
+Before you give users access to the system,
+
+46
+00:02:03.009 --> 00:02:06.005
+create a plan for their feedback.
+
+47
+00:02:06.005 --> 00:02:08.009
+There are a couple of ways to do this.
+
+48
+00:02:08.009 --> 00:02:11.009
+To be formal, you could develop a spreadsheet
+
+49
+00:02:11.009 --> 00:02:13.007
+or use a testing tool.
+
+50
+00:02:13.007 --> 00:02:17.004
+You can also be less formal by interviewing the users
+
+51
+00:02:17.004 --> 00:02:19.007
+when they complete their testing.
+
+52
+00:02:19.007 --> 00:02:21.007
+No matter which path you choose
+
+53
+00:02:21.007 --> 00:02:24.002
+make sure you know how their experience went
+
+54
+00:02:24.002 --> 00:02:28.003
+and whether and defects or new requirements have been found.
+
+55
+00:02:28.003 --> 00:02:32.007
+Finally, define an approach for change management.
+
+56
+00:02:32.007 --> 00:02:35.008
+This means knowing the process to tackle defects
+
+57
+00:02:35.008 --> 00:02:38.000
+and changes when identified.
+
+58
+00:02:38.000 --> 00:02:41.001
+In most cases, these are added to the backlog
+
+59
+00:02:41.001 --> 00:02:43.008
+and prioritized just like other work.
+
+60
+00:02:43.008 --> 00:02:46.000
+When you coordinate your user testing
+
+61
+00:02:46.000 --> 00:02:48.000
+throughout the life of your project,
+
+62
+00:02:48.000 --> 00:02:51.003
+you're ensuring users are getting what they need
+
+63
+00:02:51.003 --> 00:02:53.004
+and you're also making sure
+
+64
+00:02:53.004 --> 00:02:57.000
+your enhancement project will be successful.
+

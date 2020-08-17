@@ -1,0 +1,264 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:04.001
+- When you're enhancing an existing application,
+
+2
+00:00:04.001 --> 00:00:06.003
+you have to be very careful to ensure
+
+3
+00:00:06.003 --> 00:00:08.009
+that all your customers or stakeholders
+
+4
+00:00:08.009 --> 00:00:11.009
+are identified and engaged in your efforts.
+
+5
+00:00:11.009 --> 00:00:15.002
+By doing this, you'll make sure your enhancements
+
+6
+00:00:15.002 --> 00:00:17.007
+don't alienate your users.
+
+7
+00:00:17.007 --> 00:00:20.001
+One of the biggest mistakes that can be made
+
+8
+00:00:20.001 --> 00:00:24.005
+is by only identifying direct users of your system.
+
+9
+00:00:24.005 --> 00:00:27.009
+Sounds strange, but let's explore this idea.
+
+10
+00:00:27.009 --> 00:00:30.007
+If we're enhancing an existing application,
+
+11
+00:00:30.007 --> 00:00:34.004
+say, a website, of course the people who use the site
+
+12
+00:00:34.004 --> 00:00:38.000
+need to be considered, but are they the only ones?
+
+13
+00:00:38.000 --> 00:00:40.000
+No, of course not.
+
+14
+00:00:40.000 --> 00:00:41.008
+Think about all the other people
+
+15
+00:00:41.008 --> 00:00:44.002
+who indirectly use the website.
+
+16
+00:00:44.002 --> 00:00:48.004
+For example, imagine we need to upgrade a bank's website.
+
+17
+00:00:48.004 --> 00:00:52.001
+Now think about all the people besides your customers
+
+18
+00:00:52.001 --> 00:00:55.001
+who rely on the website in some way.
+
+19
+00:00:55.001 --> 00:00:57.003
+Perhaps there's a marketing department
+
+20
+00:00:57.003 --> 00:01:00.000
+that uses the site to post about new products,
+
+21
+00:01:00.000 --> 00:01:02.005
+or it pulls statistics from the site
+
+22
+00:01:02.005 --> 00:01:05.009
+to see what customers use most frequently.
+
+23
+00:01:05.009 --> 00:01:08.004
+What about a customer accounting department
+
+24
+00:01:08.004 --> 00:01:12.005
+that relies on site transactions to keep balances updated?
+
+25
+00:01:12.005 --> 00:01:13.007
+You get the idea.
+
+26
+00:01:13.007 --> 00:01:15.007
+There are many stakeholders to consider
+
+27
+00:01:15.007 --> 00:01:17.004
+when making enhancements.
+
+28
+00:01:17.004 --> 00:01:20.001
+So what do you do about it?
+
+29
+00:01:20.001 --> 00:01:23.001
+I always use the process of stakeholder mapping
+
+30
+00:01:23.001 --> 00:01:27.007
+to guide me as I engage my stakeholders, learn from them,
+
+31
+00:01:27.007 --> 00:01:31.001
+and keep them up to date on progress.
+
+32
+00:01:31.001 --> 00:01:33.005
+It sounds mysterious, but stakeholder mapping
+
+33
+00:01:33.005 --> 00:01:35.005
+is actually pretty easy to do.
+
+34
+00:01:35.005 --> 00:01:37.004
+Here's how.
+
+35
+00:01:37.004 --> 00:01:39.007
+Start by identifying your stakeholders
+
+36
+00:01:39.007 --> 00:01:42.009
+by making a list of everyone you can think of.
+
+37
+00:01:42.009 --> 00:01:47.002
+No filters, just brainstorm to generate a list.
+
+38
+00:01:47.002 --> 00:01:48.007
+Once you have a list,
+
+39
+00:01:48.007 --> 00:01:51.004
+you need to prioritize your stakeholders.
+
+40
+00:01:51.004 --> 00:01:53.004
+No, that doesn't mean that some
+
+41
+00:01:53.004 --> 00:01:55.002
+are more important than others.
+
+42
+00:01:55.002 --> 00:01:58.006
+It simply means that you're analyzing to determine
+
+43
+00:01:58.006 --> 00:02:02.000
+which ones have the most influence over your project
+
+44
+00:02:02.000 --> 00:02:05.001
+and have the most interest.
+
+45
+00:02:05.001 --> 00:02:08.008
+Now you'll map them onto a grid like this one.
+
+46
+00:02:08.008 --> 00:02:09.009
+In my experience,
+
+47
+00:02:09.009 --> 00:02:12.009
+I use categories of users for this exercise.
+
+48
+00:02:12.009 --> 00:02:16.001
+So I'd map the marketing department as a whole
+
+49
+00:02:16.001 --> 00:02:20.000
+even though I have a single point of contact for the group.
+
+50
+00:02:20.000 --> 00:02:22.002
+Next, you'll meet with your stakeholders
+
+51
+00:02:22.002 --> 00:02:25.000
+to understand what they want, need,
+
+52
+00:02:25.000 --> 00:02:28.005
+don't want, and fear from your project.
+
+53
+00:02:28.005 --> 00:02:31.008
+This valuable insight keeps everyone aligned
+
+54
+00:02:31.008 --> 00:02:34.001
+throughout the project.
+
+55
+00:02:34.001 --> 00:02:38.000
+Finally, you'll decide how to engage with each quadrant.
+
+56
+00:02:38.000 --> 00:02:39.006
+Those in the upper-right quadrant
+
+57
+00:02:39.006 --> 00:02:42.007
+will need the most communication and engagement.
+
+58
+00:02:42.007 --> 00:02:44.005
+Those in the upper-left quadrant
+
+59
+00:02:44.005 --> 00:02:48.002
+will need high engagement but not so intensely.
+
+60
+00:02:48.002 --> 00:02:50.007
+As you move to the bottom half of the grid,
+
+61
+00:02:50.007 --> 00:02:53.004
+keep stakeholders informed of what you're doing
+
+62
+00:02:53.004 --> 00:02:55.007
+and how things are going.
+
+63
+00:02:55.007 --> 00:02:58.006
+As you start your software enhancement project,
+
+64
+00:02:58.006 --> 00:03:00.008
+be sure to map your stakeholders
+
+65
+00:03:00.008 --> 00:03:04.000
+so you don't leave anyone behind.
+

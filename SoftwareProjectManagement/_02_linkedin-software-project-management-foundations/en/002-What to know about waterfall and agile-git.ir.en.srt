@@ -1,0 +1,248 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:02.005
+- In the project world,
+
+2
+00:00:02.005 --> 00:00:04.007
+there's two competing frameworks.
+
+3
+00:00:04.007 --> 00:00:06.008
+Waterfall and Agile.
+
+4
+00:00:06.008 --> 00:00:08.004
+Depending on where you work,
+
+5
+00:00:08.004 --> 00:00:10.006
+you may execute your software project
+
+6
+00:00:10.006 --> 00:00:13.004
+using an Agile or Waterfall framework.
+
+7
+00:00:13.004 --> 00:00:15.008
+Let's take a quick look at both of these
+
+8
+00:00:15.008 --> 00:00:18.006
+so we have some foundational context.
+
+9
+00:00:18.006 --> 00:00:20.003
+Let's start with Waterfall.
+
+10
+00:00:20.003 --> 00:00:23.008
+Waterfall is often called traditional project management,
+
+11
+00:00:23.008 --> 00:00:26.009
+and we'll use these two terms interchangeably.
+
+12
+00:00:26.009 --> 00:00:31.001
+In simple terms, Waterfall is a series of sequential steps
+
+13
+00:00:31.001 --> 00:00:34.005
+the project manager leads the team through.
+
+14
+00:00:34.005 --> 00:00:38.001
+Based on your organization, the terms may be different,
+
+15
+00:00:38.001 --> 00:00:40.009
+but generally speaking, the linear steps
+
+16
+00:00:40.009 --> 00:00:44.009
+and sub processes are initiating, planning,
+
+17
+00:00:44.009 --> 00:00:49.003
+executing, monitoring and controlling, and closing.
+
+18
+00:00:49.003 --> 00:00:52.002
+Each of these linear steps must fully complete
+
+19
+00:00:52.002 --> 00:00:56.005
+before you and the team can move on to the next step.
+
+20
+00:00:56.005 --> 00:00:58.004
+This is a pretty rigid framework,
+
+21
+00:00:58.004 --> 00:01:01.007
+so anything that's missed in one of the sub processes
+
+22
+00:01:01.007 --> 00:01:03.009
+can throw a wrench in the works.
+
+23
+00:01:03.009 --> 00:01:07.000
+Common factors and software development projects
+
+24
+00:01:07.000 --> 00:01:10.001
+that can throw things off are late requirements,
+
+25
+00:01:10.001 --> 00:01:14.004
+increased scope, and gaps in the development tool set.
+
+26
+00:01:14.004 --> 00:01:16.006
+These typically force the project manager
+
+27
+00:01:16.006 --> 00:01:18.007
+to complete change request forms
+
+28
+00:01:18.007 --> 00:01:22.004
+to update the documentation from past phases.
+
+29
+00:01:22.004 --> 00:01:24.000
+Let's move on to Agile.
+
+30
+00:01:24.000 --> 00:01:27.006
+Remember that Agile is a family of frameworks.
+
+31
+00:01:27.006 --> 00:01:30.005
+With Agile, since it's a family of frameworks,
+
+32
+00:01:30.005 --> 00:01:33.003
+you and your organization may choose scrum,
+
+33
+00:01:33.003 --> 00:01:34.007
+extreme programming,
+
+34
+00:01:34.007 --> 00:01:37.006
+or some other Agile framework for your project.
+
+35
+00:01:37.006 --> 00:01:39.004
+For the sake of simplicity,
+
+36
+00:01:39.004 --> 00:01:42.000
+we'll use scrum as our Agile model
+
+37
+00:01:42.000 --> 00:01:46.001
+since it's the most common Agile framework in use.
+
+38
+00:01:46.001 --> 00:01:49.003
+In Agile, project processes are the same,
+
+39
+00:01:49.003 --> 00:01:51.001
+but they're handled differently.
+
+40
+00:01:51.001 --> 00:01:54.000
+Projects still have to initiate, plan,
+
+41
+00:01:54.000 --> 00:01:56.005
+execute, monitor, and close,
+
+42
+00:01:56.005 --> 00:01:59.004
+but the approach is more flexible.
+
+43
+00:01:59.004 --> 00:02:03.001
+What we see most often is that the initiation of a project
+
+44
+00:02:03.001 --> 00:02:06.003
+is a quick step, lasting only a week or two
+
+45
+00:02:06.003 --> 00:02:08.001
+to understand the project objective
+
+46
+00:02:08.001 --> 00:02:10.002
+and pull the team together.
+
+47
+00:02:10.002 --> 00:02:14.005
+From there, the project sub processes aren't linear.
+
+48
+00:02:14.005 --> 00:02:17.003
+They're repeating on a cyclical fashion
+
+49
+00:02:17.003 --> 00:02:19.006
+through the life of the project.
+
+50
+00:02:19.006 --> 00:02:22.001
+In scrum, two week sprints are used
+
+51
+00:02:22.001 --> 00:02:25.002
+to keep the sub processes moving forward quickly.
+
+52
+00:02:25.002 --> 00:02:28.008
+In a nutshell, the team plans, designs,
+
+53
+00:02:28.008 --> 00:02:32.008
+builds, and tests within the confines of the sprint.
+
+54
+00:02:32.008 --> 00:02:34.008
+The goal is to learn quickly
+
+55
+00:02:34.008 --> 00:02:38.004
+and produce working software every two weeks.
+
+56
+00:02:38.004 --> 00:02:41.006
+For a deep examination of Waterfall and Agile,
+
+57
+00:02:41.006 --> 00:02:45.002
+check out my course on how to transition from Waterfall
+
+58
+00:02:45.002 --> 00:02:47.007
+to Agile project management.
+
+59
+00:02:47.007 --> 00:02:50.006
+For now, it's most important to remember
+
+60
+00:02:50.006 --> 00:02:53.001
+that no matter which framework you're using,
+
+61
+00:02:53.001 --> 00:02:57.000
+software projects will need all of your skills to succeed.
+

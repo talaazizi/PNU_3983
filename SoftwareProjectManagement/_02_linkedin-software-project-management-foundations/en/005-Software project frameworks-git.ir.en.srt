@@ -1,0 +1,208 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00.005 --> 00:00:04.001
+- There are two dominant categories of project frameworks
+
+2
+00:00:04.001 --> 00:00:05.009
+that your company can use.
+
+3
+00:00:05.009 --> 00:00:08.007
+Broadly speaking, the categories I'll use
+
+4
+00:00:08.007 --> 00:00:11.007
+are highly structured and highly flexible.
+
+5
+00:00:11.007 --> 00:00:15.008
+All frameworks in each category are valid options.
+
+6
+00:00:15.008 --> 00:00:18.000
+At the same time, it's important to know
+
+7
+00:00:18.000 --> 00:00:22.005
+the limitations of each category so you can choose wisely.
+
+8
+00:00:22.005 --> 00:00:26.001
+First, lets talk about the highly structured frameworks.
+
+9
+00:00:26.001 --> 00:00:29.005
+In this category, our frameworks such as PRINCE2
+
+10
+00:00:29.005 --> 00:00:33.004
+and the Waterfall model, both of these are very common
+
+11
+00:00:33.004 --> 00:00:38.003
+and emphasize dividing projects into pieces or phases
+
+12
+00:00:38.003 --> 00:00:40.005
+that can be estimated at the beginning
+
+13
+00:00:40.005 --> 00:00:44.000
+and controlled throughout the life of the project.
+
+14
+00:00:44.000 --> 00:00:45.008
+If your project is well-defined,
+
+15
+00:00:45.008 --> 00:00:50.001
+and implemented in an environment that rarely changes,
+
+16
+00:00:50.001 --> 00:00:51.006
+the highly structured approach
+
+17
+00:00:51.006 --> 00:00:53.007
+may be a good fit for your work.
+
+18
+00:00:53.007 --> 00:00:56.001
+The challenge for these frameworks
+
+19
+00:00:56.001 --> 00:00:59.001
+with emphasis on structure and control,
+
+20
+00:00:59.001 --> 00:01:01.005
+is that they tend to be inflexible
+
+21
+00:01:01.005 --> 00:01:04.001
+when late requirements are discovered.
+
+22
+00:01:04.001 --> 00:01:08.001
+What this means is that creating change control forms
+
+23
+00:01:08.001 --> 00:01:10.003
+and updating design and scope documents
+
+24
+00:01:10.003 --> 00:01:15.000
+can actually have a negative impact on the project timeline.
+
+25
+00:01:15.000 --> 00:01:18.008
+On the flip side are the highly flexible frameworks.
+
+26
+00:01:18.008 --> 00:01:23.008
+Two examples here are in the agile family, Scrum and Kanban.
+
+27
+00:01:23.008 --> 00:01:27.002
+These frameworks are designed for complex projects
+
+28
+00:01:27.002 --> 00:01:31.001
+happening in fast changing environments.
+
+29
+00:01:31.001 --> 00:01:32.009
+Their emphasis is on planning,
+
+30
+00:01:32.009 --> 00:01:35.002
+just as much as needed.
+
+31
+00:01:35.002 --> 00:01:38.000
+Requirements are constantly evolving
+
+32
+00:01:38.000 --> 00:01:40.004
+and the frameworks allow the flexibility
+
+33
+00:01:40.004 --> 00:01:43.009
+to absorb these unknowns when they come up.
+
+34
+00:01:43.009 --> 00:01:46.009
+Further, software projects are all about
+
+35
+00:01:46.009 --> 00:01:49.007
+building an intangible product.
+
+36
+00:01:49.007 --> 00:01:53.004
+Because it's intangible, it's highly likely
+
+37
+00:01:53.004 --> 00:01:55.005
+that your requirements will change
+
+38
+00:01:55.005 --> 00:02:00.004
+as the team and customers discover additional needs.
+
+39
+00:02:00.004 --> 00:02:02.009
+If your project is clearly defined
+
+40
+00:02:02.009 --> 00:02:05.009
+with a low likelihood of hidden requirements,
+
+41
+00:02:05.009 --> 00:02:08.008
+you can easily choose a highly structured
+
+42
+00:02:08.008 --> 00:02:11.000
+framework and be just fine.
+
+43
+00:02:11.000 --> 00:02:14.002
+On the other hand, if you're building something
+
+44
+00:02:14.002 --> 00:02:15.007
+with high levels of complexity
+
+45
+00:02:15.007 --> 00:02:18.002
+and potential for unknowns to crop up,
+
+46
+00:02:18.002 --> 00:02:20.004
+the highly flexible frameworks could
+
+47
+00:02:20.004 --> 00:02:22.006
+very well be a better choice.
+
+48
+00:02:22.006 --> 00:02:24.002
+Whatever you choose,
+
+49
+00:02:24.002 --> 00:02:26.006
+having this information available
+
+50
+00:02:26.006 --> 00:02:28.008
+to support your informed decision
+
+51
+00:02:28.008 --> 00:02:33.000
+will be critical for your project success.
+

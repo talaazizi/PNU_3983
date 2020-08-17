@@ -1,0 +1,280 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:05.009
+- A project is a project is a project, right?
+
+2
+00:00:05.009 --> 00:00:08.002
+Well, actually, no.
+
+3
+00:00:08.002 --> 00:00:11.003
+Software development projects are different.
+
+4
+00:00:11.003 --> 00:00:13.002
+They tend to be more complex
+
+5
+00:00:13.002 --> 00:00:15.005
+with additional moving parts when compared
+
+6
+00:00:15.005 --> 00:00:18.001
+to your garden variety project.
+
+7
+00:00:18.001 --> 00:00:21.003
+We already know that software development has its own
+
+8
+00:00:21.003 --> 00:00:24.008
+software development lifecycle we need to look out for.
+
+9
+00:00:24.008 --> 00:00:27.006
+That by itself adds complexity,
+
+10
+00:00:27.006 --> 00:00:30.001
+but that's not our only constraint,
+
+11
+00:00:30.001 --> 00:00:32.006
+so let's take a look at what contributes
+
+12
+00:00:32.006 --> 00:00:34.004
+to the additional complexity
+
+13
+00:00:34.004 --> 00:00:37.000
+of software development projects.
+
+14
+00:00:37.000 --> 00:00:39.007
+First, there are many different
+
+15
+00:00:39.007 --> 00:00:42.008
+software design patterns a team can use.
+
+16
+00:00:42.008 --> 00:00:45.005
+These patterns are repeatable ways
+
+17
+00:00:45.005 --> 00:00:48.006
+to solve common software design problems.
+
+18
+00:00:48.006 --> 00:00:51.008
+Here, you'll need to partner with your development team
+
+19
+00:00:51.008 --> 00:00:55.007
+to understand which pattern they plan to utilize.
+
+20
+00:00:55.007 --> 00:00:58.004
+Knowing this, the team will guide you
+
+21
+00:00:58.004 --> 00:01:01.008
+to understand the pattern steps they'll follow.
+
+22
+00:01:01.008 --> 00:01:03.007
+This will help you know the way
+
+23
+00:01:03.007 --> 00:01:06.008
+in which work will flow through the team.
+
+24
+00:01:06.008 --> 00:01:10.005
+On a higher level, there are software architecture patterns
+
+25
+00:01:10.005 --> 00:01:14.002
+that define the overall layout of the application.
+
+26
+00:01:14.002 --> 00:01:17.005
+The most common pattern is the layered pattern.
+
+27
+00:01:17.005 --> 00:01:20.001
+This is simply a way in which the code
+
+28
+00:01:20.001 --> 00:01:22.006
+is split up into different layers.
+
+29
+00:01:22.006 --> 00:01:26.003
+Each layer has its own set of responsibilities.
+
+30
+00:01:26.003 --> 00:01:28.004
+The advantage of this comes in terms
+
+31
+00:01:28.004 --> 00:01:30.003
+of troubleshooting and maintenance.
+
+32
+00:01:30.003 --> 00:01:33.006
+It's easier to identify which layer may be the culprit
+
+33
+00:01:33.006 --> 00:01:36.003
+of trouble in your application.
+
+34
+00:01:36.003 --> 00:01:39.001
+First, let's get the lingo established.
+
+35
+00:01:39.001 --> 00:01:40.009
+The layered pattern is also
+
+36
+00:01:40.009 --> 00:01:44.000
+called a multi-layered architecture.
+
+37
+00:01:44.000 --> 00:01:48.006
+Most commonly, it's referred to as multi-tier architecture.
+
+38
+00:01:48.006 --> 00:01:52.002
+Sometimes you'll see it referenced as N-tier
+
+39
+00:01:52.002 --> 00:01:55.002
+to indicate there's no requirement on the number
+
+40
+00:01:55.002 --> 00:01:57.005
+of layers your software can have.
+
+41
+00:01:57.005 --> 00:02:01.003
+So, let's talk about the most common multi-tier structure
+
+42
+00:02:01.003 --> 00:02:02.008
+that you'll run into.
+
+43
+00:02:02.008 --> 00:02:05.008
+In this architecture, you'll usually find
+
+44
+00:02:05.008 --> 00:02:07.005
+the presentation layer.
+
+45
+00:02:07.005 --> 00:02:10.002
+This is the space where your users will interact
+
+46
+00:02:10.002 --> 00:02:11.006
+with your system.
+
+47
+00:02:11.006 --> 00:02:14.001
+You'll need to be sure that user experience
+
+48
+00:02:14.001 --> 00:02:16.003
+is considered in the design.
+
+49
+00:02:16.003 --> 00:02:19.002
+Second is the application layer.
+
+50
+00:02:19.002 --> 00:02:23.000
+Logic and business rules are applied in this layer.
+
+51
+00:02:23.000 --> 00:02:26.005
+For example, if your presentation layer has a shopping cart
+
+52
+00:02:26.005 --> 00:02:29.005
+in it, this is where the contents are tallied
+
+53
+00:02:29.005 --> 00:02:31.004
+and taxes applied.
+
+54
+00:02:31.004 --> 00:02:34.001
+Lastly, we have the data layer.
+
+55
+00:02:34.001 --> 00:02:36.001
+This is where the data persists
+
+56
+00:02:36.001 --> 00:02:40.003
+through the database servers, file shares, et cetera.
+
+57
+00:02:40.003 --> 00:02:43.001
+Be aware that this tier is also the one
+
+58
+00:02:43.001 --> 00:02:45.003
+that exposes the data.
+
+59
+00:02:45.003 --> 00:02:48.005
+Say your customer has three items in their shopping cart.
+
+60
+00:02:48.005 --> 00:02:52.008
+When they add an item, it's saved to the data tier.
+
+61
+00:02:52.008 --> 00:02:55.004
+This is why online vendors can show you
+
+62
+00:02:55.004 --> 00:02:57.006
+what's in your shopping cart.
+
+63
+00:02:57.006 --> 00:03:00.008
+As your team goes through the software design process,
+
+64
+00:03:00.008 --> 00:03:04.000
+they'll need to consider all the architectural layers.
+
+65
+00:03:04.000 --> 00:03:06.001
+This contributes to the complexity
+
+66
+00:03:06.001 --> 00:03:09.000
+of software development project management.
+
+67
+00:03:09.000 --> 00:03:10.009
+When you consider these complexities
+
+68
+00:03:10.009 --> 00:03:13.005
+for your software project, you'll be ready
+
+69
+00:03:13.005 --> 00:03:17.000
+to create the application your business needs.
+

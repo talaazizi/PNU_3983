@@ -1,0 +1,112 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:02.008
+- Thank you so much for joining me
+
+2
+00:00:02.008 --> 00:00:06.001
+on this journey of managing different types
+
+3
+00:00:06.001 --> 00:00:08.001
+of software development projects.
+
+4
+00:00:08.001 --> 00:00:10.005
+Each type of software project has its own
+
+5
+00:00:10.005 --> 00:00:13.002
+special circumstances for you to tackle.
+
+6
+00:00:13.002 --> 00:00:15.004
+I'm sure you recognize that the techniques
+
+7
+00:00:15.004 --> 00:00:18.006
+we talked about can be used on any project.
+
+8
+00:00:18.006 --> 00:00:21.005
+In the exercise files, you'll find a checklist
+
+9
+00:00:21.005 --> 00:00:23.005
+for each type of software project
+
+10
+00:00:23.005 --> 00:00:27.002
+and the approaches we discovered along the way.
+
+11
+00:00:27.002 --> 00:00:29.003
+To continue your learning, I recommend
+
+12
+00:00:29.003 --> 00:00:32.001
+you check out "Leading the Transformation"
+
+13
+00:00:32.001 --> 00:00:34.002
+by Gary Gruver and Tommy Mouser.
+
+14
+00:00:34.002 --> 00:00:36.009
+This is a wonderful guide on implementing
+
+15
+00:00:36.009 --> 00:00:39.007
+DevOps in your Legacy environment.
+
+16
+00:00:39.007 --> 00:00:42.003
+Explore the deep content in the LinkedIn
+
+17
+00:00:42.003 --> 00:00:44.008
+learning library around DevOps.
+
+18
+00:00:44.008 --> 00:00:46.003
+This knowledge will make your
+
+19
+00:00:46.003 --> 00:00:48.006
+software projects more successful.
+
+20
+00:00:48.006 --> 00:00:51.008
+And search for more on user experience in the library
+
+21
+00:00:51.008 --> 00:00:53.008
+if you're passionate about ensuring
+
+22
+00:00:53.008 --> 00:00:57.009
+your users have great experiences with your applications.
+
+23
+00:00:57.009 --> 00:01:00.003
+Thank you again for joining me as we looked
+
+24
+00:01:00.003 --> 00:01:04.000
+at the foundations of software project management.
+
+25
+00:01:04.000 --> 00:01:06.006
+Please feel free to reach out to me on LinkedIn.
+
+26
+00:01:06.006 --> 00:01:08.007
+I'd love to connect and to hear
+
+27
+00:01:08.007 --> 00:01:11.000
+how your software journey is going.
+

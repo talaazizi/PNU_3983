@@ -1,0 +1,116 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:03.005
+- No two projects are the same.
+
+2
+00:00:03.005 --> 00:00:06.003
+That's true across all industries.
+
+3
+00:00:06.003 --> 00:00:09.009
+Projects, regardless of framework or methodology,
+
+4
+00:00:09.009 --> 00:00:12.007
+share the same project life cycles.
+
+5
+00:00:12.007 --> 00:00:17.000
+Specifically, all projects face initiating, planning,
+
+6
+00:00:17.000 --> 00:00:19.002
+executing, and closing.
+
+7
+00:00:19.002 --> 00:00:21.007
+Even as these steps are shared,
+
+8
+00:00:21.007 --> 00:00:25.007
+software development projects are unique in themselves.
+
+9
+00:00:25.007 --> 00:00:28.009
+They have a development life cycle to contend with
+
+10
+00:00:28.009 --> 00:00:33.000
+that's separate and distinct from the project life cycle.
+
+11
+00:00:33.000 --> 00:00:34.007
+You need to know how to blend
+
+12
+00:00:34.007 --> 00:00:37.007
+what you already know as a project manager,
+
+13
+00:00:37.007 --> 00:00:41.006
+so you can adapt your skills to the specialized needs
+
+14
+00:00:41.006 --> 00:00:43.006
+of software development.
+
+15
+00:00:43.006 --> 00:00:46.005
+In this course, we'll explore in depth
+
+16
+00:00:46.005 --> 00:00:49.000
+how software projects are different.
+
+17
+00:00:49.000 --> 00:00:52.009
+We'll cover everything from project management frameworks,
+
+18
+00:00:52.009 --> 00:00:55.008
+vendor selection, and stakeholder mapping
+
+19
+00:00:55.008 --> 00:01:00.002
+to user experience and developing for scalability.
+
+20
+00:01:00.002 --> 00:01:02.002
+Hi, I'm Kelley O'Connell.
+
+21
+00:01:02.002 --> 00:01:04.005
+I've been a traditional project manager,
+
+22
+00:01:04.005 --> 00:01:05.006
+a scrum master,
+
+23
+00:01:05.006 --> 00:01:09.007
+and I'm now an agile coach and transformation strategist.
+
+24
+00:01:09.007 --> 00:01:13.000
+I've been leading teams for more than 20 years.
+
+25
+00:01:13.000 --> 00:01:15.000
+I've also been leading organizations
+
+26
+00:01:15.000 --> 00:01:17.007
+through agile transitions for 10 years.
+
+27
+00:01:17.007 --> 00:01:21.002
+Please join me as we explore the world
+
+28
+00:01:21.002 --> 00:01:25.000
+of software development project management.
+
