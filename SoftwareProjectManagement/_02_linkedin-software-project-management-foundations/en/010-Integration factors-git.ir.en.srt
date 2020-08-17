@@ -1,0 +1,216 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:03.007
+- No matter what vendor or solution you're dealing with,
+
+2
+00:00:03.007 --> 00:00:07.000
+be sure you take into account the integration angle
+
+3
+00:00:07.000 --> 00:00:08.008
+of your COTS project.
+
+4
+00:00:08.008 --> 00:00:10.008
+Let's go back to our CRM project
+
+5
+00:00:10.008 --> 00:00:14.000
+and explore integrations from this perspective.
+
+6
+00:00:14.000 --> 00:00:16.006
+We've selected our vendor and our solution.
+
+7
+00:00:16.006 --> 00:00:18.006
+Now we're ready to hold a joint planning session
+
+8
+00:00:18.006 --> 00:00:21.004
+with our team and the vendor's team.
+
+9
+00:00:21.004 --> 00:00:24.002
+We need to deeply explore the idea
+
+10
+00:00:24.002 --> 00:00:26.004
+of integrating the new application
+
+11
+00:00:26.004 --> 00:00:29.001
+into our technical ecosystem.
+
+12
+00:00:29.001 --> 00:00:31.000
+It would be a rare occurrence
+
+13
+00:00:31.000 --> 00:00:34.003
+if a COTS application could stand alone.
+
+14
+00:00:34.003 --> 00:00:36.009
+In all likelihood, we'll need the new system
+
+15
+00:00:36.009 --> 00:00:40.005
+to receive information from or send information
+
+16
+00:00:40.005 --> 00:00:43.008
+to other systems we already have.
+
+17
+00:00:43.008 --> 00:00:46.002
+Thinking about our CRM project,
+
+18
+00:00:46.002 --> 00:00:49.003
+we'll talk to our stakeholders and our IT experts
+
+19
+00:00:49.003 --> 00:00:52.007
+to find out what information or systems
+
+20
+00:00:52.007 --> 00:00:57.001
+exist both upstream and downstream from our CRM.
+
+21
+00:00:57.001 --> 00:01:00.009
+For example, perhaps we have a website with a contact form.
+
+22
+00:01:00.009 --> 00:01:03.009
+If we do, do we need our new CRM solution
+
+23
+00:01:03.009 --> 00:01:07.000
+to receive information from the website?
+
+24
+00:01:07.000 --> 00:01:10.001
+What flags, notifications, or workflow
+
+25
+00:01:10.001 --> 00:01:14.000
+should this form trigger in our application?
+
+26
+00:01:14.000 --> 00:01:17.009
+This is an example of an upstream integration.
+
+27
+00:01:17.009 --> 00:01:21.003
+Next, let's think about how our CRM solution
+
+28
+00:01:21.003 --> 00:01:24.002
+should share information it captures.
+
+29
+00:01:24.002 --> 00:01:27.000
+For example, perhaps we call a customer
+
+30
+00:01:27.000 --> 00:01:29.002
+while we're in the CRM.
+
+31
+00:01:29.002 --> 00:01:32.003
+Do we want integration with a purchasing application
+
+32
+00:01:32.003 --> 00:01:36.002
+so we can place a customer's order from the CRM?
+
+33
+00:01:36.002 --> 00:01:39.005
+This is an example of a downstream integration.
+
+34
+00:01:39.005 --> 00:01:42.006
+That means that data captured in our CRM solution
+
+35
+00:01:42.006 --> 00:01:45.006
+flows out to other applications.
+
+36
+00:01:45.006 --> 00:01:47.006
+In most COTS projects,
+
+37
+00:01:47.006 --> 00:01:50.003
+the company will decide who should do the work,
+
+38
+00:01:50.003 --> 00:01:52.001
+our team or the vendor's.
+
+39
+00:01:52.001 --> 00:01:53.009
+Many COTS products now come
+
+40
+00:01:53.009 --> 00:01:57.009
+with application program interfaces or APIs
+
+41
+00:01:57.009 --> 00:02:01.007
+that teams can use to create these integrations.
+
+42
+00:02:01.007 --> 00:02:04.008
+In my experience many COTS agreements
+
+43
+00:02:04.008 --> 00:02:08.002
+request the vendor to do the integration work.
+
+44
+00:02:08.002 --> 00:02:10.006
+This is because the vendor has usually done
+
+45
+00:02:10.006 --> 00:02:13.006
+these types of integrations with their products before.
+
+46
+00:02:13.006 --> 00:02:16.000
+It reduces the risk to our company
+
+47
+00:02:16.000 --> 00:02:18.009
+if we have them perform this work.
+
+48
+00:02:18.009 --> 00:02:21.001
+All COTS products require some level
+
+49
+00:02:21.001 --> 00:02:23.005
+of integration with existing systems.
+
+50
+00:02:23.005 --> 00:02:26.004
+Make sure you're asking your users and IT pros
+
+51
+00:02:26.004 --> 00:02:29.008
+for help in identifying the key integrations needed.
+
+52
+00:02:29.008 --> 00:02:32.009
+When you do, you'll make sure your COTS application
+
+53
+00:02:32.009 --> 00:02:35.000
+works exactly as planned.
+

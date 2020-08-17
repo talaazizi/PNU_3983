@@ -1,0 +1,232 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:04.005
+- In enhancement projects, you'll have many diverse
+
+2
+00:00:04.005 --> 00:00:06.001
+stakeholders to please.
+
+3
+00:00:06.001 --> 00:00:08.003
+While this is true for all projects,
+
+4
+00:00:08.003 --> 00:00:12.002
+it can be particularly tricky for enhancement projects.
+
+5
+00:00:12.002 --> 00:00:15.008
+How do you make sure that all voices are heard?
+
+6
+00:00:15.008 --> 00:00:19.009
+Holding a joint application design, or JAD session,
+
+7
+00:00:19.009 --> 00:00:23.005
+is a great tool you can use to solve that problem.
+
+8
+00:00:23.005 --> 00:00:25.008
+Let's look at how a JAD session works
+
+9
+00:00:25.008 --> 00:00:27.004
+and how it can help you.
+
+10
+00:00:27.004 --> 00:00:30.001
+First, a JAD is a collaborative way
+
+11
+00:00:30.001 --> 00:00:33.003
+to gather requirements across people and groups.
+
+12
+00:00:33.003 --> 00:00:36.007
+It focuses on eliciting the needs of everyone
+
+13
+00:00:36.007 --> 00:00:41.002
+and instilling a sense of ownership among your users.
+
+14
+00:00:41.002 --> 00:00:42.009
+Rather than spending time meeting
+
+15
+00:00:42.009 --> 00:00:44.005
+with each stakeholder group,
+
+16
+00:00:44.005 --> 00:00:46.005
+you're bringing them all together.
+
+17
+00:00:46.005 --> 00:00:48.001
+They can hear each other's needs
+
+18
+00:00:48.001 --> 00:00:51.007
+and negotiate when they have conflicting requirements.
+
+19
+00:00:51.007 --> 00:00:54.000
+So, who attends?
+
+20
+00:00:54.000 --> 00:00:56.000
+Well, you'll need a representative
+
+21
+00:00:56.000 --> 00:00:58.003
+from each stakeholder group you mapped.
+
+22
+00:00:58.003 --> 00:01:01.007
+For example, if we're enhancing a banking website,
+
+23
+00:01:01.007 --> 00:01:04.004
+I'd want a representative from marketing,
+
+24
+00:01:04.004 --> 00:01:08.008
+customer accounting, customer relationship, online banking,
+
+25
+00:01:08.008 --> 00:01:10.006
+and online support.
+
+26
+00:01:10.006 --> 00:01:12.006
+I don't want all the teams there,
+
+27
+00:01:12.006 --> 00:01:15.008
+just a designated representative from each area.
+
+28
+00:01:15.008 --> 00:01:19.005
+Keep the JAD session user count to less than 10 people
+
+29
+00:01:19.005 --> 00:01:22.002
+to ensure great dialogue.
+
+30
+00:01:22.002 --> 00:01:24.007
+Each representative needs to be familiar
+
+31
+00:01:24.007 --> 00:01:27.003
+with the day-to-day operations in their area.
+
+32
+00:01:27.003 --> 00:01:31.002
+This will give us the best perspective of their needs.
+
+33
+00:01:31.002 --> 00:01:33.006
+I usually include my project team, too,
+
+34
+00:01:33.006 --> 00:01:35.007
+but exclude them from the headcount.
+
+35
+00:01:35.007 --> 00:01:36.009
+Why?
+
+36
+00:01:36.009 --> 00:01:39.008
+Well, the team is there to ask clarifying questions,
+
+37
+00:01:39.008 --> 00:01:43.004
+not to direct the conversation or contribute.
+
+38
+00:01:43.004 --> 00:01:46.006
+Next, you'll need the project requestor or sponsor
+
+39
+00:01:46.006 --> 00:01:49.004
+to open and close the JAD sessions.
+
+40
+00:01:49.004 --> 00:01:52.006
+This person will provide framing for the attendees.
+
+41
+00:01:52.006 --> 00:01:55.001
+They'll lay out why the project is requested
+
+42
+00:01:55.001 --> 00:01:58.004
+and the objectives the sponsor is hoping for.
+
+43
+00:01:58.004 --> 00:02:01.003
+Finally, you'll need a strong facilitator
+
+44
+00:02:01.003 --> 00:02:03.003
+to host the session.
+
+45
+00:02:03.003 --> 00:02:06.003
+The facilitator role is critical to the success
+
+46
+00:02:06.003 --> 00:02:09.005
+of your JAD since they handle the scheduling,
+
+47
+00:02:09.005 --> 00:02:13.006
+dispute mediation, and guide the JAD process.
+
+48
+00:02:13.006 --> 00:02:17.003
+They also need to have zero vested interest in the outcome
+
+49
+00:02:17.003 --> 00:02:18.005
+of the JAD.
+
+50
+00:02:18.005 --> 00:02:21.000
+This builds trust with the attendees,
+
+51
+00:02:21.000 --> 00:02:25.000
+knowing the facilitator is a neutral third party.
+
+52
+00:02:25.000 --> 00:02:28.004
+In my experience, JAD sessions are full-day meetings
+
+53
+00:02:28.004 --> 00:02:32.004
+and they run anywhere from two to four days in length
+
+54
+00:02:32.004 --> 00:02:34.008
+depending on the scope of work.
+
+55
+00:02:34.008 --> 00:02:38.002
+When you're starting a project with a lot of stakeholders,
+
+56
+00:02:38.002 --> 00:02:40.009
+making sure their needs are met is essential
+
+57
+00:02:40.009 --> 00:02:43.000
+to your success.
+

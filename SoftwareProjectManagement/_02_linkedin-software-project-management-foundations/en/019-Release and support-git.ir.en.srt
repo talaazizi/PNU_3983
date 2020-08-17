@@ -1,0 +1,220 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:03.002
+- You may already know how you're going to
+
+2
+00:00:03.002 --> 00:00:04.008
+release your application.
+
+3
+00:00:04.008 --> 00:00:07.003
+If you're working in an agile environment,
+
+4
+00:00:07.003 --> 00:00:08.005
+you may release your product
+
+5
+00:00:08.005 --> 00:00:11.004
+in small, frequent, modular pieces.
+
+6
+00:00:11.004 --> 00:00:14.002
+If you're working in a more traditional environment,
+
+7
+00:00:14.002 --> 00:00:16.006
+you may release your application all at once.
+
+8
+00:00:16.006 --> 00:00:20.002
+This is often referred to as a big bang release.
+
+9
+00:00:20.002 --> 00:00:23.000
+Either way, there are actions you need to do
+
+10
+00:00:23.000 --> 00:00:25.002
+to ensure your release goes smoothly,
+
+11
+00:00:25.002 --> 00:00:27.005
+and teams are ready to offer support
+
+12
+00:00:27.005 --> 00:00:29.002
+for your new application.
+
+13
+00:00:29.002 --> 00:00:32.004
+Let's explore these essential steps.
+
+14
+00:00:32.004 --> 00:00:35.000
+First and foremost, be sure all forms
+
+15
+00:00:35.000 --> 00:00:36.005
+of testing have occurred.
+
+16
+00:00:36.005 --> 00:00:38.009
+Ideally, you'll tackle these throughout
+
+17
+00:00:38.009 --> 00:00:40.007
+the development life cycle.
+
+18
+00:00:40.007 --> 00:00:44.001
+At a minimum, you'll need user acceptance testing,
+
+19
+00:00:44.001 --> 00:00:47.008
+integration testing, regression testing,
+
+20
+00:00:47.008 --> 00:00:50.004
+performance testing, and end-to-end,
+
+21
+00:00:50.004 --> 00:00:52.007
+or system testing.
+
+22
+00:00:52.007 --> 00:00:55.002
+All of these types, combined together,
+
+23
+00:00:55.002 --> 00:00:57.001
+provide visibility into how well
+
+24
+00:00:57.001 --> 00:00:59.003
+your application will perform.
+
+25
+00:00:59.003 --> 00:01:02.003
+Further, these will confirm that your users
+
+26
+00:01:02.003 --> 00:01:05.005
+are getting exactly what they're expecting.
+
+27
+00:01:05.005 --> 00:01:08.005
+Next, address user readiness.
+
+28
+00:01:08.005 --> 00:01:11.003
+Let your users know when your application is coming,
+
+29
+00:01:11.003 --> 00:01:12.009
+so they're ready for it.
+
+30
+00:01:12.009 --> 00:01:15.002
+If there are user guides being developed,
+
+31
+00:01:15.002 --> 00:01:17.003
+these need to be ready to go as well.
+
+32
+00:01:17.003 --> 00:01:19.004
+And don't limit your user-readiness
+
+33
+00:01:19.004 --> 00:01:21.006
+to just your direct users.
+
+34
+00:01:21.006 --> 00:01:24.009
+Make sure users of systems integrated with your app
+
+35
+00:01:24.009 --> 00:01:27.007
+know the release is coming too.
+
+36
+00:01:27.007 --> 00:01:31.001
+Another key item to tackle is operations readiness.
+
+37
+00:01:31.001 --> 00:01:34.001
+Work with the operations and support teams
+
+38
+00:01:34.001 --> 00:01:36.003
+to let them know about your release,
+
+39
+00:01:36.003 --> 00:01:40.006
+and how they may need to help you during that final push.
+
+40
+00:01:40.006 --> 00:01:43.005
+I hope you've put some Dev Ops practices in place.
+
+41
+00:01:43.005 --> 00:01:47.003
+If you have, the Ops teams already know what's been built,
+
+42
+00:01:47.003 --> 00:01:51.005
+and how it integrates seamlessly into the ecosystem.
+
+43
+00:01:51.005 --> 00:01:54.001
+The Ops team will also be ready to partner
+
+44
+00:01:54.001 --> 00:01:55.008
+with your development team
+
+45
+00:01:55.008 --> 00:02:00.001
+to create a great support experience for your users.
+
+46
+00:02:00.001 --> 00:02:02.006
+Finally, connect with your team
+
+47
+00:02:02.006 --> 00:02:05.000
+to handle the migration readiness.
+
+48
+00:02:05.000 --> 00:02:08.009
+Double-check that everyone knows exactly what steps to take
+
+49
+00:02:08.009 --> 00:02:12.006
+to move your application to the production environment.
+
+50
+00:02:12.006 --> 00:02:15.002
+Simple check lists for the migration steps
+
+51
+00:02:15.002 --> 00:02:17.001
+can help the team immensely,
+
+52
+00:02:17.001 --> 00:02:21.003
+especially if the migration process isn't automated.
+
+53
+00:02:21.003 --> 00:02:24.006
+Be sure to take the time to prepare for your release.
+
+54
+00:02:24.006 --> 00:02:29.000
+When you do, you'll find the process can be simple.
+

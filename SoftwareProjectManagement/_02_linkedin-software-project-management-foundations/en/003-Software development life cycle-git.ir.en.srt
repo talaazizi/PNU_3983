@@ -1,0 +1,240 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:03.004
+- When I first started in project management,
+
+2
+00:00:03.004 --> 00:00:06.004
+I worked in infrastructure and operations.
+
+3
+00:00:06.004 --> 00:00:09.007
+I had no exposure to software development at the time.
+
+4
+00:00:09.007 --> 00:00:13.000
+So when I shifted into software project management,
+
+5
+00:00:13.000 --> 00:00:15.006
+my learning curve was huge.
+
+6
+00:00:15.006 --> 00:00:18.000
+The first thing I learned is that beyond
+
+7
+00:00:18.000 --> 00:00:21.006
+the project life cycle, software development projects
+
+8
+00:00:21.006 --> 00:00:24.002
+have their own set of process steps.
+
+9
+00:00:24.002 --> 00:00:26.004
+These need to be followed along
+
+10
+00:00:26.004 --> 00:00:29.009
+with your established project processes.
+
+11
+00:00:29.009 --> 00:00:32.007
+The software processes are known as
+
+12
+00:00:32.007 --> 00:00:38.008
+the software development life cycle, or SDLC for short.
+
+13
+00:00:38.008 --> 00:00:42.002
+Many organizations define their own SDLC,
+
+14
+00:00:42.002 --> 00:00:46.007
+so find out what the best practices are in your business.
+
+15
+00:00:46.007 --> 00:00:49.003
+While companies require steps specific
+
+16
+00:00:49.003 --> 00:00:52.004
+to their organization, in most cases,
+
+17
+00:00:52.004 --> 00:00:56.008
+the essentials are the same across industries and companies.
+
+18
+00:00:56.008 --> 00:01:01.004
+Let's take a look at each step in a typical SDLC.
+
+19
+00:01:01.004 --> 00:01:06.000
+First, there's the initial step: plan or requirements.
+
+20
+00:01:06.000 --> 00:01:08.006
+In this step, users are solicited
+
+21
+00:01:08.006 --> 00:01:10.006
+for input on what they want.
+
+22
+00:01:10.006 --> 00:01:13.004
+Equally important is what they don't want.
+
+23
+00:01:13.004 --> 00:01:16.007
+The goal is not to define how the software team
+
+24
+00:01:16.007 --> 00:01:19.006
+will deliver, it's really to know what
+
+25
+00:01:19.006 --> 00:01:21.008
+it is that we must deliver.
+
+26
+00:01:21.008 --> 00:01:26.005
+Second, the software team tackles analysis and design.
+
+27
+00:01:26.005 --> 00:01:30.002
+The design step is where the team translates the what
+
+28
+00:01:30.002 --> 00:01:33.005
+into details of how the objectives will be reached.
+
+29
+00:01:33.005 --> 00:01:35.001
+The team defines the way they'll
+
+30
+00:01:35.001 --> 00:01:37.005
+deliver what's been requested.
+
+31
+00:01:37.005 --> 00:01:40.007
+Third is the build or development step.
+
+32
+00:01:40.007 --> 00:01:44.003
+This phase of the SDLC does exactly what you'd think.
+
+33
+00:01:44.003 --> 00:01:48.003
+The team takes their designs and begins generating code.
+
+34
+00:01:48.003 --> 00:01:50.004
+The fourth step is test.
+
+35
+00:01:50.004 --> 00:01:54.004
+The tests executed against the code validate the build
+
+36
+00:01:54.004 --> 00:01:57.002
+is stable, performed to requirements,
+
+37
+00:01:57.002 --> 00:02:00.006
+and meet the functional needs of the users.
+
+38
+00:02:00.006 --> 00:02:03.002
+In this phase, when defects are found,
+
+39
+00:02:03.002 --> 00:02:05.006
+they're usually categorized by severity
+
+40
+00:02:05.006 --> 00:02:08.003
+and sent back to the development team to be fixed,
+
+41
+00:02:08.003 --> 00:02:11.004
+and then of course, retested.
+
+42
+00:02:11.004 --> 00:02:13.005
+Next is the deploy step.
+
+43
+00:02:13.005 --> 00:02:15.005
+This can be a process in itself
+
+44
+00:02:15.005 --> 00:02:18.000
+depending on feedback from users.
+
+45
+00:02:18.000 --> 00:02:20.007
+In many cases there's a limited release,
+
+46
+00:02:20.007 --> 00:02:23.004
+so users experience the new software
+
+47
+00:02:23.004 --> 00:02:27.007
+in a limited environment before a broader release.
+
+48
+00:02:27.007 --> 00:02:31.008
+Finally, the last step is to maintain the software.
+
+49
+00:02:31.008 --> 00:02:34.006
+Usually this includes transitioning the support
+
+50
+00:02:34.006 --> 00:02:37.000
+for software to a maintenance team.
+
+51
+00:02:37.000 --> 00:02:40.005
+In this case, the defects found after deployment
+
+52
+00:02:40.005 --> 00:02:43.008
+are handled not by original development teams,
+
+53
+00:02:43.008 --> 00:02:47.008
+but by the team that specializes in maintenance.
+
+54
+00:02:47.008 --> 00:02:51.009
+As you can see, understanding the project life cycle isn't
+
+55
+00:02:51.009 --> 00:02:56.002
+enough by itself to support a software development project.
+
+56
+00:02:56.002 --> 00:02:58.006
+You'll need knowledge of both life cycles
+
+57
+00:02:58.006 --> 00:03:03.002
+to bring your software projects to successful conclusion.
+
+58
+00:03:03.002 --> 00:03:06.007
+As you learn, you'll help your teams succeed
+
+59
+00:03:06.007 --> 00:03:09.000
+with their software development.
+
