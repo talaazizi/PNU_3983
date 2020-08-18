@@ -24,8 +24,10 @@
 
 + [سالار بهادر](https://salibhdr.github.io/resume/)  
   - [@SaliBhdr](https://github.com/SaliBhdr)
-  
-  14.فصل 32:الگوریتم نایو
+ 
+ <br>
+ 
+14.فصل 32:الگوریتم نایو
 
-+ [امیرحسین سبزه ئی] 
++ [امیرحسین سبزه ئی](https://amir3220.github.io/)  
   - [@amir3220](https://github.com/amir3220)
