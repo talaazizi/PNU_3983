@@ -1,0 +1,299 @@
+1
+00:00:00.04 --> 00:00:02.01
+- If you're going to publish to YouTube,
+
+2
+00:00:02.01 --> 00:00:04.06
+you probably want to get
+a good number of views,
+
+3
+00:00:04.06 --> 00:00:06.02
+or at least make sure that your audience
+
+4
+00:00:06.02 --> 00:00:07.09
+can find your video.
+
+5
+00:00:07.09 --> 00:00:11.00
+This is where SEO or search
+engine optimization comes in,
+
+6
+00:00:11.00 --> 00:00:14.07
+and I'd like to share with
+you a few practical tips
+
+7
+00:00:14.07 --> 00:00:17.04
+to make your videos more discoverable.
+
+8
+00:00:17.04 --> 00:00:20.06
+First up, make sure that
+you put the important
+
+9
+00:00:20.06 --> 00:00:22.05
+keywords up front.
+
+10
+00:00:22.05 --> 00:00:26.01
+So if there's a particular
+keyword that's most important,
+
+11
+00:00:26.01 --> 00:00:27.06
+put it first.
+
+12
+00:00:27.06 --> 00:00:29.09
+If you're just adding a few extra things,
+
+13
+00:00:29.09 --> 00:00:31.02
+put it at the end.
+
+14
+00:00:31.02 --> 00:00:33.04
+Keywords should not be alphabetized.
+
+15
+00:00:33.04 --> 00:00:36.09
+Rather, put the most important ones early.
+
+16
+00:00:36.09 --> 00:00:39.06
+Those keywords get more
+weight, because they're deemed
+
+17
+00:00:39.06 --> 00:00:43.04
+to be more significant to the content.
+
+18
+00:00:43.04 --> 00:00:47.09
+Also, make sure that you
+can go ahead and do a search
+
+19
+00:00:47.09 --> 00:00:49.03
+for those keywords.
+
+20
+00:00:49.03 --> 00:00:52.02
+So you can do a Google
+search or a YouTube search
+
+21
+00:00:52.02 --> 00:00:55.09
+on a particular keyword
+and see if a lot of videos
+
+22
+00:00:55.09 --> 00:00:57.07
+like yours come up.
+
+23
+00:00:57.07 --> 00:01:00.03
+By using keywords, it's going to be easier
+
+24
+00:01:00.03 --> 00:01:03.02
+to find something, so you
+should find what works.
+
+25
+00:01:03.02 --> 00:01:07.03
+So maybe it's HDR or maybe
+it's high dynamic range.
+
+26
+00:01:07.03 --> 00:01:10.07
+Well, see which generates
+more hits like the one
+
+27
+00:01:10.07 --> 00:01:12.02
+that you're trying to get.
+
+28
+00:01:12.02 --> 00:01:15.05
+Also, the description is critical,
+
+29
+00:01:15.05 --> 00:01:17.08
+and you have up to 5,000 characters.
+
+30
+00:01:17.08 --> 00:01:20.07
+With those 5,000 characters,
+
+31
+00:01:20.07 --> 00:01:22.09
+you can decide how deep you want to go,
+
+32
+00:01:22.09 --> 00:01:26.06
+but it's generally a good
+idea to be descriptive.
+
+33
+00:01:26.06 --> 00:01:28.04
+Now remember, on mobile devices,
+
+34
+00:01:28.04 --> 00:01:30.08
+or if the video description is collapsed,
+
+35
+00:01:30.08 --> 00:01:33.01
+only the first few sentences show,
+
+36
+00:01:33.01 --> 00:01:35.05
+so put the most important
+information where it's
+
+37
+00:01:35.05 --> 00:01:38.03
+easy to view, but the whole
+description does get indexed,
+
+38
+00:01:38.03 --> 00:01:42.00
+and this will affect
+how things are served up
+
+39
+00:01:42.00 --> 00:01:45.09
+when people search on phrases or keywords.
+
+40
+00:01:45.09 --> 00:01:49.09
+Additionally, make sure you
+consider repeating keywords,
+
+41
+00:01:49.09 --> 00:01:52.04
+as well as accurately
+describing the content
+
+42
+00:01:52.04 --> 00:01:53.09
+and who's involved.
+
+43
+00:01:53.09 --> 00:01:56.08
+If you have a particular
+host in the video, name it.
+
+44
+00:01:56.08 --> 00:01:59.07
+If it's a particular
+software tool, identify it.
+
+45
+00:01:59.07 --> 00:02:00.05
+That's what I did.
+
+46
+00:02:00.05 --> 00:02:01.05
+I named the host.
+
+47
+00:02:01.05 --> 00:02:02.07
+I named the product.
+
+48
+00:02:02.07 --> 00:02:04.07
+I named the company behind the product,
+
+49
+00:02:04.07 --> 00:02:07.09
+and I repeated keywords in my description.
+
+50
+00:02:07.09 --> 00:02:11.00
+Now, other things to think about include
+
+51
+00:02:11.00 --> 00:02:15.00
+making sure that the tags can be longer,
+
+52
+00:02:15.00 --> 00:02:18.00
+so each tag can have up to 120 characters.
+
+53
+00:02:18.00 --> 00:02:21.09
+What this means is that
+you can be more descriptive
+
+54
+00:02:21.09 --> 00:02:24.01
+on the tag, you don't just
+have to use short words.
+
+55
+00:02:24.01 --> 00:02:26.07
+Compound words might be helpful,
+
+56
+00:02:26.07 --> 00:02:29.05
+so if you want to describe something as
+
+57
+00:02:29.05 --> 00:02:33.05
+Asian cooking recipes, well
+that might work quite well.
+
+58
+00:02:33.05 --> 00:02:37.09
+That way you've got all three
+words registering as one tag,
+
+59
+00:02:37.09 --> 00:02:43.02
+and that can be quite useful.
+
+60
+00:02:43.02 --> 00:02:46.04
+Also, make sure that those
+tags or keywords are relevant.
+
+61
+00:02:46.04 --> 00:02:48.09
+Don't just put a bunch of words in there
+
+62
+00:02:48.09 --> 00:02:50.04
+to try to weight the results.
+
+63
+00:02:50.04 --> 00:02:52.09
+They need to be tied
+back to the description
+
+64
+00:02:52.09 --> 00:02:54.02
+and the content.
+
+65
+00:02:54.02 --> 00:02:56.07
+Put them in order of importance.
+
+66
+00:02:56.07 --> 00:03:00.02
+The most important ones go first.
+
+67
+00:03:00.02 --> 00:03:03.06
+And again, make sure you do
+a search to see which tags
+
+68
+00:03:03.06 --> 00:03:05.09
+and keywords show up most frequently.
+

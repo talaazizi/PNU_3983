@@ -1,0 +1,260 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,01 --> 00:00:04,05
+- UX professionals tend to be information seekers.
+
+2
+00:00:04,05 --> 00:00:07,00
+They often want to grow their professional skill set
+
+3
+00:00:07,00 --> 00:00:09,03
+and knowledge, so help them.
+
+4
+00:00:09,03 --> 00:00:11,03
+It may seem counterintuitive,
+
+5
+00:00:11,03 --> 00:00:14,03
+but your job is to give them the skills, knowledge
+
+6
+00:00:14,03 --> 00:00:16,05
+and confidence that they'll need so they can be
+
+7
+00:00:16,05 --> 00:00:19,06
+an excellent candidate in the future job market.
+
+8
+00:00:19,06 --> 00:00:21,03
+Are they going to stay with you forever?
+
+9
+00:00:21,03 --> 00:00:22,07
+Probably not,
+
+10
+00:00:22,07 --> 00:00:24,08
+but giving them what they need to move on
+
+11
+00:00:24,08 --> 00:00:26,09
+doesn't mean that they will move on.
+
+12
+00:00:26,09 --> 00:00:30,02
+It means that they will respect and appreciate you.
+
+13
+00:00:30,02 --> 00:00:33,00
+Combined with a salary that's on par with the industry,
+
+14
+00:00:33,00 --> 00:00:35,02
+and a generally positive work environment,
+
+15
+00:00:35,02 --> 00:00:38,07
+that respect is going to make them all the more valuable.
+
+16
+00:00:38,07 --> 00:00:40,02
+Support learning.
+
+17
+00:00:40,02 --> 00:00:42,08
+Support the purchase of books and dare I say it,
+
+18
+00:00:42,08 --> 00:00:44,04
+a subscription to LinkedIn Learning
+
+19
+00:00:44,04 --> 00:00:47,07
+and other video and online learning resources.
+
+20
+00:00:47,07 --> 00:00:50,02
+Support attending events, local events
+
+21
+00:00:50,02 --> 00:00:52,05
+and national, international conferences
+
+22
+00:00:52,05 --> 00:00:55,05
+and support your staff speaking at those events,
+
+23
+00:00:55,05 --> 00:00:59,05
+where you also then get implicit promotion of your company.
+
+24
+00:00:59,05 --> 00:01:02,01
+You can also consider hosting your own events,
+
+25
+00:01:02,01 --> 00:01:05,08
+where you task your employees with helping to run the event.
+
+26
+00:01:05,08 --> 00:01:08,04
+I can tell you from experience that running events
+
+27
+00:01:08,04 --> 00:01:10,09
+provides a wonderful opportunity for visibility
+
+28
+00:01:10,09 --> 00:01:12,04
+and appreciation,
+
+29
+00:01:12,04 --> 00:01:14,06
+where your employees won't feel like wallflowers,
+
+30
+00:01:14,06 --> 00:01:18,07
+as they do the necessary tasks to make your event a success.
+
+31
+00:01:18,07 --> 00:01:20,07
+And help employees by framing
+
+32
+00:01:20,07 --> 00:01:23,00
+a valid career pathway for them.
+
+33
+00:01:23,00 --> 00:01:25,05
+Show them how they can move up in your company
+
+34
+00:01:25,05 --> 00:01:28,03
+and provide them with leadership skills.
+
+35
+00:01:28,03 --> 00:01:32,05
+Note that not every UX leader has to be a manager of others.
+
+36
+00:01:32,05 --> 00:01:34,09
+While management of UX staff or UX projects
+
+37
+00:01:34,09 --> 00:01:38,02
+are certainly valid and important career pathways for some,
+
+38
+00:01:38,02 --> 00:01:41,01
+practitioner seniority itself, with opportunities
+
+39
+00:01:41,01 --> 00:01:43,02
+to mentor and demonstrate by example
+
+40
+00:01:43,02 --> 00:01:47,00
+is another form of leadership, as is thought leadership.
+
+41
+00:01:47,00 --> 00:01:51,00
+So encourage blogging and writing UX related articles.
+
+42
+00:01:51,00 --> 00:01:52,08
+We talked about how UX is a field
+
+43
+00:01:52,08 --> 00:01:55,08
+that constantly deals with change, so growing and learning
+
+44
+00:01:55,08 --> 00:01:58,07
+are critical traits of UX professionals.
+
+45
+00:01:58,07 --> 00:02:01,00
+By encouraging their writing, you are helping them
+
+46
+00:02:01,00 --> 00:02:03,02
+to help others to grow.
+
+47
+00:02:03,02 --> 00:02:04,08
+And while you can get your employees
+
+48
+00:02:04,08 --> 00:02:07,06
+to help host your own events, you can also encourage them
+
+49
+00:02:07,06 --> 00:02:11,01
+to be UX leaders out in the wider UX community.
+
+50
+00:02:11,01 --> 00:02:12,04
+Almost by definition,
+
+51
+00:02:12,04 --> 00:02:15,09
+UX is composed of people who value people.
+
+52
+00:02:15,09 --> 00:02:17,08
+As such, this may very well be
+
+53
+00:02:17,08 --> 00:02:21,03
+why UXers so frequently enjoy being a part of local,
+
+54
+00:02:21,03 --> 00:02:24,00
+national and international communities.
+
+55
+00:02:24,00 --> 00:02:26,09
+Help your UXers do what they do naturally,
+
+56
+00:02:26,09 --> 00:02:30,09
+be a part of and build socially cohesive communities,
+
+57
+00:02:30,09 --> 00:02:34,02
+and the satisfaction that they gain from UX social cohesion
+
+58
+00:02:34,02 --> 00:02:37,09
+can also extend to their satisfaction with your workplace.
+
+59
+00:02:37,09 --> 00:02:40,05
+If you're involved in managing UX professionals,
+
+60
+00:02:40,05 --> 00:02:42,07
+set a good example as a caring leader,
+
+61
+00:02:42,07 --> 00:02:44,09
+who wants what is best for employees
+
+62
+00:02:44,09 --> 00:02:47,07
+and do your part to create an environment
+
+63
+00:02:47,07 --> 00:02:51,00
+where UX growth and leadership, however it's defined,
+
+64
+00:02:51,00 --> 00:02:53,00
+is second nature.
+

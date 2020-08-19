@@ -1,0 +1,613 @@
+1
+00:00:00.04 --> 00:00:02.04
+- By no means am I a lawyer.
+
+2
+00:00:02.04 --> 00:00:06.03
+So if terms of service matter
+to you or your organization,
+
+3
+00:00:06.03 --> 00:00:09.06
+you might want to seek legal
+counsel to discuss them.
+
+4
+00:00:09.06 --> 00:00:13.00
+But there are a few things
+in YouTube's terms of service
+
+5
+00:00:13.00 --> 00:00:14.07
+that bother my lawyer,
+
+6
+00:00:14.07 --> 00:00:16.06
+and have actually caused problems
+
+7
+00:00:16.06 --> 00:00:18.07
+for me with certain clients.
+
+8
+00:00:18.07 --> 00:00:20.07
+Let's take a look at a
+couple of the key things
+
+9
+00:00:20.07 --> 00:00:21.05
+that you want to keep
+
+10
+00:00:21.05 --> 00:00:24.09
+in mind if you're going to
+upload content to YouTube.
+
+11
+00:00:24.09 --> 00:00:26.08
+First up, if you've never read them,
+
+12
+00:00:26.08 --> 00:00:28.05
+I would strongly suggest
+
+13
+00:00:28.05 --> 00:00:31.02
+that you take a look at
+the terms of service.
+
+14
+00:00:31.02 --> 00:00:33.04
+There is a link on most pages on YouTube,
+
+15
+00:00:33.04 --> 00:00:36.07
+and this conveys additional information.
+
+16
+00:00:36.07 --> 00:00:38.09
+Some of the categories,
+we'll talk about what
+
+17
+00:00:38.09 --> 00:00:40.08
+you can do if you're
+using the paid version
+
+18
+00:00:40.08 --> 00:00:42.03
+of YouTube for subscriptions.
+
+19
+00:00:42.03 --> 00:00:46.02
+Things like YouTube Red
+or YouTube television.
+
+20
+00:00:46.02 --> 00:00:48.00
+You'll also see additional information
+
+21
+00:00:48.00 --> 00:00:50.08
+there about community guidelines
+and copyright notices,
+
+22
+00:00:50.08 --> 00:00:53.00
+but the one that you should
+really take a look at
+
+23
+00:00:53.00 --> 00:00:55.04
+is the general terms of service.
+
+24
+00:00:55.04 --> 00:00:57.07
+And by uploading to YouTube,
+
+25
+00:00:57.07 --> 00:01:00.07
+you agree to these terms of service.
+
+26
+00:01:00.07 --> 00:01:01.07
+The big section that you
+
+27
+00:01:01.07 --> 00:01:05.05
+want to pay attention to is
+the Your Content and Conduct.
+
+28
+00:01:05.05 --> 00:01:07.00
+For example, you'll notice
+
+29
+00:01:07.00 --> 00:01:10.08
+that YouTube does not
+guarantee confidentiality.
+
+30
+00:01:10.08 --> 00:01:13.06
+So just because you upload
+a video and set it private,
+
+31
+00:01:13.06 --> 00:01:17.09
+does not mean that YouTube
+has to keep it private.
+
+32
+00:01:17.09 --> 00:01:20.00
+It does say that you are responsible
+
+33
+00:01:20.00 --> 00:01:21.06
+for the content and consequences.
+
+34
+00:01:21.06 --> 00:01:24.00
+So by publishing it to YouTube,
+
+35
+00:01:24.00 --> 00:01:26.06
+they're not responsible
+for any legal issues
+
+36
+00:01:26.06 --> 00:01:28.03
+that you might face for upload.
+
+37
+00:01:28.03 --> 00:01:30.03
+And if you're putting this up on YouTube,
+
+38
+00:01:30.03 --> 00:01:33.05
+you basically give YouTube
+a license to patent,
+
+39
+00:01:33.05 --> 00:01:34.07
+trademark, trade secrets,
+
+40
+00:01:34.07 --> 00:01:38.04
+copyright or other proprietary
+rights in the content.
+
+41
+00:01:38.04 --> 00:01:40.01
+This doesn't mean that they own it,
+
+42
+00:01:40.01 --> 00:01:43.06
+but you're saying that you have
+the rights to publish this,
+
+43
+00:01:43.06 --> 00:01:47.06
+and YouTube is able to actually see this,
+
+44
+00:01:47.06 --> 00:01:51.05
+and reshare the content
+without legal repercussions.
+
+45
+00:01:51.05 --> 00:01:54.02
+So if someone in your company
+uploads a video to YouTube
+
+46
+00:01:54.02 --> 00:02:00.03
+and reveals trade secrets,
+well, YouTube is not liable.
+
+47
+00:02:00.03 --> 00:02:03.07
+Now, YouTube does say that
+you actually own your content.
+
+48
+00:02:03.07 --> 00:02:06.07
+For clarity, you retain all
+of your ownership rights.
+
+49
+00:02:06.07 --> 00:02:09.03
+However, and this is a big however,
+
+50
+00:02:09.03 --> 00:02:14.06
+you grant YouTube a worldwide
+nonexclusive royalty-free,
+
+51
+00:02:14.06 --> 00:02:18.03
+sublicensable, and
+transferable license to use,
+
+52
+00:02:18.03 --> 00:02:22.03
+reproduce, distribute, and
+prepare derivative works.
+
+53
+00:02:22.03 --> 00:02:24.04
+Let me break that down.
+
+54
+00:02:24.04 --> 00:02:25.09
+Yes, you own your stuff,
+
+55
+00:02:25.09 --> 00:02:28.05
+but you've given it to another company,
+
+56
+00:02:28.05 --> 00:02:31.02
+who can remix it, share it,
+
+57
+00:02:31.02 --> 00:02:33.00
+license it and take money for it,
+
+58
+00:02:33.00 --> 00:02:35.06
+monetize it, put it anywhere they want,
+
+59
+00:02:35.06 --> 00:02:37.06
+change it and do whatever they need to
+
+60
+00:02:37.06 --> 00:02:41.03
+to it with you having no say whatsoever.
+
+61
+00:02:41.03 --> 00:02:43.04
+Now, when people complain about this,
+
+62
+00:02:43.04 --> 00:02:45.09
+I point out to them a real simple fact.
+
+63
+00:02:45.09 --> 00:02:48.05
+You get what you pay for.
+
+64
+00:02:48.05 --> 00:02:50.08
+YouTube is a free service,
+
+65
+00:02:50.08 --> 00:02:53.07
+and Google needs to monetize that content.
+
+66
+00:02:53.07 --> 00:02:55.04
+So they're going to put ads on it.
+
+67
+00:02:55.04 --> 00:02:56.06
+They're going to license it,
+
+68
+00:02:56.06 --> 00:02:58.05
+they might even sell your content
+
+69
+00:02:58.05 --> 00:03:00.02
+or put it into a subscription service
+
+70
+00:03:00.02 --> 00:03:02.04
+and not share the revenue with you.
+
+71
+00:03:02.04 --> 00:03:04.09
+If this bothers you, or you need
+
+72
+00:03:04.09 --> 00:03:07.00
+to maintain your legal rights,
+
+73
+00:03:07.00 --> 00:03:10.01
+take a look at a plethora
+of other hosting solutions
+
+74
+00:03:10.01 --> 00:03:13.00
+that are out there that have
+different terms of service,
+
+75
+00:03:13.00 --> 00:03:16.08
+particularly ones where
+you pay to host the video.
+
+76
+00:03:16.08 --> 00:03:19.06
+Most paid services, such as Vimeo,
+
+77
+00:03:19.06 --> 00:03:22.01
+will say that you own your content,
+
+78
+00:03:22.01 --> 00:03:25.07
+and that those rights are
+much more restricted on behalf
+
+79
+00:03:25.07 --> 00:03:27.02
+of the other company,
+
+80
+00:03:27.02 --> 00:03:30.00
+because you're paying
+for that hosting service.
+
+81
+00:03:30.00 --> 00:03:32.03
+But with YouTube, you're not paying.
+
+82
+00:03:32.03 --> 00:03:35.01
+Therefore, you're giving
+up a tremendous amount
+
+83
+00:03:35.01 --> 00:03:38.02
+of rights, and while that
+might not bother you,
+
+84
+00:03:38.02 --> 00:03:41.00
+make sure it doesn't bother
+the company or the client
+
+85
+00:03:41.00 --> 00:03:42.05
+that you're doing work for.
+
+86
+00:03:42.05 --> 00:03:44.01
+Other things to think about.
+
+87
+00:03:44.01 --> 00:03:46.05
+You agreed that the content does not
+
+88
+00:03:46.05 --> 00:03:48.07
+have copyrighted materials in it.
+
+89
+00:03:48.07 --> 00:03:51.05
+And that you have the
+rights to put this up.
+
+90
+00:03:51.05 --> 00:03:54.06
+So you are saying that you
+bear the responsibility
+
+91
+00:03:54.06 --> 00:03:56.07
+that you have the rights to post.
+
+92
+00:03:56.07 --> 00:03:59.00
+It also says that you're
+not going to violate
+
+93
+00:03:59.00 --> 00:04:01.03
+the community guidelines
+which are well-suited
+
+94
+00:04:01.03 --> 00:04:03.03
+and you should look at
+those community guidelines.
+
+95
+00:04:03.03 --> 00:04:04.04
+There's lots of things
+
+96
+00:04:04.04 --> 00:04:05.03
+that YouTube wants you
+
+97
+00:04:05.03 --> 00:04:10.09
+to follow about what's acceptable to post.
+
+98
+00:04:10.09 --> 00:04:14.05
+Also, YouTube does not imply endorsement.
+
+99
+00:04:14.05 --> 00:04:16.04
+Just because something is on YouTube,
+
+100
+00:04:16.04 --> 00:04:19.00
+doesn't mean that YouTube believes in it.
+
+101
+00:04:19.00 --> 00:04:21.09
+So if somebody posts
+something hateful or something
+
+102
+00:04:21.09 --> 00:04:23.03
+that shouldn't be shared,
+
+103
+00:04:23.03 --> 00:04:26.04
+YouTube does reserve the
+rights to remove the content
+
+104
+00:04:26.04 --> 00:04:31.00
+with no notification.
+
+105
+00:04:31.00 --> 00:04:34.04
+Additionally, YouTube does
+support copyright enforcement.
+
+106
+00:04:34.04 --> 00:04:38.01
+So if you find that your content
+has been shared illegally,
+
+107
+00:04:38.01 --> 00:04:41.05
+there are ways to submit
+a copyright complaint.
+
+108
+00:04:41.05 --> 00:04:43.07
+And this allows you to take down content
+
+109
+00:04:43.07 --> 00:04:46.07
+that you are the rightful
+copyright holder on.
+
+110
+00:04:46.07 --> 00:04:50.07
+But keep in mind, don't
+do this frivolously.
+
+111
+00:04:50.07 --> 00:04:54.01
+If you start to submit copyright
+takedown claims on content
+
+112
+00:04:54.01 --> 00:04:58.01
+that isn't yours, you can
+actually face legal problems.
+
+113
+00:04:58.01 --> 00:05:01.05
+Copyright violation is something
+YouTube takes seriously,
+
+114
+00:05:01.05 --> 00:05:02.09
+as serious as we can say
+
+115
+00:05:02.09 --> 00:05:05.08
+that they take no responsibilities for it,
+
+116
+00:05:05.08 --> 00:05:07.09
+and they're not going to be held liable if
+
+117
+00:05:07.09 --> 00:05:09.08
+somebody violates someone's copyright,
+
+118
+00:05:09.08 --> 00:05:11.07
+but they will enforce a takedown
+
+119
+00:05:11.07 --> 00:05:15.00
+and pull down content that
+shouldn't be uploaded.
+
+120
+00:05:15.00 --> 00:05:17.09
+Additionally, for content that others own,
+
+121
+00:05:17.09 --> 00:05:19.07
+through the content ID system,
+
+122
+00:05:19.07 --> 00:05:21.00
+they do pay out money
+
+123
+00:05:21.00 --> 00:05:23.03
+and damages and loyalties
+
+124
+00:05:23.03 --> 00:05:27.01
+or revenue from the ads
+to those content holders.
+
+125
+00:05:27.01 --> 00:05:28.07
+So YouTube, as it has matured,
+
+126
+00:05:28.07 --> 00:05:31.01
+has taken copyright more seriously,
+
+127
+00:05:31.01 --> 00:05:33.04
+and does try to enforce copyright
+
+128
+00:05:33.04 --> 00:05:34.07
+and create an environment
+
+129
+00:05:34.07 --> 00:05:37.05
+where copyright violation doesn't happen.
+
+130
+00:05:37.05 --> 00:05:40.08
+But with all of those
+billions of hours of content,
+
+131
+00:05:40.08 --> 00:05:42.07
+it's pretty hard to enforce.
+
+132
+00:05:42.07 --> 00:05:44.04
+So it relies upon a system
+
+133
+00:05:44.04 --> 00:05:46.08
+of people filing claims when they feel
+
+134
+00:05:46.08 --> 00:05:50.00
+like their content has
+been misused or stolen.
+
+135
+00:05:50.00 --> 00:05:52.08
+So do keep in mind that YouTube
+
+136
+00:05:52.08 --> 00:05:56.04
+is a very interesting
+quagmire of copyright issues.
+
+137
+00:05:56.04 --> 00:05:59.08
+And if this is problematic to
+your organization or company,
+
+138
+00:05:59.08 --> 00:06:01.01
+make sure you explore it
+
+139
+00:06:01.01 --> 00:06:03.07
+and discuss it with a
+lawyer before you upload.
+

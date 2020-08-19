@@ -1,0 +1,772 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.000 --> 00:00:07.080
+- Now, can I ask you about embracing of change?
+
+2
+00:00:07.080 --> 00:00:09.030
+And before we started filming,
+
+3
+00:00:09.030 --> 00:00:11.050
+you mentioned that actually you think
+
+4
+00:00:11.050 --> 00:00:13.020
+that conventional project management
+
+5
+00:00:13.020 --> 00:00:15.010
+might even be too flexible.
+
+6
+00:00:15.010 --> 00:00:17.020
+Because one of the things that,
+
+7
+00:00:17.020 --> 00:00:19.090
+kind of irritates me about Agile people is they say,
+
+8
+00:00:19.090 --> 00:00:22.070
+"Ah, yes well Waterfall's too inflexible."
+
+9
+00:00:22.070 --> 00:00:23.060
+And that really annoys me
+
+10
+00:00:23.060 --> 00:00:26.000
+because I don't think Waterfall is inflexible.
+
+11
+00:00:26.000 --> 00:00:29.040
+It seems to me that, yes, you start with a plan
+
+12
+00:00:29.040 --> 00:00:31.040
+but if the customer wants
+
+13
+00:00:31.040 --> 00:00:34.020
+to change the plan at any time, they are welcome.
+
+14
+00:00:34.020 --> 00:00:35.070
+It'll probably cost a bit more.
+
+15
+00:00:35.070 --> 00:00:37.080
+And it'll probably delay the project a bit more,
+
+16
+00:00:37.080 --> 00:00:40.010
+but it's no problem to change the plan.
+
+17
+00:00:40.010 --> 00:00:42.020
+It just means that if you change the plan,
+
+18
+00:00:42.020 --> 00:00:43.090
+you know the effect of the change.
+
+19
+00:00:43.090 --> 00:00:45.080
+So I can tell you, "If you want to add on
+
+20
+00:00:45.080 --> 00:00:47.050
+"this extra bit to the project,
+
+21
+00:00:47.050 --> 00:00:48.080
+"it's going to take another three weeks
+
+22
+00:00:48.080 --> 00:00:51.020
+"and cost another 5,000 pounds or whatever."
+
+23
+00:00:51.020 --> 00:00:53.080
+So, and I'm not sort of punishing you
+
+24
+00:00:53.080 --> 00:00:55.020
+'cause I'm against change,
+
+25
+00:00:55.020 --> 00:00:56.070
+I'm just saying that's what it would
+
+26
+00:00:56.070 --> 00:00:58.000
+cost to make that change.
+
+27
+00:00:58.000 --> 00:01:00.010
+And I kind of feel that with Agile
+
+28
+00:01:00.010 --> 00:01:02.030
+if the customer changes something
+
+29
+00:01:02.030 --> 00:01:04.060
+no one really knows the effect of that change
+
+30
+00:01:04.060 --> 00:01:06.030
+because there wasn't a plan in the first place.
+
+31
+00:01:06.030 --> 00:01:08.050
+So, yeah, we can easily do the changes
+
+32
+00:01:08.050 --> 00:01:09.080
+but we don't know how much extra--
+
+33
+00:01:09.080 --> 00:01:12.000
+and therefore we can't make a sensible decision
+
+34
+00:01:12.000 --> 00:01:14.010
+about is it worth making the change.
+
+35
+00:01:14.010 --> 00:01:15.080
+Because if I was the customer and I said,
+
+36
+00:01:15.080 --> 00:01:18.050
+"Oh, can I change the design of my shower
+
+37
+00:01:18.050 --> 00:01:19.040
+"in my bathroom?"
+
+38
+00:01:19.040 --> 00:01:20.030
+And the guy said, "Well yeah,
+
+39
+00:01:20.030 --> 00:01:21.050
+"you can do that but it's going to cost
+
+40
+00:01:21.050 --> 00:01:23.010
+"another 20,000 pounds."
+
+41
+00:01:23.010 --> 00:01:25.000
+I'd say, "Oh, well actually in that case,
+
+42
+00:01:25.000 --> 00:01:26.030
+"let's not do it."
+
+43
+00:01:26.030 --> 00:01:27.060
+Where as with Agile they might go,
+
+44
+00:01:27.060 --> 00:01:28.080
+"Yeah, we can do that."
+
+45
+00:01:28.080 --> 00:01:30.060
+And you'd never kind of know the effect.
+
+46
+00:01:30.060 --> 00:01:32.030
+So, tell me a bit about
+
+47
+00:01:32.030 --> 00:01:33.060
+do you actually, do you,
+
+48
+00:01:33.060 --> 00:01:35.080
+'cause you know about Waterfall and Agile,
+
+49
+00:01:35.080 --> 00:01:40.030
+do you believe that Waterfall is inflexible?
+
+50
+00:01:40.030 --> 00:01:42.080
+And why might you even think it's too flexible?
+
+51
+00:01:42.080 --> 00:01:44.080
+Which is a very weird thing to have said.
+
+52
+00:01:44.080 --> 00:01:45.060
+- Yeah, I know.
+
+53
+00:01:45.060 --> 00:01:46.040
+It's, no I do.
+
+54
+00:01:46.040 --> 00:01:47.080
+I don't think that it's inflexible,
+
+55
+00:01:47.080 --> 00:01:49.070
+like I said I think it's too flexible
+
+56
+00:01:49.070 --> 00:01:52.090
+because when you're working on a Waterfall project
+
+57
+00:01:52.090 --> 00:01:55.030
+then you can, you know, you receive changes
+
+58
+00:01:55.030 --> 00:01:56.040
+kind of as you receive them.
+
+59
+00:01:56.040 --> 00:01:58.040
+You know, there's a lot of times there's a process.
+
+60
+00:01:58.040 --> 00:02:00.000
+You know, maybe you'll have a changed management team
+
+61
+00:02:00.000 --> 00:02:01.030
+or something like that.
+
+62
+00:02:01.030 --> 00:02:04.070
+But it's very difficult to keep track of these changes.
+
+63
+00:02:04.070 --> 00:02:06.060
+And you know, you have the iron triangle,
+
+64
+00:02:06.060 --> 00:02:08.040
+where you add a certain amount of changes and then--
+
+65
+00:02:08.040 --> 00:02:09.060
+- Which is cost, quality, and time.
+
+66
+00:02:09.060 --> 00:02:10.060
+- Cost, quality, yes, thank you.
+
+67
+00:02:10.060 --> 00:02:12.080
+And then the time goes up and then
+
+68
+00:02:12.080 --> 00:02:15.010
+of course the cost goes up once the time goes up.
+
+69
+00:02:15.010 --> 00:02:19.060
+And so, that to me seems a little too wishy,
+
+70
+00:02:19.060 --> 00:02:22.020
+you know, a little too flexible.
+
+71
+00:02:22.020 --> 00:02:24.050
+And also, a lot of times, since you're working,
+
+72
+00:02:24.050 --> 00:02:26.040
+when you're on a Waterfall project,
+
+73
+00:02:26.040 --> 00:02:27.050
+a lot of times, it's really difficult
+
+74
+00:02:27.050 --> 00:02:28.060
+to keep track of time.
+
+75
+00:02:28.060 --> 00:02:30.050
+You know, people will sit in a meeting
+
+76
+00:02:30.050 --> 00:02:32.000
+and it will be scheduled for an hour,
+
+77
+00:02:32.000 --> 00:02:34.060
+it'll turn into two hours and no one really knows
+
+78
+00:02:34.060 --> 00:02:37.090
+how much extra that's costing the project.
+
+79
+00:02:37.090 --> 00:02:41.000
+And so, what-- if you're working with a,
+
+80
+00:02:41.000 --> 00:02:45.020
+on an Agile team, then every metric is locked.
+
+81
+00:02:45.020 --> 00:02:48.030
+It's called a Timebox in scrum.
+
+82
+00:02:48.030 --> 00:02:51.070
+In that, you deliver what you promised
+
+83
+00:02:51.070 --> 00:02:54.080
+every two weeks over time.
+
+84
+00:02:54.080 --> 00:02:58.000
+And so, you always, your product, your customer
+
+85
+00:02:58.000 --> 00:03:01.000
+always has this sense of this kind of sustainable pace.
+
+86
+00:03:01.000 --> 00:03:04.000
+And they always have predictable delivery.
+
+87
+00:03:04.000 --> 00:03:06.050
+And so, it's not-- you know, if you
+
+88
+00:03:06.050 --> 00:03:09.000
+are going to add something, it's very easy
+
+89
+00:03:09.000 --> 00:03:10.080
+to keep track of how much it'll cost.
+
+90
+00:03:10.080 --> 00:03:14.050
+Because it'll knock some things off of the next sprint
+
+91
+00:03:14.050 --> 00:03:17.000
+and then you'll have to put new things in.
+
+92
+00:03:17.000 --> 00:03:19.000
+And so you can keep track of, sort of
+
+93
+00:03:19.000 --> 00:03:20.070
+what you're adding by saying,
+
+94
+00:03:20.070 --> 00:03:23.020
+"Okay, well, you added this and so
+
+95
+00:03:23.020 --> 00:03:25.030
+"it's going to add three more sprints,
+
+96
+00:03:25.030 --> 00:03:27.020
+"I know that I have five people on the team
+
+97
+00:03:27.020 --> 00:03:29.040
+"and so it's going to cost me this much amount--
+
+98
+00:03:29.040 --> 00:03:32.020
+"this amount to sort of add those extra sprints."
+
+99
+00:03:32.020 --> 00:03:34.090
+And so it's much easier to keep track of that stuff.
+
+100
+00:03:34.090 --> 00:03:38.030
+And so, I think with a deterministic plan,
+
+101
+00:03:38.030 --> 00:03:39.080
+you know, Waterfall or something like that,
+
+102
+00:03:39.080 --> 00:03:43.030
+we are trying to go months or even longer in advance
+
+103
+00:03:43.030 --> 00:03:46.040
+that teams sort of get-- lose track of time.
+
+104
+00:03:46.040 --> 00:03:48.000
+- I mean, you can go into more granularity
+
+105
+00:03:48.000 --> 00:03:49.070
+and you can say, "We'll divide it into small bits
+
+106
+00:03:49.070 --> 00:03:51.030
+"and we'll measure the small bits."
+
+107
+00:03:51.030 --> 00:03:52.060
+So there are ways.
+
+108
+00:03:52.060 --> 00:03:54.060
+- Yeah, it's just, but it's at every two weeks.
+
+109
+00:03:54.060 --> 00:03:56.000
+- But I can see that you can see the progress.
+
+110
+00:03:56.000 --> 00:03:57.060
+Well, there has to be the kind of project
+
+111
+00:03:57.060 --> 00:04:00.000
+where you can progress as you go along.
+
+112
+00:04:00.000 --> 00:04:01.030
+I mean, some things you might not see
+
+113
+00:04:01.030 --> 00:04:03.030
+progress for a while, I guess, but
+
+114
+00:04:03.030 --> 00:04:04.070
+if you've got a project where you can
+
+115
+00:04:04.070 --> 00:04:07.050
+see it in small bits, then Agile would show that.
+
+116
+00:04:07.050 --> 00:04:08.090
+- Yeah, and that's, and that's exactly right.
+
+117
+00:04:08.090 --> 00:04:10.090
+'Cause each, every two weeks, you're showing
+
+118
+00:04:10.090 --> 00:04:12.070
+your customer exactly what they have.
+
+119
+00:04:12.070 --> 00:04:15.000
+- So this, this locked-- did you call it
+
+120
+00:04:15.000 --> 00:04:16.020
+a locked down box?
+
+121
+00:04:16.020 --> 00:04:17.010
+- Timebox.
+
+122
+00:04:17.010 --> 00:04:17.090
+- A Timebox.
+
+123
+00:04:17.090 --> 00:04:19.020
+- Mm-hmm (affirmative)
+
+124
+00:04:19.020 --> 00:04:20.030
+- (laughs) I had a conversation with a guy
+
+125
+00:04:20.030 --> 00:04:21.030
+on a course once, and I think that
+
+126
+00:04:21.030 --> 00:04:23.040
+there are a lot of misconceptions about Agile
+
+127
+00:04:23.040 --> 00:04:25.070
+and people think they understand it and they don't.
+
+128
+00:04:25.070 --> 00:04:28.040
+And I was talking to this Agile guy and he was saying,
+
+129
+00:04:28.040 --> 00:04:30.070
+"When we start the project, we don't have a plan
+
+130
+00:04:30.070 --> 00:04:32.070
+"for the whole thing, you know, we really don't.
+
+131
+00:04:32.070 --> 00:04:35.060
+"And every week, we look at the backlog of tasks
+
+132
+00:04:35.060 --> 00:04:37.080
+"and we choose what to do."
+
+133
+00:04:37.080 --> 00:04:40.070
+And I said, "So you don't know how long
+
+134
+00:04:40.070 --> 00:04:42.040
+"it's going to cost-- you don't know how long
+
+135
+00:04:42.040 --> 00:04:44.060
+"it's going to take in total, do you?
+
+136
+00:04:44.060 --> 00:04:47.080
+"And also, you don't know how much it's going to cost?"
+
+137
+00:04:47.080 --> 00:04:49.070
+And he said, "Well, no," he said.
+
+138
+00:04:49.070 --> 00:04:51.070
+"Chris, that's not really true," he said.
+
+139
+00:04:51.070 --> 00:04:56.000
+"I can finish the project on any date you want,
+
+140
+00:04:56.000 --> 00:04:58.070
+"I just can't tell you what I would've done by then."
+
+141
+00:04:58.070 --> 00:05:00.050
+(laughs) And I'm just thinking, well,
+
+142
+00:05:00.050 --> 00:05:02.030
+that's just stopping halfway through.
+
+143
+00:05:02.030 --> 00:05:04.030
+You know, you can stop when you run out of time
+
+144
+00:05:04.030 --> 00:05:06.080
+or you can stop when you run out of money,
+
+145
+00:05:06.080 --> 00:05:08.090
+but that's not what project management--
+
+146
+00:05:08.090 --> 00:05:11.050
+Project management is saying, "I will finish
+
+147
+00:05:11.050 --> 00:05:13.050
+"on a particular date and I will have finished
+
+148
+00:05:13.050 --> 00:05:15.050
+"the whole job by that date
+
+149
+00:05:15.050 --> 00:05:17.070
+"and I will have done it within the budget."
+
+150
+00:05:17.070 --> 00:05:20.080
+And I'm thinking, is there something in Agile about,
+
+151
+00:05:20.080 --> 00:05:22.070
+you put the deliverables in priority,
+
+152
+00:05:22.070 --> 00:05:24.040
+and then when you run out of money,
+
+153
+00:05:24.040 --> 00:05:25.070
+you've done all the top ones and
+
+154
+00:05:25.070 --> 00:05:29.030
+you've done most of the others, so that's the result.
+
+155
+00:05:29.030 --> 00:05:33.000
+Or can you really tell me when you will finish
+
+156
+00:05:33.000 --> 00:05:35.070
+and what the whole project will cost?
+
+157
+00:05:35.070 --> 00:05:36.050
+- And that-- excuse me,
+
+158
+00:05:36.050 --> 00:05:37.090
+that's where things get freaky again.
+
+159
+00:05:37.090 --> 00:05:40.000
+So this, this idea of incremental
+
+160
+00:05:40.000 --> 00:05:42.070
+and iterative product delivery.
+
+161
+00:05:42.070 --> 00:05:46.020
+So, if we went back to our house, which we talked about.
+
+162
+00:05:46.020 --> 00:05:49.030
+So, if you're building it out a room at a time,
+
+163
+00:05:49.030 --> 00:05:52.040
+you know, you've got your kitchen, you've got your bathroom.
+
+164
+00:05:52.040 --> 00:05:55.070
+If that was an Agile product, your customer
+
+165
+00:05:55.070 --> 00:05:58.090
+might decide that they don't need an extra--
+
+166
+00:05:58.090 --> 00:06:00.080
+you know they don't need a living room,
+
+167
+00:06:00.080 --> 00:06:01.060
+or something like that.
+
+168
+00:06:01.060 --> 00:06:02.050
+I mean, that would be unlikely
+
+169
+00:06:02.050 --> 00:06:03.030
+but maybe they only need
+
+170
+00:06:03.030 --> 00:06:05.040
+three bedrooms instead of four.
+
+171
+00:06:05.040 --> 00:06:08.000
+And so, since you're building it up
+
+172
+00:06:08.000 --> 00:06:10.010
+a room at a time, feature complete
+
+173
+00:06:10.010 --> 00:06:13.030
+with a roof and everything, then
+
+174
+00:06:13.030 --> 00:06:14.090
+your customer could say, "You know what?
+
+175
+00:06:14.090 --> 00:06:16.030
+I'm running out of money.
+
+176
+00:06:16.030 --> 00:06:19.060
+I will take this house with two fewer bedrooms,
+
+177
+00:06:19.060 --> 00:06:21.080
+because I need to live in something
+
+178
+00:06:21.080 --> 00:06:25.000
+and this is the date, you know, so let's just stop working."
+
+179
+00:06:25.000 --> 00:06:26.090
+- And that would be the best thing to miss out.
+
+180
+00:06:26.090 --> 00:06:28.030
+If you, if you run out of money,
+
+181
+00:06:28.030 --> 00:06:29.020
+and you got to miss something,
+
+182
+00:06:29.020 --> 00:06:31.070
+you want to miss the least good bit.
+
+183
+00:06:31.070 --> 00:06:32.060
+- The least valuable.
+
+184
+00:06:32.060 --> 00:06:33.080
+- So I can see the point of doing that last,
+
+185
+00:06:33.080 --> 00:06:34.080
+if it's the kind of project where
+
+186
+00:06:34.080 --> 00:06:36.030
+you can do things in any order.
+
+187
+00:06:36.030 --> 00:06:37.020
+- Yeah.
+
+188
+00:06:37.020 --> 00:06:38.070
+- Then I can see why you would do that.
+
+189
+00:06:38.070 --> 00:06:40.000
+- Yeah, and that's, it's-- so that's
+
+190
+00:06:40.000 --> 00:06:41.090
+incremental and iterative delivery
+
+191
+00:06:41.090 --> 00:06:44.070
+and you're just sort of building it up over time
+
+192
+00:06:44.070 --> 00:06:48.000
+and then whatever's left should be the lowest value.
+

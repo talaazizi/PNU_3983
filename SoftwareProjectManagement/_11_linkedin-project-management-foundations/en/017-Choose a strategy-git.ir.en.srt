@@ -1,0 +1,308 @@
+1
+00:00:00,719 --> 00:00:04,640
+you're likely to find that there's more
+
+2
+00:00:02,560 --> 00:00:06,720
+than one way to achieve your project
+
+3
+00:00:04,640 --> 00:00:08,639
+goal and objectives
+
+4
+00:00:06,720 --> 00:00:10,080
+let's look at how you can evaluate
+
+5
+00:00:08,639 --> 00:00:13,440
+alternative strategies
+
+6
+00:00:10,080 --> 00:00:16,240
+and select the right solution
+
+7
+00:00:13,440 --> 00:00:16,720
+first bring together a small group of
+
+8
+00:00:16,240 --> 00:00:19,119
+people
+
+9
+00:00:16,720 --> 00:00:20,960
+familiar with the project to brainstorm
+
+10
+00:00:19,119 --> 00:00:23,600
+strategies
+
+11
+00:00:20,960 --> 00:00:25,279
+as a group read the problem statement
+
+12
+00:00:23,600 --> 00:00:27,519
+goal and objectives
+
+13
+00:00:25,279 --> 00:00:29,599
+and then begin generating possible
+
+14
+00:00:27,519 --> 00:00:32,160
+strategies
+
+15
+00:00:29,599 --> 00:00:33,440
+brainstorming should be a free flow of
+
+16
+00:00:32,160 --> 00:00:35,520
+ideas
+
+17
+00:00:33,440 --> 00:00:36,880
+the point is to get as many ideas
+
+18
+00:00:35,520 --> 00:00:40,079
+written down as possible
+
+19
+00:00:36,880 --> 00:00:42,399
+before you begin evaluating them once
+
+20
+00:00:40,079 --> 00:00:44,559
+you've identified possible strategies
+
+21
+00:00:42,399 --> 00:00:47,039
+you evaluate them
+
+22
+00:00:44,559 --> 00:00:48,719
+a decision matrix helps you compare the
+
+23
+00:00:47,039 --> 00:00:52,000
+options
+
+24
+00:00:48,719 --> 00:00:54,640
+first the group should evaluate how well
+
+25
+00:00:52,000 --> 00:00:56,559
+each strategy satisfies the project
+
+26
+00:00:54,640 --> 00:00:58,800
+objectives
+
+27
+00:00:56,559 --> 00:00:59,680
+one way to quickly shorten the list of
+
+28
+00:00:58,800 --> 00:01:02,559
+contenders
+
+29
+00:00:59,680 --> 00:01:03,199
+is to check whether a strategy satisfies
+
+30
+00:01:02,559 --> 00:01:06,400
+all the
+
+31
+00:01:03,199 --> 00:01:08,880
+must-have objectives if a strategy
+
+32
+00:01:06,400 --> 00:01:10,479
+doesn't satisfy one of your must-haves
+
+33
+00:01:08,880 --> 00:01:12,400
+you don't have to fill out the rest of
+
+34
+00:01:10,479 --> 00:01:15,520
+the values for that strategy
+
+35
+00:01:12,400 --> 00:01:18,000
+like option 4 in this example
+
+36
+00:01:15,520 --> 00:01:19,520
+next rate the performance for each
+
+37
+00:01:18,000 --> 00:01:21,759
+objective
+
+38
+00:01:19,520 --> 00:01:22,880
+when some objectives are more important
+
+39
+00:01:21,759 --> 00:01:26,400
+than others
+
+40
+00:01:22,880 --> 00:01:27,439
+increase their weighting the strategy
+
+41
+00:01:26,400 --> 00:01:29,759
+with the highest
+
+42
+00:01:27,439 --> 00:01:31,680
+overall rating is most likely your
+
+43
+00:01:29,759 --> 00:01:33,840
+winner
+
+44
+00:01:31,680 --> 00:01:35,439
+for the top strategy from the decision
+
+45
+00:01:33,840 --> 00:01:39,360
+matrix the group then
+
+46
+00:01:35,439 --> 00:01:42,399
+asks is this strategy feasible
+
+47
+00:01:39,360 --> 00:01:44,720
+for example strategies that use new
+
+48
+00:01:42,399 --> 00:01:48,320
+technology or unproven methods
+
+49
+00:01:44,720 --> 00:01:49,119
+might not work if feasibility could be
+
+50
+00:01:48,320 --> 00:01:51,439
+an issue
+
+51
+00:01:49,119 --> 00:01:53,200
+a feasibility study can explore whether
+
+52
+00:01:51,439 --> 00:01:55,280
+the strategy will work
+
+53
+00:01:53,200 --> 00:01:57,200
+without committing too much time or
+
+54
+00:01:55,280 --> 00:01:59,520
+money
+
+55
+00:01:57,200 --> 00:02:02,159
+next consider whether the strategies
+
+56
+00:01:59,520 --> 00:02:04,159
+risks are acceptable
+
+57
+00:02:02,159 --> 00:02:06,880
+you won't know all the risks at this
+
+58
+00:02:04,159 --> 00:02:09,920
+point you can perform an initial
+
+59
+00:02:06,880 --> 00:02:10,239
+risk analysis to see whether any risks
+
+60
+00:02:09,920 --> 00:02:12,879
+are
+
+61
+00:02:10,239 --> 00:02:14,239
+so significant and likely that a
+
+62
+00:02:12,879 --> 00:02:17,360
+different strategy
+
+63
+00:02:14,239 --> 00:02:19,840
+makes more sense finally consider
+
+64
+00:02:17,360 --> 00:02:22,080
+whether the strategy fits the culture of
+
+65
+00:02:19,840 --> 00:02:24,400
+the organization
+
+66
+00:02:22,080 --> 00:02:25,599
+trying to force a strategy that doesn't
+
+67
+00:02:24,400 --> 00:02:28,879
+fit with the culture
+
+68
+00:02:25,599 --> 00:02:30,800
+is a losing battle believe me
+
+69
+00:02:28,879 --> 00:02:34,000
+you won't get the commitment you need
+
+70
+00:02:30,800 --> 00:02:36,720
+from management or team members
+
+71
+00:02:34,000 --> 00:02:38,480
+evaluating alternative strategies helps
+
+72
+00:02:36,720 --> 00:02:40,319
+you pick the right solution for your
+
+73
+00:02:38,480 --> 00:02:42,879
+project
+
+74
+00:02:40,319 --> 00:02:44,480
+practice by using the decision matrix in
+
+75
+00:02:42,879 --> 00:02:47,280
+the exercise files
+
+76
+00:02:44,480 --> 00:02:50,959
+to evaluate strategies for the hospital
+
+77
+00:02:47,280 --> 00:02:50,959
+scheduling project
+

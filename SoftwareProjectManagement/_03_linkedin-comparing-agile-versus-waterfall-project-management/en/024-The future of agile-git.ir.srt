@@ -1,0 +1,296 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:03.090 --> 00:00:06.050
+- Okay, so, Agile is working fine
+
+2
+00:00:06.050 --> 00:00:10.050
+on small software projects.
+
+3
+00:00:10.050 --> 00:00:14.040
+There's, we talked about SAFe, Scaled Agile Framework
+
+4
+00:00:14.040 --> 00:00:15.090
+where they're trying to make it into big things
+
+5
+00:00:15.090 --> 00:00:18.080
+and release trains and all of those things.
+
+6
+00:00:18.080 --> 00:00:20.090
+But, what do you the future--
+
+7
+00:00:20.090 --> 00:00:23.050
+do you think it will die off again?
+
+8
+00:00:23.050 --> 00:00:25.090
+It will just become one of many tools?
+
+9
+00:00:25.090 --> 00:00:27.050
+Is it going to get bigger?
+
+10
+00:00:27.050 --> 00:00:29.030
+Is it going in the wrong direction?
+
+11
+00:00:29.030 --> 00:00:32.020
+Tell me about the future of Agile, (mumbles).
+
+12
+00:00:32.020 --> 00:00:35.090
+- Well, I think that one of the challenges around Agile
+
+13
+00:00:35.090 --> 00:00:41.050
+is that it's generally not done very well yet.
+
+14
+00:00:41.050 --> 00:00:43.080
+There's a lot of Agile coaches out there
+
+15
+00:00:43.080 --> 00:00:49.000
+and I worry that there's a lot of bad Agile out there.
+
+16
+00:00:49.000 --> 00:00:51.030
+People who do the mixed approach that we talked about.
+
+17
+00:00:51.030 --> 00:00:54.030
+And so managers and executives think to themselves, okay.
+
+18
+00:00:54.030 --> 00:00:58.080
+This is kind of a West Coast weird thing.
+
+19
+00:00:58.080 --> 00:01:01.070
+There's a lot of stuff in Agile that is questionable.
+
+20
+00:01:01.070 --> 00:01:04.010
+Like shared spaces and things like that.
+
+21
+00:01:04.010 --> 00:01:05.090
+There was a big move toward shared workspace,
+
+22
+00:01:05.090 --> 00:01:08.040
+everybody sitting at the same table together and working.
+
+23
+00:01:08.040 --> 00:01:10.060
+Turns out there started and a lot of people hate it.
+
+24
+00:01:10.060 --> 00:01:12.000
+Which I understand, I would hate it.
+
+25
+00:01:12.000 --> 00:01:13.060
+- Is that mob programming?
+
+26
+00:01:13.060 --> 00:01:14.060
+Mobbing, of is that something different?
+
+27
+00:01:14.060 --> 00:01:15.060
+(laughter)
+
+28
+00:01:15.060 --> 00:01:17.070
+- Well, it's--
+
+29
+00:01:17.070 --> 00:01:19.090
+- Going one step even further, everybody works
+
+30
+00:01:19.090 --> 00:01:21.000
+on the same thing as a group.
+
+31
+00:01:21.000 --> 00:01:22.070
+I can't imagine how that would work, but still.
+
+32
+00:01:22.070 --> 00:01:23.050
+- Sounds horrible to me
+
+33
+00:01:23.050 --> 00:01:26.010
+but I've seen shared workspace and so there's a lot
+
+34
+00:01:26.010 --> 00:01:28.030
+of practices that get thrown into Agile.
+
+35
+00:01:28.030 --> 00:01:31.070
+I'm worried that executives and managers
+
+36
+00:01:31.070 --> 00:01:33.080
+are going to be like, well, this Agile was interesting
+
+37
+00:01:33.080 --> 00:01:37.090
+for a couple of years but is not quite ready for primetime.
+
+38
+00:01:37.090 --> 00:01:39.090
+I think some of the scaling frameworks
+
+39
+00:01:39.090 --> 00:01:42.070
+will only exacerbate that problem.
+
+40
+00:01:42.070 --> 00:01:44.030
+Instead, they'll just say,
+
+41
+00:01:44.030 --> 00:01:46.030
+why am I adding all these processes
+
+42
+00:01:46.030 --> 00:01:49.030
+when it's not really adding that much value?
+
+43
+00:01:49.030 --> 00:01:51.030
+I don't think they have great metrics
+
+44
+00:01:51.030 --> 00:01:53.050
+about whether or not it's that much better
+
+45
+00:01:53.050 --> 00:01:55.030
+than just doing a traditional deterministic
+
+46
+00:01:55.030 --> 00:01:57.070
+waterfall style approach.
+
+47
+00:01:57.070 --> 00:02:00.000
+But I'm much more optimistic about using Agile
+
+48
+00:02:00.000 --> 00:02:02.060
+for more scientific products.
+
+49
+00:02:02.060 --> 00:02:05.040
+I think that Agile in data discovery,
+
+50
+00:02:05.040 --> 00:02:08.020
+Agile creating A.I. products,
+
+51
+00:02:08.020 --> 00:02:10.080
+where you're really figuring things out as you're--
+
+52
+00:02:10.080 --> 00:02:15.010
+- A.I. is Agile almost by definition, isn't it?
+
+53
+00:02:15.010 --> 00:02:17.030
+The machine is doing some sort of Agile process,
+
+54
+00:02:17.030 --> 00:02:18.060
+you don't even know what it's doing.
+
+55
+00:02:18.060 --> 00:02:19.060
+- Well, no one knows what it's,
+
+56
+00:02:19.060 --> 00:02:23.080
+but if you're doing machine learning, it's a black box.
+
+57
+00:02:23.080 --> 00:02:26.020
+But Agile's a very good approach, this kind
+
+58
+00:02:26.020 --> 00:02:28.080
+of empirical approach because some of this stuff
+
+59
+00:02:28.080 --> 00:02:30.000
+is getting so complicated.
+
+60
+00:02:30.000 --> 00:02:33.040
+You could never say what I want to do,
+
+61
+00:02:33.040 --> 00:02:35.080
+'cause if you knew what you want to get from your data,
+
+62
+00:02:35.080 --> 00:02:37.070
+then you wouldn't be exploring.
+
+63
+00:02:37.070 --> 00:02:41.000
+And so these exploratory products are, I think,
+
+64
+00:02:41.000 --> 00:02:44.040
+very well suited to Agile.
+
+65
+00:02:44.040 --> 00:02:45.030
+- Brilliant.
+
+66
+00:02:45.030 --> 00:02:46.060
+Well, thanks very much for your time.
+
+67
+00:02:46.060 --> 00:02:48.080
+Thanks for coming all the way from America
+
+68
+00:02:48.080 --> 00:02:50.080
+to be interviewed (mumbles). - I know, terrific!
+
+69
+00:02:50.080 --> 00:02:53.050
+- It's been fascinating and I think I'm a lot clearer now
+
+70
+00:02:53.050 --> 00:02:55.080
+on where the edges are, what's good and what isn't
+
+71
+00:02:55.080 --> 00:02:58.010
+about Agile, so thanks very much.
+
+72
+00:02:58.010 --> 00:02:59.010
+Doug Rose.
+
+73
+00:02:59.010 --> 00:03:00.000
+- Chris.
+

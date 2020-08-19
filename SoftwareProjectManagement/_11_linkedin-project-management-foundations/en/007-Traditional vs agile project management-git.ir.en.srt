@@ -1,0 +1,162 @@
+1
+00:00:00,630 --> 00:00:06,050
+Let's examine two common approaches to project
+management and how to choose the right one
+
+2
+00:00:06,050 --> 00:00:12,701
+for your projects when each project management
+process group occurs one after another, it's
+
+3
+00:00:12,701 --> 00:00:18,400
+known as traditional project management or
+the waterfall approach because the processes
+
+4
+00:00:18,400 --> 00:00:22,230
+flow from one to the next.
+
+5
+00:00:22,230 --> 00:00:26,749
+Waterfall Project Management works well when
+the project goal and solution are clearly
+
+6
+00:00:26,749 --> 00:00:32,680
+defined and the scope and deliverables are
+clear cut because you understand what needs
+
+7
+00:00:32,680 --> 00:00:38,470
+to be done, you step through each process
+group once from start to finish.
+
+8
+00:00:38,470 --> 00:00:43,210
+The more you know about the project, the better
+the waterfall approach works.
+
+9
+00:00:43,210 --> 00:00:48,440
+Simple projects with very little uncertainty
+are great candidates because you know what
+
+10
+00:00:48,440 --> 00:00:54,210
+needs to be done and how to handle issues
+that arise with familiar technology.
+
+11
+00:00:54,210 --> 00:00:59,570
+Your team can be productive because they know
+the potential problems and how to work around
+
+12
+00:00:59,570 --> 00:01:00,570
+them.
+
+13
+00:01:00,570 --> 00:01:04,460
+If teams have worked on similar projects in
+the past, they can be more productive because
+
+14
+00:01:04,460 --> 00:01:10,600
+they understand the work and know how to prevent
+or resolve common problems.
+
+15
+00:01:10,600 --> 00:01:15,810
+With many projects today, you don't know what
+the solution looks like, so you have to figure
+
+16
+00:01:15,810 --> 00:01:21,909
+it out as you go, this type of project requires
+a different approach.
+
+17
+00:01:21,909 --> 00:01:28,009
+Agile project management goes through iterations
+sometimes called sprints, to deliver partial
+
+18
+00:01:28,009 --> 00:01:32,770
+yet production quality solutions at regular
+intervals.
+
+19
+00:01:32,770 --> 00:01:37,850
+With this approach, the customer gets value
+from the project sooner.
+
+20
+00:01:37,850 --> 00:01:43,299
+In addition, the customer's feedback on what's
+been delivered so far can help improve the
+
+21
+00:01:43,299 --> 00:01:50,549
+overall solution, the customer has to be more
+involved than in traditional projects.
+
+22
+00:01:50,549 --> 00:01:57,619
+Project teams tend to be smaller, more experienced
+and able to work without much supervision.
+
+23
+00:01:57,619 --> 00:02:01,889
+During initiating and planning, you defined
+the overall goal for the project and build
+
+24
+00:02:01,889 --> 00:02:04,950
+a plan to achieve that goal.
+
+25
+00:02:04,950 --> 00:02:12,130
+With agile project management, you then develop
+detailed plans for each iteration.
+
+26
+00:02:12,130 --> 00:02:18,140
+Executing is easier because you work on one
+iteration at a time, and small independent
+
+27
+00:02:18,140 --> 00:02:23,810
+teams of highly skilled people make it easier
+to get the work done.
+
+28
+00:02:23,810 --> 00:02:29,830
+Another characteristic of agile projects is
+that you monitor and control them more closely
+
+29
+00:02:29,830 --> 00:02:33,890
+and teams tend to communicate faster and more
+frequently.
+
+30
+00:02:33,890 --> 00:02:42,310
+Finally, each iteration has its own closing
+process for accepting its specific deliverables.
+
+31
+00:02:42,310 --> 00:02:48,240
+When the final iteration is accepted, you
+can close the entire project.
+
+32
+00:02:48,240 --> 00:02:53,650
+You'll determine whether the traditional or
+agile approach makes sense during project
+
+33
+00:02:53,650 --> 00:02:58,360
+initiation, once you know whether or not your
+solution is clear.
+

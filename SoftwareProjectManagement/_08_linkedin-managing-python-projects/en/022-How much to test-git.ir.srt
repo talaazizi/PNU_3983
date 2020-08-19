@@ -1,0 +1,128 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,09
+- [Instructor] You will never have enough tests.
+
+2
+00:00:02,09 --> 00:00:04,05
+Developers tend to think that
+
+3
+00:00:04,05 --> 00:00:06,06
+the more tests you have, the better.
+
+4
+00:00:06,06 --> 00:00:09,03
+However, tests have a price.
+
+5
+00:00:09,03 --> 00:00:13,00
+It takes time and effort to write and maintain tests.
+
+6
+00:00:13,00 --> 00:00:16,09
+Changes to the code take more time the more tests you have.
+
+7
+00:00:16,09 --> 00:00:19,00
+You can think of tests as weight
+
+8
+00:00:19,00 --> 00:00:22,08
+and the more you have, it's harder to change direction.
+
+9
+00:00:22,08 --> 00:00:25,00
+It doesn't mean you shouldn't write tests,
+
+10
+00:00:25,00 --> 00:00:27,06
+but you need to know the cost and factor it in.
+
+11
+00:00:27,06 --> 00:00:31,00
+I say that the major factor of how much to test
+
+12
+00:00:31,00 --> 00:00:32,07
+is the cost of error.
+
+13
+00:00:32,07 --> 00:00:35,07
+The higher the cost, the more tests you'll write.
+
+14
+00:00:35,07 --> 00:00:38,00
+For example, if you work at NASA
+
+15
+00:00:38,00 --> 00:00:40,09
+chances are that every bug can cost billions
+
+16
+00:00:40,09 --> 00:00:43,02
+and maybe even lives of people.
+
+17
+00:00:43,02 --> 00:00:47,03
+NASA has a very strict process on how to write software,
+
+18
+00:00:47,03 --> 00:00:50,00
+which is probably an overkill for you.
+
+19
+00:00:50,00 --> 00:00:51,06
+You should evaluate the risk of having a bug
+
+20
+00:00:51,06 --> 00:00:54,04
+and plan testing accordingly.
+
+21
+00:00:54,04 --> 00:00:57,02
+Note, that it doesn't matter how much you test,
+
+22
+00:00:57,02 --> 00:00:59,04
+some bugs will slip through.
+
+23
+00:00:59,04 --> 00:01:03,00
+Even NASA, with it's super effective process,
+
+24
+00:01:03,00 --> 00:01:05,06
+managed to ship bugs to Mars.
+
+25
+00:01:05,06 --> 00:01:09,02
+However, they were also able to fix bugs on Mars,
+
+26
+00:01:09,02 --> 00:01:11,06
+which I find mind-blowing.
+
+27
+00:01:11,06 --> 00:01:14,02
+You should plan for bugs getting to production.
+
+28
+00:01:14,02 --> 00:01:16,09
+Add logging and other data so you'll be able find
+
+29
+00:01:16,09 --> 00:01:18,02
+and fix them quickly.
+
+30
+00:01:18,02 --> 00:01:21,03
+Your company should have a process to update
+
+31
+00:01:21,03 --> 00:01:23,00
+or roll back versions.
+

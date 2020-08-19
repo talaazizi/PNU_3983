@@ -1,0 +1,833 @@
+1
+
+00:00:00,07 --> 00:00:03,06
+
+
+Agile is a very broad term for a family
+
+
+
+2
+
+00:00:03,06 --> 00:00:05,03
+
+of project life cycles.
+
+
+
+3
+
+00:00:05,03 --> 00:00:07,08
+
+All of these approaches share their foundation
+
+
+
+4
+
+00:00:07,08 --> 00:00:11,09
+
+in lean methods, where the focus is on eliminating wasteful
+
+
+
+5
+
+00:00:11,09 --> 00:00:14,01
+
+or non-valuable work.
+
+
+
+6
+
+00:00:14,01 --> 00:00:16,07
+
+For a full discussion of the agile mindset
+
+
+
+7
+
+00:00:16,07 --> 00:00:19,02
+
+and all the different ways it can be used,
+
+
+
+8
+
+00:00:19,02 --> 00:00:22,00
+
+check out the course Agile Foundations.
+
+
+
+9
+
+00:00:22,00 --> 00:00:24,00
+
+To keep our discussion here brief,
+
+
+
+10
+
+00:00:24,00 --> 00:00:26,08
+
+we'll pick just one way the agile mindset
+
+
+
+11
+
+00:00:26,08 --> 00:00:28,03
+
+is put into practice.
+
+
+
+12
+
+00:00:28,03 --> 00:00:31,05
+
+The most common framework is scrum.
+
+
+
+13
+
+00:00:31,05 --> 00:00:34,02
+
+So, how does scrum begin?
+
+
+
+14
+
+00:00:34,02 --> 00:00:38,04
+
+Well, there's an assumption from the scrum mindset
+
+
+
+15
+
+00:00:38,04 --> 00:00:41,09
+
+that your organization already has a process in place
+
+
+
+16
+
+00:00:41,09 --> 00:00:43,08
+
+for projects to get approved.
+
+
+
+17
+
+00:00:43,08 --> 00:00:48,03
+
+This does not dictate how you initiate your projects,
+
+
+
+18
+
+00:00:48,03 --> 00:00:51,00
+
+all it says is that when you have those
+
+
+
+19
+
+00:00:51,00 --> 00:00:53,05
+
+processes established in your organization,
+
+
+
+20
+
+00:00:53,05 --> 00:00:55,07
+
+it should be efficient, it should be quick,
+
+
+
+21
+
+00:00:55,07 --> 00:00:58,05
+
+and it shouldn't burden the team or the stakeholders
+
+
+
+22
+
+00:00:58,05 --> 00:01:01,04
+
+with unnecessary or wasteful work.
+
+
+
+23
+
+00:01:01,04 --> 00:01:04,02
+
+In scrum, there are three key players,
+
+
+
+24
+
+00:01:04,02 --> 00:01:07,08
+
+and the product owner is arguably the most important one.
+
+
+
+25
+
+00:01:07,08 --> 00:01:10,02
+
+The product owner, or PO for short,
+
+
+
+26
+
+00:01:10,02 --> 00:01:14,02
+
+is the business and stakeholder rep for the team.
+
+
+
+27
+
+00:01:14,02 --> 00:01:18,00
+
+They're really the glue that takes the idea of the product
+
+
+
+28
+
+00:01:18,00 --> 00:01:20,09
+
+or project and links it with the team
+
+
+
+29
+
+00:01:20,09 --> 00:01:24,00
+
+because they're deciding what is the most valuable work
+
+
+
+30
+
+00:01:24,00 --> 00:01:26,08
+
+that this team needs to do.
+
+
+
+31
+
+00:01:26,08 --> 00:01:30,00
+
+Another key player is the scrum master.
+
+
+
+32
+
+00:01:30,00 --> 00:01:33,08
+
+This individual owns the scrum process.
+
+
+
+33
+
+00:01:33,08 --> 00:01:36,08
+
+They control the framework
+
+
+
+34
+
+00:01:36,08 --> 00:01:39,01
+
+and how the team applies the framework
+
+
+
+35
+
+00:01:39,01 --> 00:01:40,07
+
+as they're doing the work.
+
+
+
+36
+
+00:01:40,07 --> 00:01:44,03
+
+They help the team to deliver as much as possible
+
+
+
+37
+
+00:01:44,03 --> 00:01:48,01
+
+with high quality and a focus on the detail
+
+
+
+38
+
+00:01:48,01 --> 00:01:50,04
+
+of the work execution.
+
+
+
+39
+
+00:01:50,04 --> 00:01:54,05
+
+Finally, the next key player is the scrum team.
+
+
+
+40
+
+00:01:54,05 --> 00:01:57,09
+
+The scrum team is a cross-functional group of individuals.
+
+
+
+41
+
+00:01:57,09 --> 00:02:00,04
+
+They have all the skills needed
+
+
+
+42
+
+00:02:00,04 --> 00:02:04,00
+
+to complete the work in the product backlog.
+
+
+
+43
+
+00:02:04,00 --> 00:02:07,05
+
+The PO is the one requesting the work to be done,
+
+
+
+44
+
+00:02:07,05 --> 00:02:12,02
+
+the team is the one deciding how to accomplish this work.
+
+
+
+45
+
+00:02:12,02 --> 00:02:15,02
+
+So, in scrum, how do they actually do their work?
+
+
+
+46
+
+00:02:15,02 --> 00:02:17,04
+
+Well, they don't have phases.
+
+
+
+47
+
+00:02:17,04 --> 00:02:19,08
+
+They use time boxes, or sprints,
+
+
+
+48
+
+00:02:19,08 --> 00:02:22,01
+
+and sprints are usually two weeks,
+
+
+
+49
+
+00:02:22,01 --> 00:02:24,08
+
+and they keep cycling through sprint after sprint
+
+
+
+50
+
+00:02:24,08 --> 00:02:27,07
+
+after sprint until all the project work is done,
+
+
+
+51
+
+00:02:27,07 --> 00:02:31,06
+
+or all the requests from the product owner are complete.
+
+
+
+52
+
+00:02:31,06 --> 00:02:35,09
+
+So, it sounds very loose, but they do stay organized.
+
+
+
+53
+
+00:02:35,09 --> 00:02:38,05
+
+There are two ways that scrum teams stay organized,
+
+
+
+54
+
+00:02:38,05 --> 00:02:40,07
+
+they use artifacts and they use ceremonies.
+
+
+
+55
+
+00:02:40,07 --> 00:02:43,00
+
+Artifacts are just documents,
+
+
+
+56
+
+00:02:43,00 --> 00:02:44,04
+
+and ceremonies are the meetings
+
+
+
+57
+
+00:02:44,04 --> 00:02:46,09
+
+that they use to coordinate their activities.
+
+
+
+58
+
+00:02:46,09 --> 00:02:48,06
+
+So, let's talk a little bit about the kinds
+
+
+
+59
+
+00:02:48,06 --> 00:02:51,02
+
+of artifacts that the scrum team uses.
+
+
+
+60
+
+00:02:51,02 --> 00:02:53,02
+
+Well, the first, and probably the most important,
+
+
+
+61
+
+00:02:53,02 --> 00:02:55,00
+
+is the product backlog.
+
+
+
+62
+
+00:02:55,00 --> 00:02:58,08
+
+This is the long list of work that the PO wants completed.
+
+
+
+63
+
+00:02:58,08 --> 00:03:01,01
+
+The team, then, works with the product owner
+
+
+
+64
+
+00:03:01,01 --> 00:03:04,09
+
+to select a subset of this to create the next artifact,
+
+
+
+65
+
+00:03:04,09 --> 00:03:06,06
+
+which is the sprint backlog.
+
+
+
+66
+
+00:03:06,06 --> 00:03:08,01
+
+What's in the sprint backlog is
+
+
+
+67
+
+00:03:08,01 --> 00:03:09,06
+
+what the team is actually committing
+
+
+
+68
+
+00:03:09,06 --> 00:03:12,03
+
+to for the next two-week period.
+
+
+
+69
+
+00:03:12,03 --> 00:03:15,04
+
+Finally, there's the product increment itself.
+
+
+
+70
+
+00:03:15,04 --> 00:03:18,03
+
+The increment is the embodiment of all the work
+
+
+
+71
+
+00:03:18,03 --> 00:03:20,01
+
+that's completed in the current sprint
+
+
+
+72
+
+00:03:20,01 --> 00:03:22,07
+
+and all the previous sprints.
+
+
+
+73
+
+00:03:22,07 --> 00:03:25,08
+
+So, how do they coordinate their work with each other?
+
+
+
+74
+
+00:03:25,08 --> 00:03:28,02
+
+Well, let's talk about the ceremonies they use.
+
+
+
+75
+
+00:03:28,02 --> 00:03:29,08
+
+There are five of them.
+
+
+
+76
+
+00:03:29,08 --> 00:03:32,04
+
+The first is the sprint itself, it's a ceremony.
+
+
+
+77
+
+00:03:32,04 --> 00:03:35,04
+
+It has a start and an end, and it lasts about two weeks.
+
+
+
+78
+
+00:03:35,04 --> 00:03:38,02
+
+Next is a ceremony called sprint planning.
+
+
+
+79
+
+00:03:38,02 --> 00:03:40,06
+
+Within sprint planning, the team comes together
+
+
+
+80
+
+00:03:40,06 --> 00:03:42,05
+
+with the scrum master and the product owner
+
+
+
+81
+
+00:03:42,05 --> 00:03:46,06
+
+and they define what are they going to finish this sprint,
+
+
+
+82
+
+00:03:46,06 --> 00:03:48,06
+
+and they make a commitment to that.
+
+
+
+83
+
+00:03:48,06 --> 00:03:52,00
+
+Then, every day, they have the next ceremony,
+
+
+
+84
+
+00:03:52,00 --> 00:03:53,03
+
+which is the daily scrum.
+
+
+
+85
+
+00:03:53,03 --> 00:03:55,08
+
+The team comes together every day and says,
+
+
+
+86
+
+00:03:55,08 --> 00:03:58,04
+
+this is what I did yesterday, this is what I'm doing today,
+
+
+
+87
+
+00:03:58,04 --> 00:04:00,08
+
+and this is where I could use some help.
+
+
+
+88
+
+00:04:00,08 --> 00:04:03,02
+
+Next there's the sprint review, or the demo,
+
+
+
+89
+
+00:04:03,02 --> 00:04:04,06
+
+that they do at the end.
+
+
+
+90
+
+00:04:04,06 --> 00:04:07,01
+
+This is where they show the product owner
+
+
+
+91
+
+00:04:07,01 --> 00:04:09,07
+
+and the stakeholders everything that they've completed
+
+
+
+92
+
+00:04:09,07 --> 00:04:13,03
+
+and make sure that it's up to their expectations.
+
+
+
+93
+
+00:04:13,03 --> 00:04:16,00
+
+Finally, the last ceremony the team uses
+
+
+
+94
+
+00:04:16,00 --> 00:04:17,08
+
+is the sprint retrospective.
+
+
+
+95
+
+00:04:17,08 --> 00:04:20,08
+
+This is where they really become very internally focused
+
+
+
+96
+
+00:04:20,08 --> 00:04:24,00
+
+and they say, what did we do really well in the sprint?
+
+
+
+97
+
+00:04:24,00 --> 00:04:26,06
+
+How do we capitalize on that and do more of it?
+
+
+
+98
+
+00:04:26,06 --> 00:04:29,06
+
+What didn't go so well for us, and how do we change it?
+
+
+
+99
+
+00:04:29,06 --> 00:04:32,02
+
+And finally, what changes do we want to commit
+
+
+
+100
+
+00:04:32,02 --> 00:04:34,02
+
+to in the future sprints?
+
+
+
+101
+
+00:04:34,02 --> 00:04:37,03
+
+The scrum process is really easy to understand.
+
+
+
+102
+
+00:04:37,03 --> 00:04:41,04
+
+It is, however, hard to master and do well.
+
+
+
+103
+
+00:04:41,04 --> 00:04:43,07
+
+Using these artifacts and ceremonies,
+
+
+
+104
+
+00:04:43,07 --> 00:04:46,08
+
+the team can deliver value very quickly.
+
+
+

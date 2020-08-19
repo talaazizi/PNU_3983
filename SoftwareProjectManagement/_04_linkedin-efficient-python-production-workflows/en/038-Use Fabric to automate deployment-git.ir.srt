@@ -1,0 +1,172 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,08 --> 00:00:03,01
+- [Instructor] Your deployment should be automated.
+
+2
+00:00:03,01 --> 00:00:05,05
+It will prevent you from forgetting steps,
+
+3
+00:00:05,05 --> 00:00:08,03
+and will get you closer to continuous delivery.
+
+4
+00:00:08,03 --> 00:00:11,06
+There are many tools for running tasks on servers.
+
+5
+00:00:11,06 --> 00:00:15,00
+Ansible, Puppet, Chef, and many others.
+
+6
+00:00:15,00 --> 00:00:16,07
+All of them are great tools.
+
+7
+00:00:16,07 --> 00:00:19,02
+But take time and effort to learn.
+
+8
+00:00:19,02 --> 00:00:22,08
+I usually start with a simpler tool called Frabic.
+
+9
+00:00:22,08 --> 00:00:25,09
+It's a simple system that lets you define commands,
+
+10
+00:00:25,09 --> 00:00:31,01
+and run them on remote servers over SSH, secure shell.
+
+11
+00:00:31,01 --> 00:00:36,06
+Using Fabric, you write tasks in FabFile.py file.
+
+12
+00:00:36,06 --> 00:00:39,00
+And use the Fab tool to run them.
+
+13
+00:00:39,00 --> 00:00:41,01
+Here is an example.
+
+14
+00:00:41,01 --> 00:00:45,04
+I have a fabfile.py for our Elmer code.
+
+15
+00:00:45,04 --> 00:00:48,01
+We import in line seven the task decorator.
+
+16
+00:00:48,01 --> 00:00:53,06
+And we import the version which is 1.2.3 from Elmer.
+
+17
+00:00:53,06 --> 00:00:55,01
+And here is our task.
+
+18
+00:00:55,01 --> 00:00:56,09
+We define it in line 26,
+
+19
+00:00:56,09 --> 00:01:01,01
+and decorate it in line 25 with a task decorator.
+
+20
+00:01:01,01 --> 00:01:05,00
+In line 28, we create the application directory.
+
+21
+00:01:05,00 --> 00:01:08,02
+In line 30, we create a virtual environment.
+
+22
+00:01:08,02 --> 00:01:12,04
+In line 32 and 33, we copy over the requirements file
+
+23
+00:01:12,04 --> 00:01:14,09
+and pip install the requirements.
+
+24
+00:01:14,09 --> 00:01:18,08
+Then, in line 35 we copy over the code,
+
+25
+00:01:18,08 --> 00:01:23,01
+and in line 37, 38, we unpack the code.
+
+26
+00:01:23,01 --> 00:01:26,05
+And last, in line 39 and 40, we change directory
+
+27
+00:01:26,05 --> 00:01:28,02
+to the application directory.
+
+28
+00:01:28,02 --> 00:01:32,09
+And run gunicorn with our application on port 8080.
+
+29
+00:01:32,09 --> 00:01:35,02
+Let's see how it works.
+
+30
+00:01:35,02 --> 00:01:38,00
+So fab -H, which is the host,
+
+31
+00:01:38,00 --> 00:01:42,07
+and the host for my deployment is called elmer1
+
+32
+00:01:42,07 --> 00:01:45,07
+and then we say deploy.
+
+33
+00:01:45,07 --> 00:01:48,05
+And now we can check that it's working.
+
+34
+00:01:48,05 --> 00:01:52,09
+curl http, elmer1
+
+35
+00:01:52,09 --> 00:01:54,06
+port 8080.
+
+36
+00:01:54,06 --> 00:01:58,03
+Let's say the version, and we see that it's running
+
+37
+00:01:58,03 --> 00:02:01,06
+Elmer version 1.2.3.
+
+38
+00:02:01,06 --> 00:02:02,08
+Once the code is running,
+
+39
+00:02:02,08 --> 00:02:05,02
+you can start directing traffic to it.
+
+40
+00:02:05,02 --> 00:02:08,02
+Depending on the deployment method you're using.
+
+41
+00:02:08,02 --> 00:02:10,08
+If you find out that Fabric is not enough for you.
+
+42
+00:02:10,08 --> 00:02:14,00
+Check out our courses on Ansible, Puppet, or Chef.
+

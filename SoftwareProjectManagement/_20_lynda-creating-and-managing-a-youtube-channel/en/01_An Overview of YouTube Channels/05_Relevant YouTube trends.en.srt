@@ -1,0 +1,282 @@
+1
+00:00:00.05 --> 00:00:02.06
+- Before we start getting
+into some specifics,
+
+2
+00:00:02.06 --> 00:00:05.07
+let me provide a little bit
+of motivation in context.
+
+3
+00:00:05.07 --> 00:00:08.03
+Just how, exactly, is YouTube doing?
+
+4
+00:00:08.03 --> 00:00:10.05
+Well, I took a snapshot of some statistics
+
+5
+00:00:10.05 --> 00:00:12.06
+at the time of the
+recording of this class.
+
+6
+00:00:12.06 --> 00:00:13.08
+And I'll tell you this much.
+
+7
+00:00:13.08 --> 00:00:15.02
+YouTube is still growing,
+
+8
+00:00:15.02 --> 00:00:18.05
+so chances are these numbers
+are just going to keep going up.
+
+9
+00:00:18.05 --> 00:00:20.01
+Some relevant things to keep in mind,
+
+10
+00:00:20.01 --> 00:00:25.07
+YouTube has about 1.5 billion
+logged-in monthly users.
+
+11
+00:00:25.07 --> 00:00:27.01
+That's a lot of people.
+
+12
+00:00:27.01 --> 00:00:31.01
+1 1/2 billion people log
+in to YouTube each month.
+
+13
+00:00:31.01 --> 00:00:33.06
+This breaks down to
+about 180 million users
+
+14
+00:00:33.06 --> 00:00:37.02
+in the United States, but in
+other more populated countries,
+
+15
+00:00:37.02 --> 00:00:41.02
+for example, India, there's
+400 million people watching.
+
+16
+00:00:41.02 --> 00:00:43.06
+Do keep in mind that services like YouTube
+
+17
+00:00:43.06 --> 00:00:46.02
+are officially blocked inside of China.
+
+18
+00:00:46.02 --> 00:00:48.07
+Otherwise, these numbers
+would be even bigger.
+
+19
+00:00:48.07 --> 00:00:51.03
+Now, some folks within
+China might access YouTube
+
+20
+00:00:51.03 --> 00:00:54.09
+through a VPN, but officially,
+YouTube is not authorized
+
+21
+00:00:54.09 --> 00:00:56.08
+to be in certain countries.
+
+22
+00:00:56.08 --> 00:00:58.07
+Now, of those 1 1/2 billion people
+
+23
+00:00:58.07 --> 00:01:00.08
+that log in on a monthly basis,
+
+24
+00:01:00.08 --> 00:01:03.03
+that translates into a lot of views.
+
+25
+00:01:03.03 --> 00:01:05.06
+In fact, members of Generation X
+
+26
+00:01:05.06 --> 00:01:09.00
+log 1 1/2 billion views a day on YouTube.
+
+27
+00:01:09.00 --> 00:01:11.03
+That's a lot of content.
+
+28
+00:01:11.03 --> 00:01:15.08
+In fact, each day people
+watch a billion hours
+
+29
+00:01:15.08 --> 00:01:17.07
+of video on YouTube.
+
+30
+00:01:17.07 --> 00:01:22.09
+Every single day a billion
+hours of content is consumed.
+
+31
+00:01:22.09 --> 00:01:26.07
+That's a lot of bandwidth, a
+lot of potentially wasted time,
+
+32
+00:01:26.07 --> 00:01:31.00
+but a lot of entertainment,
+education, and news as well.
+
+33
+00:01:31.00 --> 00:01:34.07
+YouTube is currently offered
+in 76 different languages,
+
+34
+00:01:34.07 --> 00:01:37.04
+which covers approximately 95%
+
+35
+00:01:37.04 --> 00:01:39.09
+of the world's internet population.
+
+36
+00:01:39.09 --> 00:01:42.06
+The fact that so many different
+languages are available
+
+37
+00:01:42.06 --> 00:01:46.00
+makes it easy for people
+to discover local content
+
+38
+00:01:46.00 --> 00:01:48.04
+using a localized UI.
+
+39
+00:01:48.04 --> 00:01:51.07
+And even for content that they
+might not be familiar with,
+
+40
+00:01:51.07 --> 00:01:55.00
+oftentimes people will produce
+captions in other languages
+
+41
+00:01:55.00 --> 00:01:59.04
+and allow you to embed
+those into your video.
+
+42
+00:01:59.04 --> 00:02:01.09
+Additionally, YouTube has been localized
+
+43
+00:02:01.09 --> 00:02:04.07
+for 88 different countries currently,
+
+44
+00:02:04.07 --> 00:02:07.03
+which means that almost
+every country on the planet
+
+45
+00:02:07.03 --> 00:02:09.02
+can access it.
+
+46
+00:02:09.02 --> 00:02:11.08
+Couple other statistics to keep in mind,
+
+47
+00:02:11.08 --> 00:02:17.03
+91% of US internet users,
+aged 13 to 17, are using it.
+
+48
+00:02:17.03 --> 00:02:20.01
+So the teenage population
+of the United States
+
+49
+00:02:20.01 --> 00:02:23.00
+is on YouTube, a lot, in fact.
+
+50
+00:02:23.00 --> 00:02:26.03
+About 81% of millennials use YouTube.
+
+51
+00:02:26.03 --> 00:02:29.02
+And as we keep going up you'll
+see that it drops a bit,
+
+52
+00:02:29.02 --> 00:02:33.06
+with about 58% of Generation
+X in the United States.
+
+53
+00:02:33.06 --> 00:02:36.01
+And about 43% of all baby boomers
+
+54
+00:02:36.01 --> 00:02:38.02
+in the United States use YouTube.
+
+55
+00:02:38.02 --> 00:02:41.04
+Why use YouTube and take the
+time to set up a channel?
+
+56
+00:02:41.04 --> 00:02:44.04
+Well, truth is you're going
+to reach a lot of people.
+
+57
+00:02:44.04 --> 00:02:48.00
+So while there are some hassles
+and some potential drawbacks
+
+58
+00:02:48.00 --> 00:02:50.03
+tied to the rights to your content,
+
+59
+00:02:50.03 --> 00:02:53.09
+YouTube is the easiest way to
+reach a worldwide audience.
+
+60
+00:02:53.09 --> 00:02:56.06
+And as such, it means
+that if you take the time
+
+61
+00:02:56.06 --> 00:02:58.09
+to do it right, you
+can hit a lot of people
+
+62
+00:02:58.09 --> 00:03:01.07
+with your content and
+reach a lot of eyeballs.
+

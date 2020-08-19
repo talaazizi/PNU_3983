@@ -1,0 +1,962 @@
+1
+00:00:00.05 --> 00:00:02.03
+- If you've moved beyond streaming
+
+2
+00:00:02.03 --> 00:00:04.02
+with a simple mobile device
+
+3
+00:00:04.02 --> 00:00:06.01
+or the Google Hangouts On Air engine,
+
+4
+00:00:06.01 --> 00:00:07.05
+you can actually use YouTube
+
+5
+00:00:07.05 --> 00:00:09.05
+as a pretty viable platform for streaming.
+
+6
+00:00:09.05 --> 00:00:12.01
+You will need some software or hardware
+
+7
+00:00:12.01 --> 00:00:14.02
+in order to pull this off,
+
+8
+00:00:14.02 --> 00:00:15.09
+and I'm just going to
+give you a small taste
+
+9
+00:00:15.09 --> 00:00:17.02
+of what's involved.
+
+10
+00:00:17.02 --> 00:00:19.06
+I invite you check out some
+of the full-length courses
+
+11
+00:00:19.06 --> 00:00:21.08
+on webinars and streaming in the library.
+
+12
+00:00:21.08 --> 00:00:26.00
+Now, in order to stream on
+demand, it's pretty simple.
+
+13
+00:00:26.00 --> 00:00:29.03
+When YouTube detects that you
+have put out a live signal
+
+14
+00:00:29.03 --> 00:00:32.04
+to the channel, it will
+go live, and it will
+
+15
+00:00:32.04 --> 00:00:35.02
+actually send this out and
+automatically adjust the quality
+
+16
+00:00:35.02 --> 00:00:38.01
+of the stream based upon
+people's internet connection,
+
+17
+00:00:38.01 --> 00:00:39.05
+so if they have a slower connection
+
+18
+00:00:39.05 --> 00:00:41.06
+like a mobile device, it will adjust.
+
+19
+00:00:41.06 --> 00:00:44.00
+When the stream is live,
+
+20
+00:00:44.00 --> 00:00:48.04
+people can actually interact
+using live chat or Super Chat.
+
+21
+00:00:48.04 --> 00:00:51.02
+They can also share the
+link like any other video
+
+22
+00:00:51.02 --> 00:00:54.03
+across social media platforms,
+
+23
+00:00:54.03 --> 00:00:57.04
+and you can monitor the stream,
+looking at the status bar,
+
+24
+00:00:57.04 --> 00:00:58.07
+to see how it's doing.
+
+25
+00:00:58.07 --> 00:01:01.01
+Are there any bandwidth problems?
+
+26
+00:01:01.01 --> 00:01:02.05
+Now, in order to pull this off,
+
+27
+00:01:02.05 --> 00:01:04.04
+you're going to need some software.
+
+28
+00:01:04.04 --> 00:01:07.07
+One of the most common ones
+is Open Broadcaster Studio,
+
+29
+00:01:07.07 --> 00:01:09.09
+which is a free tool available.
+
+30
+00:01:09.09 --> 00:01:13.08
+If you visit obsproject.com,
+there's a wealth of tutorials
+
+31
+00:01:13.08 --> 00:01:16.00
+and documentation, and this allows you
+
+32
+00:01:16.00 --> 00:01:19.04
+to set up complex
+studios on your computer.
+
+33
+00:01:19.04 --> 00:01:21.03
+You could actually have multiple inputs,
+
+34
+00:01:21.03 --> 00:01:24.02
+multiple screens, picture-in-picture
+effects, graphics.
+
+35
+00:01:24.02 --> 00:01:27.04
+It's really quite powerful, and
+free free to check this out,
+
+36
+00:01:27.04 --> 00:01:31.06
+as it allows you to do a
+very rich mobile broadcast.
+
+37
+00:01:31.06 --> 00:01:33.09
+If you're looking for a paid tool, well,
+
+38
+00:01:33.09 --> 00:01:35.05
+then take a look at Wirecast,
+
+39
+00:01:35.05 --> 00:01:38.00
+which is a well-rounded
+solution that's been around
+
+40
+00:01:38.00 --> 00:01:43.02
+for many years and makes it
+easy to do live broadcasting.
+
+41
+00:01:43.02 --> 00:01:45.04
+Now, I'm a big fan of OBS Studio.
+
+42
+00:01:45.04 --> 00:01:46.03
+It makes it easy
+
+43
+00:01:46.03 --> 00:01:49.03
+to get my content out
+there, and it's free.
+
+44
+00:01:49.03 --> 00:01:53.04
+They also have excellent
+documentation and support forums.
+
+45
+00:01:53.04 --> 00:01:56.00
+Once you've installed
+it, it's pretty easy,
+
+46
+00:01:56.00 --> 00:02:00.05
+and you simply go through
+and add different sources.
+
+47
+00:02:00.05 --> 00:02:02.02
+You'll notice here, for example, that not
+
+48
+00:02:02.02 --> 00:02:04.09
+only can you use different local devices,
+
+49
+00:02:04.09 --> 00:02:08.04
+but you can load in
+graphics or other sources
+
+50
+00:02:08.04 --> 00:02:10.07
+or a video capture device like a webcam
+
+51
+00:02:10.07 --> 00:02:15.07
+or the Blackmagic Design Web Presenter.
+
+52
+00:02:15.07 --> 00:02:17.04
+Then, it's pretty simple.
+
+53
+00:02:17.04 --> 00:02:20.08
+You switch over to your streaming channel.
+
+54
+00:02:20.08 --> 00:02:25.06
+Select the live stream
+option, and click Get Started.
+
+55
+00:02:25.06 --> 00:02:27.07
+Type in the details about the stream
+
+56
+00:02:27.07 --> 00:02:31.07
+and whether or not you
+want it public or private.
+
+57
+00:02:31.07 --> 00:02:34.09
+Click Reveal at the bottom of the page.
+
+58
+00:02:34.09 --> 00:02:36.01
+This is very important,
+
+59
+00:02:36.01 --> 00:02:38.08
+and I'll show you it in just a moment.
+
+60
+00:02:38.08 --> 00:02:42.07
+Then, highlight the
+stream key and copy it.
+
+61
+00:02:42.07 --> 00:02:45.06
+You need this, because the
+Open Broadcasting software
+
+62
+00:02:45.06 --> 00:02:48.08
+or Wirecast is going to
+need this key in order
+
+63
+00:02:48.08 --> 00:02:52.00
+to access your YouTube channel.
+
+64
+00:02:52.00 --> 00:02:57.01
+Copy that key, and then
+paste it into your software.
+
+65
+00:02:57.01 --> 00:02:58.07
+Then, in the software,
+
+66
+00:02:58.07 --> 00:03:02.06
+get it all set up and start to stream.
+
+67
+00:03:02.06 --> 00:03:05.09
+Choose YouTube as the provider,
+and put the stream key
+
+68
+00:03:05.09 --> 00:03:08.04
+in so it knows how to access it.
+
+69
+00:03:08.04 --> 00:03:10.05
+This is going to connect your computer
+
+70
+00:03:10.05 --> 00:03:13.04
+to YouTube for the live stream.
+
+71
+00:03:13.04 --> 00:03:14.06
+Click the Start button,
+
+72
+00:03:14.06 --> 00:03:17.08
+and you should now be broadcasting live.
+
+73
+00:03:17.08 --> 00:03:20.01
+Back in the web browser,
+the status will change
+
+74
+00:03:20.01 --> 00:03:23.04
+to online, and your live
+stream will be available.
+
+75
+00:03:23.04 --> 00:03:25.01
+Let me show you how this works.
+
+76
+00:03:25.01 --> 00:03:27.00
+It's really pretty straightforward.
+
+77
+00:03:27.00 --> 00:03:29.08
+It just has a lot of steps,
+so I'll try to go slow.
+
+78
+00:03:29.08 --> 00:03:32.05
+In YouTube, simply make sure
+
+79
+00:03:32.05 --> 00:03:37.05
+you're visiting your Creator Studio.
+
+80
+00:03:37.05 --> 00:03:42.06
+Then, go to Live Streaming,
+and choose Stream now.
+
+81
+00:03:42.06 --> 00:03:46.06
+You'll now see a simple
+checklist to follow.
+
+82
+00:03:46.06 --> 00:03:49.06
+I'll click Set up encoding software,
+
+83
+00:03:49.06 --> 00:03:55.04
+and it's got some interesting information.
+
+84
+00:03:55.04 --> 00:03:58.00
+I can also get information
+about the stream
+
+85
+00:03:58.00 --> 00:03:59.07
+and take advantage of other features,
+
+86
+00:03:59.07 --> 00:04:02.03
+so there's lots of great articles here.
+
+87
+00:04:02.03 --> 00:04:03.08
+Let's go ahead and leave this
+
+88
+00:04:03.08 --> 00:04:06.00
+as is, Photofocus Live Stream.
+
+89
+00:04:06.00 --> 00:04:08.05
+This is only a test.
+
+90
+00:04:08.05 --> 00:04:10.00
+I'm not going to worry about categories,
+
+91
+00:04:10.00 --> 00:04:12.02
+but you can decide where it gets mapped
+
+92
+00:04:12.02 --> 00:04:15.04
+and what is the privacy setting.
+
+93
+00:04:15.04 --> 00:04:17.00
+There we go.
+
+94
+00:04:17.00 --> 00:04:21.02
+I'll make this one unlisted for now.
+
+95
+00:04:21.02 --> 00:04:24.00
+Under Advanced settings, there
+are lots of other controls
+
+96
+00:04:24.00 --> 00:04:26.05
+that you can access, and you'll see here
+
+97
+00:04:26.05 --> 00:04:29.06
+that you can decide how you want to chat,
+
+98
+00:04:29.06 --> 00:04:31.05
+copyrights, and other options,
+
+99
+00:04:31.05 --> 00:04:34.02
+and whether or not it's allowed to embed.
+
+100
+00:04:34.02 --> 00:04:36.02
+These options are very much like some
+
+101
+00:04:36.02 --> 00:04:38.02
+of the things you saw before for a video,
+
+102
+00:04:38.02 --> 00:04:41.00
+but I do recommend that
+you tell it to record
+
+103
+00:04:41.00 --> 00:04:45.06
+and archive as well as
+decide if you want comments.
+
+104
+00:04:45.06 --> 00:04:48.03
+The DVR option will
+allow people to rewind,
+
+105
+00:04:48.03 --> 00:04:51.09
+and you can even set the
+quality of the stream.
+
+106
+00:04:51.09 --> 00:04:54.05
+For example, we can do
+higher quality streaming,
+
+107
+00:04:54.05 --> 00:04:56.07
+but it's going to have more of a lag.
+
+108
+00:04:56.07 --> 00:04:58.00
+And so take a look
+
+109
+00:04:58.00 --> 00:05:01.05
+at these advanced options
+for additional control.
+
+110
+00:05:01.05 --> 00:05:05.04
+I'll click Save changes here.
+
+111
+00:05:05.04 --> 00:05:09.03
+Now, let's go back to the
+basic info for a moment,
+
+112
+00:05:09.03 --> 00:05:13.08
+and I've got the option
+here selected for custom.
+
+113
+00:05:13.08 --> 00:05:16.06
+Now, let's go back to
+Stream now for a moment,
+
+114
+00:05:16.06 --> 00:05:19.06
+and you'll see some of the key info.
+
+115
+00:05:19.06 --> 00:05:21.06
+We've got our general options.
+
+116
+00:05:21.06 --> 00:05:25.09
+I see that I have Super Chat,
+and here's my encoder setup.
+
+117
+00:05:25.09 --> 00:05:27.07
+Well, this is really important here.
+
+118
+00:05:27.07 --> 00:05:31.08
+I'm going to reveal that and copy it.
+
+119
+00:05:31.08 --> 00:05:35.06
+Later on, we can reset this
+so people can't see it,
+
+120
+00:05:35.06 --> 00:05:37.03
+and it will change out the key.
+
+121
+00:05:37.03 --> 00:05:40.07
+Here's also the URL
+for sharing this video.
+
+122
+00:05:40.07 --> 00:05:42.09
+Now that I've got that
+key, I need to switch
+
+123
+00:05:42.09 --> 00:05:44.07
+to Open Broadcaster Studio,
+
+124
+00:05:44.07 --> 00:05:47.06
+and let's add a new device for Source.
+
+125
+00:05:47.06 --> 00:05:54.01
+I'll choose Video Capture Device,
+
+126
+00:05:54.01 --> 00:05:59.02
+and choose this from the
+preset list for the USB camera.
+
+127
+00:05:59.02 --> 00:06:02.00
+My camera turns on, and there's my video.
+
+128
+00:06:02.00 --> 00:06:02.08
+Hi.
+
+129
+00:06:02.08 --> 00:06:05.00
+Let's adjust the angle a little bit.
+
+130
+00:06:05.00 --> 00:06:09.00
+Now, I'll turn on the
+camera, and it's available,
+
+131
+00:06:09.00 --> 00:06:10.09
+and I can adjust the camera slightly
+
+132
+00:06:10.09 --> 00:06:13.03
+or mount this at a better
+angle so it's not shooting up
+
+133
+00:06:13.03 --> 00:06:15.06
+to the ceiling, but
+for purposes of a test,
+
+134
+00:06:15.06 --> 00:06:17.02
+this is going to work.
+
+135
+00:06:17.02 --> 00:06:18.01
+You'll notice that you could
+
+136
+00:06:18.01 --> 00:06:22.01
+also choose a quality setting
+depending upon your camera,
+
+137
+00:06:22.01 --> 00:06:24.07
+and I'm going to click OK.
+
+138
+00:06:24.07 --> 00:06:27.04
+Now, it's actually seeing
+it, but what's not coming
+
+139
+00:06:27.04 --> 00:06:30.03
+through is the audio
+yet, so I need to click
+
+140
+00:06:30.03 --> 00:06:35.01
+to add an audio source,
+Audio Input Capture.
+
+141
+00:06:35.01 --> 00:06:37.04
+I'll click OK and tell it
+
+142
+00:06:37.04 --> 00:06:42.05
+to use the built-in
+microphone or my webcam.
+
+143
+00:06:42.05 --> 00:06:44.04
+There we go.
+
+144
+00:06:44.04 --> 00:06:47.04
+So now we've got our different sources.
+
+145
+00:06:47.04 --> 00:06:48.05
+Let's go ahead and click here
+
+146
+00:06:48.05 --> 00:06:57.04
+and choose Audio Input Capture,
+
+147
+00:06:57.04 --> 00:07:03.03
+and we'll select our source and click OK.
+
+148
+00:07:03.03 --> 00:07:06.04
+So now, I've got audio and video.
+
+149
+00:07:06.04 --> 00:07:09.06
+Now, this allows us to get
+the general content in,
+
+150
+00:07:09.06 --> 00:07:12.03
+and what I'm going to
+do next is set this up,
+
+151
+00:07:12.03 --> 00:07:15.05
+so I'll simply run the wizard here,
+
+152
+00:07:15.05 --> 00:07:19.07
+Tools, Auto-Configuration Wizard,
+
+153
+00:07:19.07 --> 00:07:24.05
+and let's step through the options.
+
+154
+00:07:24.05 --> 00:07:29.00
+I'm going to tell it that the
+main purpose is to stream.
+
+155
+00:07:29.00 --> 00:07:31.00
+And what do I want it to use?
+
+156
+00:07:31.00 --> 00:07:34.02
+Well, the resolution's fine.
+
+157
+00:07:34.02 --> 00:07:36.02
+Set the frame rate.
+
+158
+00:07:36.02 --> 00:07:38.02
+Click Next.
+
+159
+00:07:38.02 --> 00:07:41.09
+I can now choose which
+streaming service to use,
+
+160
+00:07:41.09 --> 00:07:45.07
+such as YouTube, and I can paste that key
+
+161
+00:07:45.07 --> 00:07:51.01
+in there, and I'll click Next.
+
+162
+00:07:51.01 --> 00:07:54.00
+Now, it's going to take a moment
+as it analyzes the settings
+
+163
+00:07:54.00 --> 00:07:59.00
+and attempts to configure.
+
+164
+00:07:59.00 --> 00:08:00.03
+There we go.
+
+165
+00:08:00.03 --> 00:08:06.04
+I'll click Apply Settings,
+
+166
+00:08:06.04 --> 00:08:10.02
+and we now have a live signal with video,
+
+167
+00:08:10.02 --> 00:08:12.03
+and in fact, I can see the studio here.
+
+168
+00:08:12.03 --> 00:08:16.05
+Later on, I can load more
+than one source up here,
+
+169
+00:08:16.05 --> 00:08:19.05
+and this can be quite useful.
+
+170
+00:08:19.05 --> 00:08:24.02
+All right, let's go head over
+to YouTube and take this live.
+
+171
+00:08:24.02 --> 00:08:26.07
+In this case, I'm sending out a signal,
+
+172
+00:08:26.07 --> 00:08:31.01
+and I'll click Start Streaming.
+
+173
+00:08:31.01 --> 00:08:34.06
+You see the green light
+indicating that it's there.
+
+174
+00:08:34.06 --> 00:08:37.06
+Now, if we switch back over,
+
+175
+00:08:37.06 --> 00:08:40.04
+you see that the stream health is solid.
+
+176
+00:08:40.04 --> 00:08:44.06
+It says that my content
+is there, and I am live,
+
+177
+00:08:44.06 --> 00:08:48.08
+so now we are sending a signal,
+
+178
+00:08:48.08 --> 00:08:52.03
+and it takes a moment, and it kicks in.
+
+179
+00:08:52.03 --> 00:08:54.05
+Now, my lips are going
+to be totally out of sync
+
+180
+00:08:54.05 --> 00:08:58.01
+with my voice, because I chose
+the higher quality method.
+
+181
+00:08:58.01 --> 00:09:01.08
+That's because there's more of a delay.
+
+182
+00:09:01.08 --> 00:09:03.03
+Now, that general process you
+
+183
+00:09:03.03 --> 00:09:06.01
+just saw might have seemed
+a little bit confusing,
+
+184
+00:09:06.01 --> 00:09:08.03
+and you're going to
+want to dig in and look
+
+185
+00:09:08.03 --> 00:09:11.09
+at the documentation and
+watch that video a few times.
+
+186
+00:09:11.09 --> 00:09:13.09
+The secret is this.
+
+187
+00:09:13.09 --> 00:09:17.00
+Use a tool like Open Broadcasting Studio
+
+188
+00:09:17.00 --> 00:09:20.02
+and get your set up, whether
+you're using built-in hardware
+
+189
+00:09:20.02 --> 00:09:21.09
+or third-party hardware.
+
+190
+00:09:21.09 --> 00:09:25.05
+Then, absolutely,
+positively take advantage
+
+191
+00:09:25.05 --> 00:09:27.02
+of the setup wizard.
+
+192
+00:09:27.02 --> 00:09:29.01
+All you need is your streaming key,
+
+193
+00:09:29.01 --> 00:09:31.08
+and YouTube will take care
+of the rest in the background
+
+194
+00:09:31.08 --> 00:09:35.00
+as it all becomes configured,
+but what this means is
+
+195
+00:09:35.00 --> 00:09:37.00
+that you can use multiple cameras
+
+196
+00:09:37.00 --> 00:09:40.06
+or special hardware devices
+and have even more control
+
+197
+00:09:40.06 --> 00:09:42.07
+of what gets streamed live.
+
+198
+00:09:42.07 --> 00:09:44.06
+Now, once the video's over, you'll see
+
+199
+00:09:44.06 --> 00:09:47.01
+that it completes, and
+then you can go over
+
+200
+00:09:47.01 --> 00:09:49.08
+to your video manager to control this.
+
+201
+00:09:49.08 --> 00:09:52.09
+It's now a video like any other video,
+
+202
+00:09:52.09 --> 00:09:56.05
+and it will appear momentarily
+in the video manager.
+
+203
+00:09:56.05 --> 00:09:59.04
+Here's that live stream
+we recorded a while ago.
+
+204
+00:09:59.04 --> 00:10:02.02
+I'll go ahead and delete that one,
+
+205
+00:10:02.02 --> 00:10:04.07
+and within a few minutes,
+the video that we
+
+206
+00:10:04.07 --> 00:10:07.06
+just recorded will appear in this list,
+
+207
+00:10:07.06 --> 00:10:09.09
+and then we'll have the
+ability to edit the controls,
+
+208
+00:10:09.09 --> 00:10:12.08
+modify it, or do anything
+else that's needed.
+
+209
+00:10:12.08 --> 00:10:15.08
+It will take a moment for
+YouTube to move the file over,
+
+210
+00:10:15.08 --> 00:10:18.01
+but it will become a
+video like anything else
+
+211
+00:10:18.01 --> 00:10:21.03
+in the video manager, and
+you can control the privacy
+
+212
+00:10:21.03 --> 00:10:24.00
+and the information about the file.
+
+213
+00:10:24.00 --> 00:10:26.01
+All right, hopefully that
+gives you a pretty good idea
+
+214
+00:10:26.01 --> 00:10:27.08
+on how live streaming works.
+
+215
+00:10:27.08 --> 00:10:30.03
+I do invite you to check out
+some of the other courses
+
+216
+00:10:30.03 --> 00:10:32.08
+in the library about live video streaming
+
+217
+00:10:32.08 --> 00:10:35.07
+and a class I have on webinars,
+and you'll learn a lot more
+
+218
+00:10:35.07 --> 00:10:37.03
+about putting this all together.
+

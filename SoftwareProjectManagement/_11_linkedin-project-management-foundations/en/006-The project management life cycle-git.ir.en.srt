@@ -1,0 +1,244 @@
+1
+00:00:00,640 --> 00:00:03,360
+project management can be categorized
+
+2
+00:00:02,879 --> 00:00:05,839
+into
+
+3
+00:00:03,360 --> 00:00:07,359
+five groups of processes that help guide
+
+4
+00:00:05,839 --> 00:00:10,240
+a project successfully
+
+5
+00:00:07,359 --> 00:00:12,160
+from beginning to end here are project
+
+6
+00:00:10,240 --> 00:00:14,000
+management's five process groups
+
+7
+00:00:12,160 --> 00:00:15,679
+according to the project management
+
+8
+00:00:14,000 --> 00:00:18,320
+institute
+
+9
+00:00:15,679 --> 00:00:20,640
+initiating is all about getting the
+
+10
+00:00:18,320 --> 00:00:22,960
+commitment to start a project
+
+11
+00:00:20,640 --> 00:00:24,720
+to get that commitment you start by
+
+12
+00:00:22,960 --> 00:00:26,080
+defining the project
+
+13
+00:00:24,720 --> 00:00:28,960
+what's the project supposed to
+
+14
+00:00:26,080 --> 00:00:31,039
+accomplish what's the scope
+
+15
+00:00:28,960 --> 00:00:32,880
+what's a rough estimate of the resources
+
+16
+00:00:31,039 --> 00:00:34,399
+needed and the cost
+
+17
+00:00:32,880 --> 00:00:37,440
+you also identify the project
+
+18
+00:00:34,399 --> 00:00:40,719
+stakeholders and make sure they agree on
+
+19
+00:00:37,440 --> 00:00:44,000
+what the project is from there you
+
+20
+00:00:40,719 --> 00:00:46,640
+ask for approval to proceed
+
+21
+00:00:44,000 --> 00:00:49,039
+planning is where you figure out how
+
+22
+00:00:46,640 --> 00:00:51,039
+you're going to perform the project
+
+23
+00:00:49,039 --> 00:00:52,079
+in essence planning answers the
+
+24
+00:00:51,039 --> 00:00:54,640
+questions
+
+25
+00:00:52,079 --> 00:00:55,680
+what are we going to do how are we going
+
+26
+00:00:54,640 --> 00:00:58,800
+to do it
+
+27
+00:00:55,680 --> 00:01:00,960
+and how will we know when we're done
+
+28
+00:00:58,800 --> 00:01:04,159
+when the plan is complete it's time to
+
+29
+00:01:00,960 --> 00:01:06,400
+get approval to launch the project
+
+30
+00:01:04,159 --> 00:01:08,479
+the next two areas involve putting your
+
+31
+00:01:06,400 --> 00:01:10,840
+plan into action
+
+32
+00:01:08,479 --> 00:01:12,240
+executing starts with launching a
+
+33
+00:01:10,840 --> 00:01:15,040
+project
+
+34
+00:01:12,240 --> 00:01:16,479
+you bring your resources on board get
+
+35
+00:01:15,040 --> 00:01:18,560
+them settled in
+
+36
+00:01:16,479 --> 00:01:19,920
+and explain the rules you're using to
+
+37
+00:01:18,560 --> 00:01:22,640
+run the project
+
+38
+00:01:19,920 --> 00:01:23,119
+after that everyone jumps in to put the
+
+39
+00:01:22,640 --> 00:01:26,799
+plan
+
+40
+00:01:23,119 --> 00:01:27,520
+into action monitoring and controlling a
+
+41
+00:01:26,799 --> 00:01:29,759
+project
+
+42
+00:01:27,520 --> 00:01:30,720
+means checking what's going on in the
+
+43
+00:01:29,759 --> 00:01:32,400
+project
+
+44
+00:01:30,720 --> 00:01:35,439
+and how that compares to what you
+
+45
+00:01:32,400 --> 00:01:38,560
+planned if the project is sliding
+
+46
+00:01:35,439 --> 00:01:40,640
+off track you take action to get it back
+
+47
+00:01:38,560 --> 00:01:44,560
+on course
+
+48
+00:01:40,640 --> 00:01:48,079
+finally there's the closing process
+
+49
+00:01:44,560 --> 00:01:50,399
+this part is short but important
+
+50
+00:01:48,079 --> 00:01:52,399
+you get the client to officially accept
+
+51
+00:01:50,399 --> 00:01:54,799
+that the project is complete
+
+52
+00:01:52,399 --> 00:01:56,320
+you document the project performance
+
+53
+00:01:54,799 --> 00:01:59,520
+gather lessons learned
+
+54
+00:01:56,320 --> 00:02:02,159
+close contracts and help resources move
+
+55
+00:01:59,520 --> 00:02:04,159
+on to their next assignments
+
+56
+00:02:02,159 --> 00:02:06,079
+those are the five process groups that
+
+57
+00:02:04,159 --> 00:02:07,119
+represent the project management life
+
+58
+00:02:06,079 --> 00:02:09,280
+cycle
+
+59
+00:02:07,119 --> 00:02:10,560
+put these processes into action
+
+60
+00:02:09,280 --> 00:02:16,160
+consistently
+
+61
+00:02:10,560 --> 00:02:16,160
+and your projects will run more smoothly
+

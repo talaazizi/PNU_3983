@@ -1,0 +1,268 @@
+1
+00:00:00,930 --> 00:00:05,539
+Welcome to the Agile Crash Course,
+these cource will cover the most important
+
+2
+00:00:05,639 --> 00:00:10,500
+concepts and tools of agile development
+and agile project management. But I should
+
+3
+00:00:10,600 --> 00:00:14,969
+note that agile is not only for the IT industry,
+nor just for developers
+
+4
+00:00:15,069 --> 00:00:20,430
+or project managers, actually anyone
+can apply agile across different industries
+
+5
+00:00:20,530 --> 00:00:25,479
+in almost any project. But I'll go over
+which projects are better suited for agile
+
+6
+00:00:25,579 --> 00:00:30,940
+later in the course. For now, let's
+just go over the basics. So let's start
+
+7
+00:00:31,040 --> 00:00:35,319
+by answering what is probably the most
+important question in this course, what
+
+8
+00:00:35,419 --> 00:00:39,710
+is agile? You probably heard the term
+a couple of times and we're wondering what
+
+9
+00:00:39,810 --> 00:00:43,850
+it meant, how it was different to what
+you were already doing and whether
+
+10
+00:00:43,950 --> 00:00:49,100
+it was actually good or not. Well, I have
+good news for you. If you are able
+
+11
+00:00:49,200 --> 00:00:52,850
+to understand the pictures you are seeing
+on your screen right now, then you're
+
+12
+00:00:52,950 --> 00:00:56,669
+already going through the learning
+process of understanding what agile means
+
+13
+00:00:57,180 --> 00:01:01,100
+because it's pretty much what you're
+seeing there. Seriously, it's just that
+
+14
+00:01:01,200 --> 00:01:05,690
+simple. This summarizes what agile
+is and what it means as a methodology
+
+15
+00:01:05,790 --> 00:01:10,400
+for delivering projects. And I wanted
+to give you an analogy, because I know
+
+16
+00:01:10,500 --> 00:01:15,360
+it will help you understand it better.
+So let's start with the left side at the top.
+
+17
+00:01:15,599 --> 00:01:19,880
+You have the process or traditional
+project delivery. As you can see, we start
+
+18
+00:01:19,980 --> 00:01:24,480
+to build the whole car ride, the Ferrari,
+the best product that has everything,
+
+19
+00:01:24,989 --> 00:01:30,020
+all the requirements and all the bells
+and whistles. And we don't consider a project
+
+20
+00:01:30,120 --> 00:01:35,510
+done until we reach that stage. So the actual
+delivery can take many months
+
+21
+00:01:35,610 --> 00:01:39,989
+and sometimes even years. And the customer
+might not be happy along the way
+
+22
+00:01:40,230 --> 00:01:44,980
+since he's just waiting and waiting to get
+something. But agile is quite different.
+
+23
+00:01:45,540 --> 00:01:51,330
+Look at the pig below that. Do you see
+it? Agile is an iterative process
+
+24
+00:01:51,430 --> 00:01:55,680
+in which you deliver value through a basic
+solution and then enhance it over time,
+
+25
+00:01:56,260 --> 00:02:01,290
+you deliver quickly and you deliver
+often throughout the whole process. You have
+
+26
+00:02:01,389 --> 00:02:05,370
+constant communication and interaction
+with your customer to ensure he's happy
+
+27
+00:02:05,470 --> 00:02:10,019
+with every product you give him. He can
+actually start using even your first
+
+28
+00:02:10,119 --> 00:02:15,299
+iteration, the skateboard, to go
+from point A to be sure, it would be nice
+
+29
+00:02:15,399 --> 00:02:19,649
+to have a car. But isn't a skateboard
+better than nothing? Isn't it better
+
+30
+00:02:19,750 --> 00:02:24,690
+to have a skateboard while you build
+the car? That is precisely what Agile does.
+
+31
+00:02:25,210 --> 00:02:29,309
+So let's put this into a real web
+development example. Say you were building
+
+32
+00:02:29,410 --> 00:02:34,179
+a website to sell products on different
+categories, flavors and colors in Agile.
+
+33
+00:02:34,300 --> 00:02:39,449
+You wouldn't spend months building that
+website. Instead, you would create a basic
+
+34
+00:02:39,550 --> 00:02:44,099
+first iteration, maybe just the homepage
+you'll get started and to get the concept
+
+35
+00:02:44,199 --> 00:02:49,709
+out there and then you would enhance
+it over time and start adding to it more
+
+36
+00:02:49,809 --> 00:02:55,589
+and more pages to the website. More
+and more product features over time in Agile.
+
+37
+00:02:55,690 --> 00:03:00,649
+We call that period of time
+sprints and sprints less generally two weeks.
+
+38
+00:03:01,210 --> 00:03:05,309
+Now let's shift our attention to the right.
+Do you see the sofa? The analogy
+
+39
+00:03:05,410 --> 00:03:10,979
+also explains a key concept in agile.
+Keep it simple. Build the minimum. You really
+
+40
+00:03:11,080 --> 00:03:16,259
+need to deliver what the customer
+expects. And that relates to another key concept
+
+41
+00:03:16,360 --> 00:03:21,779
+in Agile, which we called the MVP
+or minimum viable product. So it's
+
+42
+00:03:21,880 --> 00:03:26,099
+the minimum you can deliver, which satisfies
+the basic requirement. So like
+
+43
+00:03:26,199 --> 00:03:31,289
+the tire with the rope. So let's
+recap about the concept of agile, agile
+
+44
+00:03:31,389 --> 00:03:36,809
+is a methodology to deliver
+incrementally, it's imperative on time boxed and that
+
+45
+00:03:36,910 --> 00:03:41,009
+period of time, which is generally
+two weeks, is what we call sprints. And what
+
+46
+00:03:41,110 --> 00:03:44,579
+you work on during those two weeks,
+which are basically features that give value
+
+47
+00:03:44,679 --> 00:03:50,110
+to the customer, are what we call user
+stories. But don't worry about the terms.
+
+48
+00:03:50,380 --> 00:03:53,789
+You'll learn them over time and I'll
+go over this in more detail later
+
+49
+00:03:53,889 --> 00:03:58,110
+in the course. For now, I just want you to start
+getting familiar with the concepts
+
+50
+00:03:58,210 --> 00:04:03,389
+and terminology we use in agile, such as
+sprints and user stories. And if you ever
+
+51
+00:04:03,490 --> 00:04:08,669
+hear the word iteration and get
+confused, don't be iteration is just another word
+
+52
+00:04:08,770 --> 00:04:13,479
+for Sprint, which, as you just
+learned, is just a period of time to do something.
+
+53
+00:04:13,929 --> 00:04:18,339
+Generally two weeks, but sometimes
+even three or four. That is something
+
+54
+00:04:18,339 --> 00:04:19,899
+for the project team to decide.

@@ -1,0 +1,180 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:01,05
+- [Instructor] As your code grows,
+
+2
+00:00:01,05 --> 00:00:03,00
+so does your test suite.
+
+3
+00:00:03,00 --> 00:00:05,03
+At some point, developers won't be able to run
+
+4
+00:00:05,03 --> 00:00:07,07
+all of the tests on their machine.
+
+5
+00:00:07,07 --> 00:00:10,08
+This might be due to complex set up required,
+
+6
+00:00:10,08 --> 00:00:13,08
+say a load balancer or a special hardware,
+
+7
+00:00:13,08 --> 00:00:17,03
+or maybe just due to the time it takes to run the tests.
+
+8
+00:00:17,03 --> 00:00:18,07
+Your rule of thumb should be the test
+
+9
+00:00:18,07 --> 00:00:21,01
+the developer run on their machine
+
+10
+00:00:21,01 --> 00:00:23,00
+should take less than a minute.
+
+11
+00:00:23,00 --> 00:00:25,09
+In my experience, if a test suite takes longer
+
+12
+00:00:25,09 --> 00:00:27,00
+than a minute to run
+
+13
+00:00:27,00 --> 00:00:30,02
+developers won't run it as frequently.
+
+14
+00:00:30,02 --> 00:00:33,04
+Pytest has a built in support for markers.
+
+15
+00:00:33,04 --> 00:00:36,03
+You can mark tests, say with web mark,
+
+16
+00:00:36,03 --> 00:00:38,07
+and then run only the web tests.
+
+17
+00:00:38,07 --> 00:00:41,05
+See the documentation for more details.
+
+18
+00:00:41,05 --> 00:00:44,09
+I recommend that at the beginning you will start simply.
+
+19
+00:00:44,09 --> 00:00:47,01
+Split the tests to two groups,
+
+20
+00:00:47,01 --> 00:00:50,03
+one the developers run and one that runs on CI,
+
+21
+00:00:50,03 --> 00:00:52,01
+which includes the first group.
+
+22
+00:00:52,01 --> 00:00:53,03
+Let's have a look.
+
+23
+00:00:53,03 --> 00:00:54,09
+Here's a code example.
+
+24
+00:00:54,09 --> 00:00:58,02
+I'm going to environment variable called CI
+
+25
+00:00:58,02 --> 00:01:01,01
+to check if you are under the CI system or not.
+
+26
+00:01:01,01 --> 00:01:02,08
+In line three, I'm importing environ,
+
+27
+00:01:02,08 --> 00:01:05,00
+which is the environment variables
+
+28
+00:01:05,00 --> 00:01:07,06
+and in line six, I'm setting is_ci,
+
+29
+00:01:07,06 --> 00:01:10,09
+but true only if CI is inside the environment
+
+30
+00:01:10,09 --> 00:01:13,03
+meaning we are running under the CI system.
+
+31
+00:01:13,03 --> 00:01:15,07
+The test on line nine will run regardless,
+
+32
+00:01:15,07 --> 00:01:20,05
+but the test on line 14 will run only if the CI
+
+33
+00:01:20,05 --> 00:01:23,00
+environment variable is set.
+
+34
+00:01:23,00 --> 00:01:27,01
+We're using pytest.mark.skipif for that.
+
+35
+00:01:27,01 --> 00:01:28,00
+Let's have a look.
+
+36
+00:01:28,00 --> 00:01:33,03
+In developer machines, so python -m pytest -v,
+
+37
+00:01:33,03 --> 00:01:34,07
+and we see that we have two tests,
+
+38
+00:01:34,07 --> 00:01:36,08
+but only the first one is running.
+
+39
+00:01:36,08 --> 00:01:38,01
+The second one is skipped.
+
+40
+00:01:38,01 --> 00:01:40,07
+Now we're going to set the environment variable for CI.
+
+41
+00:01:40,07 --> 00:01:45,03
+So, CI equal yes and then the same line as before,
+
+42
+00:01:45,03 --> 00:01:48,08
+python -m pytest -v
+
+43
+00:01:48,08 --> 00:01:50,06
+and now we see that both tests are running.
+
+44
+00:01:50,06 --> 00:01:52,00
+That's it.
+

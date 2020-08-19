@@ -1,0 +1,304 @@
+1
+00:00:00.060 --> 00:00:02.090
+- [Instructor] Manufacturers are constantly being asked
+
+2
+00:00:02.090 --> 00:00:04.060
+to produce more complex products
+
+3
+00:00:04.060 --> 00:00:07.030
+in a shorter period of time, and this puts a lot of pressure
+
+4
+00:00:07.030 --> 00:00:09.080
+on manufacturers, as you might expect.
+
+5
+00:00:09.080 --> 00:00:12.010
+The market research firm Tech-Clarity found
+
+6
+00:00:12.010 --> 00:00:15.080
+that in one of their surveys, 42% of manufacturers
+
+7
+00:00:15.080 --> 00:00:19.080
+cited increasing design reuse as a top priority.
+
+8
+00:00:19.080 --> 00:00:22.090
+The research firm CIMdata did a similar survey
+
+9
+00:00:22.090 --> 00:00:25.030
+and found that the number one effort
+
+10
+00:00:25.030 --> 00:00:27.080
+that manufacturers are undertaking is to improve
+
+11
+00:00:27.080 --> 00:00:29.080
+engineering to manufacturing exchange
+
+12
+00:00:29.080 --> 00:00:32.060
+for a more efficient production process.
+
+13
+00:00:32.060 --> 00:00:36.020
+And another similar study by Tech-Clarity, again,
+
+14
+00:00:36.020 --> 00:00:40.000
+found that 49% of manufacturers say that designing
+
+15
+00:00:40.000 --> 00:00:43.010
+platform variants is a top challenge for them.
+
+16
+00:00:43.010 --> 00:00:45.080
+The response to these pressures has been to seek ways
+
+17
+00:00:45.080 --> 00:00:48.080
+to reduce complexity and create logical relationships
+
+18
+00:00:48.080 --> 00:00:51.040
+between different parts of the product's body of knowledge,
+
+19
+00:00:51.040 --> 00:00:54.030
+which led to the design, or led to the creation
+
+20
+00:00:54.030 --> 00:00:57.010
+of model-based design paradigms.
+
+21
+00:00:57.010 --> 00:01:00.010
+So, if we're going to discuss change in an Agile
+
+22
+00:01:00.010 --> 00:01:02.050
+environment, we really ought to include some level
+
+23
+00:01:02.050 --> 00:01:06.040
+of discussion on model-based design in the conversation,
+
+24
+00:01:06.040 --> 00:01:09.020
+though many organizations have shied away
+
+25
+00:01:09.020 --> 00:01:11.050
+from model-based design because of the perceived
+
+26
+00:01:11.050 --> 00:01:13.080
+complexity and the effort required.
+
+27
+00:01:13.080 --> 00:01:16.020
+And to be clear, there is some effort required
+
+28
+00:01:16.020 --> 00:01:19.000
+to set up a model-based design paradigm.
+
+29
+00:01:19.000 --> 00:01:21.010
+But in my view, a model-based design
+
+30
+00:01:21.010 --> 00:01:23.010
+paradigm can start simply.
+
+31
+00:01:23.010 --> 00:01:26.040
+It's, after all, a set of related product information
+
+32
+00:01:26.040 --> 00:01:31.040
+that helps to define, design, and document
+
+33
+00:01:31.040 --> 00:01:33.060
+the new product being developed.
+
+34
+00:01:33.060 --> 00:01:37.010
+To support change management in an Agile environment,
+
+35
+00:01:37.010 --> 00:01:38.070
+all the related information needs
+
+36
+00:01:38.070 --> 00:01:40.020
+to be together and accessible.
+
+37
+00:01:40.020 --> 00:01:42.080
+So, really, a model-based design paradigm
+
+38
+00:01:42.080 --> 00:01:46.010
+supports Agile change very well.
+
+39
+00:01:46.010 --> 00:01:48.070
+Now, with this streamlined or pared-down view
+
+40
+00:01:48.070 --> 00:01:51.000
+of what a model-based design is,
+
+41
+00:01:51.000 --> 00:01:52.060
+we can take a look at some of the components
+
+42
+00:01:52.060 --> 00:01:55.030
+that would actually go into the model itself
+
+43
+00:01:55.030 --> 00:01:57.050
+and the model definition itself.
+
+44
+00:01:57.050 --> 00:01:59.030
+To be sure, as you would expect,
+
+45
+00:01:59.030 --> 00:02:01.090
+3-D CAD models fall in the definition.
+
+46
+00:02:01.090 --> 00:02:04.040
+The 3-D CAD model designs the geometry
+
+47
+00:02:04.040 --> 00:02:06.090
+of the actual part when it's complete.
+
+48
+00:02:06.090 --> 00:02:08.030
+There's also geometric dimensioning
+
+49
+00:02:08.030 --> 00:02:10.020
+and tolerancing information.
+
+50
+00:02:10.020 --> 00:02:13.010
+GD&T information is often read right from the model
+
+51
+00:02:13.010 --> 00:02:15.060
+by the manufacturing processes, so it makes sense
+
+52
+00:02:15.060 --> 00:02:18.010
+to include it in the model, as well.
+
+53
+00:02:18.010 --> 00:02:20.060
+There certainly should be a bill of materials,
+
+54
+00:02:20.060 --> 00:02:23.000
+which is what is ultimately produced.
+
+55
+00:02:23.000 --> 00:02:25.040
+There may be other technical data packages
+
+56
+00:02:25.040 --> 00:02:28.030
+that go together to help refine the understanding
+
+57
+00:02:28.030 --> 00:02:30.030
+of the model or capture other intellectual
+
+58
+00:02:30.030 --> 00:02:32.070
+property aspects of the model.
+
+59
+00:02:32.070 --> 00:02:35.060
+Interestingly, some organizations have called this
+
+60
+00:02:35.060 --> 00:02:38.000
+digital product definition in an effort
+
+61
+00:02:38.000 --> 00:02:40.020
+to the the streamlined model-based design
+
+62
+00:02:40.020 --> 00:02:43.010
+and separate it from the much more complex
+
+63
+00:02:43.010 --> 00:02:46.060
+model-based enterprise definitions that cause people angst.
+
+64
+00:02:46.060 --> 00:02:49.070
+If we take a look, then, at what a simplified
+
+65
+00:02:49.070 --> 00:02:53.000
+model-based design could be, it could be something as simple
+
+66
+00:02:53.000 --> 00:02:54.060
+as our project plan that we've
+
+67
+00:02:54.060 --> 00:02:56.030
+discussed in this course already,
+
+68
+00:02:56.030 --> 00:02:58.060
+which contains the information about what's going to be
+
+69
+00:02:58.060 --> 00:03:00.050
+built and who is going to build it;
+
+70
+00:03:00.050 --> 00:03:02.090
+the actual CAD model and related geometry,
+
+71
+00:03:02.090 --> 00:03:06.040
+including all the metadata on the attributes, of course;
+
+72
+00:03:06.040 --> 00:03:08.010
+and other supporting documentation,
+
+73
+00:03:08.010 --> 00:03:10.020
+such as the specification;
+
+74
+00:03:10.020 --> 00:03:12.000
+And all of this would be tied together
+
+75
+00:03:12.000 --> 00:03:14.030
+in some sort of a system that allows you to efficiently
+
+76
+00:03:14.030 --> 00:03:17.000
+surf from one piece of information to the next.
+

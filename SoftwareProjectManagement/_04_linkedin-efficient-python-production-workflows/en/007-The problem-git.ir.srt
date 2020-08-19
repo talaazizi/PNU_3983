@@ -1,0 +1,124 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:04,00
+- [Instructor] One of Python's models is batteries included.
+
+2
+00:00:04,00 --> 00:00:06,00
+When you install Python, you get the rich
+
+3
+00:00:06,00 --> 00:00:09,00
+standard library with many packages.
+
+4
+00:00:09,00 --> 00:00:11,08
+A lot of times the standard library will be enough.
+
+5
+00:00:11,08 --> 00:00:14,03
+However sometimes, you'll need a package
+
+6
+00:00:14,03 --> 00:00:16,00
+that's not in the standard library,
+
+7
+00:00:16,00 --> 00:00:17,07
+a third-party package.
+
+8
+00:00:17,07 --> 00:00:19,08
+The center location for third party packages
+
+9
+00:00:19,08 --> 00:00:22,08
+for Python is PyPI.
+
+10
+00:00:22,08 --> 00:00:27,01
+At the time of recording, it hosts about 200,000 packages.
+
+11
+00:00:27,01 --> 00:00:28,09
+It's a lot to chose from.
+
+12
+00:00:28,09 --> 00:00:32,07
+That's one of the problems of third party packages.
+
+13
+00:00:32,07 --> 00:00:34,08
+At first glance it's super easy to use
+
+14
+00:00:34,08 --> 00:00:36,05
+a third party package.
+
+15
+00:00:36,05 --> 00:00:40,01
+You pip install the package and its ready for you to use.
+
+16
+00:00:40,01 --> 00:00:42,07
+However, you need a good process that will
+
+17
+00:00:42,07 --> 00:00:44,09
+ensure that the work done in development
+
+18
+00:00:44,09 --> 00:00:46,09
+will also run in production.
+
+19
+00:00:46,09 --> 00:00:50,04
+On top of that, it's possible that the same server will
+
+20
+00:00:50,04 --> 00:00:52,04
+want two or more applications.
+
+21
+00:00:52,04 --> 00:00:55,08
+Each of them uses a different versions of a dependency.
+
+22
+00:00:55,08 --> 00:00:58,07
+And some other things can go wrong as well.
+
+23
+00:00:58,07 --> 00:01:01,02
+A package you are using can be discontinued.
+
+24
+00:01:01,02 --> 00:01:04,02
+A package you are using can be malicious.
+
+25
+00:01:04,02 --> 00:01:06,08
+A package update can crash your code.
+
+26
+00:01:06,08 --> 00:01:08,09
+And many more things can go wrong.
+
+27
+00:01:08,09 --> 00:01:10,01
+I highly recommend reading
+
+28
+00:01:10,01 --> 00:01:13,07
+Russ Cox, Our Software Dependency Problem
+
+29
+00:01:13,07 --> 00:01:14,06
+that even though it's not
+
+30
+00:01:14,06 --> 00:01:18,00
+about Python, summarizes the problem well.
+

@@ -1,0 +1,344 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:03,02
+- Let's make a few broad generalizations
+
+2
+00:00:03,02 --> 00:00:05,01
+about UX professionals.
+
+3
+00:00:05,01 --> 00:00:07,04
+I believe that many UX professionals,
+
+4
+00:00:07,04 --> 00:00:08,08
+and I count myself here,
+
+5
+00:00:08,08 --> 00:00:11,09
+are neither introverts nor extroverts.
+
+6
+00:00:11,09 --> 00:00:14,04
+Rather, they're somewhere in between.
+
+7
+00:00:14,04 --> 00:00:17,01
+They're often people who sometimes enjoy the energy
+
+8
+00:00:17,01 --> 00:00:18,09
+from being and interacting with others,
+
+9
+00:00:18,09 --> 00:00:20,06
+and then find that they need
+
+10
+00:00:20,06 --> 00:00:23,05
+to have some time alone to recharge.
+
+11
+00:00:23,05 --> 00:00:26,09
+Additionally, when you hear UXers declare introversion,
+
+12
+00:00:26,09 --> 00:00:28,04
+well, it's true they might be.
+
+13
+00:00:28,04 --> 00:00:30,07
+More often than not, the term introvert
+
+14
+00:00:30,07 --> 00:00:33,03
+is actually and incorrectly being used
+
+15
+00:00:33,03 --> 00:00:35,04
+as a synonym for being shy.
+
+16
+00:00:35,04 --> 00:00:38,03
+And UX professionals are naturally curious.
+
+17
+00:00:38,03 --> 00:00:41,02
+They seek to gather information, to understand,
+
+18
+00:00:41,02 --> 00:00:43,07
+and to learn more about the world around them,
+
+19
+00:00:43,07 --> 00:00:46,06
+and to create for that world.
+
+20
+00:00:46,06 --> 00:00:48,05
+UX professionals are perhaps a bit more
+
+21
+00:00:48,05 --> 00:00:52,01
+feeling and emotion-driven than those in other professions.
+
+22
+00:00:52,01 --> 00:00:55,02
+So, what does that mean for you as an employer?
+
+23
+00:00:55,02 --> 00:00:57,01
+How do you best manage people
+
+24
+00:00:57,01 --> 00:01:00,02
+who are neither introverted nor extroverted,
+
+25
+00:01:00,02 --> 00:01:02,00
+who might sometimes be shy,
+
+26
+00:01:02,00 --> 00:01:04,01
+but are also curious, creative,
+
+27
+00:01:04,01 --> 00:01:06,08
+emotional information-seekers?
+
+28
+00:01:06,08 --> 00:01:10,01
+The physical space you have available isn't going to change,
+
+29
+00:01:10,01 --> 00:01:11,00
+but no matter what,
+
+30
+00:01:11,00 --> 00:01:13,07
+you need to have places of collaboration
+
+31
+00:01:13,07 --> 00:01:15,07
+and places of solitude.
+
+32
+00:01:15,07 --> 00:01:18,06
+Allow work areas where employees can collaborate
+
+33
+00:01:18,06 --> 00:01:20,06
+as they passionately discuss how best
+
+34
+00:01:20,06 --> 00:01:23,00
+to create what your customers want.
+
+35
+00:01:23,00 --> 00:01:25,06
+And carve out places where employees can retreat to
+
+36
+00:01:25,06 --> 00:01:27,08
+when they want to work alone.
+
+37
+00:01:27,08 --> 00:01:30,02
+If you've done what you can to have that quiet space
+
+38
+00:01:30,02 --> 00:01:32,02
+and you don't think it's good enough,
+
+39
+00:01:32,02 --> 00:01:34,09
+consider some liberal work-from-home policies
+
+40
+00:01:34,09 --> 00:01:36,04
+where you also help employees
+
+41
+00:01:36,04 --> 00:01:38,08
+really create an effective quiet workspace
+
+42
+00:01:38,08 --> 00:01:40,04
+where they live.
+
+43
+00:01:40,04 --> 00:01:42,07
+While flexible work arrangements are often best,
+
+44
+00:01:42,07 --> 00:01:46,01
+do make sure you provide a robust technology infrastructure
+
+45
+00:01:46,01 --> 00:01:48,01
+to allow staff to communicate effectively
+
+46
+00:01:48,01 --> 00:01:50,04
+when not in the same place.
+
+47
+00:01:50,04 --> 00:01:51,09
+If you don't have a permanent office,
+
+48
+00:01:51,09 --> 00:01:54,02
+consider opportunities to rent low-budget space
+
+49
+00:01:54,02 --> 00:01:56,00
+in a shared work environment,
+
+50
+00:01:56,00 --> 00:01:58,00
+somewhere with good coffee, good lighting,
+
+51
+00:01:58,00 --> 00:01:59,05
+and good restaurants around
+
+52
+00:01:59,05 --> 00:02:02,09
+so that a team can work together in person when needed.
+
+53
+00:02:02,09 --> 00:02:05,06
+You can create opportunities for socialization,
+
+54
+00:02:05,06 --> 00:02:08,03
+and consider providing at least some light structure
+
+55
+00:02:08,03 --> 00:02:09,08
+some of the time,
+
+56
+00:02:09,08 --> 00:02:13,05
+such as a non-work activity to mix it up a bit.
+
+57
+00:02:13,05 --> 00:02:17,00
+And go beyond only providing essential software technology.
+
+58
+00:02:17,00 --> 00:02:19,07
+If employees learn about a new helpful product
+
+59
+00:02:19,07 --> 00:02:21,04
+and want to experiment with it,
+
+60
+00:02:21,04 --> 00:02:24,02
+encourage them to get a trial version, for example.
+
+61
+00:02:24,02 --> 00:02:26,03
+And encourage that experimentation
+
+62
+00:02:26,03 --> 00:02:29,03
+with new processes and new methods.
+
+63
+00:02:29,03 --> 00:02:32,01
+Because UX professionals are focused on people,
+
+64
+00:02:32,01 --> 00:02:33,05
+they are perhaps more apt
+
+65
+00:02:33,05 --> 00:02:35,07
+to absorb the emotions of others.
+
+66
+00:02:35,07 --> 00:02:38,09
+UXers may very well be the first to be affected negatively
+
+67
+00:02:38,09 --> 00:02:41,01
+by ongoing workplace stress.
+
+68
+00:02:41,01 --> 00:02:43,03
+Additionally, when you have UX professionals
+
+69
+00:02:43,03 --> 00:02:45,05
+on the ground interacting with users,
+
+70
+00:02:45,05 --> 00:02:47,00
+remember that they could be absorbing
+
+71
+00:02:47,00 --> 00:02:49,02
+those emotions as well.
+
+72
+00:02:49,02 --> 00:02:50,03
+For six years,
+
+73
+00:02:50,03 --> 00:02:53,02
+I was doing a lot of research with disaster survivors,
+
+74
+00:02:53,02 --> 00:02:54,08
+and I remember a few times
+
+75
+00:02:54,08 --> 00:02:56,03
+when I would be struggling not to cry
+
+76
+00:02:56,03 --> 00:02:58,05
+when listening to some of their stories.
+
+77
+00:02:58,05 --> 00:03:00,09
+These interactions impacted me,
+
+78
+00:03:00,09 --> 00:03:02,06
+not in too serious a way,
+
+79
+00:03:02,06 --> 00:03:05,03
+but there are other situations where unnecessary empathy
+
+80
+00:03:05,03 --> 00:03:07,09
+could negatively affect UX staff.
+
+81
+00:03:07,09 --> 00:03:09,04
+So, be aware of this,
+
+82
+00:03:09,04 --> 00:03:13,09
+and provide appropriate counterbalances where necessary.
+
+83
+00:03:13,09 --> 00:03:16,02
+Focus on helping people feel good,
+
+84
+00:03:16,02 --> 00:03:17,07
+feel good about themselves
+
+85
+00:03:17,07 --> 00:03:20,00
+and about interactions with others.
+

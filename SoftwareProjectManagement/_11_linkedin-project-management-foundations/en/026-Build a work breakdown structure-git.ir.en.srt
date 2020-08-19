@@ -1,0 +1,348 @@
+1
+00:00:00,640 --> 00:00:03,360
+the best way to build a work breakdown
+
+2
+00:00:02,720 --> 00:00:06,560
+structure
+
+3
+00:00:03,360 --> 00:00:07,520
+or wbs is to start at the top level of
+
+4
+00:00:06,560 --> 00:00:10,480
+summary tasks
+
+5
+00:00:07,520 --> 00:00:13,519
+and work your way down work with your
+
+6
+00:00:10,480 --> 00:00:15,679
+team to identify the wbs
+
+7
+00:00:13,519 --> 00:00:16,880
+you're less likely to forget work that
+
+8
+00:00:15,679 --> 00:00:19,359
+needs to be done
+
+9
+00:00:16,880 --> 00:00:20,960
+and the team is more likely to buy into
+
+10
+00:00:19,359 --> 00:00:23,840
+the project
+
+11
+00:00:20,960 --> 00:00:26,000
+as a team you identify the top few
+
+12
+00:00:23,840 --> 00:00:28,160
+levels of summary tasks
+
+13
+00:00:26,000 --> 00:00:30,320
+then you can have smaller groups break
+
+14
+00:00:28,160 --> 00:00:31,439
+down the summary tasks into smaller
+
+15
+00:00:30,320 --> 00:00:33,920
+chunks
+
+16
+00:00:31,439 --> 00:00:35,600
+at the end everyone gets back together
+
+17
+00:00:33,920 --> 00:00:38,559
+to review the results
+
+18
+00:00:35,600 --> 00:00:40,079
+and correct any issues if the full team
+
+19
+00:00:38,559 --> 00:00:42,000
+isn't on board yet
+
+20
+00:00:40,079 --> 00:00:44,879
+work with your initial team to
+
+21
+00:00:42,000 --> 00:00:47,680
+brainstorm the wbs
+
+22
+00:00:44,879 --> 00:00:49,680
+then you can revise and add more detail
+
+23
+00:00:47,680 --> 00:00:52,480
+to the wbs later
+
+24
+00:00:49,680 --> 00:00:54,160
+as others join the project start by
+
+25
+00:00:52,480 --> 00:00:56,719
+using the scope statement
+
+26
+00:00:54,160 --> 00:00:58,719
+and deliverables to identify the top
+
+27
+00:00:56,719 --> 00:01:00,879
+level summary tasks
+
+28
+00:00:58,719 --> 00:01:02,480
+for example the scope for the scheduling
+
+29
+00:01:00,879 --> 00:01:05,840
+project includes
+
+30
+00:01:02,480 --> 00:01:07,439
+redesigned scheduling processes a new
+
+31
+00:01:05,840 --> 00:01:10,799
+scheduling system
+
+32
+00:01:07,439 --> 00:01:14,400
+documentation and training so you add
+
+33
+00:01:10,799 --> 00:01:17,119
+summary tasks to cover all of those
+
+34
+00:01:14,400 --> 00:01:17,680
+next break down each of the summary
+
+35
+00:01:17,119 --> 00:01:20,960
+tasks
+
+36
+00:01:17,680 --> 00:01:22,720
+into smaller pieces intermediate
+
+37
+00:01:20,960 --> 00:01:23,759
+deliverables come in handy for
+
+38
+00:01:22,720 --> 00:01:25,920
+identifying
+
+39
+00:01:23,759 --> 00:01:27,520
+lower level summary tasks and work
+
+40
+00:01:25,920 --> 00:01:29,840
+packages
+
+41
+00:01:27,520 --> 00:01:32,079
+for example the scheduling project
+
+42
+00:01:29,840 --> 00:01:34,799
+includes a deliverable for a signed
+
+43
+00:01:32,079 --> 00:01:38,000
+contract with the system vendor
+
+44
+00:01:34,799 --> 00:01:41,280
+let's add tasks to obtain proposals
+
+45
+00:01:38,000 --> 00:01:45,119
+select the vendor negotiate terms
+
+46
+00:01:41,280 --> 00:01:48,159
+and sign the contract you might wonder
+
+47
+00:01:45,119 --> 00:01:51,040
+how much breakdown is enough most
+
+48
+00:01:48,159 --> 00:01:52,079
+project managers shoot for work packages
+
+49
+00:01:51,040 --> 00:01:55,920
+that take between
+
+50
+00:01:52,079 --> 00:01:58,880
+8 and 80 hours to complete work packages
+
+51
+00:01:55,920 --> 00:02:00,719
+are the lowest level tasks in the wbs
+
+52
+00:01:58,880 --> 00:02:01,840
+and represent the work that needs to be
+
+53
+00:02:00,719 --> 00:02:04,079
+done
+
+54
+00:02:01,840 --> 00:02:04,880
+consider breaking down work to match the
+
+55
+00:02:04,079 --> 00:02:08,000
+frequency
+
+56
+00:02:04,880 --> 00:02:10,560
+of your status reports that way you
+
+57
+00:02:08,000 --> 00:02:11,360
+have measurable progress and completed
+
+58
+00:02:10,560 --> 00:02:14,879
+tasks for
+
+59
+00:02:11,360 --> 00:02:16,720
+every status report here are some tests
+
+60
+00:02:14,879 --> 00:02:19,120
+to determine whether you've broken work
+
+61
+00:02:16,720 --> 00:02:22,879
+down to the right level
+
+62
+00:02:19,120 --> 00:02:26,000
+time and cost are easy to estimate
+
+63
+00:02:22,879 --> 00:02:28,080
+status is easy to measure
+
+64
+00:02:26,000 --> 00:02:29,920
+task durations are shorter than your
+
+65
+00:02:28,080 --> 00:02:32,879
+reporting periods
+
+66
+00:02:29,920 --> 00:02:35,120
+the detail is at the level you can and
+
+67
+00:02:32,879 --> 00:02:36,879
+want to manage
+
+68
+00:02:35,120 --> 00:02:38,319
+different parts of a project might
+
+69
+00:02:36,879 --> 00:02:40,239
+require different levels of
+
+70
+00:02:38,319 --> 00:02:42,080
+decomposition
+
+71
+00:02:40,239 --> 00:02:44,400
+one part of the project might include
+
+72
+00:02:42,080 --> 00:02:46,080
+more work so you break it down to three
+
+73
+00:02:44,400 --> 00:02:47,519
+or four levels
+
+74
+00:02:46,080 --> 00:02:51,040
+if another part of the project is
+
+75
+00:02:47,519 --> 00:02:52,560
+simpler you might need only two levels
+
+76
+00:02:51,040 --> 00:02:55,200
+don't worry about the initial
+
+77
+00:02:52,560 --> 00:02:57,599
+organization of your wbs
+
+78
+00:02:55,200 --> 00:02:59,920
+you can rearrange it later as you learn
+
+79
+00:02:57,599 --> 00:03:02,720
+more about the project
+
+80
+00:02:59,920 --> 00:03:03,280
+building a wbs from the top down works
+
+81
+00:03:02,720 --> 00:03:05,360
+well
+
+82
+00:03:03,280 --> 00:03:08,400
+because you can use the scope statement
+
+83
+00:03:05,360 --> 00:03:11,040
+and deliverables to get started
+
+84
+00:03:08,400 --> 00:03:13,280
+for practice try building more of the
+
+85
+00:03:11,040 --> 00:03:15,560
+scheduling projects wbs
+
+86
+00:03:13,280 --> 00:03:18,560
+based on the project scope and
+
+87
+00:03:15,560 --> 00:03:18,560
+deliverables
+

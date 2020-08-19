@@ -1,0 +1,68 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:03,06
+- We've covered a number of topics about UX hiring,
+
+2
+00:00:03,06 --> 00:00:05,09
+contracting and career management.
+
+3
+00:00:05,09 --> 00:00:09,04
+And you probably want to know where you can go from here.
+
+4
+00:00:09,04 --> 00:00:12,05
+To get more in depth on the variety of UX career pathways
+
+5
+00:00:12,05 --> 00:00:15,01
+as well as to see things from your staff's perspective,
+
+6
+00:00:15,01 --> 00:00:16,06
+check out my very popular,
+
+7
+00:00:16,06 --> 00:00:19,06
+Planning a Career in User Experience course.
+
+8
+00:00:19,06 --> 00:00:21,07
+To go even deeper, check out my book,
+
+9
+00:00:21,07 --> 00:00:23,08
+"The UX Careers Handbook."
+
+10
+00:00:23,08 --> 00:00:26,01
+For additional perspective, I'd encourage you
+
+11
+00:00:26,01 --> 00:00:27,02
+to check out my course,
+
+12
+00:00:27,02 --> 00:00:30,00
+Freelancing and Consulting in User Experience,
+
+13
+00:00:30,00 --> 00:00:32,05
+as well as other courses in the library.
+
+14
+00:00:32,05 --> 00:00:35,01
+Thanks for watching, and I wish you success
+
+15
+00:00:35,01 --> 00:00:38,03
+as you build your UX team by hiring, contracting
+
+16
+00:00:38,03 --> 00:00:41,00
+and inspiring those around you.
+

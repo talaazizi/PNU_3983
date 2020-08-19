@@ -1,0 +1,572 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.020 --> 00:00:06.000
+- So this idea of adapting to change,
+
+2
+00:00:06.000 --> 00:00:06.090
+this is one of the ideas that really
+
+3
+00:00:06.090 --> 00:00:09.030
+worries me about Agile.
+
+4
+00:00:09.030 --> 00:00:10.030
+And I don't know whether you'd use Agile
+
+5
+00:00:10.030 --> 00:00:12.030
+ever to build a house, I think you probably wouldn't,
+
+6
+00:00:12.030 --> 00:00:13.040
+but tell me in a minute.
+
+7
+00:00:13.040 --> 00:00:15.010
+But I've been thinking, if we use house building
+
+8
+00:00:15.010 --> 00:00:18.030
+as sort of an analogy, if you were going to build
+
+9
+00:00:18.030 --> 00:00:21.060
+a house using Agile, you'd have a list of everything
+
+10
+00:00:21.060 --> 00:00:25.010
+that was going to go into the house at the start, I guess.
+
+11
+00:00:25.010 --> 00:00:27.080
+And clearly you can't put the roof on before the walls,
+
+12
+00:00:27.080 --> 00:00:29.010
+that's not going to be a problem.
+
+13
+00:00:29.010 --> 00:00:30.070
+It's not like Agile people are going to do things
+
+14
+00:00:30.070 --> 00:00:33.000
+in the wrong order, because you physically can't.
+
+15
+00:00:33.000 --> 00:00:36.050
+So providing you do everything in some order,
+
+16
+00:00:36.050 --> 00:00:38.030
+you might think that that's going to be fine.
+
+17
+00:00:38.030 --> 00:00:40.020
+Why do you need a plan?
+
+18
+00:00:40.020 --> 00:00:41.010
+But I've been thinking about this,
+
+19
+00:00:41.010 --> 00:00:42.050
+and I think there are two reasons why
+
+20
+00:00:42.050 --> 00:00:45.000
+you do need a proper plan from the start,
+
+21
+00:00:45.000 --> 00:00:46.090
+certainly with a house.
+
+22
+00:00:46.090 --> 00:00:49.080
+And the first one is that there will be a critical path,
+
+23
+00:00:49.080 --> 00:00:52.080
+there'll be a longest sequence of things
+
+24
+00:00:52.080 --> 00:00:53.090
+to build your house.
+
+25
+00:00:53.090 --> 00:00:56.050
+And therefore, you want to start on that straight away
+
+26
+00:00:56.050 --> 00:00:57.050
+if you're going to get the house built
+
+27
+00:00:57.050 --> 00:00:59.040
+as quickly as possible.
+
+28
+00:00:59.040 --> 00:01:01.090
+So if you're Agile and you don't really have a plan,
+
+29
+00:01:01.090 --> 00:01:04.030
+and you're just doing whatever you feel like each week,
+
+30
+00:01:04.030 --> 00:01:06.080
+then there is a risk that the first week
+
+31
+00:01:06.080 --> 00:01:08.040
+you'll think, let's do the fish pond.
+
+32
+00:01:08.040 --> 00:01:10.010
+And then the week after you'll think,
+
+33
+00:01:10.010 --> 00:01:12.060
+oh maybe we should start on the walls,
+
+34
+00:01:12.060 --> 00:01:14.020
+and later on you'll regret that.
+
+35
+00:01:14.020 --> 00:01:15.080
+You'll think, oh we should've started on the walls
+
+36
+00:01:15.080 --> 00:01:17.080
+straight away, 'cause they were the slowest thing.
+
+37
+00:01:17.080 --> 00:01:19.060
+So I'm just thinking, critical paths seem
+
+38
+00:01:19.060 --> 00:01:21.000
+like a good idea, and I want to find out
+
+39
+00:01:21.000 --> 00:01:22.040
+if they're in Agile.
+
+40
+00:01:22.040 --> 00:01:24.030
+But the other thing I was thinking is that,
+
+41
+00:01:24.030 --> 00:01:26.020
+if you don't have a plan for the whole house
+
+42
+00:01:26.020 --> 00:01:28.070
+at the beginning, you'll do the foundations,
+
+43
+00:01:28.070 --> 00:01:30.030
+'cause you have to do them first,
+
+44
+00:01:30.030 --> 00:01:32.010
+and then later on when you think,
+
+45
+00:01:32.010 --> 00:01:34.070
+actually let's put a third floor on our house,
+
+46
+00:01:34.070 --> 00:01:37.000
+you'll be thinking, oh we should've done
+
+47
+00:01:37.000 --> 00:01:38.020
+the foundations deeper.
+
+48
+00:01:38.020 --> 00:01:39.090
+And if we'd known at the beginning it was going to
+
+49
+00:01:39.090 --> 00:01:43.060
+be a three story house, we'd have done deeper foundations.
+
+50
+00:01:43.060 --> 00:01:45.050
+So it's a bit of a complicated question,
+
+51
+00:01:45.050 --> 00:01:49.010
+but I just wanted to know about the critical path question,
+
+52
+00:01:49.010 --> 00:01:52.020
+and also the regretting later problem.
+
+53
+00:01:52.020 --> 00:01:57.000
+And how does Agile handle all of that when you do projects?
+
+54
+00:01:57.000 --> 00:01:59.020
+- Now this is going to really freak you out,
+
+55
+00:01:59.020 --> 00:02:02.000
+'cause you would never use Agile to build a house,
+
+56
+00:02:02.000 --> 00:02:05.090
+but if you did, because software and a lot of digital
+
+57
+00:02:05.090 --> 00:02:08.030
+products are much different from building stuff
+
+58
+00:02:08.030 --> 00:02:10.020
+with concrete, and things like that.
+
+59
+00:02:10.020 --> 00:02:12.050
+But if you did use Agile to build a house,
+
+60
+00:02:12.050 --> 00:02:15.090
+or specifically Scrum, then what you would do
+
+61
+00:02:15.090 --> 00:02:18.010
+is you would get together with your customer,
+
+62
+00:02:18.010 --> 00:02:21.090
+and you would decide which room in your house
+
+63
+00:02:21.090 --> 00:02:24.000
+is the most valuable.
+
+64
+00:02:24.000 --> 00:02:26.040
+Now for a lot of people, it would be a bathroom.
+
+65
+00:02:26.040 --> 00:02:29.050
+So that's the room that you need the most
+
+66
+00:02:29.050 --> 00:02:31.030
+in your house.
+
+67
+00:02:31.030 --> 00:02:32.060
+Other people would be a kitchen.
+
+68
+00:02:32.060 --> 00:02:33.050
+- I was going to say it's a little bit weird--
+
+69
+00:02:33.050 --> 00:02:34.080
+- They'd just go outside.
+
+70
+00:02:34.080 --> 00:02:37.090
+Yeah, so just a kitchen and then just a bucket outside.
+
+71
+00:02:37.090 --> 00:02:41.020
+But whatever it is, you would work with your customer
+
+72
+00:02:41.020 --> 00:02:43.070
+to figure out what the highest value part
+
+73
+00:02:43.070 --> 00:02:46.010
+of your house is, the room, and then you would
+
+74
+00:02:46.010 --> 00:02:49.060
+build out this bathroom completely.
+
+75
+00:02:49.060 --> 00:02:52.080
+It would be suspended on the third floor,
+
+76
+00:02:52.080 --> 00:02:56.020
+completely built out, the faucets would work,
+
+77
+00:02:56.020 --> 00:02:58.050
+the sink would work, everything,
+
+78
+00:02:58.050 --> 00:03:00.070
+the toilet would work, the shower would work,
+
+79
+00:03:00.070 --> 00:03:01.070
+all the finishing would be in there.
+
+80
+00:03:01.070 --> 00:03:03.040
+- So for house building, this is completely mad,
+
+81
+00:03:03.040 --> 00:03:05.050
+but for software, I can see how that would work.
+
+82
+00:03:05.050 --> 00:03:10.040
+'Cause you do the most important feature first, and then?
+
+83
+00:03:10.040 --> 00:03:11.090
+- And then it's complete.
+
+84
+00:03:11.090 --> 00:03:15.080
+And so your customer could essentially live
+
+85
+00:03:15.080 --> 00:03:18.020
+in their house, just in their bathroom.
+
+86
+00:03:18.020 --> 00:03:20.070
+And so they would have just a one bathroom,
+
+87
+00:03:20.070 --> 00:03:22.000
+but it would completely work.
+
+88
+00:03:22.000 --> 00:03:24.080
+And so that's a really tricky thing for a lot of people
+
+89
+00:03:24.080 --> 00:03:26.060
+when they're coming away from Waterfall
+
+90
+00:03:26.060 --> 00:03:29.010
+is this idea of what's called incremental
+
+91
+00:03:29.010 --> 00:03:30.020
+and iterative delivery.
+
+92
+00:03:30.020 --> 00:03:31.080
+- Yeah, you're messing with my head already.
+
+93
+00:03:31.080 --> 00:03:32.070
+- I know.
+
+94
+00:03:32.070 --> 00:03:33.050
+- You've only just started.
+
+95
+00:03:33.050 --> 00:03:34.090
+- I know, it's crazy.
+
+96
+00:03:34.090 --> 00:03:36.090
+But if you're coming from a Waterfall background,
+
+97
+00:03:36.090 --> 00:03:40.080
+or from any kind of deterministic planning background,
+
+98
+00:03:40.080 --> 00:03:43.020
+then this idea of incremental and iterative
+
+99
+00:03:43.020 --> 00:03:44.090
+delivery is freaky.
+
+100
+00:03:44.090 --> 00:03:47.070
+- So you do the one most important thing first,
+
+101
+00:03:47.070 --> 00:03:50.080
+and then you can build on that from then on.
+
+102
+00:03:50.080 --> 00:03:53.000
+So you couldn't use it for something like a house,
+
+103
+00:03:53.000 --> 00:03:55.060
+or anything where you can't do the most
+
+104
+00:03:55.060 --> 00:03:57.070
+important thing first.
+
+105
+00:03:57.070 --> 00:03:59.030
+- Well you don't want to use it for anything
+
+106
+00:03:59.030 --> 00:04:01.050
+that's like manufacturing.
+
+107
+00:04:01.050 --> 00:04:03.090
+Because classic Waterfall, deterministic planning
+
+108
+00:04:03.090 --> 00:04:05.060
+comes out of manufacturing.
+
+109
+00:04:05.060 --> 00:04:08.050
+And so anything that's steel and concrete
+
+110
+00:04:08.050 --> 00:04:11.050
+that can't easily be built on, reassembled,
+
+111
+00:04:11.050 --> 00:04:13.090
+that type of thing, is going to be difficult
+
+112
+00:04:13.090 --> 00:04:18.020
+to have an a team with an Agile mindset work on it.
+
+113
+00:04:18.020 --> 00:04:21.070
+But once you have your bathroom completely built,
+
+114
+00:04:21.070 --> 00:04:24.000
+then your team would move onto the kitchen
+
+115
+00:04:24.000 --> 00:04:26.060
+if that was the second highest value item,
+
+116
+00:04:26.060 --> 00:04:30.000
+and then make the kitchen complete, everything.
+
+117
+00:04:30.000 --> 00:04:32.070
+The Viking appliances, the floor, everything
+
+118
+00:04:32.070 --> 00:04:34.010
+like that's complete.
+
+119
+00:04:34.010 --> 00:04:35.090
+Now of course you'd never do that with a house
+
+120
+00:04:35.090 --> 00:04:38.000
+because you would never want to make a wood floor
+
+121
+00:04:38.000 --> 00:04:41.090
+complete in one room, and then leave the rest
+
+122
+00:04:41.090 --> 00:04:44.010
+of the house just on stilts.
+
+123
+00:04:44.010 --> 00:04:45.060
+- 'Cause you might need to put wires through
+
+124
+00:04:45.060 --> 00:04:47.040
+to get to the sitting room later,
+
+125
+00:04:47.040 --> 00:04:49.030
+and you'd have to take the floor back up, or whatever.
+
+126
+00:04:49.030 --> 00:04:51.020
+- And people don't work that way when they're
+
+127
+00:04:51.020 --> 00:04:52.000
+building a house.
+
+128
+00:04:52.000 --> 00:04:55.040
+You don't bring in the flooring person in for one week,
+
+129
+00:04:55.040 --> 00:04:56.090
+and then you send them off.
+
+130
+00:04:56.090 --> 00:05:00.000
+But for software development, it gives you a lot
+
+131
+00:05:00.000 --> 00:05:02.070
+of valuable insight into how the rest
+
+132
+00:05:02.070 --> 00:05:04.060
+of your product will look.
+
+133
+00:05:04.060 --> 00:05:06.060
+And so when you have a part of your product
+
+134
+00:05:06.060 --> 00:05:08.090
+that's feature complete, typically only
+
+135
+00:05:08.090 --> 00:05:13.030
+after a sprint or two, then you get a lot of insights
+
+136
+00:05:13.030 --> 00:05:15.080
+into what your customer's priorities are.
+
+137
+00:05:15.080 --> 00:05:19.010
+And so you can build off of that iteratively
+
+138
+00:05:19.010 --> 00:05:23.020
+and incrementally, until you build out a product that way,
+
+139
+00:05:23.020 --> 00:05:25.060
+giving your customer a chance to give you feedback,
+
+140
+00:05:25.060 --> 00:05:28.040
+which is a key part of Scrum and Agile mindset,
+
+141
+00:05:28.040 --> 00:05:32.060
+and then build off, and not only get feedback,
+
+142
+00:05:32.060 --> 00:05:35.000
+but learn lessons as you're building.
+

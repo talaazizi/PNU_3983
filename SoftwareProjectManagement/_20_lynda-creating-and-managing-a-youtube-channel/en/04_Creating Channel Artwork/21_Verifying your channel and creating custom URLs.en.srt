@@ -1,0 +1,352 @@
+1
+00:00:00.05 --> 00:00:02.01
+- Before you go forward and start to do
+
+2
+00:00:02.01 --> 00:00:03.05
+more things with your channel,
+
+3
+00:00:03.05 --> 00:00:06.08
+it's a good idea to verify your channel.
+
+4
+00:00:06.08 --> 00:00:09.07
+YouTube wants a phone number
+so they can reach you.
+
+5
+00:00:09.07 --> 00:00:11.04
+And they're going to
+send you a text message
+
+6
+00:00:11.04 --> 00:00:14.08
+to your mobile device
+to verify the account.
+
+7
+00:00:14.08 --> 00:00:16.02
+The thought being is that
+
+8
+00:00:16.02 --> 00:00:18.08
+people keep their phone
+numbers for a long time;
+
+9
+00:00:18.08 --> 00:00:22.02
+much longer than they do an
+email address in most cases.
+
+10
+00:00:22.02 --> 00:00:24.00
+So by verifying your account,
+
+11
+00:00:24.00 --> 00:00:26.01
+additional features will become updated
+
+12
+00:00:26.01 --> 00:00:28.03
+and the account will be much easier
+
+13
+00:00:28.03 --> 00:00:30.02
+for people to search and find,
+
+14
+00:00:30.02 --> 00:00:32.00
+as well as you'll see later,
+
+15
+00:00:32.00 --> 00:00:35.01
+you can unlock advanced
+tools like longer videos
+
+16
+00:00:35.01 --> 00:00:37.06
+and other settings like streaming.
+
+17
+00:00:37.06 --> 00:00:40.05
+To do this, you'll need a mobile phone.
+
+18
+00:00:40.05 --> 00:00:42.07
+On the page, you're going
+to want to make sure
+
+19
+00:00:42.07 --> 00:00:48.09
+you're logged in and choose
+to go to Creator Studio.
+
+20
+00:00:48.09 --> 00:00:52.06
+Then, go to Channel,
+
+21
+00:00:52.06 --> 00:00:56.00
+and click the Verify button.
+
+22
+00:00:56.00 --> 00:00:58.00
+You'll see that until you verify,
+
+23
+00:00:58.00 --> 00:01:02.02
+many other services are
+marked as ineligible.
+
+24
+00:01:02.02 --> 00:01:04.07
+Let's click Verify.
+
+25
+00:01:04.07 --> 00:01:08.09
+It now asks me to choose a
+country where you're based.
+
+26
+00:01:08.09 --> 00:01:11.00
+You can get a phone call if you don't
+
+27
+00:01:11.00 --> 00:01:13.08
+have a cell phone that
+can get text messages,
+
+28
+00:01:13.08 --> 00:01:16.05
+and Google will read
+the number out to you.
+
+29
+00:01:16.05 --> 00:01:21.01
+Or you can go ahead and have
+them text you that information.
+
+30
+00:01:21.01 --> 00:01:25.08
+When ready, click Submit.
+
+31
+00:01:25.08 --> 00:01:29.02
+On your mobile device, you
+may see a text message.
+
+32
+00:01:29.02 --> 00:01:31.05
+If you're using a service
+like Apple's Messages,
+
+33
+00:01:31.05 --> 00:01:34.09
+it might appear on more than one device.
+
+34
+00:01:34.09 --> 00:01:39.08
+This code is going to be
+uniquely generated each time.
+
+35
+00:01:39.08 --> 00:01:46.01
+Let's go ahead and enter that code in.
+
+36
+00:01:46.01 --> 00:01:49.00
+And now it's verified.
+
+37
+00:01:49.00 --> 00:01:51.04
+I can click Continue.
+
+38
+00:01:51.04 --> 00:01:52.05
+You'll now see that access
+
+39
+00:01:52.05 --> 00:01:55.00
+like longer videos become available.
+
+40
+00:01:55.00 --> 00:01:58.00
+And options to live stream can be enabled.
+
+41
+00:01:58.00 --> 00:02:00.09
+But we'll do that a little bit later.
+
+42
+00:02:00.09 --> 00:02:04.01
+If we click through and take
+a look at our account there,
+
+43
+00:02:04.01 --> 00:02:05.05
+you'll star to see it.
+
+44
+00:02:05.05 --> 00:02:08.09
+And now the page is verified.
+
+45
+00:02:08.09 --> 00:02:13.02
+Let's go ahead here to
+the actual Settings here.
+
+46
+00:02:13.02 --> 00:02:15.09
+And I'll choose to take a quick look.
+
+47
+00:02:15.09 --> 00:02:18.02
+Let's open up the Advanced tab,
+
+48
+00:02:18.02 --> 00:02:22.04
+the Channel, and Editing on Google.
+
+49
+00:02:22.04 --> 00:02:24.05
+Here you'll be able to see the info.
+
+50
+00:02:24.05 --> 00:02:33.00
+Remember, you can click and
+make updates quite simply.
+
+51
+00:02:33.00 --> 00:02:34.06
+The phone number that you added
+
+52
+00:02:34.06 --> 00:02:37.08
+has not yet appeared here on the page.
+
+53
+00:02:37.08 --> 00:02:41.04
+Remember, you can click
+to edit this information.
+
+54
+00:02:41.04 --> 00:02:43.04
+If you want to add additional info.,
+
+55
+00:02:43.04 --> 00:02:45.09
+clicking the Plus button
+here is going to allow you
+
+56
+00:02:45.09 --> 00:02:51.07
+to add contact information,
+websites, or other content.
+
+57
+00:02:51.07 --> 00:02:54.07
+I'll click Cancel for now.
+
+58
+00:02:54.07 --> 00:02:57.03
+Additionally, the Verified
+page is now going to be
+
+59
+00:02:57.03 --> 00:03:00.02
+easier for people to find in Search.
+
+60
+00:03:00.02 --> 00:03:03.03
+Let's go back to our channel
+settings for a moment.
+
+61
+00:03:03.03 --> 00:03:07.06
+And if I scroll down, you'll
+see other options here.
+
+62
+00:03:07.06 --> 00:03:10.00
+Including Custom URL.
+
+63
+00:03:10.00 --> 00:03:12.06
+This is the last key
+component to branding,
+
+64
+00:03:12.06 --> 00:03:15.02
+however, I'm not currently eligible yet
+
+65
+00:03:15.02 --> 00:03:17.08
+because I don't have enough subscribers.
+
+66
+00:03:17.08 --> 00:03:19.07
+If you click on the link,
+
+67
+00:03:19.07 --> 00:03:21.05
+you'll see that it gives you information
+
+68
+00:03:21.05 --> 00:03:24.06
+about what it takes to become eligible.
+
+69
+00:03:24.06 --> 00:03:27.02
+So for example, as the
+general requirement,
+
+70
+00:03:27.02 --> 00:03:28.04
+you see that you need to get
+
+71
+00:03:28.04 --> 00:03:30.06
+up to a hundred or more subscribers,
+
+72
+00:03:30.06 --> 00:03:34.08
+and that the account needs
+to be at least 30 days old.
+
+73
+00:03:34.08 --> 00:03:37.01
+You'll need to have
+uploaded the channel icon
+
+74
+00:03:37.01 --> 00:03:38.06
+and the channel art.
+
+75
+00:03:38.06 --> 00:03:42.09
+So start posting videos and
+getting other folks to join in.
+
+76
+00:03:42.09 --> 00:03:45.00
+Once you get those hundred subscribers
+
+77
+00:03:45.00 --> 00:03:47.02
+and your page is at least a month old,
+
+78
+00:03:47.02 --> 00:03:49.08
+you'll be able to assign a custom URL
+
+79
+00:03:49.08 --> 00:03:52.09
+which will make it that much
+easier for people to find you
+
+80
+00:03:52.09 --> 00:03:55.05
+when they start to search
+for you on YouTube.
+

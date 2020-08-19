@@ -1,0 +1,316 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:02,06
+- You may have a UX-oriented project
+
+2
+00:00:02,06 --> 00:00:03,08
+that needs to get done
+
+3
+00:00:03,08 --> 00:00:06,09
+but requires more than one person.
+
+4
+00:00:06,09 --> 00:00:09,04
+In fact, the project can require a whole team
+
+5
+00:00:09,04 --> 00:00:12,09
+of people complete with someone to manage that team.
+
+6
+00:00:12,09 --> 00:00:15,03
+Agencies are likely more expensive
+
+7
+00:00:15,03 --> 00:00:17,07
+than hiring individual freelancers
+
+8
+00:00:17,07 --> 00:00:20,07
+but when you need a lot of UX expertise quickly,
+
+9
+00:00:20,07 --> 00:00:23,00
+hiring a larger agency or consulting firm
+
+10
+00:00:23,00 --> 00:00:24,08
+gives you that option.
+
+11
+00:00:24,08 --> 00:00:27,07
+Working with agencies can be more complex,
+
+12
+00:00:27,07 --> 00:00:29,02
+at at the beginning
+
+13
+00:00:29,02 --> 00:00:31,08
+and you're also likely to have the least control
+
+14
+00:00:31,08 --> 00:00:34,02
+over the process.
+
+15
+00:00:34,02 --> 00:00:36,03
+Agencies have to balance their projects
+
+16
+00:00:36,03 --> 00:00:37,09
+with all their clients,
+
+17
+00:00:37,09 --> 00:00:40,07
+with some staff dedicated to you for the duration
+
+18
+00:00:40,07 --> 00:00:42,07
+but other who only come and go based
+
+19
+00:00:42,07 --> 00:00:45,00
+on their other responsibilities.
+
+20
+00:00:45,00 --> 00:00:47,07
+An agency could supply the whole UX project team,
+
+21
+00:00:47,07 --> 00:00:49,04
+all with expert skills
+
+22
+00:00:49,04 --> 00:00:52,01
+inclusive of research, design and strategy
+
+23
+00:00:52,01 --> 00:00:53,03
+in a more reliable way
+
+24
+00:00:53,03 --> 00:00:54,05
+than you may be able to find
+
+25
+00:00:54,05 --> 00:00:56,05
+when only trying to pull in a freelancer
+
+26
+00:00:56,05 --> 00:00:59,03
+or when hiring a single employee.
+
+27
+00:00:59,03 --> 00:01:01,06
+Bringing on agencies and larger consulting firms,
+
+28
+00:01:01,06 --> 00:01:05,03
+however, introduces a different set of processes
+
+29
+00:01:05,03 --> 00:01:08,00
+than bringing individuals in any context.
+
+30
+00:01:08,00 --> 00:01:09,09
+In a while, we'll talk about RFPs
+
+31
+00:01:09,09 --> 00:01:12,00
+or request for proposals
+
+32
+00:01:12,00 --> 00:01:14,02
+and why these are better suited for businesses
+
+33
+00:01:14,02 --> 00:01:17,04
+that are big enough to handle regular proposal writing.
+
+34
+00:01:17,04 --> 00:01:19,08
+These larger businesses also provide you
+
+35
+00:01:19,08 --> 00:01:23,03
+with another option, staff augmentation.
+
+36
+00:01:23,03 --> 00:01:26,02
+Staff augmentation means you can get a person full time
+
+37
+00:01:26,02 --> 00:01:28,01
+for a long duration
+
+38
+00:01:28,01 --> 00:01:29,07
+such that they seem to be no different
+
+39
+00:01:29,07 --> 00:01:31,04
+than an employee of yours
+
+40
+00:01:31,04 --> 00:01:33,09
+except that you pay another company
+
+41
+00:01:33,09 --> 00:01:37,03
+and that company pays the individual.
+
+42
+00:01:37,03 --> 00:01:38,09
+Whereas freelance contractors
+
+43
+00:01:38,09 --> 00:01:40,08
+are often hired per project,
+
+44
+00:01:40,08 --> 00:01:44,02
+staff augmentation can be much longer term than that
+
+45
+00:01:44,02 --> 00:01:47,06
+just like you would hire an employee for the long term.
+
+46
+00:01:47,06 --> 00:01:49,04
+When UX talent is hard to find,
+
+47
+00:01:49,04 --> 00:01:51,09
+staff augmentation basically takes
+
+48
+00:01:51,09 --> 00:01:53,09
+this responsibility off your plate
+
+49
+00:01:53,09 --> 00:01:55,04
+and lets someone else find you
+
+50
+00:01:55,04 --> 00:01:59,06
+who you need and they take responsibility for them
+
+51
+00:01:59,06 --> 00:02:03,00
+but stick with staff augmentation from a larger business.
+
+52
+00:02:03,00 --> 00:02:04,08
+Taking on an individual freelancer
+
+53
+00:02:04,08 --> 00:02:06,03
+for staff augmentation
+
+54
+00:02:06,03 --> 00:02:08,07
+could put you on the wrong side of the law.
+
+55
+00:02:08,07 --> 00:02:10,02
+Here in the United States,
+
+56
+00:02:10,02 --> 00:02:12,00
+the IRS has a number of tests
+
+57
+00:02:12,00 --> 00:02:13,07
+for businesses in terms of the level
+
+58
+00:02:13,07 --> 00:02:15,07
+of behavioral and financial control
+
+59
+00:02:15,07 --> 00:02:18,07
+that a business has over an individual.
+
+60
+00:02:18,07 --> 00:02:21,02
+The IRS also looks for justification
+
+61
+00:02:21,02 --> 00:02:24,01
+that the individual is acting as a business
+
+62
+00:02:24,01 --> 00:02:27,06
+that promotes services with a certain level of autonomy.
+
+63
+00:02:27,06 --> 00:02:28,07
+While I'm not a lawyer
+
+64
+00:02:28,07 --> 00:02:30,06
+and in no way giving you legal advice,
+
+65
+00:02:30,06 --> 00:02:33,05
+I would say that pulling an individual freelancer
+
+66
+00:02:33,05 --> 00:02:35,07
+into a staff augmentation role
+
+67
+00:02:35,07 --> 00:02:38,04
+may be harder to justify against the criteria
+
+68
+00:02:38,04 --> 00:02:41,01
+of what constitutes an employee.
+
+69
+00:02:41,01 --> 00:02:43,06
+However, using a larger agency,
+
+70
+00:02:43,06 --> 00:02:45,06
+particularly one that is essentially set up
+
+71
+00:02:45,06 --> 00:02:47,03
+to provide UX temps for a short
+
+72
+00:02:47,03 --> 00:02:50,02
+or long duration may be your best bet
+
+73
+00:02:50,02 --> 00:02:52,07
+when you truly don't want to hire an employee
+
+74
+00:02:52,07 --> 00:02:55,06
+but need a person full time for a longer duration
+
+75
+00:02:55,06 --> 00:03:00,00
+and rest assured that those types of companies do exist.
+
+76
+00:03:00,00 --> 00:03:01,08
+Now you're ready to find someone,
+
+77
+00:03:01,08 --> 00:03:04,06
+so let's consider whether you need a generalist
+
+78
+00:03:04,06 --> 00:03:06,00
+or an expert.
+

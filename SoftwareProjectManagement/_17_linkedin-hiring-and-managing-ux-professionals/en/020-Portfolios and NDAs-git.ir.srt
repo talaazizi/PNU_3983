@@ -1,0 +1,168 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,08 --> 00:00:02,06
+- UX job seekers are often asked
+
+2
+00:00:02,06 --> 00:00:06,00
+to share a portfolio of prior work
+
+3
+00:00:06,00 --> 00:00:09,06
+to establish that they have the appropriate experiences.
+
+4
+00:00:09,06 --> 00:00:12,05
+Portfolios are an inherently tricky thing, however,
+
+5
+00:00:12,05 --> 00:00:15,02
+since often by definition a portfolio showcases work
+
+6
+00:00:15,02 --> 00:00:17,04
+at prior jobs and those jobs might
+
+7
+00:00:17,04 --> 00:00:21,05
+require nondisclosure agreements or NDAs.
+
+8
+00:00:21,05 --> 00:00:23,01
+While the NDAs at other companies
+
+9
+00:00:23,01 --> 00:00:25,01
+shouldn't really be your problem,
+
+10
+00:00:25,01 --> 00:00:26,08
+you may run into job candidates
+
+11
+00:00:26,08 --> 00:00:28,02
+who tell you that they are hindered
+
+12
+00:00:28,02 --> 00:00:30,07
+by the rules of their agreements.
+
+13
+00:00:30,07 --> 00:00:33,01
+There's a hierarchy of what can be shared.
+
+14
+00:00:33,01 --> 00:00:34,07
+If you find a good candidate but want some evidence
+
+15
+00:00:34,07 --> 00:00:36,08
+of prior experience it could be up to you
+
+16
+00:00:36,08 --> 00:00:38,06
+to help them figure out what
+
+17
+00:00:38,06 --> 00:00:41,03
+is okay to share and in what way.
+
+18
+00:00:41,03 --> 00:00:43,05
+If they aren't constrained by an NDA at all
+
+19
+00:00:43,05 --> 00:00:45,08
+then sharing full work is certainly preferable.
+
+20
+00:00:45,08 --> 00:00:49,00
+Not only the final effort which may be public anyway
+
+21
+00:00:49,00 --> 00:00:51,03
+but also their pieces of the design,
+
+22
+00:00:51,03 --> 00:00:52,07
+or research, or strategic thinking
+
+23
+00:00:52,07 --> 00:00:54,09
+that went in to creating that effort.
+
+24
+00:00:54,09 --> 00:00:57,01
+If they have constraints with sharing actual items
+
+25
+00:00:57,01 --> 00:00:59,00
+in their portfolio, discuss with them whether
+
+26
+00:00:59,00 --> 00:01:02,09
+it's possible to strip out or blur confidential parts.
+
+27
+00:01:02,09 --> 00:01:04,06
+If all else fails, ask them to explain
+
+28
+00:01:04,06 --> 00:01:08,01
+the narrative of what they did and their work process.
+
+29
+00:01:08,01 --> 00:01:09,06
+They can avoid mentioning anything
+
+30
+00:01:09,06 --> 00:01:11,02
+that is truly confidential
+
+31
+00:01:11,02 --> 00:01:12,03
+and you can get an understanding
+
+32
+00:01:12,03 --> 00:01:16,02
+about how they perceive user experience and their role.
+
+33
+00:01:16,02 --> 00:01:17,09
+In some ways this framing is even better
+
+34
+00:01:17,09 --> 00:01:20,01
+than the actual items.
+
+35
+00:01:20,01 --> 00:01:22,09
+While it feels good to get to see what they are showing,
+
+36
+00:01:22,09 --> 00:01:24,04
+often these deliverables are part
+
+37
+00:01:24,04 --> 00:01:26,07
+of a team effort anyway.
+
+38
+00:01:26,07 --> 00:01:29,05
+Understanding the narrative of how they work,
+
+39
+00:01:29,05 --> 00:01:32,09
+and what their role was, and how they perceive the effort,
+
+40
+00:01:32,09 --> 00:01:34,01
+really can help you understand
+
+41
+00:01:34,01 --> 00:01:37,00
+how they can help you and your business.
+

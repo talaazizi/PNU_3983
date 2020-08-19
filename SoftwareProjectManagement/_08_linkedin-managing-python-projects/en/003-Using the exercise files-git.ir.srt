@@ -1,0 +1,36 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,00
+- [Narrator] In this course, we're going to use
+
+2
+00:00:02,00 --> 00:00:06,01
+several exercise files and several other example files.
+
+3
+00:00:06,01 --> 00:00:08,04
+Download the exercise files to a directory,
+
+4
+00:00:08,04 --> 00:00:10,07
+and uncompress them, then you will be able
+
+5
+00:00:10,07 --> 00:00:13,00
+to follow along with the videos.
+
+6
+00:00:13,00 --> 00:00:16,01
+We will also be working with an example Python project.
+
+7
+00:00:16,01 --> 00:00:20,02
+You'll find it in the exercise files and also at GitHub.com
+
+8
+00:00:20,02 --> 00:00:24,00
+353 solutions NLPY.
+

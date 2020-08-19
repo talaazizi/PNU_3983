@@ -1,0 +1,432 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:04,00
+- You may worry about bringing on agencies and freelancers
+
+2
+00:00:04,00 --> 00:00:05,07
+who are less in your control,
+
+3
+00:00:05,07 --> 00:00:07,02
+and who provide greater risk
+
+4
+00:00:07,02 --> 00:00:09,07
+and potentially more variability in your management
+
+5
+00:00:09,07 --> 00:00:12,06
+of the project timeline, scope, and budget.
+
+6
+00:00:12,06 --> 00:00:15,01
+The key is communication.
+
+7
+00:00:15,01 --> 00:00:16,07
+As soon as you possibly can,
+
+8
+00:00:16,07 --> 00:00:19,04
+ideally while you're still scoping out the effort,
+
+9
+00:00:19,04 --> 00:00:21,09
+work with your designated contractor to figure out
+
+10
+00:00:21,09 --> 00:00:23,08
+what their expectations may be,
+
+11
+00:00:23,08 --> 00:00:25,06
+and how these expectations align
+
+12
+00:00:25,06 --> 00:00:27,07
+with what you see yourself needing.
+
+13
+00:00:27,07 --> 00:00:30,00
+Different UX activities take different amounts of time
+
+14
+00:00:30,00 --> 00:00:31,06
+for different people.
+
+15
+00:00:31,06 --> 00:00:34,02
+However, in a time and materials contract,
+
+16
+00:00:34,02 --> 00:00:37,09
+meaning you pay people by the hour or perhaps by the day,
+
+17
+00:00:37,09 --> 00:00:40,04
+you certainly do have the right to tell contractors
+
+18
+00:00:40,04 --> 00:00:44,00
+that they need to fit within a certain set of hours or days.
+
+19
+00:00:44,00 --> 00:00:46,01
+If they have concerns they can discuss these with you
+
+20
+00:00:46,01 --> 00:00:47,06
+at that point.
+
+21
+00:00:47,06 --> 00:00:50,00
+But if they do propose more hours than you want
+
+22
+00:00:50,00 --> 00:00:52,00
+and you successfully talk them down,
+
+23
+00:00:52,00 --> 00:00:54,05
+still make sure to assess whether they plan to do this
+
+24
+00:00:54,05 --> 00:00:56,02
+in a way that could risk compromising
+
+25
+00:00:56,02 --> 00:00:59,03
+the quality of the UX work that you are planning.
+
+26
+00:00:59,03 --> 00:01:01,07
+Conversely, you don't want to over budget
+
+27
+00:01:01,07 --> 00:01:03,03
+significantly on their time,
+
+28
+00:01:03,03 --> 00:01:04,07
+particularly if this forces you
+
+29
+00:01:04,07 --> 00:01:06,02
+not to spend enough elsewhere
+
+30
+00:01:06,02 --> 00:01:08,05
+in order to stick to your project budget.
+
+31
+00:01:08,05 --> 00:01:11,02
+If you want to propose a fixed price contract
+
+32
+00:01:11,02 --> 00:01:14,04
+drill down very precisely to what is required,
+
+33
+00:01:14,04 --> 00:01:16,01
+and allow for extra buffer time
+
+34
+00:01:16,01 --> 00:01:19,04
+so that the contractor doesn't feel taken advantage of.
+
+35
+00:01:19,04 --> 00:01:22,02
+For example, when a client wants to give me
+
+36
+00:01:22,02 --> 00:01:24,05
+a fixed price to do a usability test,
+
+37
+00:01:24,05 --> 00:01:27,07
+I want to nail down little details to fully understand
+
+38
+00:01:27,07 --> 00:01:29,05
+the prep work required.
+
+39
+00:01:29,05 --> 00:01:32,01
+I seek to understand the amount of effort
+
+40
+00:01:32,01 --> 00:01:34,06
+I'll need to learn the system,
+
+41
+00:01:34,06 --> 00:01:37,03
+the maximum number of participants,
+
+42
+00:01:37,03 --> 00:01:39,05
+the number of days of testing,
+
+43
+00:01:39,05 --> 00:01:42,01
+whether it's a remote study, locally in-person,
+
+44
+00:01:42,01 --> 00:01:44,06
+or requires out-of-town travel,
+
+45
+00:01:44,06 --> 00:01:48,01
+the session length, and recruiting approach.
+
+46
+00:01:48,01 --> 00:01:50,06
+I also ask about the type of reporting and due date
+
+47
+00:01:50,06 --> 00:01:52,05
+for any reporting deliverables,
+
+48
+00:01:52,05 --> 00:01:54,03
+as well as what is expected of me
+
+49
+00:01:54,03 --> 00:01:56,09
+after the reports are delivered.
+
+50
+00:01:56,09 --> 00:01:58,03
+Once I know all these details,
+
+51
+00:01:58,03 --> 00:02:01,07
+I'll typically feel comfortable giving a fixed price quote.
+
+52
+00:02:01,07 --> 00:02:03,04
+Don't worry if you don't feel comfortable
+
+53
+00:02:03,04 --> 00:02:06,02
+with all the details enough to scope it out yourself.
+
+54
+00:02:06,02 --> 00:02:08,00
+You can certainly leverage the knowledge
+
+55
+00:02:08,00 --> 00:02:11,03
+of your selected resource to help you.
+
+56
+00:02:11,03 --> 00:02:13,09
+Even if you aren't drafting the contract yourself,
+
+57
+00:02:13,09 --> 00:02:16,05
+you may also find yourself in the position of negotiator
+
+58
+00:02:16,05 --> 00:02:18,03
+with your contracting office.
+
+59
+00:02:18,03 --> 00:02:21,04
+Again, don't hesitate to reach out to your new resource
+
+60
+00:02:21,04 --> 00:02:23,05
+and have them review and if necessary
+
+61
+00:02:23,05 --> 00:02:27,09
+redline early contract drafts to avoid surprises later on.
+
+62
+00:02:27,09 --> 00:02:31,04
+On the flip side, there's a dynamic nature to UX work.
+
+63
+00:02:31,04 --> 00:02:33,06
+A discovery early on could change the direction
+
+64
+00:02:33,06 --> 00:02:35,09
+of subsequent UX activities.
+
+65
+00:02:35,09 --> 00:02:38,00
+So particularly if you present your contractors
+
+66
+00:02:38,00 --> 00:02:39,04
+with hourly contracts,
+
+67
+00:02:39,04 --> 00:02:41,06
+consider keeping the contract adaptable enough
+
+68
+00:02:41,06 --> 00:02:44,01
+to give you flexibility later on in the process
+
+69
+00:02:44,01 --> 00:02:46,00
+without needing to involve your contracts office
+
+70
+00:02:46,00 --> 00:02:48,03
+or sending multiple change orders.
+
+71
+00:02:48,03 --> 00:02:51,05
+Also, talk with your contractors as early on as possible
+
+72
+00:02:51,05 --> 00:02:54,02
+about what equipment and software they already own
+
+73
+00:02:54,02 --> 00:02:56,03
+and what they might need.
+
+74
+00:02:56,03 --> 00:02:58,08
+Sure, you could be a stickler and require your contractors
+
+75
+00:02:58,08 --> 00:03:01,01
+to have what you consider standard software.
+
+76
+00:03:01,01 --> 00:03:02,03
+If they don't, however,
+
+77
+00:03:02,03 --> 00:03:04,08
+see if you can build a license into your budget,
+
+78
+00:03:04,08 --> 00:03:07,01
+or temporarily reallocate a license
+
+79
+00:03:07,01 --> 00:03:09,01
+that your company may have.
+
+80
+00:03:09,01 --> 00:03:12,04
+For the most part, contracting out work is negotiable.
+
+81
+00:03:12,04 --> 00:03:13,09
+No matter the size of the business,
+
+82
+00:03:13,09 --> 00:03:17,00
+whether a freelancer or a larger organization,
+
+83
+00:03:17,00 --> 00:03:19,03
+they want your business.
+
+84
+00:03:19,03 --> 00:03:21,05
+They're likely willing to talk through situations
+
+85
+00:03:21,05 --> 00:03:22,05
+where their price offering
+
+86
+00:03:22,05 --> 00:03:24,08
+is more than you can afford to pay.
+
+87
+00:03:24,08 --> 00:03:26,01
+Or where their typical approach
+
+88
+00:03:26,01 --> 00:03:29,05
+doesn't quite fit with what you are looking for.
+
+89
+00:03:29,05 --> 00:03:31,03
+This is within reason, of course.
+
+90
+00:03:31,03 --> 00:03:32,09
+For both an individual contractor
+
+91
+00:03:32,09 --> 00:03:34,08
+and for a larger organization,
+
+92
+00:03:34,08 --> 00:03:37,06
+it's a balance of availability and free time,
+
+93
+00:03:37,06 --> 00:03:40,00
+and avoidance of effectively lost revenue
+
+94
+00:03:40,00 --> 00:03:42,03
+if higher paid work comes through.
+
+95
+00:03:42,03 --> 00:03:44,06
+In other words, as a contractor,
+
+96
+00:03:44,06 --> 00:03:46,05
+I don't want to not work and would commit to
+
+97
+00:03:46,05 --> 00:03:48,08
+a reasonably lower rate in the short term,
+
+98
+00:03:48,08 --> 00:03:52,04
+knowing it won't displace other, more typically paid work.
+
+99
+00:03:52,04 --> 00:03:54,05
+But should work at a more comfortable, hourly rate
+
+100
+00:03:54,05 --> 00:03:56,07
+come through a month or more down the road,
+
+101
+00:03:56,07 --> 00:03:58,09
+I don't want to be committed to something long term
+
+102
+00:03:58,09 --> 00:04:00,06
+that is keeping me so busy
+
+103
+00:04:00,06 --> 00:04:03,07
+I'm locked out of the preferred rate work.
+
+104
+00:04:03,07 --> 00:04:07,00
+As a contractor, while I may be fine at a lower rate now,
+
+105
+00:04:07,00 --> 00:04:09,05
+I'm also cautious about setting a future precedent
+
+106
+00:04:09,05 --> 00:04:11,07
+for uncomfortably low paid work,
+
+107
+00:04:11,07 --> 00:04:14,00
+when asked to help out in the future.
+

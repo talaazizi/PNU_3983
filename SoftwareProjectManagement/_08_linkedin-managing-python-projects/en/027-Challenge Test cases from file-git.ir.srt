@@ -1,0 +1,28 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:06,00
+(pleasant electronic music)
+
+2
+00:00:06,00 --> 00:00:07,09
+- [Instructor] Write a parametrized test
+
+3
+00:00:07,09 --> 00:00:13,00
+for mathlib.sqrt that will read the test cases from a file.
+
+4
+00:00:13,00 --> 00:00:16,04
+This file has one JSON object per line.
+
+5
+00:00:16,04 --> 00:00:20,06
+Each object has the value, the expected output,
+
+6
+00:00:20,06 --> 00:00:25,00
+and an indicator if the function should error or not.
+

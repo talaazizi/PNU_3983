@@ -1,0 +1,376 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:03.090 --> 00:00:07.060
+- Okay, so that makes sense.
+
+2
+00:00:07.060 --> 00:00:09.040
+Now, it's divided into these,
+
+3
+00:00:09.040 --> 00:00:13.090
+you were saying inflexible two week sprints.
+
+4
+00:00:13.090 --> 00:00:16.000
+Wouldn't life be great if you could divide
+
+5
+00:00:16.000 --> 00:00:18.090
+everything up into exact, two week chunks?
+
+6
+00:00:18.090 --> 00:00:22.040
+But I'm thinking, what if it's a four week job,
+
+7
+00:00:22.040 --> 00:00:23.050
+or a one week?
+
+8
+00:00:23.050 --> 00:00:25.020
+I suppose if it's one week, do you just deliver
+
+9
+00:00:25.020 --> 00:00:27.080
+two one weeks within your sprint?
+
+10
+00:00:27.080 --> 00:00:31.040
+I mean, how does everything get wedged into
+
+11
+00:00:31.040 --> 00:00:32.090
+a two week chunk?
+
+12
+00:00:32.090 --> 00:00:34.090
+- Yeah, that's the inflexible part of Scrum,
+
+13
+00:00:34.090 --> 00:00:39.070
+is that you have to deliver what your product
+
+14
+00:00:39.070 --> 00:00:43.070
+owner requests at the top of the product backlog
+
+15
+00:00:43.070 --> 00:00:44.050
+every two weeks.
+
+16
+00:00:44.050 --> 00:00:46.000
+And sometimes if the product owner,
+
+17
+00:00:46.000 --> 00:00:48.030
+you'll have to work with them to break something down.
+
+18
+00:00:48.030 --> 00:00:50.030
+So like, if the product owner, let's say that
+
+19
+00:00:50.030 --> 00:00:54.090
+they want, like, a webpage at the end of the sprint.
+
+20
+00:00:54.090 --> 00:00:56.080
+So you might say to them, "Okay, what's the most
+
+21
+00:00:56.080 --> 00:00:58.020
+"valuable part of the webpage?"
+
+22
+00:00:58.020 --> 00:00:59.020
+And they might say, "Well this is, you know,
+
+23
+00:00:59.020 --> 00:01:02.000
+"I want a form where people can submit their information."
+
+24
+00:01:02.000 --> 00:01:03.060
+And then I would say, "Okay, well we can't create
+
+25
+00:01:03.060 --> 00:01:04.070
+"the whole form in two weeks,
+
+26
+00:01:04.070 --> 00:01:07.010
+"so what's the most valuable part of the form?"
+
+27
+00:01:07.010 --> 00:01:08.030
+And they'd say, "What I really need is their
+
+28
+00:01:08.030 --> 00:01:11.000
+"email address and their first name."
+
+29
+00:01:11.000 --> 00:01:14.040
+And so, at the end of two weeks, our team would deliver
+
+30
+00:01:14.040 --> 00:01:17.060
+a webpage that just comes up with two boxes
+
+31
+00:01:17.060 --> 00:01:19.090
+that just say first name, email address.
+
+32
+00:01:19.090 --> 00:01:21.090
+But the key thing to keep in mind is that
+
+33
+00:01:21.090 --> 00:01:24.030
+that webpage will be the same webpage
+
+34
+00:01:24.030 --> 00:01:26.010
+that's in the final product.
+
+35
+00:01:26.010 --> 00:01:27.060
+It will completely work.
+
+36
+00:01:27.060 --> 00:01:30.080
+It will be going to a database, it will be backed up.
+
+37
+00:01:30.080 --> 00:01:33.020
+It will be optimized.
+
+38
+00:01:33.020 --> 00:01:34.090
+- So you can't be halfway through something
+
+39
+00:01:34.090 --> 00:01:35.070
+at the end of your sprint.
+
+40
+00:01:35.070 --> 00:01:37.080
+That's got to be something that works
+
+41
+00:01:37.080 --> 00:01:39.020
+at the end of every sprint.
+
+42
+00:01:39.020 --> 00:01:40.060
+- And that's one of the biggest challenges
+
+43
+00:01:40.060 --> 00:01:43.080
+for new Scrum teams, is they'll just say,
+
+44
+00:01:43.080 --> 00:01:47.020
+they'll put up something like a UX UI drawing.
+
+45
+00:01:47.020 --> 00:01:49.070
+And they'll be like, "And next week, this will work."
+
+46
+00:01:49.070 --> 00:01:50.050
+You know?
+
+47
+00:01:50.050 --> 00:01:51.060
+"In our next sprint, this will work."
+
+48
+00:01:51.060 --> 00:01:53.040
+And you can't do that in Scrum.
+
+49
+00:01:53.040 --> 00:01:55.060
+It's cheating.
+
+50
+00:01:55.060 --> 00:01:56.040
+So.
+
+51
+00:01:56.040 --> 00:01:58.000
+- But I guess with enough thinking it might
+
+52
+00:01:58.000 --> 00:01:59.070
+be possible to divide everything down
+
+53
+00:01:59.070 --> 00:02:02.020
+into working pieces of two week size.
+
+54
+00:02:02.020 --> 00:02:05.030
+I don't know, it seems like, in a way,
+
+55
+00:02:05.030 --> 00:02:08.020
+an unnecessary constraint to put on yourself.
+
+56
+00:02:08.020 --> 00:02:09.040
+Because it, on a Gantt chart,
+
+57
+00:02:09.040 --> 00:02:11.070
+something might be a week, it might be three weeks.
+
+58
+00:02:11.070 --> 00:02:13.080
+Whatever it is, we put it on there.
+
+59
+00:02:13.080 --> 00:02:15.010
+And then at the end of the three weeks,
+
+60
+00:02:15.010 --> 00:02:18.060
+or the one week, we say, "Have you done it?"
+
+61
+00:02:18.060 --> 00:02:22.000
+But it's kind of odd that they've just chosen this,
+
+62
+00:02:22.000 --> 00:02:23.050
+I mean, two weeks is a good amount of time.
+
+63
+00:02:23.050 --> 00:02:24.070
+I get that.
+
+64
+00:02:24.070 --> 00:02:27.060
+But that is quite a constraint to have put on yourself.
+
+65
+00:02:27.060 --> 00:02:28.090
+- That's what I meant when I said I think
+
+66
+00:02:28.090 --> 00:02:32.010
+that style is much more, sort of,
+
+67
+00:02:32.010 --> 00:02:34.000
+chaotic and flexible to me.
+
+68
+00:02:34.000 --> 00:02:36.070
+Because I think to myself, well, you know,
+
+69
+00:02:36.070 --> 00:02:38.040
+it could take two weeks or three weeks.
+
+70
+00:02:38.040 --> 00:02:41.020
+So what happens to the person downstream,
+
+71
+00:02:41.020 --> 00:02:42.030
+because then they have to take into
+
+72
+00:02:42.030 --> 00:02:44.030
+account your variability?
+
+73
+00:02:44.030 --> 00:02:47.030
+And so then you just put in a bunch of little buffers
+
+74
+00:02:47.030 --> 00:02:50.000
+and things like that to try to make it all work,
+
+75
+00:02:50.000 --> 00:02:51.040
+which completely makes sense.
+
+76
+00:02:51.040 --> 00:02:55.060
+But for software, it can get into a lot of trouble that way
+
+77
+00:02:55.060 --> 00:02:58.020
+because you can end up with, you don't want to have,
+
+78
+00:02:58.020 --> 00:02:59.040
+you know, obviously you wouldn't want that
+
+79
+00:02:59.040 --> 00:03:00.060
+with a ship, as well.
+
+80
+00:03:00.060 --> 00:03:04.000
+You wouldn't want to have like 3/4 of a hull done.
+
+81
+00:03:04.000 --> 00:03:07.030
+But with software, there's an old joke in software
+
+82
+00:03:07.030 --> 00:03:09.060
+that software developers are like 90% finished
+
+83
+00:03:09.060 --> 00:03:10.070
+90% of the time.
+
+84
+00:03:10.070 --> 00:03:11.050
+(chuckling) - Yeah.
+
+85
+00:03:11.050 --> 00:03:13.040
+- And so, and that's true, and so you force them
+
+86
+00:03:13.040 --> 00:03:15.010
+to sort of deliver a sprint,
+
+87
+00:03:15.010 --> 00:03:16.090
+deliver a working product increment
+
+88
+00:03:16.090 --> 00:03:18.080
+at the end of every sprint.
+
+89
+00:03:18.080 --> 00:03:20.080
+- Well I must say, my experience with software guys
+
+90
+00:03:20.080 --> 00:03:24.000
+is it would have been great to have nailed them down
+
+91
+00:03:24.000 --> 00:03:26.020
+to at least finishing something by a certain date,
+
+92
+00:03:26.020 --> 00:03:28.080
+so I totally get that.
+
+93
+00:03:28.080 --> 00:03:31.000
+- That's why managers like Scrum, typically.
+

@@ -1,0 +1,188 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:03,07
+- You can install Python packages, in many ways.
+
+2
+00:00:03,07 --> 00:00:07,09
+Copy file over, run Python setup.py install
+
+3
+00:00:07,09 --> 00:00:09,08
+and several other ways.
+
+4
+00:00:09,08 --> 00:00:12,04
+You need an established way to install packages;
+
+5
+00:00:12,04 --> 00:00:14,04
+which means a package manager.
+
+6
+00:00:14,04 --> 00:00:16,09
+There are several package managers for Python
+
+7
+00:00:16,09 --> 00:00:20,04
+and by far pip, is the most widely used one.
+
+8
+00:00:20,04 --> 00:00:22,04
+This makes pip a good choice
+
+9
+00:00:22,04 --> 00:00:25,09
+since there is a lot of knowledge and tooling around it.
+
+10
+00:00:25,09 --> 00:00:27,09
+I'm going to talk about pip
+
+11
+00:00:27,09 --> 00:00:32,04
+but the ideas here, apply to other package managers as well.
+
+12
+00:00:32,04 --> 00:00:35,02
+You should always version your dependencies.
+
+13
+00:00:35,02 --> 00:00:37,07
+It will save you from surprises in the future
+
+14
+00:00:37,07 --> 00:00:40,07
+when some update accidentally introduces a bug
+
+15
+00:00:40,07 --> 00:00:43,02
+or changes a function parameters.
+
+16
+00:00:43,02 --> 00:00:45,01
+You should also write your dependencies
+
+17
+00:00:45,01 --> 00:00:47,00
+and their versions down
+
+18
+00:00:47,00 --> 00:00:49,03
+and place this file in source control
+
+19
+00:00:49,03 --> 00:00:51,09
+so other team members and the operations team
+
+20
+00:00:51,09 --> 00:00:54,08
+will be able to reproduce the same environment.
+
+21
+00:00:54,08 --> 00:00:56,04
+On top of a package manager,
+
+22
+00:00:56,04 --> 00:00:58,07
+you should use a virtual environment.
+
+23
+00:00:58,07 --> 00:01:01,01
+It's an isolated installation of Python
+
+24
+00:01:01,01 --> 00:01:03,03
+that will let you run several applications
+
+25
+00:01:03,03 --> 00:01:07,07
+on the same host and will keep the system Python whisting.
+
+26
+00:01:07,07 --> 00:01:12,02
+Here's an example, the file is called requirements.txt
+
+27
+00:01:12,02 --> 00:01:14,09
+and we have two dependencies for our project;
+
+28
+00:01:14,09 --> 00:01:18,04
+pandas of inversion 0.25
+
+29
+00:01:18,04 --> 00:01:22,01
+and requests in version 2.22.0
+
+30
+00:01:22,01 --> 00:01:24,05
+Try to sort your requirements alphabetically
+
+31
+00:01:24,05 --> 00:01:26,05
+it will be easier to scan them.
+
+32
+00:01:26,05 --> 00:01:29,03
+Once we have this file, we can install it.
+
+33
+00:01:29,03 --> 00:01:34,02
+First we create a virtual environment, virtualenv venv.
+
+34
+00:01:34,02 --> 00:01:37,00
+Venv the name of the virtual environment
+
+35
+00:01:37,00 --> 00:01:40,03
+and, it's a common practice to call it venv.
+
+36
+00:01:40,03 --> 00:01:42,05
+Once the virtual environment is created
+
+37
+00:01:42,05 --> 00:01:45,03
+we can use pip inside it to install the dependencies
+
+38
+00:01:45,03 --> 00:01:50,07
+so... venv bin python dash n pip install
+
+39
+00:01:50,07 --> 00:01:54,03
+and then we say r and requirements file
+
+40
+00:01:54,03 --> 00:01:55,04
+and this is going to install
+
+41
+00:01:55,04 --> 00:01:58,01
+our dependencies and their dependencies.
+
+42
+00:01:58,01 --> 00:02:01,05
+Now we can run Python from the virtual environment
+
+43
+00:02:01,05 --> 00:02:04,06
+venv bin python, and for example
+
+44
+00:02:04,06 --> 00:02:09,05
+import pandas as pd, and it works.
+
+45
+00:02:09,05 --> 00:02:12,09
+Make sure to have a venv excluded from your source control
+
+46
+00:02:12,09 --> 00:02:16,00
+for example by adding it to .gitignore.
+

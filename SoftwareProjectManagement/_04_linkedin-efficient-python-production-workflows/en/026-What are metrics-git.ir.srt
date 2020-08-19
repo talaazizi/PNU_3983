@@ -1,0 +1,80 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,08
+- [Instructor] In essence, metrics are measurements
+
+2
+00:00:02,08 --> 00:00:05,01
+that tell us something about our system.
+
+3
+00:00:05,01 --> 00:00:08,02
+For example, what's the current computer load?
+
+4
+00:00:08,02 --> 00:00:10,05
+How much time did the query take?
+
+5
+00:00:10,05 --> 00:00:13,06
+Metrics can be computed from our applications as well.
+
+6
+00:00:13,06 --> 00:00:16,00
+How many visitors we had in the last hour?
+
+7
+00:00:16,00 --> 00:00:18,03
+How much did we sell in the last day?
+
+8
+00:00:18,03 --> 00:00:20,06
+Metrics are usually numerical
+
+9
+00:00:20,06 --> 00:00:23,03
+and come with at least one extra piece of information,
+
+10
+00:00:23,03 --> 00:00:25,03
+the time of the measurement.
+
+11
+00:00:25,03 --> 00:00:28,01
+Metrics can contain more information apart from time,
+
+12
+00:00:28,01 --> 00:00:31,07
+the server name, the application identifier and more.
+
+13
+00:00:31,07 --> 00:00:34,02
+Since metrics are time serious,
+
+14
+00:00:34,02 --> 00:00:37,06
+we can see trends, abnormal values called outliers,
+
+15
+00:00:37,06 --> 00:00:39,09
+and other interesting insights from them.
+
+16
+00:00:39,09 --> 00:00:42,01
+In my long career writing services,
+
+17
+00:00:42,01 --> 00:00:44,00
+metrics has been super valuable.
+
+18
+00:00:44,00 --> 00:00:47,05
+Today, I can't imagine writing a system without designing
+
+19
+00:00:47,05 --> 00:00:51,00
+and implementing a metric system on top of it.
+

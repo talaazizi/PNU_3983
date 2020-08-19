@@ -1,0 +1,128 @@
+1
+00:00:00.060 --> 00:00:01.060
+- [Instructor] This course deals,
+
+2
+00:00:01.060 --> 00:00:04.010
+with the concepts related to change management
+
+3
+00:00:04.010 --> 00:00:07.000
+in an agile new product development environment.
+
+4
+00:00:07.000 --> 00:00:09.070
+I'm a strong proponent in viewing challenges
+
+5
+00:00:09.070 --> 00:00:11.070
+like this in a holistic manner,
+
+6
+00:00:11.070 --> 00:00:15.040
+ensuring that the people, the processes,
+
+7
+00:00:15.040 --> 00:00:18.060
+and the technology challenges, are addressed.
+
+8
+00:00:18.060 --> 00:00:21.050
+This means we're striving for an environment
+
+9
+00:00:21.050 --> 00:00:23.020
+in which all three of these factors
+
+10
+00:00:23.020 --> 00:00:25.050
+are optimized and maximized.
+
+11
+00:00:25.050 --> 00:00:27.080
+So how do we get there from here?
+
+12
+00:00:27.080 --> 00:00:30.000
+Well we get there by creating another Venn diagram
+
+13
+00:00:30.000 --> 00:00:32.040
+of course, well no, not really,
+
+14
+00:00:32.040 --> 00:00:35.050
+but a Venn diagram's helpful to discuss the path forward.
+
+15
+00:00:35.050 --> 00:00:38.000
+To maximize your learning potential for this course,
+
+16
+00:00:38.000 --> 00:00:40.020
+you should have a solid understanding
+
+17
+00:00:40.020 --> 00:00:43.010
+of the agile project management methodology.
+
+18
+00:00:43.010 --> 00:00:44.080
+There are many fine courses available
+
+19
+00:00:44.080 --> 00:00:47.010
+on the subject of agile project management,
+
+20
+00:00:47.010 --> 00:00:48.080
+and in addition, my course on
+
+21
+00:00:48.080 --> 00:00:51.060
+agile project management for new product development
+
+22
+00:00:51.060 --> 00:00:54.090
+can provide a good foundation for this course.
+
+23
+00:00:54.090 --> 00:00:56.030
+You should also be comfortable
+
+24
+00:00:56.030 --> 00:00:58.060
+with the new product development processes,
+
+25
+00:00:58.060 --> 00:01:01.010
+and particularly, the change management
+
+26
+00:01:01.010 --> 00:01:05.070
+processes and techniques used for new product development.
+
+27
+00:01:05.070 --> 00:01:07.090
+Lastly, this course will integrate
+
+28
+00:01:07.090 --> 00:01:11.040
+organizational leadership concepts into your learning,
+
+29
+00:01:11.040 --> 00:01:13.090
+so we'll pay particular attention
+
+30
+00:01:13.090 --> 00:01:17.010
+to a few key areas around organizational leaderships
+
+31
+00:01:17.010 --> 00:01:19.010
+and the soft skills necessary
+
+32
+00:01:19.010 --> 00:01:22.000
+to successfully implement these techniques.
+

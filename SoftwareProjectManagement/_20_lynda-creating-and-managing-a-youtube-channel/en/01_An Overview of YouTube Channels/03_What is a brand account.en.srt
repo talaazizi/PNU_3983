@@ -1,0 +1,657 @@
+1
+00:00:00.06 --> 00:00:02.03
+- In the past, it was possible
+
+2
+00:00:02.03 --> 00:00:06.01
+to set up multiple YouTube
+channels tied to one ID
+
+3
+00:00:06.01 --> 00:00:09.00
+but Google recently made
+a change to brand accounts
+
+4
+00:00:09.00 --> 00:00:10.08
+that makes it a little bit easier
+
+5
+00:00:10.08 --> 00:00:14.01
+to manage channels as well
+as other Google properties
+
+6
+00:00:14.01 --> 00:00:16.00
+that you might be taking advantage of.
+
+7
+00:00:16.00 --> 00:00:19.08
+For example, Google+ pages
+plus Google photo pages
+
+8
+00:00:19.08 --> 00:00:22.02
+and Google business pages
+can all tie together
+
+9
+00:00:22.02 --> 00:00:24.02
+into a YouTube channel as well.
+
+10
+00:00:24.02 --> 00:00:25.05
+And what really happens here
+
+11
+00:00:25.05 --> 00:00:28.04
+is you might have a few
+managers behind the scenes
+
+12
+00:00:28.04 --> 00:00:31.02
+who control an overall channel.
+
+13
+00:00:31.02 --> 00:00:34.02
+Well, this is all done through
+the use of a brand account
+
+14
+00:00:34.02 --> 00:00:36.09
+and it's important that you
+know how to set these up.
+
+15
+00:00:36.09 --> 00:00:38.09
+What is a brand account?
+
+16
+00:00:38.09 --> 00:00:40.09
+Well, a brand account is
+pretty straight forward
+
+17
+00:00:40.09 --> 00:00:43.03
+and if you're familiar with
+a tool like a Facebook page,
+
+18
+00:00:43.03 --> 00:00:45.07
+it's almost the same concept.
+
+19
+00:00:45.07 --> 00:00:48.06
+In this case, these are separate accounts
+
+20
+00:00:48.06 --> 00:00:51.08
+that are managed by one
+or more personal account.
+
+21
+00:00:51.08 --> 00:00:53.07
+So, for example, when we're publishing
+
+22
+00:00:53.07 --> 00:00:55.03
+under the Photo Focus brand,
+
+23
+00:00:55.03 --> 00:00:57.04
+I've got multiple editors and authors
+
+24
+00:00:57.04 --> 00:01:00.07
+who can access the same page.
+
+25
+00:01:00.07 --> 00:01:03.00
+These are typically used
+for business purposes
+
+26
+00:01:03.00 --> 00:01:06.03
+or branding purposes so you're
+not representing yourself
+
+27
+00:01:06.03 --> 00:01:08.05
+as an individual.
+
+28
+00:01:08.05 --> 00:01:13.00
+And they end up being connected
+to a personal Google account
+
+29
+00:01:13.00 --> 00:01:18.05
+but that account is not
+displayed to the audience.
+
+30
+00:01:18.05 --> 00:01:21.01
+Additionally, the management
+on a brand account
+
+31
+00:01:21.01 --> 00:01:22.09
+can be shared.
+
+32
+00:01:22.09 --> 00:01:24.09
+Now, Google services that are compatible
+
+33
+00:01:24.09 --> 00:01:26.08
+with these brand accounts are many
+
+34
+00:01:26.08 --> 00:01:28.09
+and, in fact, I suspect that Google,
+
+35
+00:01:28.09 --> 00:01:30.05
+as they add additional services,
+
+36
+00:01:30.05 --> 00:01:33.01
+will start to connect them all together.
+
+37
+00:01:33.01 --> 00:01:34.09
+A brand account can currently be used
+
+38
+00:01:34.09 --> 00:01:37.09
+with Google+, Google's
+social networking platform,
+
+39
+00:01:37.09 --> 00:01:40.08
+although this platform has
+taken a bit of a hit lately
+
+40
+00:01:40.08 --> 00:01:44.03
+in traffic and overall market penetration.
+
+41
+00:01:44.03 --> 00:01:46.06
+Google Photos, which is important
+
+42
+00:01:46.06 --> 00:01:48.05
+if you are sharing images or want people
+
+43
+00:01:48.05 --> 00:01:52.06
+to be able to discover images
+of your product or company.
+
+44
+00:01:52.06 --> 00:01:54.09
+Google My Business,
+which serves as a profile
+
+45
+00:01:54.09 --> 00:01:58.01
+so that people can find
+your local business,
+
+46
+00:01:58.01 --> 00:02:00.03
+or multiple locations and get in touch
+
+47
+00:02:00.03 --> 00:02:05.01
+for physical sales, visits
+or retail locations.
+
+48
+00:02:05.01 --> 00:02:06.09
+And YouTube.
+
+49
+00:02:06.09 --> 00:02:09.02
+Now, you probably understand the concept
+
+50
+00:02:09.02 --> 00:02:11.03
+of a brand account, but let me show you
+
+51
+00:02:11.03 --> 00:02:14.00
+how we can actually put this into action.
+
+52
+00:02:14.00 --> 00:02:16.07
+To create a brand account
+is pretty straight forward.
+
+53
+00:02:16.07 --> 00:02:21.00
+You're going to login
+into your YouTube account,
+
+54
+00:02:21.00 --> 00:02:24.08
+visit the YouTube channel switcher,
+
+55
+00:02:24.08 --> 00:02:30.00
+and from this page, you can
+choose to create a new channel.
+
+56
+00:02:30.00 --> 00:02:33.02
+You can enter any relevant
+information about the channel
+
+57
+00:02:33.02 --> 00:02:35.09
+and then publish it.
+
+58
+00:02:35.09 --> 00:02:37.08
+You also can visit another URL
+
+59
+00:02:37.08 --> 00:02:41.07
+to really see all of your brand
+accounts at a global view.
+
+60
+00:02:41.07 --> 00:02:45.04
+So, let's start with that first
+URL, the channel switcher.
+
+61
+00:02:45.04 --> 00:02:47.01
+When you visit the channel switcher,
+
+62
+00:02:47.01 --> 00:02:49.00
+you have the ability to switch between
+
+63
+00:02:49.00 --> 00:02:52.09
+any existing channels
+associated with your Google ID.
+
+64
+00:02:52.09 --> 00:02:55.03
+Right now I'm gonna show
+you several channels
+
+65
+00:02:55.03 --> 00:02:57.06
+that I work with, some
+of them are clients,
+
+66
+00:02:57.06 --> 00:02:59.04
+some of them are ones that I manage,
+
+67
+00:02:59.04 --> 00:03:01.07
+but it's a good illustration
+of how you can have access
+
+68
+00:03:01.07 --> 00:03:03.07
+to more than one account.
+
+69
+00:03:03.07 --> 00:03:06.03
+As you see here, up top,
+
+70
+00:03:06.03 --> 00:03:08.01
+I've got some individual channels
+
+71
+00:03:08.01 --> 00:03:11.03
+that have been created and down below
+
+72
+00:03:11.03 --> 00:03:13.02
+we have some brand accounts.
+
+73
+00:03:13.02 --> 00:03:14.08
+I've got some accounts for projects
+
+74
+00:03:14.08 --> 00:03:18.06
+that I've set up Google+ pages
+for or brand accounts for
+
+75
+00:03:18.06 --> 00:03:21.07
+but I've not yet created
+a YouTube page for.
+
+76
+00:03:21.07 --> 00:03:23.09
+Up here, you can see multiple channels
+
+77
+00:03:23.09 --> 00:03:25.01
+that I've been added to.
+
+78
+00:03:25.01 --> 00:03:27.02
+Some of them are ones that I control.
+
+79
+00:03:27.02 --> 00:03:29.09
+Some are ones that belong to a client.
+
+80
+00:03:29.09 --> 00:03:32.02
+Currently, I'm using Photo Focus,
+
+81
+00:03:32.02 --> 00:03:35.00
+our daily site on photography education.
+
+82
+00:03:35.00 --> 00:03:38.06
+And you'll see that that ID is
+selected in the upper corner.
+
+83
+00:03:38.06 --> 00:03:40.07
+Now, if we switch from
+mobile for a moment,
+
+84
+00:03:40.07 --> 00:03:44.00
+you'll see that I did a
+search for Skylum software.
+
+85
+00:03:44.00 --> 00:03:46.07
+As such, we got several hits here
+
+86
+00:03:46.07 --> 00:03:48.09
+for different types of content,
+
+87
+00:03:48.09 --> 00:03:51.03
+videos about Skylum software,
+
+88
+00:03:51.03 --> 00:03:55.02
+but there's also a page
+here and the company logo.
+
+89
+00:03:55.02 --> 00:03:57.08
+This is an example of a brand account
+
+90
+00:03:57.08 --> 00:04:01.00
+and when I tap this, you'll
+see on the mobile device
+
+91
+00:04:01.00 --> 00:04:04.04
+that YouTube shows me another channel.
+
+92
+00:04:04.04 --> 00:04:06.00
+There's artwork at the top,
+
+93
+00:04:06.00 --> 00:04:09.04
+the ability to navigate
+between videos and playlists
+
+94
+00:04:09.04 --> 00:04:12.03
+as well as a trailer and
+several different pieces
+
+95
+00:04:12.03 --> 00:04:15.00
+of artwork that have been
+featured and organized.
+
+96
+00:04:15.00 --> 00:04:17.02
+In this case, different
+playlists of videos
+
+97
+00:04:17.02 --> 00:04:20.05
+that have been gathered together
+for audiences to consume
+
+98
+00:04:20.05 --> 00:04:23.06
+as well as some additional
+playlists on the bottom.
+
+99
+00:04:23.06 --> 00:04:25.09
+Now if we visit this on a desktop,
+
+100
+00:04:25.09 --> 00:04:28.05
+you'll see a similar experience.
+
+101
+00:04:28.05 --> 00:04:32.01
+If I do a search on YouTube.com
+on a desktop browser,
+
+102
+00:04:32.01 --> 00:04:34.05
+you'll see similar results.
+
+103
+00:04:34.05 --> 00:04:36.09
+And when I select the channel,
+
+104
+00:04:36.09 --> 00:04:39.09
+now in this case, it's
+taken me to the channel
+
+105
+00:04:39.09 --> 00:04:43.01
+with a slightly different
+interface than you saw on mobile
+
+106
+00:04:43.01 --> 00:04:45.04
+but it's the same general idea.
+
+107
+00:04:45.04 --> 00:04:47.01
+We have a graphic identity.
+
+108
+00:04:47.01 --> 00:04:48.06
+We have the use of a trailer
+
+109
+00:04:48.06 --> 00:04:50.08
+and we have different videos and playlists
+
+110
+00:04:50.08 --> 00:04:53.05
+that are organized for easy consumption.
+
+111
+00:04:53.05 --> 00:04:56.02
+If you'd like to see your
+overall brand accounts,
+
+112
+00:04:56.02 --> 00:05:01.04
+you can visit
+myaccount.google.com/brandaccounts
+
+113
+00:05:01.04 --> 00:05:03.05
+and here you can see invitations
+
+114
+00:05:03.05 --> 00:05:06.09
+as well as email preferences
+about which things
+
+115
+00:05:06.09 --> 00:05:09.02
+you're going to be notified about.
+
+116
+00:05:09.02 --> 00:05:11.04
+Let's go back a level here.
+
+117
+00:05:11.04 --> 00:05:13.02
+And you can see the
+different brand accounts
+
+118
+00:05:13.02 --> 00:05:15.07
+that I've been connected to.
+
+119
+00:05:15.07 --> 00:05:17.08
+Now, what's most likely going to happen
+
+120
+00:05:17.08 --> 00:05:22.05
+is the need to create a new brand account.
+
+121
+00:05:22.05 --> 00:05:24.07
+Remember, the easiest place to do that
+
+122
+00:05:24.07 --> 00:05:27.01
+is from the YouTube channel switcher.
+
+123
+00:05:27.01 --> 00:05:29.06
+This will give you access
+to all of your brands
+
+124
+00:05:29.06 --> 00:05:32.02
+and the ability to create a new channel.
+
+125
+00:05:32.02 --> 00:05:34.04
+Now, if you switch a Google ID,
+
+126
+00:05:34.04 --> 00:05:39.04
+for example, let me switch
+here to another project.
+
+127
+00:05:39.04 --> 00:05:40.07
+You'll see, in this case,
+
+128
+00:05:40.07 --> 00:05:43.09
+that only a single YouTube channel exists.
+
+129
+00:05:43.09 --> 00:05:47.01
+I could, of course,
+create another new channel
+
+130
+00:05:47.01 --> 00:05:50.07
+and it'll create the
+corresponding brand account.
+
+131
+00:05:50.07 --> 00:05:52.05
+To do this is pretty simple.
+
+132
+00:05:52.05 --> 00:05:59.01
+Start by entering a name.
+
+133
+00:05:59.01 --> 00:06:03.07
+Click create.
+
+134
+00:06:03.07 --> 00:06:05.04
+And you'll now see that you have
+
+135
+00:06:05.04 --> 00:06:08.07
+an empty YouTube channel awaiting content.
+
+136
+00:06:08.07 --> 00:06:10.02
+Creating a new channel
+
+137
+00:06:10.02 --> 00:06:12.09
+is also going to create
+a new brand account.
+
+138
+00:06:12.09 --> 00:06:15.05
+They go hand in hand and in fact,
+
+139
+00:06:15.05 --> 00:06:18.03
+when you first went to
+upload a video to YouTube,
+
+140
+00:06:18.03 --> 00:06:21.07
+it likely asked you to
+create a channel in doing so.
+
+141
+00:06:21.07 --> 00:06:23.09
+So chances are, if
+you've already uploaded,
+
+142
+00:06:23.09 --> 00:06:26.09
+you may already have a
+channel and a brand account
+
+143
+00:06:26.09 --> 00:06:29.06
+but it might not be the
+branding that you want.
+
+144
+00:06:29.06 --> 00:06:32.02
+So, using the steps that
+you've learned in this lesson,
+
+145
+00:06:32.02 --> 00:06:34.04
+it's easy to see an existing brand,
+
+146
+00:06:34.04 --> 00:06:37.07
+to switch to another or
+to create a whole new one
+
+147
+00:06:37.07 --> 00:06:40.01
+to hold the videos and the artwork
+
+148
+00:06:40.01 --> 00:06:43.05
+for a particular topic or
+particular brand or company.
+

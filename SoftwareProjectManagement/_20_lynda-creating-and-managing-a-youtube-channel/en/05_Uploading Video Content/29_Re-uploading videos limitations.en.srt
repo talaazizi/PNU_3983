@@ -1,0 +1,524 @@
+1
+00:00:00.04 --> 00:00:02.04
+- One of the most common
+questions I get is,
+
+2
+00:00:02.04 --> 00:00:05.01
+how to do I re-upload a video to YouTube?
+
+3
+00:00:05.01 --> 00:00:08.02
+It's been live for a couple
+of weeks and we made a change,
+
+4
+00:00:08.02 --> 00:00:10.04
+or an update, or there's a mistake
+
+5
+00:00:10.04 --> 00:00:12.01
+and I need to put a new version up.
+
+6
+00:00:12.01 --> 00:00:13.07
+But the client's already embedded it
+
+7
+00:00:13.07 --> 00:00:14.09
+and I don't want to have to change
+
+8
+00:00:14.09 --> 00:00:17.04
+the URL or the embed code.
+
+9
+00:00:17.04 --> 00:00:21.04
+Well, if you've jumped right
+to this video using a search,
+
+10
+00:00:21.04 --> 00:00:23.01
+and you haven't watched the whole course,
+
+11
+00:00:23.01 --> 00:00:25.09
+I've got bad news for you. You can't.
+
+12
+00:00:25.09 --> 00:00:28.00
+You cannot replace a video on YouTube.
+
+13
+00:00:28.00 --> 00:00:31.08
+You can simply unpublish it
+and put something else in.
+
+14
+00:00:31.08 --> 00:00:33.05
+Now for those of you paying attention
+
+15
+00:00:33.05 --> 00:00:34.08
+to the status bar down below,
+
+16
+00:00:34.08 --> 00:00:37.00
+you're probably wondering,
+"Why does he keep talking?".
+
+17
+00:00:37.00 --> 00:00:39.08
+Well there are some alternatives
+I'd like you to know about.
+
+18
+00:00:39.08 --> 00:00:41.09
+While you can't replace a video,
+
+19
+00:00:41.09 --> 00:00:43.08
+there are a few useful things.
+
+20
+00:00:43.08 --> 00:00:47.00
+Keep in mind that the reason
+why you can't replace a video
+
+21
+00:00:47.00 --> 00:00:49.08
+and keep the original view
+count, comments, or ratings,
+
+22
+00:00:49.08 --> 00:00:53.05
+is that YouTube doesn't want
+you to do bait and switch.
+
+23
+00:00:53.05 --> 00:00:55.04
+So when you upload a new video,
+
+24
+00:00:55.04 --> 00:00:57.05
+YouTube is going to make a new URL
+
+25
+00:00:57.05 --> 00:01:00.08
+and reset the view count
+and reset the comments.
+
+26
+00:01:00.08 --> 00:01:02.04
+They don't want people to have a video up
+
+27
+00:01:02.04 --> 00:01:04.04
+that gets one type of
+comments and ratings,
+
+28
+00:01:04.04 --> 00:01:08.03
+and then have people swap
+it out for an advertisement.
+
+29
+00:01:08.03 --> 00:01:10.02
+Some other services like Vimeo
+
+30
+00:01:10.02 --> 00:01:12.04
+and others do support this feature.
+
+31
+00:01:12.04 --> 00:01:16.00
+So if versioning is important
+with permanent URLs,
+
+32
+00:01:16.00 --> 00:01:19.01
+look into a service other than YouTube.
+
+33
+00:01:19.01 --> 00:01:21.04
+But the idea here is they don't want to
+
+34
+00:01:21.04 --> 00:01:24.07
+really build mistrust with the audience.
+
+35
+00:01:24.07 --> 00:01:28.04
+For example, if you had
+this ability to use one URL,
+
+36
+00:01:28.04 --> 00:01:31.04
+maybe you put up a really popular video,
+
+37
+00:01:31.04 --> 00:01:34.03
+or somebody sells their popular video slot
+
+38
+00:01:34.03 --> 00:01:36.08
+and then you have all of
+that traffic, ratings,
+
+39
+00:01:36.08 --> 00:01:39.07
+and total view counts and you replace it
+
+40
+00:01:39.07 --> 00:01:41.08
+with an advertisement or something else.
+
+41
+00:01:41.08 --> 00:01:43.01
+What YouTube doesn't want to see happen
+
+42
+00:01:43.01 --> 00:01:45.06
+is that people are selling popular slots.
+
+43
+00:01:45.06 --> 00:01:47.07
+For example, a video has a lot of hits,
+
+44
+00:01:47.07 --> 00:01:50.03
+and then they put up a new
+version that has ads on it.
+
+45
+00:01:50.03 --> 00:01:53.05
+Or a video is one type of content that
+
+46
+00:01:53.05 --> 00:01:55.08
+has all these great reviews about how
+
+47
+00:01:55.08 --> 00:01:58.02
+family-friendly this is and awesome it is,
+
+48
+00:01:58.02 --> 00:01:59.08
+and then someone uploads something
+
+49
+00:01:59.08 --> 00:02:02.02
+that was inappropriate for the audience.
+
+50
+00:02:02.02 --> 00:02:04.01
+YouTube is really particular that
+
+51
+00:02:04.01 --> 00:02:08.05
+what you upload is a unique
+file, so keep that in mind.
+
+52
+00:02:08.05 --> 00:02:10.06
+But you can do a few other things.
+
+53
+00:02:10.06 --> 00:02:12.08
+For example, you can actually put links to
+
+54
+00:02:12.08 --> 00:02:18.05
+the new version using the card
+functionality or annotations.
+
+55
+00:02:18.05 --> 00:02:21.02
+Additionally, you can enhance the video.
+
+56
+00:02:21.02 --> 00:02:24.02
+This allows you to make some basic changes
+
+57
+00:02:24.02 --> 00:02:26.09
+using the YouTube video enhancements tab.
+
+58
+00:02:26.09 --> 00:02:30.00
+For example, you can actually
+trim parts of the video,
+
+59
+00:02:30.00 --> 00:02:34.00
+adjust the audio, or auto
+fix the exposure and color,
+
+60
+00:02:34.00 --> 00:02:36.09
+or blur parts of the video to hide things.
+
+61
+00:02:36.09 --> 00:02:38.06
+This can be quite useful.
+
+62
+00:02:38.06 --> 00:02:42.02
+For example, I use YouTube's
+live streaming platform a lot.
+
+63
+00:02:42.02 --> 00:02:44.02
+And the first few minutes of a live stream
+
+64
+00:02:44.02 --> 00:02:46.01
+are typically everyone sitting around
+
+65
+00:02:46.01 --> 00:02:47.08
+waiting for people to show up.
+
+66
+00:02:47.08 --> 00:02:50.01
+You start the stream early so people know,
+
+67
+00:02:50.01 --> 00:02:51.07
+hey we're starting in about five minutes,
+
+68
+00:02:51.07 --> 00:02:54.05
+or thanks to you who are
+coming out and tuning in,
+
+69
+00:02:54.05 --> 00:02:55.05
+because it takes a while for people
+
+70
+00:02:55.05 --> 00:02:57.04
+to notice that the stream has started.
+
+71
+00:02:57.04 --> 00:02:59.07
+So those first couple minutes are a pause.
+
+72
+00:02:59.07 --> 00:03:01.05
+Well maybe you trim that out.
+
+73
+00:03:01.05 --> 00:03:03.02
+Or maybe there's a section of the video
+
+74
+00:03:03.02 --> 00:03:06.04
+that really got off track,
+you can get rid of it.
+
+75
+00:03:06.04 --> 00:03:07.06
+Maybe there's a mistake.
+
+76
+00:03:07.06 --> 00:03:10.04
+Well you can cut things out from a video.
+
+77
+00:03:10.04 --> 00:03:13.07
+You just can't add. So let me show you.
+
+78
+00:03:13.07 --> 00:03:16.00
+If you're logged into your account,
+
+79
+00:03:16.00 --> 00:03:20.08
+simply go to the video
+manager. And then click edit.
+
+80
+00:03:20.08 --> 00:03:25.05
+You'll see that the second
+tab is called enhancements.
+
+81
+00:03:25.05 --> 00:03:28.01
+This is where you have
+the ability to adjust.
+
+82
+00:03:28.01 --> 00:03:32.00
+So you can actually fix a
+video for exposure and color,
+
+83
+00:03:32.00 --> 00:03:36.04
+or stabilize, change the
+speed, or click the trim button
+
+84
+00:03:36.04 --> 00:03:39.08
+to actually remove parts of the video.
+
+85
+00:03:39.08 --> 00:03:42.05
+So if you want to shorten
+a video, you can do so,
+
+86
+00:03:42.05 --> 00:03:47.02
+allowing you to take
+part of a longer video.
+
+87
+00:03:47.02 --> 00:03:49.09
+Now you can also split
+a video if you need to,
+
+88
+00:03:49.09 --> 00:03:51.07
+to make different parts.
+
+89
+00:03:51.07 --> 00:03:54.00
+And this allows you to basically go to
+
+90
+00:03:54.00 --> 00:03:56.07
+a certain part of the
+video and click split.
+
+91
+00:03:56.07 --> 00:03:58.06
+And then you can adjust those parts
+
+92
+00:03:58.06 --> 00:04:01.03
+and then go to another
+part and split it again.
+
+93
+00:04:01.03 --> 00:04:03.01
+Now I'm going to click clear for a moment
+
+94
+00:04:03.01 --> 00:04:05.08
+and take a look at some
+of these other choices.
+
+95
+00:04:05.08 --> 00:04:07.07
+Let's mark done here.
+
+96
+00:04:07.07 --> 00:04:10.09
+You'll see that you also
+have some basic filters.
+
+97
+00:04:10.09 --> 00:04:12.03
+Now these are not going to be
+
+98
+00:04:12.03 --> 00:04:13.06
+useful for things like screencast,
+
+99
+00:04:13.06 --> 00:04:17.01
+but you can adjust or
+stylize the video a bit.
+
+100
+00:04:17.01 --> 00:04:18.09
+And there are some blurring effects here
+
+101
+00:04:18.09 --> 00:04:22.09
+if you need to blur faces
+or apply custom areas that
+
+102
+00:04:22.09 --> 00:04:27.03
+you want to track and blur to
+hide them in the video itself.
+
+103
+00:04:27.03 --> 00:04:29.04
+This is really quite useful.
+
+104
+00:04:29.04 --> 00:04:32.03
+I also mentioned the idea of end screens,
+
+105
+00:04:32.03 --> 00:04:34.05
+and cards, and annotations.
+
+106
+00:04:34.05 --> 00:04:36.07
+End screens allow people to tell them
+
+107
+00:04:36.07 --> 00:04:39.08
+where you want them to go
+next. It's pretty simple.
+
+108
+00:04:39.08 --> 00:04:42.07
+And cards, which we'll
+talk about more later,
+
+109
+00:04:42.07 --> 00:04:45.04
+allow us to put specific call outs.
+
+110
+00:04:45.04 --> 00:04:47.00
+So if there is a new video,
+
+111
+00:04:47.00 --> 00:04:49.06
+we can actually link to it and add a link
+
+112
+00:04:49.06 --> 00:04:52.00
+right on the screen as an overlay.
+
+113
+00:04:52.00 --> 00:04:54.03
+So that can be quite useful.
+
+114
+00:04:54.03 --> 00:04:56.03
+So while you can't replace a video,
+
+115
+00:04:56.03 --> 00:05:00.06
+you can edit its description,
+change its link, its title,
+
+116
+00:05:00.06 --> 00:05:03.03
+put in a link to a new
+version of the video,
+
+117
+00:05:03.03 --> 00:05:05.00
+cut away parts you don't want to see,
+
+118
+00:05:05.00 --> 00:05:07.08
+blur out something you don't
+have permission to show.
+
+119
+00:05:07.08 --> 00:05:09.09
+There is quite a bit you can do without
+
+120
+00:05:09.09 --> 00:05:13.08
+the ability of doing a
+replace from an upload.
+

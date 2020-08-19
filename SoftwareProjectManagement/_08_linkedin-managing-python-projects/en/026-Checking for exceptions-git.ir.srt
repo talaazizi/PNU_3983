@@ -1,0 +1,68 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,04
+- [Instructor] Sometimes you'd like to test
+
+2
+00:00:02,04 --> 00:00:05,00
+that the function is raising an exception,
+
+3
+00:00:05,00 --> 00:00:07,00
+say on bad input.
+
+4
+00:00:07,00 --> 00:00:09,09
+You could do it manually with tri accept,
+
+5
+00:00:09,09 --> 00:00:13,08
+however, pytest has a raises context manager
+
+6
+00:00:13,08 --> 00:00:16,00
+which simplifies this work.
+
+7
+00:00:16,00 --> 00:00:18,02
+Here we have the function test_neg
+
+8
+00:00:18,02 --> 00:00:20,03
+that uses this context manager.
+
+9
+00:00:20,03 --> 00:00:25,00
+In Line 7, we do with pytest.raises(ValueError),
+
+10
+00:00:25,00 --> 00:00:27,09
+which tells pytest that the code inside the context
+
+11
+00:00:27,09 --> 00:00:30,04
+manager should raise a value error.
+
+12
+00:00:30,04 --> 00:00:32,07
+If the code does not raise any error,
+
+13
+00:00:32,07 --> 00:00:36,06
+or raise another exception, the text is going to fail.
+
+14
+00:00:36,06 --> 00:00:39,02
+And now let's run it.
+
+15
+00:00:39,02 --> 00:00:46,02
+Python dash m pytest dash v tests.
+
+16
+00:00:46,02 --> 00:00:49,00
+And we see that test_neg is passing.
+

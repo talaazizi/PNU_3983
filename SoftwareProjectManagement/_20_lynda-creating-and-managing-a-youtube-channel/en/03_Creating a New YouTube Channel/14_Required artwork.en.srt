@@ -1,0 +1,530 @@
+1
+00:00:00.07 --> 00:00:03.01
+- In order to give your
+page a proper look,
+
+2
+00:00:03.01 --> 00:00:06.00
+it's recommended that
+you add some artwork.
+
+3
+00:00:06.00 --> 00:00:09.02
+The generic person icon in a solid color
+
+4
+00:00:09.02 --> 00:00:12.01
+probably doesn't really
+establish your brand very well.
+
+5
+00:00:12.01 --> 00:00:14.04
+It makes you look like it's a fake account
+
+6
+00:00:14.04 --> 00:00:17.04
+or one that you couldn't
+be bothered to set up.
+
+7
+00:00:17.04 --> 00:00:20.00
+There are several pieces
+of required artwork.
+
+8
+00:00:20.00 --> 00:00:22.04
+I'm going to walk you
+through what they are now,
+
+9
+00:00:22.04 --> 00:00:23.09
+and a little bit later in the course,
+
+10
+00:00:23.09 --> 00:00:26.03
+I'll show you how to make them.
+
+11
+00:00:26.03 --> 00:00:28.09
+On a computer, sign into YouTube.
+
+12
+00:00:28.09 --> 00:00:35.05
+Then click in the upper right
+menu and choose My Channel.
+
+13
+00:00:35.05 --> 00:00:37.09
+You'll see the option for new channel art
+
+14
+00:00:37.09 --> 00:00:39.07
+near the top of the screen.
+
+15
+00:00:39.07 --> 00:00:43.00
+You can click to add new channel art,
+
+16
+00:00:43.00 --> 00:00:45.08
+or if you have existing
+art, you can choose
+
+17
+00:00:45.08 --> 00:00:52.03
+to modify the banner and
+then choose Edit channel art.
+
+18
+00:00:52.03 --> 00:00:54.05
+Generally speaking, when you're logged in,
+
+19
+00:00:54.05 --> 00:00:58.07
+you'll see something like this.
+
+20
+00:00:58.07 --> 00:01:01.01
+You'll then be presented
+with a screen to upload
+
+21
+00:01:01.01 --> 00:01:06.04
+or choose from existing content
+you've already uploaded.
+
+22
+00:01:06.04 --> 00:01:09.03
+Once you've uploaded it,
+then you'll see a preview
+
+23
+00:01:09.03 --> 00:01:12.02
+of how it looks across multiple devices.
+
+24
+00:01:12.02 --> 00:01:14.06
+You can also choose to adjust the crop
+
+25
+00:01:14.06 --> 00:01:20.02
+and then click the Select
+button to store the edits.
+
+26
+00:01:20.02 --> 00:01:22.04
+Some of the specs you need to keep in mind
+
+27
+00:01:22.04 --> 00:01:24.09
+is that the channel art
+is going to look different
+
+28
+00:01:24.09 --> 00:01:26.07
+on different devices.
+
+29
+00:01:26.07 --> 00:01:29.03
+This is why YouTube
+provides a template file
+
+30
+00:01:29.03 --> 00:01:33.03
+to make this a bit easier,
+and we'll explore that later.
+
+31
+00:01:33.03 --> 00:01:37.07
+Larger images tend to be
+cropped, so for the best results,
+
+32
+00:01:37.07 --> 00:01:40.01
+you're going to upload a single image
+
+33
+00:01:40.01 --> 00:01:47.09
+that's 2,560 pixels by 1,440 pixels.
+
+34
+00:01:47.09 --> 00:01:49.02
+This will allow the artwork
+
+35
+00:01:49.02 --> 00:01:52.07
+to appear on the page and
+give some branding to it.
+
+36
+00:01:52.07 --> 00:01:54.02
+Let me show you how.
+
+37
+00:01:54.02 --> 00:01:56.01
+Once you're logged into your page,
+
+38
+00:01:56.01 --> 00:01:58.07
+you should see the individual channel.
+
+39
+00:01:58.07 --> 00:02:04.00
+If you don't, click on your
+icon and choose My channel.
+
+40
+00:02:04.00 --> 00:02:11.04
+Now click the Customize button.
+
+41
+00:02:11.04 --> 00:02:14.07
+You're now presented with
+the look of your channel.
+
+42
+00:02:14.07 --> 00:02:17.08
+If you've uploaded any
+videos, these will be shown.
+
+43
+00:02:17.08 --> 00:02:21.03
+Otherwise, it will show as empty.
+
+44
+00:02:21.03 --> 00:02:24.00
+I'll click the Add Channel Art button.
+
+45
+00:02:24.00 --> 00:02:27.02
+You can also click here on the pencil icon
+
+46
+00:02:27.02 --> 00:02:31.00
+and choose to edit the channel art.
+
+47
+00:02:31.00 --> 00:02:33.09
+This brings up a new dialogue.
+
+48
+00:02:33.09 --> 00:02:43.00
+Now click to browse or
+drag a new photo in.
+
+49
+00:02:43.00 --> 00:02:47.02
+I've put together a few
+samples in the exercise files,
+
+50
+00:02:47.02 --> 00:02:52.00
+and I'll choose a sample image here.
+
+51
+00:02:52.00 --> 00:02:56.07
+Let's just start with a
+simple photo for a moment
+
+52
+00:02:56.07 --> 00:03:00.01
+and we'll try this one here.
+
+53
+00:03:00.01 --> 00:03:02.08
+I'll click Choose.
+
+54
+00:03:02.08 --> 00:03:05.05
+The picture uploads, and
+it will show it to me
+
+55
+00:03:05.05 --> 00:03:07.01
+in the editing dialogue box
+
+56
+00:03:07.01 --> 00:03:09.02
+if it meets the minimum resolution.
+
+57
+00:03:09.02 --> 00:03:11.09
+Now if it's below, as
+it was here, you'll see
+
+58
+00:03:11.09 --> 00:03:15.08
+that it warns you that it's
+not high enough resolution,
+
+59
+00:03:15.08 --> 00:03:18.07
+so you'll need to find
+a higher quality photo
+
+60
+00:03:18.07 --> 00:03:22.06
+or use an image editing tool to resize it.
+
+61
+00:03:22.06 --> 00:03:25.06
+Let's select again and this time,
+
+62
+00:03:25.06 --> 00:03:28.02
+I'm going to choose the
+one called Channel Art
+
+63
+00:03:28.02 --> 00:03:37.04
+that I know is the right
+size, and I'll click Choose.
+
+64
+00:03:37.04 --> 00:03:40.03
+The file uploads and it
+gives me a simulation
+
+65
+00:03:40.03 --> 00:03:43.09
+of what it looks like on each device.
+
+66
+00:03:43.09 --> 00:03:48.03
+You'll see a preview for
+desktop, TV, and mobile.
+
+67
+00:03:48.03 --> 00:03:52.07
+If I click Adjust the
+crop, I can modify things,
+
+68
+00:03:52.07 --> 00:03:54.06
+and you'll see as you do so,
+
+69
+00:03:54.06 --> 00:03:57.08
+it's going to show you what it looks like.
+
+70
+00:03:57.08 --> 00:04:00.04
+The inner box is what it's going to be
+
+71
+00:04:00.04 --> 00:04:03.08
+on most devices for mobile.
+
+72
+00:04:03.08 --> 00:04:07.00
+The outer box is how
+it looks on televisions
+
+73
+00:04:07.00 --> 00:04:08.09
+that are connected to YouTube.
+
+74
+00:04:08.09 --> 00:04:10.08
+So keep in mind that televisions
+
+75
+00:04:10.08 --> 00:04:15.09
+are going to need a 16
+by nine aspect ratio.
+
+76
+00:04:15.09 --> 00:04:18.05
+I'll go ahead and click Select here
+
+77
+00:04:18.05 --> 00:04:21.09
+and the image is saved and uploaded.
+
+78
+00:04:21.09 --> 00:04:25.09
+And you see that it places
+it into the top of the bar,
+
+79
+00:04:25.09 --> 00:04:28.00
+and that works quite nicely.
+
+80
+00:04:28.00 --> 00:04:32.05
+While we're at it, let's
+also upload the social icon.
+
+81
+00:04:32.05 --> 00:04:34.09
+I'll click on the social icon here
+
+82
+00:04:34.09 --> 00:04:41.06
+and choose to edit the channel.
+
+83
+00:04:41.06 --> 00:04:44.03
+Let's choose to upload a file.
+
+84
+00:04:44.03 --> 00:04:46.00
+I'll go to the same folder
+
+85
+00:04:46.00 --> 00:04:51.08
+and choose a JPEG file in
+this case and click Choose.
+
+86
+00:04:51.08 --> 00:04:53.06
+The file is uploaded, and you'll see
+
+87
+00:04:53.06 --> 00:04:57.02
+a similar choice for adjusting the crop.
+
+88
+00:04:57.02 --> 00:05:00.06
+When satisfied, click Done,
+
+89
+00:05:00.06 --> 00:05:04.05
+and you see it updates here
+on your principal page.
+
+90
+00:05:04.05 --> 00:05:07.02
+By the way, while you're
+updating the icon here,
+
+91
+00:05:07.02 --> 00:05:09.08
+you might want to also
+change the banner artwork
+
+92
+00:05:09.08 --> 00:05:18.02
+using the same artwork that
+you put onto your YouTube page.
+
+93
+00:05:18.02 --> 00:05:22.02
+And you see that it adds it
+to your Google ID profile,
+
+94
+00:05:22.02 --> 00:05:26.08
+or in this case, the
+brand account profile.
+
+95
+00:05:26.08 --> 00:05:28.05
+Now it's added.
+
+96
+00:05:28.05 --> 00:05:32.01
+However, the challenge
+here is that the logo
+
+97
+00:05:32.01 --> 00:05:35.09
+is covering up the logo,
+so what works on YouTube
+
+98
+00:05:35.09 --> 00:05:38.03
+might not work on another page.
+
+99
+00:05:38.03 --> 00:05:46.00
+So let's swap that out
+and upload another image.
+
+100
+00:05:46.00 --> 00:05:48.02
+And I'll go for the
+generic version of that
+
+101
+00:05:48.02 --> 00:05:53.03
+that doesn't have a logo built in
+
+102
+00:05:53.03 --> 00:05:57.03
+and click Done, and it updates.
+
+103
+00:05:57.03 --> 00:05:59.08
+So you want to be careful and keep in mind
+
+104
+00:05:59.08 --> 00:06:03.04
+that artwork for YouTube
+might not work on Google Plus
+
+105
+00:06:03.04 --> 00:06:05.03
+and might not work on your brand account
+
+106
+00:06:05.03 --> 00:06:07.07
+or personal account profile.
+
+107
+00:06:07.07 --> 00:06:10.09
+But I'm satisfied now and we'll click OK.
+
+108
+00:06:10.09 --> 00:06:16.00
+It updates and now let's
+switch back to YouTube
+
+109
+00:06:16.00 --> 00:06:19.08
+and I'll press refresh, and you see
+
+110
+00:06:19.08 --> 00:06:22.08
+that the new look has been taken on.
+
+111
+00:06:22.08 --> 00:06:25.04
+Now you might notice,
+if you visit your page
+
+112
+00:06:25.04 --> 00:06:28.07
+on a mobile device, that the
+artwork may take a moment
+
+113
+00:06:28.07 --> 00:06:31.08
+to propagate across all platforms.
+
+114
+00:06:31.08 --> 00:06:34.02
+Just because you see it on one device
+
+115
+00:06:34.02 --> 00:06:36.07
+doesn't mean you'll see it on another.
+
+116
+00:06:36.07 --> 00:06:39.07
+Google serves up things
+at multiple resolutions,
+
+117
+00:06:39.07 --> 00:06:42.00
+so be prepared to wait a little bit
+
+118
+00:06:42.00 --> 00:06:44.08
+for your artwork to make it
+all the way through the system
+
+119
+00:06:44.08 --> 00:06:46.00
+if you customize it.
+

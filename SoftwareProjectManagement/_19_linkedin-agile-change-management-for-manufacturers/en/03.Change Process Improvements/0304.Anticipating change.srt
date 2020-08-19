@@ -1,0 +1,84 @@
+1
+00:00:00.060 --> 00:00:02.050
+- [Instructor] In the Agile Project Management
+
+2
+00:00:02.050 --> 00:00:04.040
+For New Product Development course,
+
+3
+00:00:04.040 --> 00:00:07.000
+we discussed the process through which backlog items
+
+4
+00:00:07.000 --> 00:00:08.060
+get turned into products.
+
+5
+00:00:08.060 --> 00:00:11.060
+This is the standard agile sprint methodology.
+
+6
+00:00:11.060 --> 00:00:13.080
+In this course, we introduce the importance
+
+7
+00:00:13.080 --> 00:00:15.060
+of anticipating change.
+
+8
+00:00:15.060 --> 00:00:17.040
+If we consider that this diagram
+
+9
+00:00:17.040 --> 00:00:20.080
+shows a typical running agile project,
+
+10
+00:00:20.080 --> 00:00:23.090
+we know that changes are invariably brought up,
+
+11
+00:00:23.090 --> 00:00:26.010
+usually at the worst time.
+
+12
+00:00:26.010 --> 00:00:28.070
+We want to ensure that the potential change
+
+13
+00:00:28.070 --> 00:00:31.020
+that's brought up does not impact
+
+14
+00:00:31.020 --> 00:00:34.000
+the current running sprint.
+
+15
+00:00:34.000 --> 00:00:37.000
+Rather, we want to move that potential change
+
+16
+00:00:37.000 --> 00:00:40.010
+into the backlog planning so that it gets planned
+
+17
+00:00:40.010 --> 00:00:43.060
+into the subsequent sprint, or sprints.
+
+18
+00:00:43.060 --> 00:00:46.010
+In such a fashion, we ensure that the change
+
+19
+00:00:46.010 --> 00:00:48.090
+is accounted for and even anticipated,
+
+20
+00:00:48.090 --> 00:00:50.070
+but does not turn into churn,
+
+21
+00:00:50.070 --> 00:00:53.000
+by altering the existing running sprint.
+

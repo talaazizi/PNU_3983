@@ -1,0 +1,92 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:03,00
+- [Instructor] There are many metric systems out there.
+
+2
+00:00:03,00 --> 00:00:04,04
+There are self hosted ones,
+
+3
+00:00:04,04 --> 00:00:08,06
+such as Prometheus, InfluxDB, the ELK Stack, and others.
+
+4
+00:00:08,06 --> 00:00:13,07
+There are hosted solutions like Splunk, Datadog, and others.
+
+5
+00:00:13,07 --> 00:00:15,07
+At one time I even used Google Analytics
+
+6
+00:00:15,07 --> 00:00:18,02
+as my metric system.
+
+7
+00:00:18,02 --> 00:00:20,02
+Some systems are push based,
+
+8
+00:00:20,02 --> 00:00:22,07
+meaning your application will push metrics
+
+9
+00:00:22,07 --> 00:00:24,02
+to the metric system.
+
+10
+00:00:24,02 --> 00:00:27,05
+Others are pull based and will query your application
+
+11
+00:00:27,05 --> 00:00:29,05
+for metrics periodically.
+
+12
+00:00:29,05 --> 00:00:31,05
+No matter what system you use,
+
+13
+00:00:31,05 --> 00:00:34,09
+learn its capabilities and how it can visualize your data
+
+14
+00:00:34,09 --> 00:00:36,07
+to gain insights.
+
+15
+00:00:36,07 --> 00:00:40,00
+Some systems have built in dashboard support
+
+16
+00:00:40,00 --> 00:00:43,03
+and some require other system, such as Grafana,
+
+17
+00:00:43,03 --> 00:00:45,04
+to visualize the data.
+
+18
+00:00:45,04 --> 00:00:46,08
+Once you have your data flowing,
+
+19
+00:00:46,08 --> 00:00:49,06
+think about what are the important metrics
+
+20
+00:00:49,06 --> 00:00:52,00
+you'd like to show and where?
+
+21
+00:00:52,00 --> 00:00:55,00
+Some teams place a big monitor with important metrics
+
+22
+00:00:55,00 --> 00:00:59,00
+at central location, so everybody can view them.
+

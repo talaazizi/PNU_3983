@@ -1,0 +1,144 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,08 --> 00:00:02,01
+- Testing is important.
+
+2
+00:00:02,01 --> 00:00:04,03
+It validates your code, and guards against
+
+3
+00:00:04,03 --> 00:00:05,09
+breaking one part of the code,
+
+4
+00:00:05,09 --> 00:00:07,04
+when changing another.
+
+5
+00:00:07,04 --> 00:00:08,04
+If we read about testing,
+
+6
+00:00:08,04 --> 00:00:11,07
+you notice that there are a lot of test types.
+
+7
+00:00:11,07 --> 00:00:15,03
+For example, at the site How SQLite is Tested,
+
+8
+00:00:15,03 --> 00:00:17,04
+you can see the following test types,
+
+9
+00:00:17,04 --> 00:00:21,02
+out of memory, crash, fuzz, regression,
+
+10
+00:00:21,02 --> 00:00:22,03
+and much more.
+
+11
+00:00:22,03 --> 00:00:24,08
+Since you don't have time to implement all the tests,
+
+12
+00:00:24,08 --> 00:00:26,06
+what should you focus on?
+
+13
+00:00:26,06 --> 00:00:29,07
+The answer is, of course, what brings the most value.
+
+14
+00:00:29,07 --> 00:00:31,08
+In my experience, the following test types
+
+15
+00:00:31,08 --> 00:00:33,05
+yield the best value;
+
+16
+00:00:33,05 --> 00:00:37,01
+however, it might differ for your project.
+
+17
+00:00:37,01 --> 00:00:39,05
+Deployment, check that your deployment scripts work.
+
+18
+00:00:39,05 --> 00:00:42,03
+Integration, this test check the connection
+
+19
+00:00:42,03 --> 00:00:44,06
+between sub-systems and connections
+
+20
+00:00:44,06 --> 00:00:46,03
+with external systems.
+
+21
+00:00:46,03 --> 00:00:49,07
+Regression, these tests check that running the code
+
+22
+00:00:49,07 --> 00:00:52,09
+over known data, returns a known solution.
+
+23
+00:00:52,09 --> 00:00:56,00
+Fuzzing, these tests generate random data
+
+24
+00:00:56,00 --> 00:00:57,05
+and through it at your code.
+
+25
+00:00:57,05 --> 00:01:00,02
+Linters, these are static checkers
+
+26
+00:01:00,02 --> 00:01:03,05
+that find common issues without running your tests.
+
+27
+00:01:03,05 --> 00:01:07,00
+Unit, check your code in isolation for valid outputs.
+
+28
+00:01:07,00 --> 00:01:09,04
+You should keep track of all the bugs
+
+29
+00:01:09,04 --> 00:01:11,05
+that every kind of test find,
+
+30
+00:01:11,05 --> 00:01:12,06
+and when you get a bug report,
+
+31
+00:01:12,06 --> 00:01:15,05
+think what kind of test could have caught it.
+
+32
+00:01:15,05 --> 00:01:18,03
+After a while, you'll know which type of tests
+
+33
+00:01:18,03 --> 00:01:19,06
+bring the most value,
+
+34
+00:01:19,06 --> 00:01:21,02
+and you should focus your effort
+
+35
+00:01:21,02 --> 00:01:23,00
+on these types of tests.
+

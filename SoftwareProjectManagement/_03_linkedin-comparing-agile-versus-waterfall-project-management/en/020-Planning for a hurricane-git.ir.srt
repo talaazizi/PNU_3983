@@ -1,0 +1,800 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:06.000 --> 00:00:06.090
+- [Doug] Sure!
+
+2
+00:00:06.090 --> 00:00:09.070
+which is, I was talking to someone else about Agile
+
+3
+00:00:09.070 --> 00:00:13.080
+the other day, it's all I talk about nowadays, and
+
+4
+00:00:13.080 --> 00:00:17.060
+he was saying that
+
+5
+00:00:17.060 --> 00:00:20.000
+there's a thing called the Cone of Uncertainty
+
+6
+00:00:20.000 --> 00:00:21.050
+or whatever and as time goes on,
+
+7
+00:00:21.050 --> 00:00:24.000
+you home in more and more on what you're making
+
+8
+00:00:24.000 --> 00:00:27.050
+and what you like and what you want,
+
+9
+00:00:27.050 --> 00:00:29.090
+but he said that's not true, because actually,
+
+10
+00:00:29.090 --> 00:00:31.060
+every time you make a decision,
+
+11
+00:00:31.060 --> 00:00:34.020
+you close off other options.
+
+12
+00:00:34.020 --> 00:00:35.090
+So the example he gave me was,
+
+13
+00:00:35.090 --> 00:00:39.030
+Suppose you're driving in an Agile way,
+
+14
+00:00:39.030 --> 00:00:41.020
+towards a destination.
+
+15
+00:00:41.020 --> 00:00:43.040
+And you don't have a map, because the Gantt chart
+
+16
+00:00:43.040 --> 00:00:45.080
+is like an overall map of how we're going to get there,
+
+17
+00:00:45.080 --> 00:00:48.010
+but the problem is, sometimes roads are closed and things
+
+18
+00:00:48.010 --> 00:00:49.040
+so the argument is,
+
+19
+00:00:49.040 --> 00:00:52.040
+because the map may not be 100% accurate,
+
+20
+00:00:52.040 --> 00:00:54.040
+we won't have a map at all.
+
+21
+00:00:54.040 --> 00:00:56.050
+This is kind of, this is what I think Agile people are doing
+
+22
+00:00:56.050 --> 00:00:57.070
+in a way, they're saying, well,
+
+23
+00:00:57.070 --> 00:01:00.070
+because something might change, let's just not,
+
+24
+00:01:00.070 --> 00:01:02.010
+let's make it up as we go along, almost.
+
+25
+00:01:02.010 --> 00:01:02.090
+- We'll get somewhere.
+
+26
+00:01:02.090 --> 00:01:03.080
+- And as long as we got a compass
+
+27
+00:01:03.080 --> 00:01:05.020
+and we're going roughly the right direction,
+
+28
+00:01:05.020 --> 00:01:06.010
+- Yeah.
+
+29
+00:01:06.010 --> 00:01:07.090
+- and actually, I have noticed with my SatNav,
+
+30
+00:01:07.090 --> 00:01:09.090
+that if a road is closed, it just says,
+
+31
+00:01:09.090 --> 00:01:12.020
+well, okay, take this one instead,
+
+32
+00:01:12.020 --> 00:01:14.030
+and it adds almost no time, it says,
+
+33
+00:01:14.030 --> 00:01:15.020
+because this road is closed,
+
+34
+00:01:15.020 --> 00:01:17.050
+your journey is going to be one minute longer.
+
+35
+00:01:17.050 --> 00:01:18.090
+And you think well, that's interesting,
+
+36
+00:01:18.090 --> 00:01:20.060
+because I had my optimized route,
+
+37
+00:01:20.060 --> 00:01:21.070
+but actually all the other routes,
+
+38
+00:01:21.070 --> 00:01:23.030
+they're not much different, really.
+
+39
+00:01:23.030 --> 00:01:24.070
+So I do take that point.
+
+40
+00:01:24.070 --> 00:01:27.020
+So, anyway, he said that if you're applying this to sort of
+
+41
+00:01:27.020 --> 00:01:28.090
+just head west,
+
+42
+00:01:28.090 --> 00:01:31.040
+and kind of make it up as you go along,
+
+43
+00:01:31.040 --> 00:01:33.010
+and every junction just decide,
+
+44
+00:01:33.010 --> 00:01:34.070
+which is more the Agile approach,
+
+45
+00:01:34.070 --> 00:01:36.090
+he said there's a flaw in that.
+
+46
+00:01:36.090 --> 00:01:40.000
+Because what if you're going along next to a river?
+
+47
+00:01:40.000 --> 00:01:41.090
+And it's only a small river, so it's not a problem,
+
+48
+00:01:41.090 --> 00:01:43.000
+and you go, and there's the river,
+
+49
+00:01:43.000 --> 00:01:46.070
+and then there's a bridge across the river, and you think
+
+50
+00:01:46.070 --> 00:01:48.060
+because you don't have a map, you're doing Agile,
+
+51
+00:01:48.060 --> 00:01:51.000
+you think, Shall I go across the bridge or not?
+
+52
+00:01:51.000 --> 00:01:53.030
+The bridge has a little, a small cost,
+
+53
+00:01:53.030 --> 00:01:54.090
+and you think I won't, I'll, you know,
+
+54
+00:01:54.090 --> 00:01:56.040
+I don't need to cross the river yet.
+
+55
+00:01:56.040 --> 00:01:58.050
+And you carry along, and later on you discover that
+
+56
+00:01:58.050 --> 00:02:00.040
+that was the last bridge.
+
+57
+00:02:00.040 --> 00:02:02.020
+And you're now on the wrong side of this,
+
+58
+00:02:02.020 --> 00:02:03.060
+of the Mississippi,
+
+59
+00:02:03.060 --> 00:02:05.040
+and you're thinking Oh, no!
+
+60
+00:02:05.040 --> 00:02:07.050
+New Orleans is the other side of the Mississippi,
+
+61
+00:02:07.050 --> 00:02:08.090
+I'm screwed!
+
+62
+00:02:08.090 --> 00:02:12.080
+And so is there not a risk, when you do Agile,
+
+63
+00:02:12.080 --> 00:02:17.030
+that later you're going to regret decisions you made earlier?
+
+64
+00:02:17.030 --> 00:02:19.000
+And then have to chuck it out.
+
+65
+00:02:19.000 --> 00:02:21.010
+Maybe that's just the risk you run for being more flexible.
+
+66
+00:02:21.010 --> 00:02:23.010
+But, you know, wouldn't a map have been better?
+
+67
+00:02:23.010 --> 00:02:25.060
+A map/Gantt chart have been better?
+
+68
+00:02:25.060 --> 00:02:27.000
+(laughing)
+
+69
+00:02:27.000 --> 00:02:31.090
+- I almost want to make a Gantt chart together now.
+
+70
+00:02:31.090 --> 00:02:35.060
+The issue is that, if you were going to,
+
+71
+00:02:35.060 --> 00:02:37.020
+if you were going to use a map,
+
+72
+00:02:37.020 --> 00:02:39.000
+like you said with your Google maps,
+
+73
+00:02:39.000 --> 00:02:41.000
+then you run into the challenge of, like you said,
+
+74
+00:02:41.000 --> 00:02:42.080
+a closed road.
+
+75
+00:02:42.080 --> 00:02:44.060
+So, but a lot of times you don't figure out that
+
+76
+00:02:44.060 --> 00:02:48.040
+that road is closed, until very late into the project.
+
+77
+00:02:48.040 --> 00:02:50.070
+And that's what the Cone of Uncertainty is,
+
+78
+00:02:50.070 --> 00:02:52.090
+is that if you, like,
+
+79
+00:02:52.090 --> 00:02:54.090
+I spend a lot of time in Florida, the States,
+
+80
+00:02:54.090 --> 00:02:56.000
+which is very nice.
+
+81
+00:02:56.000 --> 00:02:58.020
+And so they have, you know, hurricanes that come up,
+
+82
+00:02:58.020 --> 00:02:59.020
+every so often.
+
+83
+00:02:59.020 --> 00:03:01.040
+And so when you're sitting in Florida, and they say
+
+84
+00:03:01.040 --> 00:03:02.020
+Oh, there's a hurricane.
+
+85
+00:03:02.020 --> 00:03:03.080
+There's always beautiful weather before a hurricane.
+
+86
+00:03:03.080 --> 00:03:04.080
+And then always like, you know,
+
+87
+00:03:04.080 --> 00:03:06.040
+the hurricane's going to hit anywhere
+
+88
+00:03:06.040 --> 00:03:08.080
+from Fort Lauderdale to Miami.
+
+89
+00:03:08.080 --> 00:03:11.010
+Which if you know Florida, is like 100 miles, you know,
+
+90
+00:03:11.010 --> 00:03:11.090
+I mean.
+
+91
+00:03:11.090 --> 00:03:13.050
+- But it gets more precise as the whole thing gets closer.
+
+92
+00:03:13.050 --> 00:03:14.060
+- Exactly.
+
+93
+00:03:14.060 --> 00:03:18.050
+And so if you can't, if I decided that, you know,
+
+94
+00:03:18.050 --> 00:03:21.080
+I was going to run and start, dig a hole and, you know,
+
+95
+00:03:21.080 --> 00:03:23.060
+store up a bunch of Pop-Tarts and beer,
+
+96
+00:03:23.060 --> 00:03:28.000
+which is what Floridians buy when there's a hurricane,
+
+97
+00:03:28.000 --> 00:03:35.000
+then, you know, I may have wasted a lot of effort
+
+98
+00:03:35.000 --> 00:03:37.040
+is that, as you go further along,
+
+99
+00:03:37.040 --> 00:03:40.080
+the cost of change becomes much greater.
+
+100
+00:03:40.080 --> 00:03:44.020
+And so, it's depending on where your road is closed.
+
+101
+00:03:44.020 --> 00:03:46.070
+If your road is closed at the very end,
+
+102
+00:03:46.070 --> 00:03:49.000
+really close to where you were supposed to,
+
+103
+00:03:49.000 --> 00:03:50.050
+where you wanted to go,
+
+104
+00:03:50.050 --> 00:03:52.040
+then you could kind of end up screwed.
+
+105
+00:03:52.040 --> 00:03:54.000
+Because you just invested a lot of money
+
+106
+00:03:54.000 --> 00:03:56.070
+to get 90% of the way there.
+
+107
+00:03:56.070 --> 00:03:58.070
+But with an Agile approach,
+
+108
+00:03:58.070 --> 00:04:01.000
+what you're doing is that you're breaking things up,
+
+109
+00:04:01.000 --> 00:04:03.010
+work up, into little sprint, and so you are
+
+110
+00:04:03.010 --> 00:04:06.060
+reevaluating every stop or,
+
+111
+00:04:06.060 --> 00:04:08.050
+- But you don't look very far ahead, do you?
+
+112
+00:04:08.050 --> 00:04:09.090
+You're only looking,
+
+113
+00:04:09.090 --> 00:04:12.030
+There's the road closures, and then there's the river
+
+114
+00:04:12.030 --> 00:04:14.010
+that's there originally,
+
+115
+00:04:14.010 --> 00:04:15.080
+and I'm just thinking, with Agile,
+
+116
+00:04:15.080 --> 00:04:18.050
+you never look further ahead than that two weeks,
+
+117
+00:04:18.050 --> 00:04:20.060
+you aren't, you just constantly just,
+
+118
+00:04:20.060 --> 00:04:23.010
+you know, like, looking at a tiny bit of your map each time
+
+119
+00:04:23.010 --> 00:04:25.050
+and thinking oh, I didn't see that over there!
+
+120
+00:04:25.050 --> 00:04:27.020
+I mean, that's what worries me about it.
+
+121
+00:04:27.020 --> 00:04:30.080
+Or is there somehow a bigger visibility, as well?
+
+122
+00:04:30.080 --> 00:04:33.010
+- No, I think that whether or not you're working with
+
+123
+00:04:33.010 --> 00:04:35.010
+the deterministic approach, or Agile,
+
+124
+00:04:35.010 --> 00:04:37.060
+you're always going to be working with imperfect information.
+
+125
+00:04:37.060 --> 00:04:38.040
+- [Chris] Yeah.
+
+126
+00:04:38.040 --> 00:04:41.020
+So, if you use a deterministic approach,
+
+127
+00:04:41.020 --> 00:04:45.080
+you can have a lot of projects that are failed projects
+
+128
+00:04:45.080 --> 00:04:48.030
+when you've already invested 80% of the resources
+
+129
+00:04:48.030 --> 00:04:49.020
+that you need to get there,
+
+130
+00:04:49.020 --> 00:04:52.030
+which is like the road being closed near the end.
+
+131
+00:04:52.030 --> 00:04:55.070
+But, and I don't know that the information that you'd get
+
+132
+00:04:55.070 --> 00:04:58.060
+from a deterministic approach would let you know about
+
+133
+00:04:58.060 --> 00:05:01.050
+the bridge going across the river before,
+
+134
+00:05:01.050 --> 00:05:03.090
+you know, if you're not sort of getting that information.
+
+135
+00:05:03.090 --> 00:05:05.070
+- And my map could be wrong, it might say there's a bridge
+
+136
+00:05:05.070 --> 00:05:08.030
+and when you get there, there isn't.
+
+137
+00:05:08.030 --> 00:05:09.080
+But I still think a map, you know, a rough,
+
+138
+00:05:09.080 --> 00:05:11.000
+- You'll at least be able to drive down the countryside now.
+
+139
+00:05:11.000 --> 00:05:13.060
+- Yeah, but I sort of think a rough map
+
+140
+00:05:13.060 --> 00:05:16.000
+is always better than no map.
+
+141
+00:05:16.000 --> 00:05:19.030
+But I think maybe what it boils down to is
+
+142
+00:05:19.030 --> 00:05:21.020
+how much work is involved in the planning,
+
+143
+00:05:21.020 --> 00:05:24.010
+like if the map is really expensive, you know,
+
+144
+00:05:24.010 --> 00:05:26.000
+like takes ages to plan your Gantt chart,
+
+145
+00:05:26.000 --> 00:05:27.030
+then you might think I should just not bother with a map,
+
+146
+00:05:27.030 --> 00:05:29.060
+and let's just go Agile. - [Doug] Yeah.
+
+147
+00:05:29.060 --> 00:05:32.040
+Or, you know, if it's going to cost a lot of time and money
+
+148
+00:05:32.040 --> 00:05:35.010
+to bury your Pop-Tarts and, what was the other thing?
+
+149
+00:05:35.010 --> 00:05:36.050
+- Beer. - Beer, oh yeah,
+
+150
+00:05:36.050 --> 00:05:37.030
+forgot the beer.
+
+151
+00:05:37.030 --> 00:05:39.030
+So, if it's going to cost a lot of money to do that,
+
+152
+00:05:39.030 --> 00:05:40.090
+you might think, well, let's wait until the hurricane
+
+153
+00:05:40.090 --> 00:05:42.060
+gets really near, and then do it.
+
+154
+00:05:42.060 --> 00:05:45.060
+And I think there is an assumption amongst Agile people
+
+155
+00:05:45.060 --> 00:05:48.000
+that the Waterfall is a lot of work,
+
+156
+00:05:48.000 --> 00:05:49.080
+to do the planning up front, and therefore
+
+157
+00:05:49.080 --> 00:05:52.030
+not worth it, since things will change anyway.
+
+158
+00:05:52.030 --> 00:05:56.000
+And, actually, I think often people do spend
+
+159
+00:05:56.000 --> 00:05:57.070
+far too much time,
+
+160
+00:05:57.070 --> 00:05:59.090
+and they've got really laborious processes,
+
+161
+00:05:59.090 --> 00:06:02.080
+and lots of horrible Microsoft project Gantt chart,
+
+162
+00:06:02.080 --> 00:06:05.050
+which I hate, and all that, and I think
+
+163
+00:06:05.050 --> 00:06:07.060
+you know, personally, maybe the answer is,
+
+164
+00:06:07.060 --> 00:06:09.090
+is a really quick, easy Gantt chart.
+
+165
+00:06:09.090 --> 00:06:12.010
+Just a rough Gantt chart, I mean, why would you not have
+
+166
+00:06:12.010 --> 00:06:15.050
+just an approximate plan of what you think's going to happen,
+
+167
+00:06:15.050 --> 00:06:17.030
+and then at least you can see whether you're kind of
+
+168
+00:06:17.030 --> 00:06:20.040
+on schedule or not, and, you know, maybe that's the answer.
+
+169
+00:06:20.040 --> 00:06:23.090
+- If it feels right, but the problem is that it's,
+
+170
+00:06:23.090 --> 00:06:25.080
+with a Gantt chart, you're just,
+
+171
+00:06:25.080 --> 00:06:28.010
+there's nothing for you to record an Agile project.
+
+172
+00:06:28.010 --> 00:06:29.060
+So it'd be empty. - You literally couldn't
+
+173
+00:06:29.060 --> 00:06:30.050
+mix the two.
+
+174
+00:06:30.050 --> 00:06:31.070
+- Right, well, it's not that you couldn't mix it,
+
+175
+00:06:31.070 --> 00:06:34.010
+it's just like, it, you know, it's like,
+
+176
+00:06:34.010 --> 00:06:37.050
+having a map when you're trying to cook muffins.
+
+177
+00:06:37.050 --> 00:06:39.050
+And so, it's just a different, you know,
+
+178
+00:06:39.050 --> 00:06:42.040
+it's like a different sort of,
+
+179
+00:06:42.040 --> 00:06:46.080
+you're using kind of a different sort of report
+
+180
+00:06:46.080 --> 00:06:48.020
+for something that you need.
+
+181
+00:06:48.020 --> 00:06:49.090
+And, you know, with Agile, there's just,
+
+182
+00:06:49.090 --> 00:06:52.060
+you wouldn't be able to put anything into a Gantt chart.
+
+183
+00:06:52.060 --> 00:06:55.090
+Because, again, you could pivot and change,
+
+184
+00:06:55.090 --> 00:06:58.020
+so there's no way to measure out all the dependencies,
+
+185
+00:06:58.020 --> 00:07:01.060
+and there's no way to figure out when you're going to deliver
+
+186
+00:07:01.060 --> 00:07:02.050
+what you're going to deliver,
+
+187
+00:07:02.050 --> 00:07:03.080
+because you can't manage the dependencies,
+
+188
+00:07:03.080 --> 00:07:05.090
+because you don't know what it's going to be at the end.
+
+189
+00:07:05.090 --> 00:07:07.030
+And so, - Oh, I'm feeling anxious
+
+190
+00:07:07.030 --> 00:07:08.020
+again. - I know.
+
+191
+00:07:08.020 --> 00:07:09.070
+So you really couldn't, there's nothing,
+
+192
+00:07:09.070 --> 00:07:11.020
+so it'd just be an empty Gantt chart.
+
+193
+00:07:11.020 --> 00:07:12.050
+What I would do is just create a burndown chart
+
+194
+00:07:12.050 --> 00:07:14.040
+and just call it a Gantt chart.
+
+195
+00:07:14.040 --> 00:07:18.000
+And so, it's, there's just no, there's no,
+
+196
+00:07:18.000 --> 00:07:20.000
+wouldn't be any information to sort of,
+
+197
+00:07:20.000 --> 00:07:22.060
+to put into it, and so it would just be kind of
+
+198
+00:07:22.060 --> 00:07:24.080
+a bunch of boxes and at the end you would say,
+
+199
+00:07:24.080 --> 00:07:26.000
+Something will get delivered here.
+

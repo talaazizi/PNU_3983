@@ -1,0 +1,554 @@
+1
+00:00:00.06 --> 00:00:02.07
+- Now, you might be feeling
+a little bit confused
+
+2
+00:00:02.07 --> 00:00:05.02
+because there's a whole lot
+of different things happening
+
+3
+00:00:05.02 --> 00:00:06.08
+when you log into YouTube.
+
+4
+00:00:06.08 --> 00:00:10.01
+Multiple people controlling one page,
+
+5
+00:00:10.01 --> 00:00:11.08
+with one name on one thing,
+
+6
+00:00:11.08 --> 00:00:13.06
+and one name on another.
+
+7
+00:00:13.06 --> 00:00:15.03
+And, you're in charge.
+
+8
+00:00:15.03 --> 00:00:18.00
+Now, there are some benefits
+to setting up a channel,
+
+9
+00:00:18.00 --> 00:00:19.04
+and there are some drawbacks.
+
+10
+00:00:19.04 --> 00:00:21.00
+So, let's get these out of the way,
+
+11
+00:00:21.00 --> 00:00:22.07
+so you know why you
+might want to go through
+
+12
+00:00:22.07 --> 00:00:23.08
+all of this effort
+
+13
+00:00:23.08 --> 00:00:26.02
+and what you need to
+really keep an eye on.
+
+14
+00:00:26.02 --> 00:00:28.00
+The benefits of setting up a channel
+
+15
+00:00:28.00 --> 00:00:30.00
+include an increased presence.
+
+16
+00:00:30.00 --> 00:00:31.05
+This gives you the ability
+
+17
+00:00:31.05 --> 00:00:34.09
+of keeping all of your content
+organized in one place,
+
+18
+00:00:34.09 --> 00:00:36.02
+which makes it easier to find
+
+19
+00:00:36.02 --> 00:00:38.04
+and easier to brand.
+
+20
+00:00:38.04 --> 00:00:42.00
+This will make it a lot simpler
+for people to find content,
+
+21
+00:00:42.00 --> 00:00:44.00
+and to remember where they saw it.
+
+22
+00:00:44.00 --> 00:00:47.01
+Now, a lot of people end
+up just watching videos,
+
+23
+00:00:47.01 --> 00:00:50.01
+particularly because YouTube
+starts to auto suggest videos
+
+24
+00:00:50.01 --> 00:00:52.07
+that are similar from
+one topic to another.
+
+25
+00:00:52.07 --> 00:00:54.06
+This is a very common phenomenon,
+
+26
+00:00:54.06 --> 00:00:58.00
+and people will spend hours
+watching video after video.
+
+27
+00:00:58.00 --> 00:01:00.00
+But, maybe you break through.
+
+28
+00:01:00.00 --> 00:01:02.02
+Maybe you find something
+of interest to them
+
+29
+00:01:02.02 --> 00:01:04.01
+and you capture their attention.
+
+30
+00:01:04.01 --> 00:01:06.02
+Well, then that works out pretty well
+
+31
+00:01:06.02 --> 00:01:08.03
+because you're able to actually take that
+
+32
+00:01:08.03 --> 00:01:10.08
+and pull them back to
+a central landing page
+
+33
+00:01:10.08 --> 00:01:14.05
+where they can see more videos.
+
+34
+00:01:14.05 --> 00:01:16.08
+What's also nice is that a channel
+
+35
+00:01:16.08 --> 00:01:20.00
+can be shared with multiple
+contributors or managers.
+
+36
+00:01:20.00 --> 00:01:22.02
+I mentioned Photofocus earlier,
+
+37
+00:01:22.02 --> 00:01:23.08
+and in this case, what happens is
+
+38
+00:01:23.08 --> 00:01:27.05
+we have multiple people
+that are publishing content.
+
+39
+00:01:27.05 --> 00:01:29.02
+I've gotten authors, and editors,
+
+40
+00:01:29.02 --> 00:01:32.02
+and people who host podcasts and webinars,
+
+41
+00:01:32.02 --> 00:01:35.00
+and they all need access to the page.
+
+42
+00:01:35.00 --> 00:01:38.00
+I'm able to give them the
+ability to post content
+
+43
+00:01:38.00 --> 00:01:40.02
+or the ability to moderate comments,
+
+44
+00:01:40.02 --> 00:01:42.08
+and that makes it easier
+to manage a brand.
+
+45
+00:01:42.08 --> 00:01:46.00
+I can't keep up on every single
+thing that needs to happen,
+
+46
+00:01:46.00 --> 00:01:48.04
+nor do I want to be a bottleneck
+every time somebody needs
+
+47
+00:01:48.04 --> 00:01:51.01
+to use a video or upload something.
+
+48
+00:01:51.01 --> 00:01:52.05
+So, this makes it a lot easier
+
+49
+00:01:52.05 --> 00:01:56.08
+for multiple people to
+have access and control.
+
+50
+00:01:56.08 --> 00:01:59.05
+I also like that this gives
+you the ability to monetize,
+
+51
+00:01:59.05 --> 00:02:02.08
+and this can be done
+through the partner program.
+
+52
+00:02:02.08 --> 00:02:04.01
+Now, this monetization means
+
+53
+00:02:04.01 --> 00:02:06.00
+that YouTube is going to serve up ads
+
+54
+00:02:06.00 --> 00:02:08.00
+that it thinks are
+relevant to your content.
+
+55
+00:02:08.00 --> 00:02:10.05
+And we'll talk more
+about advertising later.
+
+56
+00:02:10.05 --> 00:02:12.07
+However, it also means that you are able
+
+57
+00:02:12.07 --> 00:02:14.08
+to link to your own website,
+
+58
+00:02:14.08 --> 00:02:17.03
+and I have found that
+this makes it possible
+
+59
+00:02:17.03 --> 00:02:19.06
+to link to products
+that you have for sale,
+
+60
+00:02:19.06 --> 00:02:22.06
+or to use this to trigger
+links for affiliate products
+
+61
+00:02:22.06 --> 00:02:24.09
+that you also promote on your website.
+
+62
+00:02:24.09 --> 00:02:27.00
+This really opens up
+a lot of great options
+
+63
+00:02:27.00 --> 00:02:31.00
+so you can monetize your
+content in more than one way.
+
+64
+00:02:31.00 --> 00:02:35.01
+And, by using playlist, content
+is a lot easier to discover.
+
+65
+00:02:35.01 --> 00:02:37.04
+Rather than YouTube just serving up
+
+66
+00:02:37.04 --> 00:02:39.01
+video after video on a topic,
+
+67
+00:02:39.01 --> 00:02:42.00
+you can actually decide
+what is shown to people,
+
+68
+00:02:42.00 --> 00:02:44.09
+and those playlists can even
+be embedded on a website,
+
+69
+00:02:44.09 --> 00:02:47.04
+making it easier for
+people to watch the content
+
+70
+00:02:47.04 --> 00:02:50.09
+on your website or in another location.
+
+71
+00:02:50.09 --> 00:02:53.07
+There are some potential
+drawbacks to having a channel,
+
+72
+00:02:53.07 --> 00:02:56.00
+and it really comes down
+to two simple problems.
+
+73
+00:02:56.00 --> 00:02:59.00
+First up, this is one more social network
+
+74
+00:02:59.00 --> 00:03:00.08
+that you're going to have to manage.
+
+75
+00:03:00.08 --> 00:03:03.08
+And, one of the things that I
+find frustrating about Google
+
+76
+00:03:03.08 --> 00:03:05.08
+is that they always change things.
+
+77
+00:03:05.08 --> 00:03:07.06
+The artwork requirements change.
+
+78
+00:03:07.06 --> 00:03:10.04
+Features that you have suddenly go away.
+
+79
+00:03:10.04 --> 00:03:12.01
+The requirements to be a member
+
+80
+00:03:12.01 --> 00:03:13.03
+of the YouTube partner program
+
+81
+00:03:13.03 --> 00:03:15.00
+dramatically changed recently,
+
+82
+00:03:15.00 --> 00:03:17.07
+pushing a lot of people
+out of the program.
+
+83
+00:03:17.07 --> 00:03:19.04
+So, you have to be careful,
+
+84
+00:03:19.04 --> 00:03:22.02
+and you can't put all of
+your eggs in one basket.
+
+85
+00:03:22.02 --> 00:03:25.07
+Additionally, YouTube has
+a lot of copyright issues
+
+86
+00:03:25.07 --> 00:03:27.00
+that you need to be aware of,
+
+87
+00:03:27.00 --> 00:03:28.05
+and we'll talk about those more later
+
+88
+00:03:28.05 --> 00:03:30.04
+when we look at Terms of Service.
+
+89
+00:03:30.04 --> 00:03:32.03
+The other problem to be mindful of
+
+90
+00:03:32.03 --> 00:03:35.03
+is that this is one more
+set of messages to track.
+
+91
+00:03:35.03 --> 00:03:38.00
+You're going to get additional
+comments from people
+
+92
+00:03:38.00 --> 00:03:40.09
+that you might need to
+moderate or reply to.
+
+93
+00:03:40.09 --> 00:03:42.09
+You're going to get people
+who use rude language
+
+94
+00:03:42.09 --> 00:03:44.06
+that might need a response.
+
+95
+00:03:44.06 --> 00:03:47.05
+And, you'll find that there
+are so many different places
+
+96
+00:03:47.05 --> 00:03:50.01
+where people can send you a
+message or leave a comment,
+
+97
+00:03:50.01 --> 00:03:52.05
+from your entire channel
+to a specific video
+
+98
+00:03:52.05 --> 00:03:55.01
+to a playlist to your Google Plus profile,
+
+99
+00:03:55.01 --> 00:03:58.02
+that all of a sudden you're
+missing opportunities here
+
+100
+00:03:58.02 --> 00:04:01.03
+for business or for
+customer service needs.
+
+101
+00:04:01.03 --> 00:04:04.06
+So it's important that you have
+somebody in charge of this,
+
+102
+00:04:04.06 --> 00:04:06.08
+and you pay attention to your channel.
+
+103
+00:04:06.08 --> 00:04:09.05
+Now, this just means that
+there's more work to do,
+
+104
+00:04:09.05 --> 00:04:11.07
+but I generally find that the risks
+
+105
+00:04:11.07 --> 00:04:14.08
+and the negative parts of having a channel
+
+106
+00:04:14.08 --> 00:04:16.09
+are outweighed by the positive aspects,
+
+107
+00:04:16.09 --> 00:04:19.03
+but do keep in mind that
+this is something else
+
+108
+00:04:19.03 --> 00:04:21.00
+that needs to be maintained and run,
+
+109
+00:04:21.00 --> 00:04:23.06
+and that somebody needs
+to be in charge of it.
+
+110
+00:04:23.06 --> 00:04:26.01
+As such, while it's relatively simple
+
+111
+00:04:26.01 --> 00:04:27.07
+to put a YouTube channel together,
+
+112
+00:04:27.07 --> 00:04:29.05
+there are many different components,
+
+113
+00:04:29.05 --> 00:04:32.07
+and lots of different
+interconnected services.
+
+114
+00:04:32.07 --> 00:04:34.06
+Wanna take advantage of advertising?
+
+115
+00:04:34.06 --> 00:04:36.01
+Well, you have to take advantage
+
+116
+00:04:36.01 --> 00:04:37.07
+of setting up Google AdWords.
+
+117
+00:04:37.07 --> 00:04:39.07
+Wanna make sure you're monetizing things?
+
+118
+00:04:39.07 --> 00:04:42.01
+Well, then you need to start
+setting up different accounts,
+
+119
+00:04:42.01 --> 00:04:45.01
+and all of a sudden,
+it becomes a whole mesh
+
+120
+00:04:45.01 --> 00:04:47.04
+of Google Analytics plus artwork
+
+121
+00:04:47.04 --> 00:04:49.03
+plus third party applications.
+
+122
+00:04:49.03 --> 00:04:52.06
+So, while just posting a video
+to YouTube is pretty easy,
+
+123
+00:04:52.06 --> 00:04:55.06
+setting up and maintaining
+a channel is not,
+
+124
+00:04:55.06 --> 00:04:59.01
+and that's why this course
+has so much detail in it.
+

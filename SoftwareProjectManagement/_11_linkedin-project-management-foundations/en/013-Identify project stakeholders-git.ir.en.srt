@@ -1,0 +1,344 @@
+1
+00:00:00,719 --> 00:00:05,040
+as project manager you need to know
+
+2
+00:00:03,120 --> 00:00:06,799
+who has a stake in the outcome of your
+
+3
+00:00:05,040 --> 00:00:10,400
+project they're called
+
+4
+00:00:06,799 --> 00:00:12,799
+stakeholders they include the customer
+
+5
+00:00:10,400 --> 00:00:13,920
+project sponsor departments involved
+
+6
+00:00:12,799 --> 00:00:17,279
+with the project
+
+7
+00:00:13,920 --> 00:00:19,119
+and people who work on project tasks
+
+8
+00:00:17,279 --> 00:00:21,520
+you need to know what they expect from
+
+9
+00:00:19,119 --> 00:00:22,880
+the project and how they contribute to
+
+10
+00:00:21,520 --> 00:00:25,119
+it
+
+11
+00:00:22,880 --> 00:00:25,920
+it's vital to understand stakeholders
+
+12
+00:00:25,119 --> 00:00:28,960
+importance
+
+13
+00:00:25,920 --> 00:00:31,119
+influence and interest in the project
+
+14
+00:00:28,960 --> 00:00:33,120
+that way you can build relationships
+
+15
+00:00:31,119 --> 00:00:35,200
+with influential stakeholders
+
+16
+00:00:33,120 --> 00:00:36,880
+and make sure they're satisfied with
+
+17
+00:00:35,200 --> 00:00:38,879
+project results
+
+18
+00:00:36,880 --> 00:00:40,800
+let's start by identifying major
+
+19
+00:00:38,879 --> 00:00:43,040
+stakeholder roles
+
+20
+00:00:40,800 --> 00:00:44,079
+the project customer is the person or
+
+21
+00:00:43,040 --> 00:00:46,399
+group with a problem
+
+22
+00:00:44,079 --> 00:00:48,399
+to solve for the hospital scheduling
+
+23
+00:00:46,399 --> 00:00:50,800
+project the coo
+
+24
+00:00:48,399 --> 00:00:52,640
+oversees scheduling so she is the
+
+25
+00:00:50,800 --> 00:00:54,879
+customer
+
+26
+00:00:52,640 --> 00:00:57,440
+the project customer brings three
+
+27
+00:00:54,879 --> 00:01:00,800
+crucial things to a project
+
+28
+00:00:57,440 --> 00:01:04,559
+first the customer funds the project
+
+29
+00:01:00,800 --> 00:01:07,119
+in the hospital the ceo oversees the
+
+30
+00:01:04,559 --> 00:01:09,520
+overall budget for the new cancer wing
+
+31
+00:01:07,119 --> 00:01:12,960
+and operational improvements
+
+32
+00:01:09,520 --> 00:01:15,520
+but the hospital coo is in charge of the
+
+33
+00:01:12,960 --> 00:01:18,159
+budget for the scheduling project
+
+34
+00:01:15,520 --> 00:01:20,560
+second the customer has a lot to say
+
+35
+00:01:18,159 --> 00:01:23,119
+about what the project will do
+
+36
+00:01:20,560 --> 00:01:25,360
+third the customer approves deliverables
+
+37
+00:01:23,119 --> 00:01:27,920
+from start to finish
+
+38
+00:01:25,360 --> 00:01:29,040
+the next stakeholder role is project
+
+39
+00:01:27,920 --> 00:01:31,360
+sponsor
+
+40
+00:01:29,040 --> 00:01:33,360
+the sponsor is someone who wants to see
+
+41
+00:01:31,360 --> 00:01:35,680
+the project succeed
+
+42
+00:01:33,360 --> 00:01:37,200
+and has enough formal authority to help
+
+43
+00:01:35,680 --> 00:01:39,200
+make that happen
+
+44
+00:01:37,200 --> 00:01:41,600
+like an executive who believes in the
+
+45
+00:01:39,200 --> 00:01:42,560
+project for the scheduling project the
+
+46
+00:01:41,600 --> 00:01:46,240
+coo
+
+47
+00:01:42,560 --> 00:01:47,360
+is also the project sponsor she wants to
+
+48
+00:01:46,240 --> 00:01:49,280
+see it succeed
+
+49
+00:01:47,360 --> 00:01:51,680
+because she believes effective
+
+50
+00:01:49,280 --> 00:01:53,520
+scheduling not only improves patient
+
+51
+00:01:51,680 --> 00:01:56,079
+care and medical results
+
+52
+00:01:53,520 --> 00:01:57,920
+but also produces better financial
+
+53
+00:01:56,079 --> 00:02:00,079
+results
+
+54
+00:01:57,920 --> 00:02:02,079
+her position gives her enough authority
+
+55
+00:02:00,079 --> 00:02:05,520
+to champion the project
+
+56
+00:02:02,079 --> 00:02:07,360
+a sponsor can help prioritize objectives
+
+57
+00:02:05,520 --> 00:02:09,360
+talk to stakeholders who aren't being
+
+58
+00:02:07,360 --> 00:02:13,200
+supportive and suggest
+
+59
+00:02:09,360 --> 00:02:15,440
+improvements to the project plan
+
+60
+00:02:13,200 --> 00:02:16,239
+the third type of stakeholder is a
+
+61
+00:02:15,440 --> 00:02:20,000
+functional
+
+62
+00:02:16,239 --> 00:02:22,000
+or line manager functional managers run
+
+63
+00:02:20,000 --> 00:02:25,120
+departments and are accountable for
+
+64
+00:02:22,000 --> 00:02:26,319
+achieving their department's goals they
+
+65
+00:02:25,120 --> 00:02:27,040
+also manage the people in their
+
+66
+00:02:26,319 --> 00:02:29,520
+departments
+
+67
+00:02:27,040 --> 00:02:31,760
+who are the ones you need to staff your
+
+68
+00:02:29,520 --> 00:02:35,280
+project
+
+69
+00:02:31,760 --> 00:02:37,599
+team members are also stakeholders
+
+70
+00:02:35,280 --> 00:02:39,920
+while they're assigned to your project
+
+71
+00:02:37,599 --> 00:02:43,040
+their jobs depend on their assignments
+
+72
+00:02:39,920 --> 00:02:46,319
+and may depend on how well they perform
+
+73
+00:02:43,040 --> 00:02:49,120
+finally there are departments or people
+
+74
+00:02:46,319 --> 00:02:51,280
+who affect the project and there are
+
+75
+00:02:49,120 --> 00:02:52,959
+departments or people who are affected
+
+76
+00:02:51,280 --> 00:02:54,800
+by it
+
+77
+00:02:52,959 --> 00:02:56,560
+both of these groups are project
+
+78
+00:02:54,800 --> 00:02:59,040
+stakeholders
+
+79
+00:02:56,560 --> 00:03:01,519
+for example the project will affect how
+
+80
+00:02:59,040 --> 00:03:03,599
+hospital facilities are scheduled
+
+81
+00:03:01,519 --> 00:03:07,280
+so the facilities department is a
+
+82
+00:03:03,599 --> 00:03:09,760
+stakeholder in the scheduling project
+
+83
+00:03:07,280 --> 00:03:12,000
+as a project manager you need to know a
+
+84
+00:03:09,760 --> 00:03:13,360
+lot about stakeholders in order to keep
+
+85
+00:03:12,000 --> 00:03:18,800
+them happy
+
+86
+00:03:13,360 --> 00:03:18,800
+the first step is knowing who they are
+

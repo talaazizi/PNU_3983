@@ -1,0 +1,331 @@
+1
+00:00:00.05 --> 00:00:03.03
+- Besides creating playlists
+to organize your content,
+
+2
+00:00:03.03 --> 00:00:05.04
+you can take advantage of sections.
+
+3
+00:00:05.04 --> 00:00:07.08
+Sections are parts of your channel
+
+4
+00:00:07.08 --> 00:00:10.01
+that are dedicated to a particular video
+
+5
+00:00:10.01 --> 00:00:11.06
+or series of videos.
+
+6
+00:00:11.06 --> 00:00:15.01
+And oftentimes, playlists
+will become a section.
+
+7
+00:00:15.01 --> 00:00:17.02
+Now using sections is an easy way
+
+8
+00:00:17.02 --> 00:00:19.06
+because you can take
+this as a simple method
+
+9
+00:00:19.06 --> 00:00:22.00
+to organize the content and promote it,
+
+10
+00:00:22.00 --> 00:00:24.06
+giving visual weight to it on the page.
+
+11
+00:00:24.06 --> 00:00:27.04
+You can create a section
+from a single playlist.
+
+12
+00:00:27.04 --> 00:00:29.09
+You can use multiple playlists
+
+13
+00:00:29.09 --> 00:00:31.08
+or even a group of other channels
+
+14
+00:00:31.08 --> 00:00:33.00
+that you'd like to recommend
+
+15
+00:00:33.00 --> 00:00:34.07
+or if you have additional brand accounts
+
+16
+00:00:34.07 --> 00:00:39.03
+that are associated with your company.
+
+17
+00:00:39.03 --> 00:00:41.02
+Some good examples of using sections
+
+18
+00:00:41.02 --> 00:00:43.03
+include grouping things by topic
+
+19
+00:00:43.03 --> 00:00:46.00
+or perhaps a family of products
+
+20
+00:00:46.00 --> 00:00:48.05
+or maybe a promotion that you're running
+
+21
+00:00:48.05 --> 00:00:51.08
+or perhaps it's videos
+that feature the same host.
+
+22
+00:00:51.08 --> 00:00:55.09
+You could have a total of
+10 sections on your channel.
+
+23
+00:00:55.09 --> 00:00:59.06
+And as you see here, this is
+an example of Adorama's channel
+
+24
+00:00:59.06 --> 00:01:01.04
+and they've organized their videos
+
+25
+00:01:01.04 --> 00:01:05.09
+based upon different types of
+items such as product reviews
+
+26
+00:01:05.09 --> 00:01:09.00
+or perhaps an individual host or author.
+
+27
+00:01:09.00 --> 00:01:12.05
+Here's another example of a
+series on the Photo Focus site
+
+28
+00:01:12.05 --> 00:01:14.02
+where we've taken particular videos
+
+29
+00:01:14.02 --> 00:01:17.00
+such as the story behind a photo.
+
+30
+00:01:17.00 --> 00:01:18.09
+All right, how does this work?
+
+31
+00:01:18.09 --> 00:01:25.01
+When you're logged in,
+simply visit My Channel
+
+32
+00:01:25.01 --> 00:01:31.08
+and you can click on Customize Channel.
+
+33
+00:01:31.08 --> 00:01:36.02
+Now you'll see different sections.
+
+34
+00:01:36.02 --> 00:01:40.07
+So for example if I want
+to prioritize something,
+
+35
+00:01:40.07 --> 00:01:43.02
+I can select it here and just click
+
+36
+00:01:43.02 --> 00:01:46.05
+to continue to move it up in the stack.
+
+37
+00:01:46.05 --> 00:01:50.00
+That's for an existing playlist.
+
+38
+00:01:50.00 --> 00:01:53.01
+If I decide to, I can also
+click the edit button here
+
+39
+00:01:53.01 --> 00:01:56.08
+and you see I can control what's
+happening in that section.
+
+40
+00:01:56.08 --> 00:02:00.07
+For example, I'm using a single playlist
+
+41
+00:02:00.07 --> 00:02:04.05
+and I can change the style
+of how that's presented.
+
+42
+00:02:04.05 --> 00:02:08.06
+There's a vertical list which
+features the descriptions more
+
+43
+00:02:08.06 --> 00:02:12.07
+or a horizontal row
+with just the thumbnails
+
+44
+00:02:12.07 --> 00:02:15.03
+and you choose if you want
+to use one of your playlists
+
+45
+00:02:15.03 --> 00:02:18.07
+or the URL of somebody
+else's shared playlist.
+
+46
+00:02:18.07 --> 00:02:21.06
+When you click done, it updates.
+
+47
+00:02:21.06 --> 00:02:23.09
+Now if you decide to add another section,
+
+48
+00:02:23.09 --> 00:02:26.07
+you'll notice that you have
+that ability at the very bottom,
+
+49
+00:02:26.07 --> 00:02:28.05
+add a section.
+
+50
+00:02:28.05 --> 00:02:29.09
+Clicking this gives you the option
+
+51
+00:02:29.09 --> 00:02:32.00
+to choose what to feature.
+
+52
+00:02:32.00 --> 00:02:33.06
+For example, I can say
+
+53
+00:02:33.06 --> 00:02:39.00
+I want to feature my most popular uploads.
+
+54
+00:02:39.00 --> 00:02:42.03
+And that's going to easily add that
+
+55
+00:02:42.03 --> 00:02:45.02
+and I'll click save or done
+
+56
+00:02:45.02 --> 00:02:47.03
+and you see that that's
+my most popular videos.
+
+57
+00:02:47.03 --> 00:02:50.05
+In fact, that's probably a
+good thing to put at the top
+
+58
+00:02:50.05 --> 00:02:58.02
+so let's move that all the
+way to the top of the stack.
+
+59
+00:02:58.02 --> 00:02:59.08
+This is a very easy way
+
+60
+00:02:59.08 --> 00:03:02.08
+to put your most popular content first.
+
+61
+00:03:02.08 --> 00:03:04.09
+Now you'll notice here that all sections
+
+62
+00:03:04.09 --> 00:03:08.02
+have the ability to
+control what's being shown.
+
+63
+00:03:08.02 --> 00:03:10.02
+For example here with the feature content,
+
+64
+00:03:10.02 --> 00:03:13.01
+I've chosen to show the latest upload
+
+65
+00:03:13.01 --> 00:03:15.01
+or I can show the latest activity,
+
+66
+00:03:15.01 --> 00:03:17.02
+videos that have comments on them.
+
+67
+00:03:17.02 --> 00:03:19.03
+For example, I recently made this playlist
+
+68
+00:03:19.03 --> 00:03:21.05
+and I'm going to call that out.
+
+69
+00:03:21.05 --> 00:03:23.01
+You'll notice that new visitors
+
+70
+00:03:23.01 --> 00:03:25.02
+are going to see a trailer by default.
+
+71
+00:03:25.02 --> 00:03:28.00
+You just need to assign it and
+we talked about that earlier
+
+72
+00:03:28.00 --> 00:03:31.04
+while returning subscribers
+will see recent content
+
+73
+00:03:31.04 --> 00:03:34.07
+or featured content towards the top.
+
+74
+00:03:34.07 --> 00:03:37.03
+All right, this works pretty
+well and as you can tell,
+
+75
+00:03:37.03 --> 00:03:39.07
+taking the time to add additional sections
+
+76
+00:03:39.07 --> 00:03:43.01
+really makes it easy to call
+out the content on your page.
+

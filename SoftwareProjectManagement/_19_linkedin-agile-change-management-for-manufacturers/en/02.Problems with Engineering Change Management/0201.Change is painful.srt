@@ -1,0 +1,376 @@
+1
+00:00:00.060 --> 00:00:03.010
+- [Instructor] So why do we talk about change at all?
+
+2
+00:00:03.010 --> 00:00:05.060
+Well, the new product development process
+
+3
+00:00:05.060 --> 00:00:09.060
+is all about solving problems, and the changes are often
+
+4
+00:00:09.060 --> 00:00:11.060
+the problem statements that the engineering
+
+5
+00:00:11.060 --> 00:00:13.090
+and design professionals use as input
+
+6
+00:00:13.090 --> 00:00:15.090
+for the design tasks.
+
+7
+00:00:15.090 --> 00:00:19.040
+A change may describe some new intellectual property
+
+8
+00:00:19.040 --> 00:00:22.040
+that has to be created, a new design that has
+
+9
+00:00:22.040 --> 00:00:26.000
+to be created based on customer requirements, and so forth.
+
+10
+00:00:26.000 --> 00:00:28.090
+Conversely, a change may arise from,
+
+11
+00:00:28.090 --> 00:00:31.050
+shall we say, opportunities of a product
+
+12
+00:00:31.050 --> 00:00:34.090
+that's not performing up to expectations in the field.
+
+13
+00:00:34.090 --> 00:00:37.030
+Despite the fact that change is at the very core
+
+14
+00:00:37.030 --> 00:00:40.070
+of engineering, it also elicits a lot of emotions
+
+15
+00:00:40.070 --> 00:00:43.080
+amongst the stakeholders involved in the change process.
+
+16
+00:00:43.080 --> 00:00:45.090
+In this course, we'll examine how change
+
+17
+00:00:45.090 --> 00:00:47.090
+can be leveraged in an Agile new product
+
+18
+00:00:47.090 --> 00:00:49.090
+development environment and how to make change
+
+19
+00:00:49.090 --> 00:00:53.010
+a bit less painful along the way.
+
+20
+00:00:53.010 --> 00:00:55.040
+If we continue exploring this concept
+
+21
+00:00:55.040 --> 00:00:58.020
+of why change is painful, we can even trace
+
+22
+00:00:58.020 --> 00:01:00.060
+some of the roots back to the education
+
+23
+00:01:00.060 --> 00:01:03.000
+that engineering professionals get.
+
+24
+00:01:03.000 --> 00:01:05.090
+For example, according to Syracuse University's
+
+25
+00:01:05.090 --> 00:01:08.070
+Department of Mechanical and Aerospace Engineering,
+
+26
+00:01:08.070 --> 00:01:12.060
+leading texts say that by controlling change,
+
+27
+00:01:12.060 --> 00:01:15.050
+you control cost, so it is a vital organ
+
+28
+00:01:15.050 --> 00:01:18.040
+of the business and should be run efficiently.
+
+29
+00:01:18.040 --> 00:01:21.020
+One can see from this quote how change
+
+30
+00:01:21.020 --> 00:01:24.060
+is being positioned and used not only
+
+31
+00:01:24.060 --> 00:01:26.060
+as a restrictive measure for engineering,
+
+32
+00:01:26.060 --> 00:01:30.000
+but as a cost control measure for the business.
+
+33
+00:01:30.000 --> 00:01:34.030
+Similarly, the Institute of Product Development
+
+34
+00:01:34.030 --> 00:01:36.080
+at the Technical University of Munich, Germany,
+
+35
+00:01:36.080 --> 00:01:38.090
+says that the leading text describes
+
+36
+00:01:38.090 --> 00:01:42.080
+the reason for change is for controlling
+
+37
+00:01:42.080 --> 00:01:45.000
+design changes is to restrict
+
+38
+00:01:45.000 --> 00:01:48.010
+the otherwise limitless creativity of designers
+
+39
+00:01:48.010 --> 00:01:49.090
+in order to keep the design
+
+40
+00:01:49.090 --> 00:01:52.060
+within the budget and time-scale.
+
+41
+00:01:52.060 --> 00:01:54.050
+Again, change is being positioned
+
+42
+00:01:54.050 --> 00:01:56.020
+as a very restrictive measure
+
+43
+00:01:56.020 --> 00:02:01.030
+as opposed to an Agile-mindset-like opportunity
+
+44
+00:02:01.030 --> 00:02:05.080
+to involve customers, to define customer requirements,
+
+45
+00:02:05.080 --> 00:02:08.080
+and to create greater customer satisfaction.
+
+46
+00:02:08.080 --> 00:02:12.070
+So we need to look at how we can reposition change
+
+47
+00:02:12.070 --> 00:02:15.060
+in the Agile mindset, but there's slightly more
+
+48
+00:02:15.060 --> 00:02:18.030
+that we need to consider first.
+
+49
+00:02:18.030 --> 00:02:21.000
+Another reason change is viewed as painful
+
+50
+00:02:21.000 --> 00:02:25.000
+is because there are many International Standards
+
+51
+00:02:25.000 --> 00:02:28.010
+that have very specific requirements around change.
+
+52
+00:02:28.010 --> 00:02:33.040
+For example, if we were to look at the ISO 13485 documents
+
+53
+00:02:33.040 --> 00:02:37.060
+which describe the new product development processes
+
+54
+00:02:37.060 --> 00:02:41.030
+and change processes in the medical device industry
+
+55
+00:02:41.030 --> 00:02:46.010
+and the ISO 16949 documentation
+
+56
+00:02:46.010 --> 00:02:47.090
+that describes similar processes
+
+57
+00:02:47.090 --> 00:02:50.010
+in the automotive supply chain industry,
+
+58
+00:02:50.010 --> 00:02:53.030
+we would find a lot of commonalities.
+
+59
+00:02:53.030 --> 00:02:56.080
+Some of the commonalities and some of the major findings
+
+60
+00:02:56.080 --> 00:02:59.080
+related to change is that the standards require
+
+61
+00:02:59.080 --> 00:03:02.000
+all design changes to be documented
+
+62
+00:03:02.000 --> 00:03:04.020
+before their implementation.
+
+63
+00:03:04.020 --> 00:03:07.070
+Now this is definitely at odds with the Agile mindset
+
+64
+00:03:07.070 --> 00:03:10.030
+that says documentation should be secondary
+
+65
+00:03:10.030 --> 00:03:14.060
+and the final product is what you're really working towards.
+
+66
+00:03:14.060 --> 00:03:18.070
+Similarly, the standards require that all design changes
+
+67
+00:03:18.070 --> 00:03:21.070
+are to be reviewed and approved by authorized personnel
+
+68
+00:03:21.070 --> 00:03:23.070
+before their implementation.
+
+69
+00:03:23.070 --> 00:03:27.030
+Again, this is out of alignment with the Agile mindset
+
+70
+00:03:27.030 --> 00:03:29.040
+of making changes and making improvements
+
+71
+00:03:29.040 --> 00:03:34.030
+as you go along so that the product evolves very rapidly.
+
+72
+00:03:34.030 --> 00:03:36.060
+And lastly about International Standards,
+
+73
+00:03:36.060 --> 00:03:40.030
+The International Standards prescribes some other
+
+74
+00:03:40.030 --> 00:03:42.070
+requirements of the change process.
+
+75
+00:03:42.070 --> 00:03:45.050
+So these standards as we've just described
+
+76
+00:03:45.050 --> 00:03:48.090
+dictate that the design needs to be documented
+
+77
+00:03:48.090 --> 00:03:51.000
+before any change is implemented
+
+78
+00:03:51.000 --> 00:03:54.060
+and that the change process needs to be reviewed
+
+79
+00:03:54.060 --> 00:04:00.010
+by a number of named personnel or named roles.
+
+80
+00:04:00.010 --> 00:04:03.010
+As such, industry has responded by creating
+
+81
+00:04:03.010 --> 00:04:04.040
+a number of artifacts.
+
+82
+00:04:04.040 --> 00:04:06.080
+We have problem reports and change requests,
+
+83
+00:04:06.080 --> 00:04:09.010
+and many of the artifacts that you're familiar with
+
+84
+00:04:09.010 --> 00:04:11.060
+from the new product development process.
+
+85
+00:04:11.060 --> 00:04:14.020
+Again, this is a lot of documentation
+
+86
+00:04:14.020 --> 00:04:15.070
+that is out of alignment with the way
+
+87
+00:04:15.070 --> 00:04:18.060
+Agile would prescribe change to be handled.
+
+88
+00:04:18.060 --> 00:04:21.010
+Similarly, the roles of the people involved
+
+89
+00:04:21.010 --> 00:04:22.070
+are very prescribed.
+
+90
+00:04:22.070 --> 00:04:25.070
+Again, this is out of alignment with Agile's idea
+
+91
+00:04:25.070 --> 00:04:28.090
+that teams should ad hoc come together,
+
+92
+00:04:28.090 --> 00:04:31.050
+work on a particular aspect of the design,
+
+93
+00:04:31.050 --> 00:04:33.010
+make decisions about the design
+
+94
+00:04:33.010 --> 00:04:36.000
+at a very granular level, and then move on.
+

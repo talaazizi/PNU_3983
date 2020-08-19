@@ -1,0 +1,264 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:02,05
+- Over the course of your project,
+
+2
+00:00:02,05 --> 00:00:04,00
+employees may have established
+
+3
+00:00:04,00 --> 00:00:07,00
+and effective methods of communicating with each other.
+
+4
+00:00:07,00 --> 00:00:11,01
+But a short-term resource may not be as fully dialed in.
+
+5
+00:00:11,01 --> 00:00:14,00
+So make sure to keep them in the loop too.
+
+6
+00:00:14,00 --> 00:00:16,03
+While you have less control over a contractor's schedule
+
+7
+00:00:16,03 --> 00:00:17,08
+and work than your employees,
+
+8
+00:00:17,08 --> 00:00:19,06
+you can partially compensate for this
+
+9
+00:00:19,06 --> 00:00:22,00
+with regular communication.
+
+10
+00:00:22,00 --> 00:00:24,06
+From the outset let your contractors know
+
+11
+00:00:24,06 --> 00:00:26,06
+that they have an open channel of communication
+
+12
+00:00:26,06 --> 00:00:30,00
+with your team and be specific about how communication
+
+13
+00:00:30,00 --> 00:00:33,06
+would be most easily facilitated from your side.
+
+14
+00:00:33,06 --> 00:00:35,09
+This is true whether they've allocated office space
+
+15
+00:00:35,09 --> 00:00:39,06
+in your work area or they're in a different time zone.
+
+16
+00:00:39,06 --> 00:00:42,00
+At a project level, as we talked about,
+
+17
+00:00:42,00 --> 00:00:44,06
+that communication starts with the contract.
+
+18
+00:00:44,06 --> 00:00:46,06
+And at a project level it extends
+
+19
+00:00:46,06 --> 00:00:48,04
+through the project life cycle,
+
+20
+00:00:48,04 --> 00:00:50,08
+both when the project starts and how the work
+
+21
+00:00:50,08 --> 00:00:53,07
+ebbs and flows over the duration.
+
+22
+00:00:53,07 --> 00:00:56,08
+This person likely also has their own preconceived ideas
+
+23
+00:00:56,08 --> 00:00:58,08
+about what deliverables will look like
+
+24
+00:00:58,08 --> 00:01:01,03
+based on prior work that they've done.
+
+25
+00:01:01,03 --> 00:01:03,05
+If you want them to produce you X deliverables
+
+26
+00:01:03,05 --> 00:01:05,04
+that match what your team has done before,
+
+27
+00:01:05,04 --> 00:01:07,04
+communicate there too.
+
+28
+00:01:07,04 --> 00:01:09,07
+Show them some examples and let them use
+
+29
+00:01:09,07 --> 00:01:13,07
+the actual documents as templates for their deliverables.
+
+30
+00:01:13,07 --> 00:01:16,01
+We'll talk shortly about UXer's being somewhere between
+
+31
+00:01:16,01 --> 00:01:18,01
+introversion and extroversion,
+
+32
+00:01:18,01 --> 00:01:20,03
+but for the moment just know that the people
+
+33
+00:01:20,03 --> 00:01:22,00
+you bring on as contractors
+
+34
+00:01:22,00 --> 00:01:24,07
+may have personality elements that combine a desire
+
+35
+00:01:24,07 --> 00:01:27,01
+to be social and have in-person interactions
+
+36
+00:01:27,01 --> 00:01:29,02
+with time alone focused on creating
+
+37
+00:01:29,02 --> 00:01:31,00
+what needs to get created.
+
+38
+00:01:31,00 --> 00:01:33,05
+So particularly if your resource is local,
+
+39
+00:01:33,05 --> 00:01:35,08
+if you can give them the option to work in person
+
+40
+00:01:35,08 --> 00:01:38,03
+with your team sometimes, do it.
+
+41
+00:01:38,03 --> 00:01:41,02
+That said, don't require them to always be on site
+
+42
+00:01:41,02 --> 00:01:42,05
+when doing the project,
+
+43
+00:01:42,05 --> 00:01:45,05
+especially when it makes sense for them work on their own.
+
+44
+00:01:45,05 --> 00:01:48,01
+Work with them to understand how they work best,
+
+45
+00:01:48,01 --> 00:01:51,02
+and understand how best they'll work with your team.
+
+46
+00:01:51,02 --> 00:01:53,05
+And finally, while you may really like
+
+47
+00:01:53,05 --> 00:01:56,03
+your contractor's work and want to work with them again,
+
+48
+00:01:56,03 --> 00:01:59,02
+the next time that you need them they may be busier
+
+49
+00:01:59,02 --> 00:02:02,06
+and not as likely to jump at what you have to offer.
+
+50
+00:02:02,06 --> 00:02:06,01
+So focus on building some loyalty as soon as you can.
+
+51
+00:02:06,01 --> 00:02:07,08
+Remember to do the simple things,
+
+52
+00:02:07,08 --> 00:02:09,05
+like telling them when you like their work,
+
+53
+00:02:09,05 --> 00:02:11,04
+not just when you want modifications.
+
+54
+00:02:11,04 --> 00:02:13,08
+And be aware that they don't necessarily
+
+55
+00:02:13,08 --> 00:02:16,02
+have colleagues to interact with regularly
+
+56
+00:02:16,02 --> 00:02:17,04
+to the extent that your employees
+
+57
+00:02:17,04 --> 00:02:19,06
+get to interact with each other.
+
+58
+00:02:19,06 --> 00:02:21,04
+So if you're all heading out
+
+59
+00:02:21,04 --> 00:02:22,04
+to a happy hour one day after work
+
+60
+00:02:22,04 --> 00:02:25,04
+and are going to treat your employees to drinks, by all means,
+
+61
+00:02:25,04 --> 00:02:28,06
+consider inviting and treating your contractors too.
+
+62
+00:02:28,06 --> 00:02:31,01
+Always remember that it's often the little things
+
+63
+00:02:31,01 --> 00:02:34,01
+in your control that can have an out-sized impact,
+
+64
+00:02:34,01 --> 00:02:37,03
+both in your relationship now and your future relationship
+
+65
+00:02:37,03 --> 00:02:40,00
+when you need that contractor again.
+

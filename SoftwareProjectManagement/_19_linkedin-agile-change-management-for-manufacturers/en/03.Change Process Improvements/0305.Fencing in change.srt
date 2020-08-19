@@ -1,0 +1,208 @@
+1
+00:00:00.060 --> 00:00:02.010
+- [Instructor] As we just discussed,
+
+2
+00:00:02.010 --> 00:00:04.090
+building in the idea if anticipating change
+
+3
+00:00:04.090 --> 00:00:07.020
+is a very solid practice.
+
+4
+00:00:07.020 --> 00:00:09.030
+To further refine this idea,
+
+5
+00:00:09.030 --> 00:00:12.060
+we need to discuss fencing in change.
+
+6
+00:00:12.060 --> 00:00:15.030
+Fencing in change is a technique
+
+7
+00:00:15.030 --> 00:00:17.080
+used in Agile New Product Development
+
+8
+00:00:17.080 --> 00:00:20.020
+to help mitigate one of the primary risks
+
+9
+00:00:20.020 --> 00:00:22.040
+of the Agile New Product Development system,
+
+10
+00:00:22.040 --> 00:00:25.070
+which is changed propagation due to coupling.
+
+11
+00:00:25.070 --> 00:00:29.050
+In simple terms, change propagation due to coupling means
+
+12
+00:00:29.050 --> 00:00:34.050
+that any particular change made may have a ripple effect
+
+13
+00:00:34.050 --> 00:00:38.070
+or may impact other components or other parts of the design
+
+14
+00:00:38.070 --> 00:00:41.090
+that caused changes to be propagated.
+
+15
+00:00:41.090 --> 00:00:43.040
+As you can probably imagine,
+
+16
+00:00:43.040 --> 00:00:45.090
+this can even cause an endless loop of changes.
+
+17
+00:00:45.090 --> 00:00:48.070
+So, it can be very difficult to maintain
+
+18
+00:00:48.070 --> 00:00:50.060
+and it can be very, very costly,
+
+19
+00:00:50.060 --> 00:00:53.080
+and in fact can go well beyond the benefits gained
+
+20
+00:00:53.080 --> 00:00:56.090
+by using the Agile New Product Development methodologies.
+
+21
+00:00:56.090 --> 00:01:00.060
+So, let's take a look at an actual example of this.
+
+22
+00:01:00.060 --> 00:01:02.010
+In this particular case,
+
+23
+00:01:02.010 --> 00:01:04.060
+we have the design of a car door
+
+24
+00:01:04.060 --> 00:01:07.060
+from a well-known automobile manufacturer.
+
+25
+00:01:07.060 --> 00:01:10.080
+In the simplest fashion to describe this design,
+
+26
+00:01:10.080 --> 00:01:12.040
+we have an inner skin
+
+27
+00:01:12.040 --> 00:01:17.020
+which is where all the interior cosmetic parts attached to.
+
+28
+00:01:17.020 --> 00:01:18.060
+We have an outer skin
+
+29
+00:01:18.060 --> 00:01:22.010
+which is what defines the outside style of the vehicle.
+
+30
+00:01:22.010 --> 00:01:24.020
+And we have a structural component,
+
+31
+00:01:24.020 --> 00:01:25.050
+shown here in red,
+
+32
+00:01:25.050 --> 00:01:28.000
+which is the component that has been validated
+
+33
+00:01:28.000 --> 00:01:31.080
+according to the automobile's safety and crash standards.
+
+34
+00:01:31.080 --> 00:01:34.070
+What we want to do is we want to ensure
+
+35
+00:01:34.070 --> 00:01:38.030
+that changes made for cosmetic reasons
+
+36
+00:01:38.030 --> 00:01:41.060
+don't accidentally impact the structural component.
+
+37
+00:01:41.060 --> 00:01:43.080
+So, what this manufacturer did
+
+38
+00:01:43.080 --> 00:01:47.030
+is they chose to focus on the structural component
+
+39
+00:01:47.030 --> 00:01:49.060
+as well as the interface components,
+
+40
+00:01:49.060 --> 00:01:51.040
+shown here in yellow.
+
+41
+00:01:51.040 --> 00:01:53.020
+In such a fashion,
+
+42
+00:01:53.020 --> 00:01:55.020
+what they have done is they have set up a rule
+
+43
+00:01:55.020 --> 00:01:58.040
+so no changes can be made to the structural component
+
+44
+00:01:58.040 --> 00:02:01.090
+since it's a validated and governed by industry regulations.
+
+45
+00:02:01.090 --> 00:02:04.090
+Conversely, they have said that changes
+
+46
+00:02:04.090 --> 00:02:08.010
+to the interface components can be freely made
+
+47
+00:02:08.010 --> 00:02:10.060
+since they act simply as attachment points
+
+48
+00:02:10.060 --> 00:02:13.070
+to the other components of the door design.
+
+49
+00:02:13.070 --> 00:02:18.040
+In such a fashion, this manufacturer was able to contain
+
+50
+00:02:18.040 --> 00:02:21.000
+where changes can happen
+
+51
+00:02:21.000 --> 00:02:24.070
+and therefore ensure that propagation of changes
+
+52
+00:02:24.070 --> 00:02:27.000
+through coupling does not happen.
+

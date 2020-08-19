@@ -1,0 +1,472 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:03.090 --> 00:00:05.050
+- Yeah, well that actually- that reminds you of something
+
+2
+00:00:05.050 --> 00:00:07.080
+that occurred to me earlier in this conversation.
+
+3
+00:00:07.080 --> 00:00:09.070
+There's so many things that I want to ask you.
+
+4
+00:00:09.070 --> 00:00:13.020
+Um, which is suppose there are ten things
+
+5
+00:00:13.020 --> 00:00:16.080
+I'm probably going to have in my finished product,
+
+6
+00:00:16.080 --> 00:00:18.080
+and there are three I've got to have,
+
+7
+00:00:18.080 --> 00:00:20.060
+and the other seven would be nice,
+
+8
+00:00:20.060 --> 00:00:22.090
+and they're in sort of descending order of niceness,
+
+9
+00:00:22.090 --> 00:00:24.060
+the last one I hardly care about at all,
+
+10
+00:00:24.060 --> 00:00:25.070
+I'll get it if I can.
+
+11
+00:00:25.070 --> 00:00:26.080
+- So you're building a product backload.
+
+12
+00:00:26.080 --> 00:00:29.070
+- Yeah, then um,
+
+13
+00:00:29.070 --> 00:00:30.070
+I'd be happy with agile,
+
+14
+00:00:30.070 --> 00:00:32.070
+because I know I'm going to get my three.
+
+15
+00:00:32.070 --> 00:00:34.030
+I'm probably going to get five or six,
+
+16
+00:00:34.030 --> 00:00:38.000
+I might even get nine or ten, and that would be fine, but--
+
+17
+00:00:38.000 --> 00:00:40.010
+and you know thinking about our motorbike example,
+
+18
+00:00:40.010 --> 00:00:43.060
+if I'm bound to get the wheels and the engine,
+
+19
+00:00:43.060 --> 00:00:46.060
+and the rest is luxury, then that's okay,
+
+20
+00:00:46.060 --> 00:00:47.080
+but I think quite often,
+
+21
+00:00:47.080 --> 00:00:50.070
+and I think in the case of the motorbike
+
+22
+00:00:50.070 --> 00:00:53.060
+I must have eight out of the ten.
+
+23
+00:00:53.060 --> 00:00:56.040
+And there's only a couple that are a bit optional.
+
+24
+00:00:56.040 --> 00:00:58.020
+You know, so I've got to have everything on a motorbike
+
+25
+00:00:58.020 --> 00:01:00.060
+except for maybe paint is optional.
+
+26
+00:01:00.060 --> 00:01:03.020
+And I think I would worry then with agile
+
+27
+00:01:03.020 --> 00:01:06.010
+because there's so much variability
+
+28
+00:01:06.010 --> 00:01:08.000
+I might not get all eight.
+
+29
+00:01:08.000 --> 00:01:11.030
+And do you think it's fair to say that if there are a few
+
+30
+00:01:11.030 --> 00:01:13.010
+things we've got to have, the rest is all optional,
+
+31
+00:01:13.010 --> 00:01:15.010
+and agile is fine but it would be-
+
+32
+00:01:15.010 --> 00:01:18.000
+you'd want to go for a bit more of a controlling process,
+
+33
+00:01:18.000 --> 00:01:20.010
+a real proper tight gant-shot,
+
+34
+00:01:20.010 --> 00:01:22.060
+if you've got to have eight out of ten.
+
+35
+00:01:22.060 --> 00:01:26.020
+- Well, it depends what the eight is.
+
+36
+00:01:26.020 --> 00:01:28.090
+And so if the eight are requirements,
+
+37
+00:01:28.090 --> 00:01:31.020
+and you know exactly what you want,
+
+38
+00:01:31.020 --> 00:01:33.060
+then yes, I would use a deterministic approach.
+
+39
+00:01:33.060 --> 00:01:38.020
+But if the eight are something that you value,
+
+40
+00:01:38.020 --> 00:01:41.020
+but you don't really know how you're going to do it,
+
+41
+00:01:41.020 --> 00:01:43.030
+then I think an agile approach would be better.
+
+42
+00:01:43.030 --> 00:01:46.000
+Because it's-- and that's how a lot of software ends up,
+
+43
+00:01:46.000 --> 00:01:48.040
+is that you sort of-- because I mean if you think about it,
+
+44
+00:01:48.040 --> 00:01:50.020
+when you start delivering a software product,
+
+45
+00:01:50.020 --> 00:01:53.080
+there's a lot of chaos, you know, some of the database
+
+46
+00:01:53.080 --> 00:01:55.060
+servers, you know some of the database servers
+
+47
+00:01:55.060 --> 00:01:58.010
+you might use might get upgraded, so they might roll in
+
+48
+00:01:58.010 --> 00:01:59.080
+a feature that you were developing,
+
+49
+00:01:59.080 --> 00:02:02.060
+and there's a lot of open source projects out there
+
+50
+00:02:02.060 --> 00:02:05.050
+so those might get better or worse change.
+
+51
+00:02:05.050 --> 00:02:07.040
+So you're dealing with a lot of chaos,
+
+52
+00:02:07.040 --> 00:02:09.020
+and so it's really difficult I think,
+
+53
+00:02:09.020 --> 00:02:11.040
+to come up with that list of seven or eight,
+
+54
+00:02:11.040 --> 00:02:14.090
+which is, we're able to say these are my requirements
+
+55
+00:02:14.090 --> 00:02:16.070
+I need them done this way. - Yes.
+
+56
+00:02:16.070 --> 00:02:18.020
+- If you can, if you go through that effort,
+
+57
+00:02:18.020 --> 00:02:21.020
+if you're lucky enough to get that in a software project,
+
+58
+00:02:21.020 --> 00:02:23.010
+then I would absolutely use
+
+59
+00:02:23.010 --> 00:02:24.050
+the deterministic waterfall approach.
+
+60
+00:02:24.050 --> 00:02:26.070
+- Because, with the motorbike example,
+
+61
+00:02:26.070 --> 00:02:28.050
+there definitely are a whole load of things
+
+62
+00:02:28.050 --> 00:02:30.080
+you've got to have, but that's an unfair example
+
+63
+00:02:30.080 --> 00:02:33.040
+to be using on agile, because it's a manufacturing
+
+64
+00:02:33.040 --> 00:02:36.050
+example and so by using those examples I'm aware its unfair
+
+65
+00:02:36.050 --> 00:02:40.020
+and I could see that for software, there might be
+
+66
+00:02:40.020 --> 00:02:43.080
+only a small number of things that you've got to have.
+
+67
+00:02:43.080 --> 00:02:46.080
+Although you do get agile in manufacturing I think,
+
+68
+00:02:46.080 --> 00:02:48.090
+as I remember years ago there were--
+
+69
+00:02:48.090 --> 00:02:50.070
+I think it was Toyota were talking about
+
+70
+00:02:50.070 --> 00:02:52.070
+parallel development and they were--
+
+71
+00:02:52.070 --> 00:02:54.080
+I've always been fascinated, because they were saying that
+
+72
+00:02:54.080 --> 00:02:58.050
+we develop-- they used to either have the shape of the car
+
+73
+00:02:58.050 --> 00:03:01.050
+first and then they would say to the engine people
+
+74
+00:03:01.050 --> 00:03:03.080
+"you've got to make an engine that fits in this shape",
+
+75
+00:03:03.080 --> 00:03:05.090
+and they'd go "ugh we'll have to make a flat one".
+
+76
+00:03:05.090 --> 00:03:09.000
+Or, they would start with the engine and then they'd
+
+77
+00:03:09.000 --> 00:03:11.040
+say to the car design body shape people,
+
+78
+00:03:11.040 --> 00:03:13.060
+"you've got to make a car that fits this",
+
+79
+00:03:13.060 --> 00:03:15.050
+and they'd go "ugh, we're going to have to make it really
+
+80
+00:03:15.050 --> 00:03:17.010
+thick there, because of the shape of the engine".
+
+81
+00:03:17.010 --> 00:03:19.080
+And that makes sense to me, you start with one or the other,
+
+82
+00:03:19.080 --> 00:03:22.010
+and there's a debate about which one you start with.
+
+83
+00:03:22.010 --> 00:03:26.020
+But Toyota I think it was were doing both at once,
+
+84
+00:03:26.020 --> 00:03:28.050
+so for the new car, they got people designing the shape,
+
+85
+00:03:28.050 --> 00:03:31.000
+and people designing the new engine,
+
+86
+00:03:31.000 --> 00:03:33.090
+and they just talked to each other a lot,
+
+87
+00:03:33.090 --> 00:03:36.020
+and they go, "we're thinking of going quite flat"
+
+88
+00:03:36.020 --> 00:03:37.070
+and they'd go "yeah well we're thinking we want
+
+89
+00:03:37.070 --> 00:03:39.030
+to be quite wide, well okay we could--"
+
+90
+00:03:39.030 --> 00:03:42.000
+and they sort of both somehow iterate together,
+
+91
+00:03:42.000 --> 00:03:44.040
+and by doing that, they can do it in half the time.
+
+92
+00:03:44.040 --> 00:03:46.010
+Because you haven't got to do one and then the other,
+
+93
+00:03:46.010 --> 00:03:48.020
+and I remember thinking "whoa that's amazing,
+
+94
+00:03:48.020 --> 00:03:49.050
+how can they do that?"
+
+95
+00:03:49.050 --> 00:03:52.030
+And that was perhaps the start to agile.
+
+96
+00:03:52.030 --> 00:03:54.000
+- It was one of the starts of agile,
+
+97
+00:03:54.000 --> 00:03:56.090
+but yes, the Toyota production system started lean
+
+98
+00:03:56.090 --> 00:03:59.050
+software development, properdin started that,
+
+99
+00:03:59.050 --> 00:04:05.060
+and a lot of the ideas about lean get rolled into agile.
+
+100
+00:04:05.060 --> 00:04:08.020
+You know, the idea of cross functional team.
+
+101
+00:04:08.020 --> 00:04:10.010
+- Kanban. - Kanban, yeah.
+
+102
+00:04:10.010 --> 00:04:11.010
+- I need to ask you about kanban.
+
+103
+00:04:11.010 --> 00:04:12.080
+- Kanban came a little later, but it was, yeah,
+
+104
+00:04:12.080 --> 00:04:15.050
+but you know, got rolled into you know, cross functional
+
+105
+00:04:15.050 --> 00:04:18.040
+teams and everybody, and actually it was an article
+
+106
+00:04:18.040 --> 00:04:21.030
+about the Toyota production system and other things
+
+107
+00:04:21.030 --> 00:04:24.020
+that started out scrum when they--
+
+108
+00:04:24.020 --> 00:04:26.000
+in this article Who Knew Product Development Came,
+
+109
+00:04:26.000 --> 00:04:29.000
+when they talked about how in these production systems,
+
+110
+00:04:29.000 --> 00:04:32.020
+they had teams working together like a scrum team
+
+111
+00:04:32.020 --> 00:04:35.090
+pushing the ball forward, like uh,
+
+112
+00:04:35.090 --> 00:04:39.000
+you know, and that's where you get the framework scrum,
+
+113
+00:04:39.000 --> 00:04:41.030
+is because you have these, these,
+
+114
+00:04:41.030 --> 00:04:43.060
+this whole team, cross functional team focus
+
+115
+00:04:43.060 --> 00:04:47.010
+completely on the ball together, and then pushing it forward
+
+116
+00:04:47.010 --> 00:04:49.040
+and so a lot of that stuff came right out of Toyota
+
+117
+00:04:49.040 --> 00:04:52.000
+production systems, that leading step.
+

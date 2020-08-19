@@ -1,0 +1,260 @@
+1
+00:00:00,640 --> 00:00:04,319
+organizations can be structured in
+
+2
+00:00:02,960 --> 00:00:06,799
+several ways
+
+3
+00:00:04,319 --> 00:00:08,880
+from the classic functional hierarchy
+
+4
+00:00:06,799 --> 00:00:10,240
+where each person reports to only one
+
+5
+00:00:08,880 --> 00:00:12,799
+supervisor
+
+6
+00:00:10,240 --> 00:00:14,080
+to a matrix where people report to both
+
+7
+00:00:12,799 --> 00:00:17,119
+functional managers
+
+8
+00:00:14,080 --> 00:00:18,000
+and project managers to a projectized
+
+9
+00:00:17,119 --> 00:00:19,840
+organization
+
+10
+00:00:18,000 --> 00:00:22,400
+where most of the people work on
+
+11
+00:00:19,840 --> 00:00:25,840
+projects each of these structures
+
+12
+00:00:22,400 --> 00:00:28,400
+affects how projects are performed
+
+13
+00:00:25,840 --> 00:00:30,240
+in a functional hierarchy projects
+
+14
+00:00:28,400 --> 00:00:32,320
+aren't the priority
+
+15
+00:00:30,240 --> 00:00:33,520
+making it difficult for projects to
+
+16
+00:00:32,320 --> 00:00:35,760
+succeed
+
+17
+00:00:33,520 --> 00:00:36,960
+project managers have almost no
+
+18
+00:00:35,760 --> 00:00:39,040
+authority
+
+19
+00:00:36,960 --> 00:00:41,360
+a functional manager is typically in
+
+20
+00:00:39,040 --> 00:00:43,680
+charge of things like the project budget
+
+21
+00:00:41,360 --> 00:00:46,000
+resources are hard to come by because
+
+22
+00:00:43,680 --> 00:00:48,640
+they report to functional managers
+
+23
+00:00:46,000 --> 00:00:50,480
+not the project manager even the project
+
+24
+00:00:48,640 --> 00:00:50,960
+manager and other project management
+
+25
+00:00:50,480 --> 00:00:52,960
+staff
+
+26
+00:00:50,960 --> 00:00:54,239
+have to split their attention between
+
+27
+00:00:52,960 --> 00:00:57,680
+the project and their
+
+28
+00:00:54,239 --> 00:01:00,000
+regular work the second type
+
+29
+00:00:57,680 --> 00:01:01,760
+matrix organizations are still
+
+30
+00:01:00,000 --> 00:01:04,239
+functional hierarchies
+
+31
+00:01:01,760 --> 00:01:06,000
+but they support projects more than pure
+
+32
+00:01:04,239 --> 00:01:09,439
+hierarchies do
+
+33
+00:01:06,000 --> 00:01:11,439
+they can be weak balanced or strong
+
+34
+00:01:09,439 --> 00:01:12,960
+depending on how much emphasis they put
+
+35
+00:01:11,439 --> 00:01:15,360
+on projects
+
+36
+00:01:12,960 --> 00:01:16,000
+in a matrix project managers have some
+
+37
+00:01:15,360 --> 00:01:18,960
+authority
+
+38
+00:01:16,000 --> 00:01:19,759
+to make decisions resources assigned to
+
+39
+00:01:18,960 --> 00:01:22,880
+projects
+
+40
+00:01:19,759 --> 00:01:23,600
+report to two managers their functional
+
+41
+00:01:22,880 --> 00:01:26,880
+manager
+
+42
+00:01:23,600 --> 00:01:28,720
+and the project manager in a strong
+
+43
+00:01:26,880 --> 00:01:31,920
+matrix the project manager
+
+44
+00:01:28,720 --> 00:01:36,320
+and project admin staff work full time
+
+45
+00:01:31,920 --> 00:01:39,680
+on projects projectized organizations
+
+46
+00:01:36,320 --> 00:01:42,399
+are all about projects
+
+47
+00:01:39,680 --> 00:01:45,600
+this third type makes it easier for
+
+48
+00:01:42,399 --> 00:01:47,759
+project managers to produce results
+
+49
+00:01:45,600 --> 00:01:49,520
+project managers have almost complete
+
+50
+00:01:47,759 --> 00:01:52,399
+authority over their projects
+
+51
+00:01:49,520 --> 00:01:54,079
+including the budget resources are
+
+52
+00:01:52,399 --> 00:01:56,880
+dedicated to project work
+
+53
+00:01:54,079 --> 00:01:57,920
+and report to the project manager
+
+54
+00:01:56,880 --> 00:02:00,640
+project managers
+
+55
+00:01:57,920 --> 00:02:02,399
+and project admin staff also work full
+
+56
+00:02:00,640 --> 00:02:04,560
+time on project work
+
+57
+00:02:02,399 --> 00:02:07,360
+organizational structure has a big
+
+58
+00:02:04,560 --> 00:02:09,759
+influence on how projects are performed
+
+59
+00:02:07,360 --> 00:02:11,520
+how much a project manager can do and
+
+60
+00:02:09,759 --> 00:02:14,080
+how easy it is to make
+
+61
+00:02:11,520 --> 00:02:15,200
+projects successful using these
+
+62
+00:02:14,080 --> 00:02:17,760
+characteristics
+
+63
+00:02:15,200 --> 00:02:19,000
+determine which structure your
+
+64
+00:02:17,760 --> 00:02:22,000
+organization
+
+65
+00:02:19,000 --> 00:02:22,000
+uses
+

@@ -1,0 +1,28 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:05,06
+(lively electronic music)
+
+2
+00:00:05,06 --> 00:00:09,01
+- [Narrator] Write a report_errors metric decorator
+
+3
+00:00:09,01 --> 00:00:10,07
+that, every time there's an exception
+
+4
+00:00:10,07 --> 00:00:13,04
+in the decorated function, will log:
+
+5
+00:00:13,04 --> 00:00:16,09
+the function name, number of errors so far,
+
+6
+00:00:16,09 --> 00:00:19,00
+and the current error message.
+

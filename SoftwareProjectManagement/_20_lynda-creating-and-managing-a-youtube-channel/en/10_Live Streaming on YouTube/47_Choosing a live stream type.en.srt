@@ -1,0 +1,575 @@
+1
+00:00:00.06 --> 00:00:02.07
+- One of the most exciting
+additions to YouTube
+
+2
+00:00:02.07 --> 00:00:04.08
+is the ability to live stream.
+
+3
+00:00:04.08 --> 00:00:07.00
+This opens up all sorts of great options
+
+4
+00:00:07.00 --> 00:00:08.08
+for engagement with an audience
+
+5
+00:00:08.08 --> 00:00:11.02
+whether you're covering a
+corporate event, a concert,
+
+6
+00:00:11.02 --> 00:00:13.08
+or just on-the-go with a mobile device.
+
+7
+00:00:13.08 --> 00:00:16.09
+Live streaming used to
+be tremendously expensive
+
+8
+00:00:16.09 --> 00:00:19.01
+and it still is with many providers,
+
+9
+00:00:19.01 --> 00:00:21.07
+but YouTube has democratized this process
+
+10
+00:00:21.07 --> 00:00:24.06
+making it easy to stream 720p video
+
+11
+00:00:24.06 --> 00:00:26.05
+or even higher quality video
+
+12
+00:00:26.05 --> 00:00:29.03
+if you take advantage of
+some dedicated hardware.
+
+13
+00:00:29.03 --> 00:00:30.07
+Now when you go to live stream,
+
+14
+00:00:30.07 --> 00:00:33.07
+YouTube gives you a few useful options.
+
+15
+00:00:33.07 --> 00:00:35.05
+You can choose stream now
+
+16
+00:00:35.05 --> 00:00:39.01
+which just means start sending
+out a stream immediately
+
+17
+00:00:39.01 --> 00:00:42.01
+and this allows you to
+send content automatically
+
+18
+00:00:42.01 --> 00:00:44.00
+and they'll start and stop your stream
+
+19
+00:00:44.00 --> 00:00:46.04
+as soon as you make the signal available.
+
+20
+00:00:46.04 --> 00:00:48.08
+Some folks will do this
+with screen sharing
+
+21
+00:00:48.08 --> 00:00:51.08
+or other software tools
+or streaming out gaming
+
+22
+00:00:51.08 --> 00:00:55.08
+or using their web camera
+to talk to the world.
+
+23
+00:00:55.08 --> 00:00:57.09
+You can also schedule events.
+
+24
+00:00:57.09 --> 00:00:59.06
+This gives you greater control
+
+25
+00:00:59.06 --> 00:01:01.04
+because you can set a start time
+
+26
+00:01:01.04 --> 00:01:04.05
+for when you want an
+event to start and end
+
+27
+00:01:04.05 --> 00:01:09.01
+and this could be great
+for meetings or webinars.
+
+28
+00:01:09.01 --> 00:01:11.05
+Additionally, you can do mobile streaming
+
+29
+00:01:11.05 --> 00:01:13.09
+from the YouTube app.
+
+30
+00:01:13.09 --> 00:01:15.06
+Once the mobile stream is over,
+
+31
+00:01:15.06 --> 00:01:19.08
+you simply end it and then
+it's archived to your channel.
+
+32
+00:01:19.08 --> 00:01:22.08
+You also have the ability
+after the archive is done
+
+33
+00:01:22.08 --> 00:01:26.05
+to make this something
+that is a private video.
+
+34
+00:01:26.05 --> 00:01:28.06
+Or you can use a web cam to go live
+
+35
+00:01:28.06 --> 00:01:32.00
+without even needing an encoder.
+
+36
+00:01:32.00 --> 00:01:34.08
+Now let's show you these
+things really quick.
+
+37
+00:01:34.08 --> 00:01:38.04
+I'm logged in to the mobile app here
+
+38
+00:01:38.04 --> 00:01:40.04
+and if I tap the camera icon,
+
+39
+00:01:40.04 --> 00:01:44.00
+you see I get an ability
+here to do one of two things.
+
+40
+00:01:44.00 --> 00:01:47.08
+I can record the video
+and then post it later
+
+41
+00:01:47.08 --> 00:01:51.05
+or I can tap and go live.
+
+42
+00:01:51.05 --> 00:01:52.09
+With a simple click here,
+
+43
+00:01:52.09 --> 00:01:55.08
+I just need to allow access
+to some of the controls
+
+44
+00:01:55.08 --> 00:01:57.08
+on my mobile device
+
+45
+00:01:57.08 --> 00:02:05.01
+such as giving it access
+to the location services.
+
+46
+00:02:05.01 --> 00:02:10.04
+And you can decide to allow for live chat.
+
+47
+00:02:10.04 --> 00:02:13.02
+Now it's going to prompt me
+to put in some information.
+
+48
+00:02:13.02 --> 00:02:17.07
+I can also switch from the
+forward to the backwards camera.
+
+49
+00:02:17.07 --> 00:02:20.06
+In this case, I'll just show
+you forward for a moment
+
+50
+00:02:20.06 --> 00:02:25.09
+and I could put in some information.
+
+51
+00:02:25.09 --> 00:02:30.07
+I'm going to set this to not
+be public as an unlisted video
+
+52
+00:02:30.07 --> 00:02:37.01
+and I can choose a location here.
+
+53
+00:02:37.01 --> 00:02:40.04
+If I tap more options, you'll
+see some other choices here
+
+54
+00:02:40.04 --> 00:02:43.09
+including the ability to
+schedule this for later
+
+55
+00:02:43.09 --> 00:02:47.04
+where I can type in a specific start time.
+
+56
+00:02:47.04 --> 00:02:49.07
+Or under advanced settings here,
+
+57
+00:02:49.07 --> 00:02:51.03
+I've got the ability to decide
+
+58
+00:02:51.03 --> 00:02:53.09
+if I want to allow people to chat,
+
+59
+00:02:53.09 --> 00:02:56.02
+if this video should be age restricted,
+
+60
+00:02:56.02 --> 00:02:57.07
+whether or not it's promotion,
+
+61
+00:02:57.07 --> 00:03:01.04
+and if we want monetization on the video.
+
+62
+00:03:01.04 --> 00:03:08.05
+I'll go back from the advanced
+settings here and tap next.
+
+63
+00:03:08.05 --> 00:03:11.00
+It counts me down,
+
+64
+00:03:11.00 --> 00:03:13.02
+takes the thumbnail for the video.
+
+65
+00:03:13.02 --> 00:03:15.06
+I know the shot of the desk
+is not very interesting,
+
+66
+00:03:15.06 --> 00:03:17.06
+but you get the idea
+
+67
+00:03:17.06 --> 00:03:21.04
+and we tap go live.
+
+68
+00:03:21.04 --> 00:03:24.03
+Now I'm sending out a live stream.
+
+69
+00:03:24.03 --> 00:03:25.07
+We did not make this public
+
+70
+00:03:25.07 --> 00:03:28.03
+so I don't expect anybody to join,
+
+71
+00:03:28.03 --> 00:03:29.04
+but you'll notice here
+
+72
+00:03:29.04 --> 00:03:32.08
+that I can flip around to the front camera
+
+73
+00:03:32.08 --> 00:03:35.04
+and we're sending out a live stream.
+
+74
+00:03:35.04 --> 00:03:39.03
+We can start to enhance the video.
+
+75
+00:03:39.03 --> 00:03:41.06
+Or if I tap the more icon here,
+
+76
+00:03:41.06 --> 00:03:45.01
+you see that we can actually
+share this out socially
+
+77
+00:03:45.01 --> 00:03:49.01
+so I can tell people,
+"Hey, join me on Twitter,"
+
+78
+00:03:49.01 --> 00:03:51.06
+or maybe I copy the link
+and put it out there.
+
+79
+00:03:51.06 --> 00:03:54.00
+So even though it's an unlisted video,
+
+80
+00:03:54.00 --> 00:03:55.04
+you can actually take advantage
+
+81
+00:03:55.04 --> 00:04:00.03
+of different sharing services
+to put this in more places.
+
+82
+00:04:00.03 --> 00:04:09.04
+I'll go ahead and share
+this to Twitter for a moment
+
+83
+00:04:09.04 --> 00:04:12.09
+and you see inside of our studio
+as we're making the video.
+
+84
+00:04:12.09 --> 00:04:14.04
+Now we have two viewers.
+
+85
+00:04:14.04 --> 00:04:16.07
+So you see this does actually work.
+
+86
+00:04:16.07 --> 00:04:18.01
+Three viewers, hello three viewers.
+
+87
+00:04:18.01 --> 00:04:19.03
+We're doing a test stream here,
+
+88
+00:04:19.03 --> 00:04:22.06
+walking people through how
+YouTube live streaming works
+
+89
+00:04:22.06 --> 00:04:24.08
+so we're able to actually send this out
+
+90
+00:04:24.08 --> 00:04:26.04
+and you should be hearing me.
+
+91
+00:04:26.04 --> 00:04:27.07
+Now viewers have the ability
+
+92
+00:04:27.07 --> 00:04:29.05
+to click a thumbs up if they want
+
+93
+00:04:29.05 --> 00:04:31.04
+to indicate that they agree
+
+94
+00:04:31.04 --> 00:04:32.06
+or that they're hearing the video.
+
+95
+00:04:32.06 --> 00:04:34.00
+They can like the video.
+
+96
+00:04:34.00 --> 00:04:36.09
+And we actually have the
+ability here if we want
+
+97
+00:04:36.09 --> 00:04:41.01
+to see other options so I
+can turn on chat right now.
+
+98
+00:04:41.01 --> 00:04:44.00
+If people were to send any
+messages, they would appear.
+
+99
+00:04:44.00 --> 00:04:45.09
+So there's a hi, thank you.
+
+100
+00:04:45.09 --> 00:04:46.09
+So we've got an overlay.
+
+101
+00:04:46.09 --> 00:04:49.03
+So I can actually see
+things from the audience.
+
+102
+00:04:49.03 --> 00:04:52.04
+They can ask questions and
+engage in the middle here.
+
+103
+00:04:52.04 --> 00:04:54.05
+Now the live streaming is just one option.
+
+104
+00:04:54.05 --> 00:04:55.08
+Thank you guys for tuning into that.
+
+105
+00:04:55.08 --> 00:04:59.03
+I'm going to go ahead and close that
+
+106
+00:04:59.03 --> 00:05:01.08
+and I'll click end.
+
+107
+00:05:01.08 --> 00:05:03.09
+Now the video is uploaded
+
+108
+00:05:03.09 --> 00:05:05.06
+and you can see a little bit of statistics
+
+109
+00:05:05.06 --> 00:05:07.01
+about what happened.
+
+110
+00:05:07.01 --> 00:05:10.02
+When I click done, it's all there
+
+111
+00:05:10.02 --> 00:05:13.08
+and you'll see that it
+becomes a draft post loaded
+
+112
+00:05:13.08 --> 00:05:15.02
+waiting to be used.
+
+113
+00:05:15.02 --> 00:05:18.00
+So the stream is there
+and it proceeds to upload
+
+114
+00:05:18.00 --> 00:05:20.02
+and becomes available.
+
+115
+00:05:20.02 --> 00:05:24.05
+This is an easy way to live
+stream from your mobile device.
+
+116
+00:05:24.05 --> 00:05:26.08
+Additionally, besides
+using the live stream,
+
+117
+00:05:26.08 --> 00:05:28.09
+you have the ability to use a webcam.
+
+118
+00:05:28.09 --> 00:05:30.08
+Many laptops have it built in
+
+119
+00:05:30.08 --> 00:05:33.02
+or something as simple as a webcam
+
+120
+00:05:33.02 --> 00:05:36.00
+plugged in to your USB
+port is going to work.
+
+121
+00:05:36.00 --> 00:05:40.04
+This is a great way to webcast
+from just about any computer.
+
+122
+00:05:40.04 --> 00:05:43.02
+Now this is going to give you
+the ability to send out signals
+
+123
+00:05:43.02 --> 00:05:45.00
+and if you need higher quality cameras,
+
+124
+00:05:45.00 --> 00:05:48.05
+one of the devices that I use
+is this device from Blackmagic
+
+125
+00:05:48.05 --> 00:05:51.04
+called the Blackmagic
+Design Web Presenter.
+
+126
+00:05:51.04 --> 00:05:53.07
+This lets you plug in two sources,
+
+127
+00:05:53.07 --> 00:05:55.04
+one via HDMI,
+
+128
+00:05:55.04 --> 00:05:59.05
+one via HD STI, a
+professional video connection.
+
+129
+00:05:59.05 --> 00:06:03.05
+This will make it quite easy
+for you to send out a signal
+
+130
+00:06:03.05 --> 00:06:06.03
+and it turns any professional
+camera and microphone
+
+131
+00:06:06.03 --> 00:06:08.07
+into a web camera that works with YouTube.
+

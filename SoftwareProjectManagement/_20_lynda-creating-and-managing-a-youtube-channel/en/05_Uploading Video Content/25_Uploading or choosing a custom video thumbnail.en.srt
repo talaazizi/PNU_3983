@@ -1,0 +1,518 @@
+1
+00:00:00.00 --> 00:00:01.09
+- To add or change a thumbnail,
+
+2
+00:00:01.09 --> 00:00:05.08
+simply login to YouTube and
+then, under your Video Manager,
+
+3
+00:00:05.08 --> 00:00:08.06
+you can easily access all your videos.
+
+4
+00:00:08.06 --> 00:00:11.09
+Just click the Edit button
+for an individual video.
+
+5
+00:00:11.09 --> 00:00:13.06
+If you're also uploading a video,
+
+6
+00:00:13.06 --> 00:00:17.00
+you can change the
+thumbnail at time of upload.
+
+7
+00:00:17.00 --> 00:00:19.06
+Now, on the screen itself,
+you'll have the ability
+
+8
+00:00:19.06 --> 00:00:21.08
+to choose a thumbnail or click
+
+9
+00:00:21.08 --> 00:00:23.08
+to load up a custom thumbnail.
+
+10
+00:00:23.08 --> 00:00:27.03
+And then, once you've
+done so, you can hit Save.
+
+11
+00:00:27.03 --> 00:00:29.04
+Now, you'll notice that, by default,
+
+12
+00:00:29.04 --> 00:00:33.03
+sometimes just single shots
+of people or software screens
+
+13
+00:00:33.03 --> 00:00:36.04
+may not be as compelling
+as a graphic identity
+
+14
+00:00:36.04 --> 00:00:40.02
+that helps you better understand
+what you're looking at.
+
+15
+00:00:40.02 --> 00:00:43.01
+Here, for example, I
+relied upon stock imagery.
+
+16
+00:00:43.01 --> 00:00:45.00
+Since this was a bootcamp to teach you
+
+17
+00:00:45.00 --> 00:00:48.06
+about new software, I
+found a shot of a person
+
+18
+00:00:48.06 --> 00:00:51.08
+exercising with a bit of
+military type clothing.
+
+19
+00:00:51.08 --> 00:00:55.06
+And it seemed to convey
+the appropriate style.
+
+20
+00:00:55.06 --> 00:00:57.05
+With those custom thumbnails, remember,
+
+21
+00:00:57.05 --> 00:01:00.08
+the images need to be
+16:9 and you really have
+
+22
+00:01:00.08 --> 00:01:04.03
+a minimum resolution of about 1280x720.
+
+23
+00:01:04.03 --> 00:01:06.07
+It will accept 640 thumbnails,
+
+24
+00:01:06.07 --> 00:01:09.01
+but the larger thumbnails are
+going to look a lot better
+
+25
+00:01:09.01 --> 00:01:12.02
+on high resolution screens or televisions.
+
+26
+00:01:12.02 --> 00:01:15.09
+It should be a JPEG, a GIF,
+a bitmap, or a PNG file,
+
+27
+00:01:15.09 --> 00:01:18.01
+but JPEG being the most common.
+
+28
+00:01:18.01 --> 00:01:22.03
+And you need to keep the file
+size below two megabytes.
+
+29
+00:01:22.03 --> 00:01:23.08
+Now, here's another example,
+
+30
+00:01:23.08 --> 00:01:26.02
+working in the logo of a product,
+
+31
+00:01:26.02 --> 00:01:29.03
+a photo that's colored and tinted to match
+
+32
+00:01:29.03 --> 00:01:32.09
+and nice big text, making
+it easy for people to know
+
+33
+00:01:32.09 --> 00:01:35.08
+what the video is about
+as they're browsing.
+
+34
+00:01:35.08 --> 00:01:38.01
+If you take the time to put
+those custom thumbnails in,
+
+35
+00:01:38.01 --> 00:01:41.05
+you'll see that they have
+a nice impact on views,
+
+36
+00:01:41.05 --> 00:01:43.05
+and generally speaking, custom thumbnails
+
+37
+00:01:43.05 --> 00:01:45.05
+will help drive traffic.
+
+38
+00:01:45.05 --> 00:01:48.06
+The thumbnails do need to
+follow the community guidelines
+
+39
+00:01:48.06 --> 00:01:49.08
+that YouTube sets up.
+
+40
+00:01:49.08 --> 00:01:52.07
+What this means is that they
+can't be sexually suggestive.
+
+41
+00:01:52.07 --> 00:01:56.07
+They need to be PG rated and,
+really, not offend folks.
+
+42
+00:01:56.07 --> 00:01:59.03
+So the thumbnails need to be really rated
+
+43
+00:01:59.03 --> 00:02:00.07
+for anybody to see it.
+
+44
+00:02:00.07 --> 00:02:03.08
+If you do put something
+too racy into a thumbnail,
+
+45
+00:02:03.08 --> 00:02:05.00
+it's going to cause problems.
+
+46
+00:02:05.00 --> 00:02:07.00
+They might flag it and take it down.
+
+47
+00:02:07.00 --> 00:02:09.03
+Or if you get too many of
+these hits against you,
+
+48
+00:02:09.03 --> 00:02:12.03
+they'll actually block you
+from having this ability.
+
+49
+00:02:12.03 --> 00:02:15.06
+So, what it comes down to, is
+make sure that the thumbnail
+
+50
+00:02:15.06 --> 00:02:18.07
+doesn't cause your video
+to be age restricted.
+
+51
+00:02:18.07 --> 00:02:21.02
+If you do have an age restricted video,
+
+52
+00:02:21.02 --> 00:02:24.05
+then ads are not allowed
+to appear on your video
+
+53
+00:02:24.05 --> 00:02:27.04
+if you're hoping to monetize it.
+
+54
+00:02:27.04 --> 00:02:31.03
+Additionally, if you upload
+thumbnails that are too racy
+
+55
+00:02:31.03 --> 00:02:33.09
+and you are consistently
+abusing the privilege here,
+
+56
+00:02:33.09 --> 00:02:36.04
+putting up things that
+are sexually suggestive
+
+57
+00:02:36.04 --> 00:02:39.04
+or copyrighted images that
+you don't have rights to,
+
+58
+00:02:39.04 --> 00:02:41.07
+then what's going to happen is
+that your thumbnail privileges
+
+59
+00:02:41.07 --> 00:02:43.00
+can be revoked.
+
+60
+00:02:43.00 --> 00:02:44.06
+And if YouTube revokes them,
+
+61
+00:02:44.06 --> 00:02:47.01
+they will not give them
+back to your account.
+
+62
+00:02:47.01 --> 00:02:48.04
+There is no appeal.
+
+63
+00:02:48.04 --> 00:02:49.09
+There is no asking nicely.
+
+64
+00:02:49.09 --> 00:02:51.07
+There is no promising to be good.
+
+65
+00:02:51.07 --> 00:02:53.07
+You have lost that privilege.
+
+66
+00:02:53.07 --> 00:02:56.04
+So, how do custom thumbnails work?
+
+67
+00:02:56.04 --> 00:02:57.05
+Well, it's pretty simple.
+
+68
+00:02:57.05 --> 00:03:00.06
+I'm going to show you inside
+of the editing dialog box
+
+69
+00:03:00.06 --> 00:03:01.09
+and then we'll take advantage
+
+70
+00:03:01.09 --> 00:03:04.05
+from the Video Manager as well.
+
+71
+00:03:04.05 --> 00:03:06.01
+So here, we've got the ability
+
+72
+00:03:06.01 --> 00:03:09.01
+to modify the description of the video.
+
+73
+00:03:09.01 --> 00:03:11.05
+You'll see that, what
+it's done, is it's pulled
+
+74
+00:03:11.05 --> 00:03:15.01
+three suggested thumbnails
+from the video itself.
+
+75
+00:03:15.01 --> 00:03:16.06
+And if I click on one of these,
+
+76
+00:03:16.06 --> 00:03:19.03
+it's going to change
+that to be the thumbnail.
+
+77
+00:03:19.03 --> 00:03:22.01
+So let's go ahead and set
+it to this for a moment
+
+78
+00:03:22.01 --> 00:03:24.07
+and I'll click Publish.
+
+79
+00:03:24.07 --> 00:03:27.05
+Well, what happens is
+that video goes live.
+
+80
+00:03:27.05 --> 00:03:29.08
+So if we go to the product
+page for that video
+
+81
+00:03:29.08 --> 00:03:32.07
+and hit refresh, you'll
+see that, in a moment,
+
+82
+00:03:32.07 --> 00:03:36.05
+the video comes up and it starts to play.
+
+83
+00:03:36.05 --> 00:03:38.05
+And that's easy enough,
+but you might be wondering,
+
+84
+00:03:38.05 --> 00:03:40.04
+well, where is that thumbnail?
+
+85
+00:03:40.04 --> 00:03:42.03
+Well, the thumbnail is what shows up
+
+86
+00:03:42.03 --> 00:03:45.03
+on the page itself or in search.
+
+87
+00:03:45.03 --> 00:03:48.02
+Now, if you decide to,
+under your Video Manager,
+
+88
+00:03:48.02 --> 00:03:50.07
+you can also edit it there.
+
+89
+00:03:50.07 --> 00:03:53.00
+So this video is currently set to public.
+
+90
+00:03:53.00 --> 00:03:55.03
+It may take a moment to hit my page.
+
+91
+00:03:55.03 --> 00:03:57.01
+But if I want to change the thumbnail,
+
+92
+00:03:57.01 --> 00:03:59.05
+I can click on the Edit button.
+
+93
+00:03:59.05 --> 00:04:02.01
+And this will take me
+back to the same dialog,
+
+94
+00:04:02.01 --> 00:04:04.04
+or at least one that's very similar.
+
+95
+00:04:04.04 --> 00:04:06.09
+You can now do additional
+editing to the content
+
+96
+00:04:06.09 --> 00:04:12.00
+if you'd like, or change the
+thumbnails here as you see fit.
+
+97
+00:04:12.00 --> 00:04:14.04
+If you want to upload a custom thumbnail,
+
+98
+00:04:14.04 --> 00:04:18.00
+simply click the Custom thumbnail button.
+
+99
+00:04:18.00 --> 00:04:22.00
+And now, you can navigate to a JPEG file.
+
+100
+00:04:22.00 --> 00:04:24.03
+Select it and click Choose,
+
+101
+00:04:24.03 --> 00:04:27.00
+and the custom thumbnail will upload.
+
+102
+00:04:27.00 --> 00:04:29.06
+Once that's done, you'll see
+that it's added to the list
+
+103
+00:04:29.06 --> 00:04:33.07
+and you can click to set
+that as a custom thumbnail.
+
+104
+00:04:33.07 --> 00:04:36.03
+Now, by default, when you
+upload the custom one,
+
+105
+00:04:36.03 --> 00:04:38.08
+it's going to be selected with a border
+
+106
+00:04:38.08 --> 00:04:41.00
+and it will say available.
+
+107
+00:04:41.00 --> 00:04:44.02
+You can click on other
+images here to change them,
+
+108
+00:04:44.02 --> 00:04:47.02
+but clicking back here
+will set that image.
+
+109
+00:04:47.02 --> 00:04:48.04
+If you want to change it,
+
+110
+00:04:48.04 --> 00:04:51.05
+just click again on Change image.
+
+111
+00:04:51.05 --> 00:04:54.06
+Now, when I click Save
+changes, it will update
+
+112
+00:04:54.06 --> 00:04:58.00
+and that becomes the custom thumbnail.
+
+113
+00:04:58.00 --> 00:04:59.02
+Now it may take a moment,
+
+114
+00:04:59.02 --> 00:05:01.08
+but once it hits your channel or page,
+
+115
+00:05:01.08 --> 00:05:03.01
+that should be available
+
+116
+00:05:03.01 --> 00:05:05.04
+and you'll be able to see your video.
+

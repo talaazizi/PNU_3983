@@ -1,0 +1,116 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:03,05
+- [Instructor] Python comes with a standard logging package.
+
+2
+00:00:03,05 --> 00:00:05,08
+This package is old and stable,
+
+3
+00:00:05,08 --> 00:00:07,05
+and most developers use it.
+
+4
+00:00:07,05 --> 00:00:08,08
+So should you.
+
+5
+00:00:08,08 --> 00:00:10,04
+The logging system is composed
+
+6
+00:00:10,04 --> 00:00:12,01
+of four main components.
+
+7
+00:00:12,01 --> 00:00:14,09
+Log records represent a piece of information.
+
+8
+00:00:14,09 --> 00:00:18,00
+They hold information such as time, level,
+
+9
+00:00:18,00 --> 00:00:19,08
+message, and more.
+
+10
+00:00:19,08 --> 00:00:22,07
+Loggers are what your applications interact with.
+
+11
+00:00:22,07 --> 00:00:26,02
+They provide the method to log a piece of information.
+
+12
+00:00:26,02 --> 00:00:29,03
+Each logger has one or more handlers attached to it.
+
+13
+00:00:29,03 --> 00:00:32,08
+A handler is responsible for sending your log message
+
+14
+00:00:32,08 --> 00:00:34,03
+to a destination.
+
+15
+00:00:34,03 --> 00:00:38,07
+It can be a file, a socket, HTP API, etc.
+
+16
+00:00:38,07 --> 00:00:42,00
+Each handler has a formatter that gets a log record
+
+17
+00:00:42,00 --> 00:00:45,06
+and return a chunk of bytes that represent that log.
+
+18
+00:00:45,06 --> 00:00:47,06
+So a logger gets a log message,
+
+19
+00:00:47,06 --> 00:00:50,04
+passes it to the handler, the handler passes the message
+
+20
+00:00:50,04 --> 00:00:54,09
+to the formatter, gets bytes, and sends these bytes
+
+21
+00:00:54,09 --> 00:00:56,07
+to the log destination.
+
+22
+00:00:56,07 --> 00:00:59,00
+Python logging system uses levels.
+
+23
+00:00:59,00 --> 00:01:01,04
+You set a log level, say warning,
+
+24
+00:01:01,04 --> 00:01:05,00
+and then every log call with level less than warning,
+
+25
+00:01:05,00 --> 00:01:08,00
+say info, would not be logged.
+
+26
+00:01:08,00 --> 00:01:10,00
+The documentation is excellent,
+
+27
+00:01:10,00 --> 00:01:13,02
+with a lot of examples in how to document.
+
+28
+00:01:13,02 --> 00:01:16,00
+Spend some time and read it.
+

@@ -1,0 +1,64 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:02,01
+- [Miki] In this course, I tried to show you
+
+2
+00:00:02,01 --> 00:00:04,09
+how I work in Python Projects.
+
+3
+00:00:04,09 --> 00:00:08,04
+These are lessons from more than 20 years of doing so.
+
+4
+00:00:08,04 --> 00:00:12,01
+I hope it will save you time and make you more efficient.
+
+5
+00:00:12,01 --> 00:00:13,06
+As you go back to work,
+
+6
+00:00:13,06 --> 00:00:15,07
+try to think of what you've learned here,
+
+7
+00:00:15,07 --> 00:00:18,04
+and, little by little, implement it.
+
+8
+00:00:18,04 --> 00:00:21,09
+Structure your code better, write down your dependencies,
+
+9
+00:00:21,09 --> 00:00:23,08
+write better tests.
+
+10
+00:00:23,08 --> 00:00:27,09
+In time, you'll find out that your code is in better quality
+
+11
+00:00:27,09 --> 00:00:31,06
+and the overall productivity of your team has improved.
+
+12
+00:00:31,06 --> 00:00:33,05
+If you'd like to learn more about Python,
+
+13
+00:00:33,05 --> 00:00:37,00
+we have many courses at all level.
+
+14
+00:00:37,00 --> 00:00:41,00
+And also feel free to reach us out at 353solutions.
+
+15
+00:00:41,00 --> 00:00:44,00
+We'd love to hear from you and help you get better.
+

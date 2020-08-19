@@ -1,0 +1,120 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:03,04
+- [Instructor] Metics should be designed and reviewed.
+
+2
+00:00:03,04 --> 00:00:06,01
+You shouldn't just slap metrics here and there,
+
+3
+00:00:06,01 --> 00:00:07,05
+when you feel like it.
+
+4
+00:00:07,05 --> 00:00:10,08
+The guiding principle should be the business impact.
+
+5
+00:00:10,08 --> 00:00:13,07
+It's very hard to know what an 80% full hard drive
+
+6
+00:00:13,07 --> 00:00:15,06
+would have on the bottom line,
+
+7
+00:00:15,06 --> 00:00:19,05
+but it's very easy to know what a drop of 10% in visitors
+
+8
+00:00:19,05 --> 00:00:21,07
+would do to your bottom line.
+
+9
+00:00:21,07 --> 00:00:23,07
+You should start from KPIs,
+
+10
+00:00:23,07 --> 00:00:26,01
+key performance indicators.
+
+11
+00:00:26,01 --> 00:00:28,07
+They are usually defined by the business people
+
+12
+00:00:28,07 --> 00:00:31,00
+and are not very technical.
+
+13
+00:00:31,00 --> 00:00:33,00
+You should strive to get actual numbers
+
+14
+00:00:33,00 --> 00:00:34,08
+and not vague statements, like,
+
+15
+00:00:34,08 --> 00:00:36,09
+query's should be fast.
+
+16
+00:00:36,09 --> 00:00:38,07
+Apart from hard numbers,
+
+17
+00:00:38,07 --> 00:00:43,01
+realize that you won't hit your KPIs 100% of the time.
+
+18
+00:00:43,01 --> 00:00:45,01
+You should also have an SLA,
+
+19
+00:00:45,01 --> 00:00:48,09
+service level agreement, in numbers.
+
+20
+00:00:48,09 --> 00:00:51,05
+A good example is, query's should return
+
+21
+00:00:51,05 --> 00:00:56,09
+in less than 200 milliseconds, 99.99% of the time.
+
+22
+00:00:56,09 --> 00:00:58,04
+Once you have your KPIs,
+
+23
+00:00:58,04 --> 00:01:00,00
+you can start designing the data
+
+24
+00:01:00,00 --> 00:01:02,03
+and collection points in your application.
+
+25
+00:01:02,03 --> 00:01:04,09
+Make metrics part of your review process.
+
+26
+00:01:04,09 --> 00:01:08,08
+Every time there's a code change or a new feature, ask,
+
+27
+00:01:08,08 --> 00:01:10,00
+do we need a metric here?
+
+28
+00:01:10,00 --> 00:01:11,00
+Which one?
+
+29
+00:01:11,00 --> 00:01:12,00
+How can we edit?
+

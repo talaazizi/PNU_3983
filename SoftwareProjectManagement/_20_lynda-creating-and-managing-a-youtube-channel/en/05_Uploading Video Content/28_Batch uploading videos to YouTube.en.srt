@@ -1,0 +1,425 @@
+1
+00:00:00.04 --> 00:00:02.09
+- If you have a lot of
+videos to upload to YouTube,
+
+2
+00:00:02.09 --> 00:00:06.00
+you can load multiple videos at one time.
+
+3
+00:00:06.00 --> 00:00:07.04
+This could be a big time saver,
+
+4
+00:00:07.04 --> 00:00:10.02
+particularly if you've been
+working and you want to put
+
+5
+00:00:10.02 --> 00:00:13.01
+several files up and then
+walk away for a while.
+
+6
+00:00:13.01 --> 00:00:15.07
+Your computer can continue
+to work in the background,
+
+7
+00:00:15.07 --> 00:00:18.09
+and this is quite useful
+if you save those videos
+
+8
+00:00:18.09 --> 00:00:21.08
+as being private, and that
+way, you can queue them up
+
+9
+00:00:21.08 --> 00:00:23.08
+and then walk away.
+
+10
+00:00:23.08 --> 00:00:26.02
+Well, what happens here is
+you can take advantage of,
+
+11
+00:00:26.02 --> 00:00:28.06
+first off, the basic uploader.
+
+12
+00:00:28.06 --> 00:00:32.01
+This does support adding
+multiple videos in,
+
+13
+00:00:32.01 --> 00:00:34.08
+so it works the same
+way as a single upload.
+
+14
+00:00:34.08 --> 00:00:37.04
+Just drag them in, and once they're there,
+
+15
+00:00:37.04 --> 00:00:39.02
+you can actually edit the videos
+
+16
+00:00:39.02 --> 00:00:42.08
+or the metadata all at once.
+
+17
+00:00:42.08 --> 00:00:45.02
+You can drag multiple videos in the window
+
+18
+00:00:45.02 --> 00:00:51.05
+or click and select multiple
+videos, easy enough.
+
+19
+00:00:51.05 --> 00:00:53.06
+Once you've done that, as you see here,
+
+20
+00:00:53.06 --> 00:00:56.03
+they'll just appear one
+on top of the other,
+
+21
+00:00:56.03 --> 00:00:58.05
+so if you upload multiple videos,
+
+22
+00:00:58.05 --> 00:01:01.00
+you can go through and modify the name
+
+23
+00:01:01.00 --> 00:01:03.06
+and the description for each.
+
+24
+00:01:03.06 --> 00:01:07.09
+Now let's go to the upload
+screen, and you'll see
+
+25
+00:01:07.09 --> 00:01:12.03
+I can click the button here
+to select multiple files.
+
+26
+00:01:12.03 --> 00:01:17.04
+I'll choose two videos
+here and click choose.
+
+27
+00:01:17.04 --> 00:01:21.00
+Now in this case, it
+will put both videos in.
+
+28
+00:01:21.00 --> 00:01:22.05
+One of the things that's
+going to be interesting
+
+29
+00:01:22.05 --> 00:01:25.02
+is once YouTube starts to scan this video,
+
+30
+00:01:25.02 --> 00:01:28.00
+it's going to realize that
+I already uploaded it,
+
+31
+00:01:28.00 --> 00:01:31.05
+so it won't let me upload
+it twice to the same channel
+
+32
+00:01:31.05 --> 00:01:34.00
+unless there's a difference between them.
+
+33
+00:01:34.00 --> 00:01:36.09
+And here's the second video being queued.
+
+34
+00:01:36.09 --> 00:01:40.01
+If I click Show more, you see
+I can actually start to modify
+
+35
+00:01:40.01 --> 00:01:44.02
+the description and put
+all of that information in.
+
+36
+00:01:44.02 --> 00:01:48.09
+Remember, you can actually
+set this to Private
+
+37
+00:01:48.09 --> 00:01:52.05
+so nobody sees them and even click Done
+
+38
+00:01:52.05 --> 00:01:54.07
+so that as the videos finish uploading,
+
+39
+00:01:54.07 --> 00:01:56.05
+they'll be stored and ready.
+
+40
+00:01:56.05 --> 00:01:58.01
+This way you don't actually have to wait
+
+41
+00:01:58.01 --> 00:02:02.00
+for them to finish processing
+before you walk away.
+
+42
+00:02:02.00 --> 00:02:04.00
+Now easy enough, if you change your mind
+
+43
+00:02:04.00 --> 00:02:07.02
+and you want to stop something,
+just click the Cancel button
+
+44
+00:02:07.02 --> 00:02:09.00
+and you can cancel the upload.
+
+45
+00:02:09.00 --> 00:02:11.01
+I'll do the same here and you see
+
+46
+00:02:11.01 --> 00:02:13.06
+that it cancels that individual file.
+
+47
+00:02:13.06 --> 00:02:15.06
+So it's easy enough, if you want
+
+48
+00:02:15.06 --> 00:02:18.03
+to put multiple videos in, to do so.
+
+49
+00:02:18.03 --> 00:02:21.04
+But what about if you
+have a lot of content,
+
+50
+00:02:21.04 --> 00:02:23.06
+hours and hours of content,
+
+51
+00:02:23.06 --> 00:02:26.07
+a huge channel or multiple channels?
+
+52
+00:02:26.07 --> 00:02:28.06
+If you are a serious publisher on YouTube,
+
+53
+00:02:28.06 --> 00:02:30.08
+there are other options.
+
+54
+00:02:30.08 --> 00:02:32.07
+For example, if you are a member
+
+55
+00:02:32.07 --> 00:02:36.02
+of the YouTube Partner Program,
+not a basic level member,
+
+56
+00:02:36.02 --> 00:02:39.09
+but you start to get upwards
+of 10,000 subscribers,
+
+57
+00:02:39.09 --> 00:02:43.04
+you will see the option
+for offline disk import,
+
+58
+00:02:43.04 --> 00:02:45.02
+and you'll be able to submit a disk
+
+59
+00:02:45.02 --> 00:02:48.00
+and mail it to YouTube
+for batch uploading.
+
+60
+00:02:48.00 --> 00:02:49.05
+This can be particularly useful
+
+61
+00:02:49.05 --> 00:02:53.00
+if you work or live in
+a lower-bandwidth area.
+
+62
+00:02:53.00 --> 00:02:56.07
+Also if you are using Google
+AdWords to reach people,
+
+63
+00:02:56.07 --> 00:02:59.07
+you can actually bulk
+upload and use a spreadsheet
+
+64
+00:02:59.07 --> 00:03:01.06
+through the Google AdWords interface.
+
+65
+00:03:01.06 --> 00:03:03.09
+A lot of people place video content
+
+66
+00:03:03.09 --> 00:03:07.02
+and use YouTube for paid
+placement or advertisements,
+
+67
+00:03:07.02 --> 00:03:09.08
+and if you're tying that
+or using Google AdWords
+
+68
+00:03:09.08 --> 00:03:12.08
+to drive traffic to your
+videos, you can actually use
+
+69
+00:03:12.08 --> 00:03:15.04
+the Google AdWords interface
+and their bulk uploader
+
+70
+00:03:15.04 --> 00:03:19.03
+to put up video and text
+using a spreadsheet.
+
+71
+00:03:19.03 --> 00:03:21.08
+And if you are a serious publisher,
+
+72
+00:03:21.08 --> 00:03:25.01
+one who actually has a lot of
+content that is copyrighted,
+
+73
+00:03:25.01 --> 00:03:28.01
+perhaps a television
+network, a record label,
+
+74
+00:03:28.01 --> 00:03:30.08
+and you've enrolled in
+the Content ID program
+
+75
+00:03:30.08 --> 00:03:33.03
+to legally protect your content, well,
+
+76
+00:03:33.03 --> 00:03:35.06
+then you're going to see
+several different tools.
+
+77
+00:03:35.06 --> 00:03:37.07
+YouTube does offer a bulk uploader.
+
+78
+00:03:37.07 --> 00:03:40.06
+They do allow for things like SFTP
+
+79
+00:03:40.06 --> 00:03:44.01
+so you can actually set up
+a folder and upload things
+
+80
+00:03:44.01 --> 00:03:47.08
+using a transfer tool, or you
+can actually take advantage
+
+81
+00:03:47.08 --> 00:03:49.09
+of that same offline disk import
+
+82
+00:03:49.09 --> 00:03:52.08
+and just ship in terabytes of information,
+
+83
+00:03:52.08 --> 00:03:55.09
+and YouTube will take care of it for you.
+
+84
+00:03:55.09 --> 00:03:59.02
+Now for most of you, the ability
+to use the batch uploader
+
+85
+00:03:59.02 --> 00:04:01.03
+is going to be just fine,
+particularly if you're
+
+86
+00:04:01.03 --> 00:04:04.01
+only publishing 10 videos or so at a time.
+
+87
+00:04:04.01 --> 00:04:07.07
+But even tools like Adobe
+Premiere Pro or Final Cut Pro
+
+88
+00:04:07.07 --> 00:04:10.00
+have tools built in that allow you
+
+89
+00:04:10.00 --> 00:04:12.08
+to actually compress the
+video and directly publish it
+
+90
+00:04:12.08 --> 00:04:15.01
+to a YouTube channel, as well.
+
+91
+00:04:15.01 --> 00:04:18.04
+But if you are doing
+high volume publishing
+
+92
+00:04:18.04 --> 00:04:21.07
+or you have a membership in
+the YouTube Partner Program,
+
+93
+00:04:21.07 --> 00:04:23.09
+make sure you explore
+some of the other options
+
+94
+00:04:23.09 --> 00:04:25.02
+that are available to you.
+

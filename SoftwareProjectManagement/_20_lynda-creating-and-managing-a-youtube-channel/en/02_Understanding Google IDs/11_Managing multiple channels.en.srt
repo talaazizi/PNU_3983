@@ -1,0 +1,470 @@
+1
+00:00:00.05 --> 00:00:03.00
+- You might have noticed on
+some of my log-in screens
+
+2
+00:00:03.00 --> 00:00:06.01
+that I have access to
+multiple YouTube channels.
+
+3
+00:00:06.01 --> 00:00:08.06
+That's because I create
+content for YouTube for a
+
+4
+00:00:08.06 --> 00:00:10.09
+handful of different software companies.
+
+5
+00:00:10.09 --> 00:00:13.00
+And I also have some personal pages
+
+6
+00:00:13.00 --> 00:00:14.08
+and some professional pages
+
+7
+00:00:14.08 --> 00:00:17.02
+that I maintain or contribute to.
+
+8
+00:00:17.02 --> 00:00:21.07
+As such, it's easy to access
+multiple brand accounts.
+
+9
+00:00:21.07 --> 00:00:24.03
+Now, do keep in mind
+that generally speaking,
+
+10
+00:00:24.03 --> 00:00:27.04
+you're only going to
+have one Google account.
+
+11
+00:00:27.04 --> 00:00:30.00
+You might have a few Google
+IDs that you've set up
+
+12
+00:00:30.00 --> 00:00:31.05
+for very specific purposes,
+
+13
+00:00:31.05 --> 00:00:34.08
+particularly if you've set-up
+separate Gmail accounts
+
+14
+00:00:34.08 --> 00:00:37.04
+in order to manage your email inbox.
+
+15
+00:00:37.04 --> 00:00:38.06
+Each of those Google IDs
+
+16
+00:00:38.06 --> 00:00:41.01
+might end up having their own account.
+
+17
+00:00:41.01 --> 00:00:44.07
+But not every Google ID is
+going to be connected to a brand
+
+18
+00:00:44.07 --> 00:00:47.01
+or a YouTube channel.
+
+19
+00:00:47.01 --> 00:00:49.03
+Also, remember that you can have
+
+20
+00:00:49.03 --> 00:00:51.02
+multiple connected Brand Accounts.
+
+21
+00:00:51.02 --> 00:00:55.06
+In fact, you can have almost
+a hundred of these if needed.
+
+22
+00:00:55.06 --> 00:00:58.01
+In order to access these, you simply click
+
+23
+00:00:58.01 --> 00:01:01.04
+on your account profile to switch.
+
+24
+00:01:01.04 --> 00:01:02.07
+You may need to make sure that
+
+25
+00:01:02.07 --> 00:01:04.09
+you've successfully
+connected to a brand account
+
+26
+00:01:04.09 --> 00:01:06.09
+if you don't see it in the switcher.
+
+27
+00:01:06.09 --> 00:01:09.03
+You'll notice the Google ID,
+
+28
+00:01:09.03 --> 00:01:12.03
+and below it, the brands.
+
+29
+00:01:12.03 --> 00:01:16.02
+You might switch to another Google ID.
+
+30
+00:01:16.02 --> 00:01:21.07
+For example, that new account I set up.
+
+31
+00:01:21.07 --> 00:01:24.03
+And you see that it has one brand account
+
+32
+00:01:24.03 --> 00:01:26.08
+associated with this YouTube Channel.
+
+33
+00:01:26.08 --> 00:01:29.08
+If I go to switch accounts though,
+
+34
+00:01:29.08 --> 00:01:31.08
+you'll see that the others are available
+
+35
+00:01:31.08 --> 00:01:34.02
+in the More Accounts section.
+
+36
+00:01:34.02 --> 00:01:38.02
+So you can be logged in with
+more than one Google ID.
+
+37
+00:01:38.02 --> 00:01:41.06
+You do that down here with
+the Add Account button,
+
+38
+00:01:41.06 --> 00:01:44.02
+which prompts you to
+sign in with a different
+
+39
+00:01:44.02 --> 00:01:46.09
+Google Account that you
+might have access to.
+
+40
+00:01:46.09 --> 00:01:48.07
+In this case, I have multiple ones
+
+41
+00:01:48.07 --> 00:01:50.02
+for other members of my family
+
+42
+00:01:50.02 --> 00:01:52.03
+and children that we maintain.
+
+43
+00:01:52.03 --> 00:01:54.09
+To control Brand Accounts, simply visit
+
+44
+00:01:54.09 --> 00:01:59.07
+youtube.com/account_advanced
+
+45
+00:01:59.07 --> 00:02:01.07
+Under the account information area,
+
+46
+00:02:01.07 --> 00:02:03.07
+you can look for some of the following:
+
+47
+00:02:03.07 --> 00:02:04.08
+If you see the message,
+
+48
+00:02:04.08 --> 00:02:06.07
+"You are the owner of this channel
+
+49
+00:02:06.07 --> 00:02:09.01
+and the connected Brand
+Account," this means
+
+50
+00:02:09.01 --> 00:02:11.00
+that you've already
+set up a brand account.
+
+51
+00:02:11.00 --> 00:02:12.02
+Which usually happens when
+
+52
+00:02:12.02 --> 00:02:15.06
+you first create a YouTube channel.
+
+53
+00:02:15.06 --> 00:02:16.06
+If you don't see a note,
+
+54
+00:02:16.06 --> 00:02:19.06
+then you're going to need to
+create a new Brand Account
+
+55
+00:02:19.06 --> 00:02:24.01
+or associate your channel with
+an existing Brand Account.
+
+56
+00:02:24.01 --> 00:02:25.03
+Let's visit that page.
+
+57
+00:02:25.03 --> 00:02:27.00
+You'll see for example, it tells me that
+
+58
+00:02:27.00 --> 00:02:28.05
+I'm the owner of the channel,
+
+59
+00:02:28.05 --> 00:02:30.09
+and the connected brand account.
+
+60
+00:02:30.09 --> 00:02:34.04
+It tells me that I'm
+signed in as a YouTube user
+
+61
+00:02:34.04 --> 00:02:38.00
+with a user ID and a channel ID.
+
+62
+00:02:38.00 --> 00:02:39.06
+If I click the link here,
+
+63
+00:02:39.06 --> 00:02:42.04
+I can actually move things around.
+
+64
+00:02:42.04 --> 00:02:45.04
+Now, you may be prompted to
+log back in to your account
+
+65
+00:02:45.04 --> 00:02:48.00
+and validate your password.
+
+66
+00:02:48.00 --> 00:02:50.09
+But this allows you to move a channel.
+
+67
+00:02:50.09 --> 00:02:54.09
+So, for example, right now
+my YouTube user channel
+
+68
+00:02:54.09 --> 00:02:58.00
+is connected to the
+Photofocus brand account.
+
+69
+00:02:58.00 --> 00:03:01.02
+But if I wanted to move
+that to a different channel,
+
+70
+00:03:01.02 --> 00:03:06.00
+I can do that and connect
+it to a new Brand Account.
+
+71
+00:03:06.00 --> 00:03:08.08
+Or in some cases here,
+you'll see other accounts
+
+72
+00:03:08.08 --> 00:03:11.01
+that already have YouTube channels.
+
+73
+00:03:11.01 --> 00:03:14.01
+So if I click this here,
+it's going to get rid of
+
+74
+00:03:14.01 --> 00:03:19.00
+and permanently delete an
+existing channel and replace it.
+
+75
+00:03:19.00 --> 00:03:22.06
+As such, absolutely
+positively do not click
+
+76
+00:03:22.06 --> 00:03:23.08
+the delete channel button
+
+77
+00:03:23.08 --> 00:03:27.01
+unless you want to lose
+all of those videos.
+
+78
+00:03:27.01 --> 00:03:29.01
+So I'll click cancel here.
+
+79
+00:03:29.01 --> 00:03:30.09
+Be extremely cautious when
+
+80
+00:03:30.09 --> 00:03:34.02
+moving a YouTube channel to
+a different Brand Account.
+
+81
+00:03:34.02 --> 00:03:39.00
+Each Brand Account can only
+have one channel on YouTube.
+
+82
+00:03:39.00 --> 00:03:41.04
+So as such, you might want to move
+
+83
+00:03:41.04 --> 00:03:43.02
+to a new Brand Account that
+
+84
+00:03:43.02 --> 00:03:45.05
+doesn't yet have a YouTube channel,
+
+85
+00:03:45.05 --> 00:03:47.06
+or be absolutely certain that if
+
+86
+00:03:47.06 --> 00:03:50.03
+you're connecting it to
+an existing Brand Account,
+
+87
+00:03:50.03 --> 00:03:51.09
+that you'll want to blow away
+
+88
+00:03:51.09 --> 00:03:53.04
+another YouTube channel
+
+89
+00:03:53.04 --> 00:03:56.00
+and replace it with the one you're moving.
+
+90
+00:03:56.00 --> 00:03:58.03
+Remember the Google Brand Account
+
+91
+00:03:58.03 --> 00:04:00.04
+is used across multiple services,
+
+92
+00:04:00.04 --> 00:04:02.08
+including Google+, Google My Business,
+
+93
+00:04:02.08 --> 00:04:06.01
+Google Photos, and YouTube.
+
+94
+00:04:06.01 --> 00:04:09.09
+This is different than the
+Google ID that you use to sign in
+
+95
+00:04:09.09 --> 00:04:12.04
+to other services, such as Google Docs,
+
+96
+00:04:12.04 --> 00:04:15.04
+and Sheets, and others.
+
+97
+00:04:15.04 --> 00:04:17.04
+And remember, if you've already
+
+98
+00:04:17.04 --> 00:04:19.01
+created a channel on YouTube,
+
+99
+00:04:19.01 --> 00:04:22.07
+it should already be
+connected to a Brand Account.
+
+100
+00:04:22.07 --> 00:04:24.05
+But what may often happen,
+
+101
+00:04:24.05 --> 00:04:25.08
+is that you'll find yourself
+
+102
+00:04:25.08 --> 00:04:28.02
+needing to create a new Brand Account.
+
+103
+00:04:28.02 --> 00:04:30.08
+Maybe a company rolls out another product,
+
+104
+00:04:30.08 --> 00:04:34.06
+and as such, you might want
+to move a YouTube channel
+
+105
+00:04:34.06 --> 00:04:37.06
+to another Brand Account
+to free up a slot.
+
+106
+00:04:37.06 --> 00:04:41.02
+Remember, one YouTube
+channel to one Brand Account,
+
+107
+00:04:41.02 --> 00:04:43.08
+but many Brand Accounts can be shared
+
+108
+00:04:43.08 --> 00:04:46.01
+by one or more Google ID.
+

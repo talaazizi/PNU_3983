@@ -1,0 +1,380 @@
+1
+00:00:00,719 --> 00:00:04,720
+project estimates are a lot like your
+
+2
+00:00:03,360 --> 00:00:06,640
+morning commute
+
+3
+00:00:04,720 --> 00:00:08,880
+you need to choose an estimate that
+
+4
+00:00:06,640 --> 00:00:10,080
+gives you a good chance of getting where
+
+5
+00:00:08,880 --> 00:00:12,880
+you need to be
+
+6
+00:00:10,080 --> 00:00:15,200
+when you need to be there on some days
+
+7
+00:00:12,880 --> 00:00:18,400
+your commute is a breeze
+
+8
+00:00:15,200 --> 00:00:20,320
+maybe 30 minutes most days let's say
+
+9
+00:00:18,400 --> 00:00:24,000
+it's 45 minutes
+
+10
+00:00:20,320 --> 00:00:26,320
+but an accident can turn it into an hour
+
+11
+00:00:24,000 --> 00:00:28,320
+for your commute you choose a drive time
+
+12
+00:00:26,320 --> 00:00:30,880
+that gives you some wiggle room so you
+
+13
+00:00:28,320 --> 00:00:32,880
+get to work on time the same approach
+
+14
+00:00:30,880 --> 00:00:34,239
+works equally well for your project
+
+15
+00:00:32,880 --> 00:00:36,559
+estimates
+
+16
+00:00:34,239 --> 00:00:38,640
+you probably decide when to leave for
+
+17
+00:00:36,559 --> 00:00:40,879
+work informally
+
+18
+00:00:38,640 --> 00:00:43,120
+we're going to look at a similar yet
+
+19
+00:00:40,879 --> 00:00:45,200
+rigorous approach to choosing estimate
+
+20
+00:00:43,120 --> 00:00:47,039
+values for your project
+
+21
+00:00:45,200 --> 00:00:48,399
+if you were to graph the probability of
+
+22
+00:00:47,039 --> 00:00:50,559
+your commute times
+
+23
+00:00:48,399 --> 00:00:51,760
+it would look like a bell curve with
+
+24
+00:00:50,559 --> 00:00:55,360
+your average drive
+
+25
+00:00:51,760 --> 00:00:55,760
+time at the peak a bell curve is also
+
+26
+00:00:55,360 --> 00:00:58,719
+known
+
+27
+00:00:55,760 --> 00:01:00,559
+as a normal distribution and it has
+
+28
+00:00:58,719 --> 00:01:04,080
+properties that help you choose
+
+29
+00:01:00,559 --> 00:01:07,200
+a safe estimate to give your customer
+
+30
+00:01:04,080 --> 00:01:08,799
+first on a bell curve fifty percent of
+
+31
+00:01:07,200 --> 00:01:11,280
+the possible values are
+
+32
+00:01:08,799 --> 00:01:12,560
+less than the average and fifty percent
+
+33
+00:01:11,280 --> 00:01:15,840
+are greater
+
+34
+00:01:12,560 --> 00:01:19,040
+that means the average value gives you a
+
+35
+00:01:15,840 --> 00:01:21,360
+50 50 chance of your results being equal
+
+36
+00:01:19,040 --> 00:01:24,080
+to or less than your estimate
+
+37
+00:01:21,360 --> 00:01:24,400
+think about it if you give your customer
+
+38
+00:01:24,080 --> 00:01:27,119
+your
+
+39
+00:01:24,400 --> 00:01:27,600
+average estimate you're as likely to
+
+40
+00:01:27,119 --> 00:01:30,640
+fail
+
+41
+00:01:27,600 --> 00:01:33,119
+as you are to succeed i wouldn't stake
+
+42
+00:01:30,640 --> 00:01:35,280
+my career on those odds
+
+43
+00:01:33,119 --> 00:01:37,680
+on the other hand the worst case
+
+44
+00:01:35,280 --> 00:01:38,960
+estimate gives you the highest chance of
+
+45
+00:01:37,680 --> 00:01:42,000
+success
+
+46
+00:01:38,960 --> 00:01:45,759
+however that number is so high
+
+47
+00:01:42,000 --> 00:01:47,840
+your customer might cancel the project
+
+48
+00:01:45,759 --> 00:01:49,360
+you probably know that customers are
+
+49
+00:01:47,840 --> 00:01:52,240
+prone to ask
+
+50
+00:01:49,360 --> 00:01:53,680
+what's the best case scenario what if
+
+51
+00:01:52,240 --> 00:01:56,880
+everything goes right
+
+52
+00:01:53,680 --> 00:01:58,799
+don't fall for this trap
+
+53
+00:01:56,880 --> 00:01:59,920
+suppose you give the customer your best
+
+54
+00:01:58,799 --> 00:02:02,960
+case estimate
+
+55
+00:01:59,920 --> 00:02:05,119
+say six months and you describe
+
+56
+00:02:02,960 --> 00:02:07,600
+everything that has to go right to
+
+57
+00:02:05,119 --> 00:02:10,720
+finish the project in six months
+
+58
+00:02:07,600 --> 00:02:11,440
+this is what they'll hear blah blah blah
+
+59
+00:02:10,720 --> 00:02:13,920
+blah
+
+60
+00:02:11,440 --> 00:02:16,400
+six months and you've set up your
+
+61
+00:02:13,920 --> 00:02:19,760
+project to fail
+
+62
+00:02:16,400 --> 00:02:21,280
+we've eliminated the best worst and most
+
+63
+00:02:19,760 --> 00:02:23,760
+likely values
+
+64
+00:02:21,280 --> 00:02:26,319
+you're probably wondering what number
+
+65
+00:02:23,760 --> 00:02:29,520
+you should use for your estimate
+
+66
+00:02:26,319 --> 00:02:30,160
+the answer is about halfway between the
+
+67
+00:02:29,520 --> 00:02:33,200
+average
+
+68
+00:02:30,160 --> 00:02:35,360
+and worst case values let's go back to
+
+69
+00:02:33,200 --> 00:02:37,760
+the bell curve and pick the value
+
+70
+00:02:35,360 --> 00:02:39,120
+halfway between the average and worst
+
+71
+00:02:37,760 --> 00:02:40,879
+case values
+
+72
+00:02:39,120 --> 00:02:42,800
+without getting into the mathematical
+
+73
+00:02:40,879 --> 00:02:45,760
+details that gives you
+
+74
+00:02:42,800 --> 00:02:46,800
+an 86 percent probability of your
+
+75
+00:02:45,760 --> 00:02:49,680
+results being
+
+76
+00:02:46,800 --> 00:02:50,000
+less than or equal to that number that's
+
+77
+00:02:49,680 --> 00:02:53,120
+a
+
+78
+00:02:50,000 --> 00:02:56,239
+good chance of success and the value
+
+79
+00:02:53,120 --> 00:02:58,480
+is easy to calculate plus
+
+80
+00:02:56,239 --> 00:03:00,080
+you can tweak your value higher to
+
+81
+00:02:58,480 --> 00:03:01,120
+reduce the chance of missing the
+
+82
+00:03:00,080 --> 00:03:03,440
+deadline
+
+83
+00:03:01,120 --> 00:03:05,360
+just like you would leave extra early if
+
+84
+00:03:03,440 --> 00:03:07,280
+you're going to a job interview
+
+85
+00:03:05,360 --> 00:03:09,920
+and if you're trying to win a project
+
+86
+00:03:07,280 --> 00:03:11,840
+you might choose a smaller value
+
+87
+00:03:09,920 --> 00:03:12,959
+even though the risk of failure is
+
+88
+00:03:11,840 --> 00:03:15,760
+higher
+
+89
+00:03:12,959 --> 00:03:16,720
+the bottom line is choose the estimate
+
+90
+00:03:15,760 --> 00:03:20,159
+that provides
+
+91
+00:03:16,720 --> 00:03:22,879
+an acceptable probability of success
+
+92
+00:03:20,159 --> 00:03:25,360
+for practice use the information in the
+
+93
+00:03:22,879 --> 00:03:26,080
+exercise files to determine the time
+
+94
+00:03:25,360 --> 00:03:31,519
+estimate
+
+95
+00:03:26,080 --> 00:03:31,519
+you would give the hospital co
+

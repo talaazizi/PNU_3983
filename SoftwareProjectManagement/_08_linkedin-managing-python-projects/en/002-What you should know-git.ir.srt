@@ -1,0 +1,32 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:01,06
+- [Presenter] You should be familiar
+
+2
+00:00:01,06 --> 00:00:03,07
+with the Python program language.
+
+3
+00:00:03,07 --> 00:00:06,09
+If you're not, check out our offerings.
+
+4
+00:00:06,09 --> 00:00:09,06
+You should also be familiar with the command-line
+
+5
+00:00:09,06 --> 00:00:14,00
+and concepts, such as testing, dependencies, and others.
+
+6
+00:00:14,00 --> 00:00:17,02
+Most of all, you should want to make your team better,
+
+7
+00:00:17,02 --> 00:00:20,00
+produce more code, with greater quality.
+

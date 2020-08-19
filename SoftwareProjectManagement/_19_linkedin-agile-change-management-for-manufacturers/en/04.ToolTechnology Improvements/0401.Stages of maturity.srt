@@ -1,0 +1,380 @@
+1
+00:00:00.050 --> 00:00:03.000
+- [Instructor] In this section on tools and technologies,
+
+2
+00:00:03.000 --> 00:00:05.000
+I want to start with a few observations
+
+3
+00:00:05.000 --> 00:00:06.030
+about the maturity of the tools
+
+4
+00:00:06.030 --> 00:00:09.090
+that I see being used by manufacturers every day.
+
+5
+00:00:09.090 --> 00:00:11.090
+As a practicing professional, I've noticed
+
+6
+00:00:11.090 --> 00:00:14.050
+that almost every manufacturer has experimented
+
+7
+00:00:14.050 --> 00:00:17.050
+with a PLM at some level, and in fact,
+
+8
+00:00:17.050 --> 00:00:20.000
+I can even say that most manufacturers
+
+9
+00:00:20.000 --> 00:00:22.080
+have some sort of a data management system in place
+
+10
+00:00:22.080 --> 00:00:26.030
+whether that be a PLM system or a PDM system.
+
+11
+00:00:26.030 --> 00:00:29.050
+I can also say that most PLM systems
+
+12
+00:00:29.050 --> 00:00:32.030
+are being used to really just manage data.
+
+13
+00:00:32.030 --> 00:00:35.080
+In fact they are being used as PDM systems.
+
+14
+00:00:35.080 --> 00:00:37.040
+Now the distinction between the two
+
+15
+00:00:37.040 --> 00:00:38.090
+could be slight or could be great,
+
+16
+00:00:38.090 --> 00:00:41.010
+but it depends on the breadth of the products.
+
+17
+00:00:41.010 --> 00:00:44.010
+But what I'm getting at is that many PLM systems
+
+18
+00:00:44.010 --> 00:00:46.070
+are less than optimally implemented.
+
+19
+00:00:46.070 --> 00:00:49.040
+And I think therefore we have a great opportunity
+
+20
+00:00:49.040 --> 00:00:52.080
+to enhance how we use them and improve
+
+21
+00:00:52.080 --> 00:00:56.060
+the change processes that these manufacturers have.
+
+22
+00:00:56.060 --> 00:00:59.050
+Now thinking specifically about the information
+
+23
+00:00:59.050 --> 00:01:01.060
+and the systems that are in use.
+
+24
+00:01:01.060 --> 00:01:04.040
+As a design professional, you know that a lot of information
+
+25
+00:01:04.040 --> 00:01:06.090
+is coming in related to the product.
+
+26
+00:01:06.090 --> 00:01:09.030
+It could be coming from requirements from customers.
+
+27
+00:01:09.030 --> 00:01:11.070
+It could be design and analysis information
+
+28
+00:01:11.070 --> 00:01:13.040
+from your engineering team.
+
+29
+00:01:13.040 --> 00:01:16.040
+It could be supplier and service information.
+
+30
+00:01:16.040 --> 00:01:18.070
+And you intrinsically know that it should be
+
+31
+00:01:18.070 --> 00:01:21.000
+put in a vault or a central repository
+
+32
+00:01:21.000 --> 00:01:24.040
+where it can be managed and kept under revision control.
+
+33
+00:01:24.040 --> 00:01:26.010
+This is the first level of maturity
+
+34
+00:01:26.010 --> 00:01:28.070
+that many organizations plateau at.
+
+35
+00:01:28.070 --> 00:01:32.010
+A very mature system will have different facilities,
+
+36
+00:01:32.010 --> 00:01:34.010
+for example, a library.
+
+37
+00:01:34.010 --> 00:01:36.050
+The library segregates information,
+
+38
+00:01:36.050 --> 00:01:38.090
+and that's a core tenant of Agile
+
+39
+00:01:38.090 --> 00:01:41.070
+in which every stakeholder should have access
+
+40
+00:01:41.070 --> 00:01:45.020
+to the information they need at the time they need it.
+
+41
+00:01:45.020 --> 00:01:48.050
+Library information should be the type of information
+
+42
+00:01:48.050 --> 00:01:52.020
+that's widely consumed but created by few.
+
+43
+00:01:52.020 --> 00:01:55.020
+This is differentiated from product information
+
+44
+00:01:55.020 --> 00:01:57.040
+which the product information container
+
+45
+00:01:57.040 --> 00:02:00.000
+should hold information related to the sellable result
+
+46
+00:02:00.000 --> 00:02:02.040
+of the new product development process.
+
+47
+00:02:02.040 --> 00:02:05.090
+And there should be a projects facility, or container,
+
+48
+00:02:05.090 --> 00:02:08.070
+that holds the time-related information
+
+49
+00:02:08.070 --> 00:02:11.020
+about the new product development process.
+
+50
+00:02:11.020 --> 00:02:13.050
+You can think of it as the project manages time,
+
+51
+00:02:13.050 --> 00:02:15.080
+and the product manages information.
+
+52
+00:02:15.080 --> 00:02:19.020
+Having these facilities segregating the data
+
+53
+00:02:19.020 --> 00:02:22.040
+allows stakeholder access in a most optimal fashion.
+
+54
+00:02:22.040 --> 00:02:26.010
+And that's really what Agile is all about.
+
+55
+00:02:26.010 --> 00:02:29.090
+Similarly, if we think about digital collaboration
+
+56
+00:02:29.090 --> 00:02:32.070
+in a maturity state, we need to consider
+
+57
+00:02:32.070 --> 00:02:36.040
+that different stakeholders use different vocabularies.
+
+58
+00:02:36.040 --> 00:02:38.050
+For example, in the design world,
+
+59
+00:02:38.050 --> 00:02:41.010
+the engineering professionals often talk
+
+60
+00:02:41.010 --> 00:02:44.070
+in terms of lifecycle states, or maturity states.
+
+61
+00:02:44.070 --> 00:02:47.070
+They will talk about a part being in draft state,
+
+62
+00:02:47.070 --> 00:02:51.040
+or prototype, or stable where the design is stable,
+
+63
+00:02:51.040 --> 00:02:53.030
+and it can be sent out for production.
+
+64
+00:02:53.030 --> 00:02:57.010
+And then released is the actual finished product.
+
+65
+00:02:57.010 --> 00:02:59.050
+Of course, as we discussed earlier,
+
+66
+00:02:59.050 --> 00:03:02.080
+rigor increases as the design moves along
+
+67
+00:03:02.080 --> 00:03:05.070
+and you use the appropriate tools to manage it.
+
+68
+00:03:05.070 --> 00:03:09.080
+Conversely, the production or manufacturing stakeholders
+
+69
+00:03:09.080 --> 00:03:11.090
+speak a different language.
+
+70
+00:03:11.090 --> 00:03:15.020
+They often refer to things in terms of effectivity
+
+71
+00:03:15.020 --> 00:03:17.020
+which could either be based on a date,
+
+72
+00:03:17.020 --> 00:03:20.000
+or it could based on a serial number or a lot number.
+
+73
+00:03:20.000 --> 00:03:22.020
+So to a manufacturing professional
+
+74
+00:03:22.020 --> 00:03:24.070
+a component is either good to use or not,
+
+75
+00:03:24.070 --> 00:03:26.070
+and there's no in-between.
+
+76
+00:03:26.070 --> 00:03:29.050
+As I work with these various stakeholders
+
+77
+00:03:29.050 --> 00:03:32.060
+the manufacturing professionals often tell me that they'd
+
+78
+00:03:32.060 --> 00:03:35.060
+like visibility about what's coming up from engineering.
+
+79
+00:03:35.060 --> 00:03:37.010
+They'd like to know about the projects
+
+80
+00:03:37.010 --> 00:03:39.040
+that are coming so that they can plan for them.
+
+81
+00:03:39.040 --> 00:03:40.090
+This is a level of collaboration
+
+82
+00:03:40.090 --> 00:03:43.080
+and a level of maturity that we should strive to have
+
+83
+00:03:43.080 --> 00:03:46.010
+to fully support the Agile new product
+
+84
+00:03:46.010 --> 00:03:47.090
+development methodologies.
+
+85
+00:03:47.090 --> 00:03:50.050
+Similarly, the engineering stakeholders
+
+86
+00:03:50.050 --> 00:03:51.080
+often tell me that they'd like
+
+87
+00:03:51.080 --> 00:03:53.090
+more feedback from manufacturing
+
+88
+00:03:53.090 --> 00:03:55.080
+so that they could improve the design
+
+89
+00:03:55.080 --> 00:03:57.040
+or they could incorporate the feedback
+
+90
+00:03:57.040 --> 00:03:59.050
+into future sprints or even into
+
+91
+00:03:59.050 --> 00:04:01.080
+other products related to it where they can
+
+92
+00:04:01.080 --> 00:04:04.030
+fully utilize the lessons learned.
+
+93
+00:04:04.030 --> 00:04:06.050
+By taking advantage of this information
+
+94
+00:04:06.050 --> 00:04:09.060
+and leveraging it properly, you can achieve
+
+95
+00:04:09.060 --> 00:04:13.000
+the Agile new product development process.
+

@@ -1,0 +1,124 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:03,01
+- [Instructor] Unlike Java, where there's a very specific
+
+2
+00:00:03,01 --> 00:00:05,03
+directory structure you should follow,
+
+3
+00:00:05,03 --> 00:00:08,07
+Python does not force you to a directory structure.
+
+4
+00:00:08,07 --> 00:00:10,07
+You could have a single .py file
+
+5
+00:00:10,07 --> 00:00:12,07
+or some directory structure.
+
+6
+00:00:12,07 --> 00:00:15,01
+As long as Python can input your model,
+
+7
+00:00:15,01 --> 00:00:16,08
+you should be okay.
+
+8
+00:00:16,08 --> 00:00:19,05
+What we have however, are some best practices
+
+9
+00:00:19,05 --> 00:00:22,01
+on how to structure your project.
+
+10
+00:00:22,01 --> 00:00:25,05
+Our project is an early version of an NLP,
+
+11
+00:00:25,05 --> 00:00:28,01
+natural language processing, package.
+
+12
+00:00:28,01 --> 00:00:31,03
+We're going to use the same directory, nlpy,
+
+13
+00:00:31,03 --> 00:00:33,03
+in the following videos.
+
+14
+00:00:33,03 --> 00:00:36,04
+Here's how the code looks like when you first get it
+
+15
+00:00:36,04 --> 00:00:39,07
+from source control, say doing a Git clone.
+
+16
+00:00:39,07 --> 00:00:42,00
+You have a mix of the actual Python code
+
+17
+00:00:42,00 --> 00:00:43,03
+in the nlp directory,
+
+18
+00:00:43,03 --> 00:00:47,04
+in the dot there init, htpd, stop_words.py.
+
+19
+00:00:47,04 --> 00:00:50,09
+We have some tests in the test directory
+
+20
+00:00:50,09 --> 00:00:52,04
+and then some other files,
+
+21
+00:00:52,04 --> 00:00:55,07
+license, makefile for automation, readme,
+
+22
+00:00:55,07 --> 00:00:57,04
+which you can see on the right,
+
+23
+00:00:57,04 --> 00:01:00,04
+the requirements file, and a setup.py.
+
+24
+00:01:00,04 --> 00:01:03,07
+This structure has served me well for over 20 years
+
+25
+00:01:03,07 --> 00:01:05,07
+and according to the Lindy effect,
+
+26
+00:01:05,07 --> 00:01:08,02
+it will probably serve me many more.
+
+27
+00:01:08,02 --> 00:01:10,08
+The nice thing about a familiar directory structure
+
+28
+00:01:10,08 --> 00:01:14,03
+is that you don't have to think or search much.
+
+29
+00:01:14,03 --> 00:01:15,05
+You know where the sources are,
+
+30
+00:01:15,05 --> 00:01:19,00
+where the tests are, and how to run some tasks.
+

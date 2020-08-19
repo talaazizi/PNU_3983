@@ -1,0 +1,403 @@
+1
+00:00:00.05 --> 00:00:02.08
+- There are a lot of
+features for a channel
+
+2
+00:00:02.08 --> 00:00:05.03
+that you might not yet be eligible for
+
+3
+00:00:05.03 --> 00:00:07.06
+depending upon how many views you have.
+
+4
+00:00:07.06 --> 00:00:10.00
+Or there could be features
+that are available
+
+5
+00:00:10.00 --> 00:00:11.07
+that you've just not turned on yet.
+
+6
+00:00:11.07 --> 00:00:14.07
+Let's talk about the channel controls.
+
+7
+00:00:14.07 --> 00:00:16.03
+When you log in to your channel,
+
+8
+00:00:16.03 --> 00:00:19.08
+you'll see that you have
+access to different services.
+
+9
+00:00:19.08 --> 00:00:23.00
+This is where you can also check
+the status for your channel
+
+10
+00:00:23.00 --> 00:00:24.08
+and this is quite important.
+
+11
+00:00:24.08 --> 00:00:27.04
+You want to make sure that
+you don't have any violations
+
+12
+00:00:27.04 --> 00:00:30.02
+for community guidelines such as offensive
+
+13
+00:00:30.02 --> 00:00:32.07
+or hateful content or comments,
+
+14
+00:00:32.07 --> 00:00:34.08
+and you want to make sure
+that you have not had
+
+15
+00:00:34.08 --> 00:00:38.05
+any strikes against you
+for copyright violations.
+
+16
+00:00:38.05 --> 00:00:40.07
+So, let's go ahead and switch over here.
+
+17
+00:00:40.07 --> 00:00:44.06
+If I log in and take a look
+at my channel as a whole,
+
+18
+00:00:44.06 --> 00:00:46.09
+I'll see information.
+
+19
+00:00:46.09 --> 00:00:50.06
+For example, I notice that
+my account has been verified
+
+20
+00:00:50.06 --> 00:00:53.07
+and that I'm in great
+shape for both copyright
+
+21
+00:00:53.07 --> 00:00:56.01
+and community guidelines.
+
+22
+00:00:56.01 --> 00:00:58.02
+Most of my features have been enabled.
+
+23
+00:00:58.02 --> 00:01:03.03
+However, my monetization has
+not been completely turned on.
+
+24
+00:01:03.03 --> 00:01:06.03
+So if I click on this tile,
+I can check the status
+
+25
+00:01:06.03 --> 00:01:08.00
+and see where I'm at.
+
+26
+00:01:08.00 --> 00:01:10.00
+I see, for example, that I am allowed
+
+27
+00:01:10.00 --> 00:01:13.03
+to use the Video Manager
+to monetize with ads,
+
+28
+00:01:13.03 --> 00:01:16.05
+so that's great, but I can
+find out more information here
+
+29
+00:01:16.05 --> 00:01:20.00
+about doing that and enable a few ads.
+
+30
+00:01:20.00 --> 00:01:23.00
+If I take a look her, I see
+that I'm not currently eligible
+
+31
+00:01:23.00 --> 00:01:24.05
+for sponsorships.
+
+32
+00:01:24.05 --> 00:01:27.06
+Well, that's because this
+is only for gaming channels
+
+33
+00:01:27.06 --> 00:01:29.05
+and I'm ineligible.
+
+34
+00:01:29.05 --> 00:01:32.00
+But each tile becomes available.
+
+35
+00:01:32.00 --> 00:01:34.05
+So I'm available for a custom URL.
+
+36
+00:01:34.05 --> 00:01:36.02
+It's enabled.
+
+37
+00:01:36.02 --> 00:01:38.06
+Now, let's switch back
+to the newer account
+
+38
+00:01:38.06 --> 00:01:40.05
+that we recently set up.
+
+39
+00:01:40.05 --> 00:01:42.00
+You'll see that we're in good shape
+
+40
+00:01:42.00 --> 00:01:44.02
+for copyright and community guidelines
+
+41
+00:01:44.02 --> 00:01:47.02
+and that the account is verified.
+
+42
+00:01:47.02 --> 00:01:52.05
+However, we're not yet
+eligible for monetization.
+
+43
+00:01:52.05 --> 00:01:55.01
+That's because I have certain
+steps that I have to set up
+
+44
+00:01:55.01 --> 00:01:56.01
+and it prompts me.
+
+45
+00:01:56.01 --> 00:01:58.09
+I have to specify what country I'm in.
+
+46
+00:01:58.09 --> 00:02:00.07
+I'm eligible for live streaming,
+
+47
+00:02:00.07 --> 00:02:02.04
+but it hasn't been turned on.
+
+48
+00:02:02.04 --> 00:02:06.00
+So let's go ahead and click Enable.
+
+49
+00:02:06.00 --> 00:02:09.01
+In doing this, it tells me that
+it's going to take 24 hours
+
+50
+00:02:09.01 --> 00:02:11.07
+to set up my account, which is fine,
+
+51
+00:02:11.07 --> 00:02:15.00
+but now it's going to be
+enabled for live streaming.
+
+52
+00:02:15.00 --> 00:02:16.07
+If I go back to channels here,
+
+53
+00:02:16.07 --> 00:02:20.06
+I'll see a status that says On Hold.
+
+54
+00:02:20.06 --> 00:02:22.09
+Now, because it's not
+enabled for live streaming,
+
+55
+00:02:22.09 --> 00:02:26.01
+we don't have embedding
+yet, so once this comes on,
+
+56
+00:02:26.01 --> 00:02:28.05
+this option should become available.
+
+57
+00:02:28.05 --> 00:02:31.04
+I notice that most other
+features are enabled
+
+58
+00:02:31.04 --> 00:02:35.04
+but, for example, I'm not
+yet eligible for Super Chat
+
+59
+00:02:35.04 --> 00:02:38.00
+because I don't have enough viewers
+
+60
+00:02:38.00 --> 00:02:40.06
+and I'm not eligible for a custom URL
+
+61
+00:02:40.06 --> 00:02:43.08
+because I haven't
+received 100 subscribers.
+
+62
+00:02:43.08 --> 00:02:46.04
+But I can check the
+eligibility requirements here
+
+63
+00:02:46.04 --> 00:02:48.09
+and I see exactly what I need.
+
+64
+00:02:48.09 --> 00:02:52.00
+So in order to be eligible,
+it says that, currently,
+
+65
+00:02:52.00 --> 00:02:54.00
+the account has to be 30 days old
+
+66
+00:02:54.00 --> 00:02:56.02
+with 100 or more subscribers.
+
+67
+00:02:56.02 --> 00:02:59.00
+Well, this account is barely a day old
+
+68
+00:02:59.00 --> 00:03:01.05
+and only has one subscriber
+
+69
+00:03:01.05 --> 00:03:02.09
+because I haven't actually promoted it
+
+70
+00:03:02.09 --> 00:03:04.06
+or put any content up.
+
+71
+00:03:04.06 --> 00:03:09.03
+But I do have a photo for the
+icon and custom channel art.
+
+72
+00:03:09.03 --> 00:03:12.03
+So the dashboard here
+is a great way to see
+
+73
+00:03:12.03 --> 00:03:16.02
+where your account stands,
+what features can you turn on,
+
+74
+00:03:16.02 --> 00:03:18.02
+what features are you eligible for,
+
+75
+00:03:18.02 --> 00:03:21.09
+and what does it take to become
+eligible for new features.
+
+76
+00:03:21.09 --> 00:03:24.08
+Very importantly, you can see information
+
+77
+00:03:24.08 --> 00:03:27.08
+about if your account is in good standing
+
+78
+00:03:27.08 --> 00:03:30.01
+and is it verified.
+
+79
+00:03:30.01 --> 00:03:32.06
+Remember, being in good
+standing is necessary
+
+80
+00:03:32.06 --> 00:03:34.05
+so they don't take your page down.
+
+81
+00:03:34.05 --> 00:03:36.08
+And if your account is not verified,
+
+82
+00:03:36.08 --> 00:03:40.05
+the videos you upload
+can be only very short.
+
+83
+00:03:40.05 --> 00:03:42.05
+Google needs to have contact information
+
+84
+00:03:42.05 --> 00:03:46.00
+to let you allow videos up that
+are longer than 15 minutes.
+
+85
+00:03:46.00 --> 00:03:48.09
+And there are other features
+to verify the account as well,
+
+86
+00:03:48.09 --> 00:03:51.08
+including the ability to
+recover a lost password
+
+87
+00:03:51.08 --> 00:03:54.03
+or other problems that might happen.
+
+88
+00:03:54.03 --> 00:03:57.00
+Verification is a great way to make sure
+
+89
+00:03:57.00 --> 00:03:59.04
+you stay in control of
+your YouTube account
+
+90
+00:03:59.04 --> 00:04:03.00
+and these channel controls
+give you a lot more options
+
+91
+00:04:03.00 --> 00:04:05.06
+that put you in control of your content.
+

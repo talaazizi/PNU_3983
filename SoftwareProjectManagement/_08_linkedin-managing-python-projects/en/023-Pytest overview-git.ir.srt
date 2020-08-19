@@ -1,0 +1,244 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:03,05
+- [Narrator] Python has a built in unitest model.
+
+2
+00:00:03,05 --> 00:00:06,03
+It is pretty good and you can use it effectively.
+
+3
+00:00:06,03 --> 00:00:09,00
+However, unitest is heavily based on
+
+4
+00:00:09,00 --> 00:00:10,08
+similar Java library and
+
+5
+00:00:10,08 --> 00:00:13,01
+doesn't feel very pythonic.
+
+6
+00:00:13,01 --> 00:00:15,09
+I prefer to use the third party, Pytest.
+
+7
+00:00:15,09 --> 00:00:19,09
+Apart from feeling more pythonic at light,
+
+8
+00:00:19,09 --> 00:00:23,00
+Pytest has a vibrant ecosystem, with many plug-ins
+
+9
+00:00:23,00 --> 00:00:25,04
+for benchmarking, continuous integration,
+
+10
+00:00:25,04 --> 00:00:27,03
+fuzing and more.
+
+11
+00:00:27,03 --> 00:00:30,00
+If you already have tests written in unitest,
+
+12
+00:00:30,00 --> 00:00:31,05
+you don't need to change them.
+
+13
+00:00:31,05 --> 00:00:34,06
+Pytest knows how to run unitest tests.
+
+14
+00:00:34,06 --> 00:00:36,08
+Assume you wrote, "a small math library",
+
+15
+00:00:36,08 --> 00:00:40,00
+which exposes sqrt, the square root function,
+
+16
+00:00:40,00 --> 00:00:43,02
+and you'd like to test it.
+
+17
+00:00:43,02 --> 00:00:48,03
+In test/test_mathlib.py, we have the tests.
+
+18
+00:00:48,03 --> 00:00:52,09
+The first test is a very simple test, test_sqrt.
+
+19
+00:00:52,09 --> 00:00:55,07
+We define n to be 2, the expected value
+
+20
+00:00:55,07 --> 00:00:58,06
+to be 1.4142 and the value,
+
+21
+00:00:58,06 --> 00:01:02,00
+is the return value from our sqrt function.
+
+22
+00:01:02,00 --> 00:01:05,00
+And then right then, we do the actual comparison.
+
+23
+00:01:05,00 --> 00:01:07,00
+We are sure that the expected `value
+
+24
+00:01:07,00 --> 00:01:09,00
+equaled the round of the value for 4.
+
+25
+00:01:09,00 --> 00:01:11,00
+Since we're dealing with floating points
+
+26
+00:01:11,00 --> 00:01:13,03
+we need to round them up.
+
+27
+00:01:13,03 --> 00:01:15,02
+And we defined the arrow message,
+
+28
+00:01:15,02 --> 00:01:17,02
+which is very helpful when looking
+
+29
+00:01:17,02 --> 00:01:19,00
+at the test output.
+
+30
+00:01:19,00 --> 00:01:21,02
+Let's run the tests,
+
+31
+00:01:21,02 --> 00:01:24,06
+python -m pytest and we tell it
+
+32
+00:01:24,06 --> 00:01:27,07
+that the tests are in the test's director.
+
+33
+00:01:27,07 --> 00:01:31,04
+And we will see dots for all the tests being run.
+
+34
+00:01:31,04 --> 00:01:34,04
+You can add the -v parameter and now
+
+35
+00:01:34,04 --> 00:01:38,06
+we will get the name of the tests being run.
+
+36
+00:01:38,06 --> 00:01:39,09
+There are times when we'd like to
+
+37
+00:01:39,09 --> 00:01:42,09
+test the same function with several inputs,
+
+38
+00:01:42,09 --> 00:01:44,05
+like we have in line 13.
+
+39
+00:01:44,05 --> 00:01:46,09
+The square root cases are, for 1 we get 1,
+
+40
+00:01:46,09 --> 00:01:52,00
+for 2 we get 1.4142 and for 4 we should get 2.
+
+41
+00:01:52,00 --> 00:01:53,07
+For this we can use the decorator,
+
+42
+00:01:53,07 --> 00:01:56,09
+pytest.mark.parametrize.
+
+43
+00:01:56,09 --> 00:01:58,07
+We give it a string with the names
+
+44
+00:01:58,07 --> 00:02:01,08
+of the parameters and the test cases.
+
+45
+00:02:01,08 --> 00:02:03,07
+And we define a test function that now
+
+46
+00:02:03,07 --> 00:02:07,04
+gets the parameters as defined in the string.
+
+47
+00:02:07,04 --> 00:02:09,00
+Then we do in line 22, the value equal
+
+48
+00:02:09,00 --> 00:02:12,09
+mathlib.sqrt test and the expected value
+
+49
+00:02:12,09 --> 00:02:16,02
+equal the round value and again,
+
+50
+00:02:16,02 --> 00:02:19,05
+and arrow message which is important.
+
+51
+00:02:19,05 --> 00:02:21,07
+You notice that when we run the test,
+
+52
+00:02:21,07 --> 00:02:24,05
+we see actually three different tests.
+
+53
+00:02:24,05 --> 00:02:28,00
+One for every test case that we had.
+
+54
+00:02:28,00 --> 00:02:30,05
+You can also run just a single test so,
+
+55
+00:02:30,05 --> 00:02:36,07
+python -m pytest -v tests/tests mathlib.py
+
+56
+00:02:36,07 --> 00:02:39,05
+and then a double colon and we can say
+
+57
+00:02:39,05 --> 00:02:44,00
+just a test sqrt, to run just a single test.
+
+58
+00:02:44,00 --> 00:02:47,01
+Most modern ideas such a PyCharm,
+
+59
+00:02:47,01 --> 00:02:49,00
+have good integration with pytest.
+
+60
+00:02:49,00 --> 00:02:52,00
+We have the commentation on how to select a test run.
+

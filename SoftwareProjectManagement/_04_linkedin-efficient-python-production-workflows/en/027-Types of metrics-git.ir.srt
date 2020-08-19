@@ -1,0 +1,76 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:02,06
+- [Instructor] There are several types of metrics.
+
+2
+00:00:02,06 --> 00:00:06,03
+The names and definitions will vary from system to system,
+
+3
+00:00:06,03 --> 00:00:08,00
+but the ideas are the same.
+
+4
+00:00:08,00 --> 00:00:09,04
+I'm going to use the definitions
+
+5
+00:00:09,04 --> 00:00:11,07
+from the popular Prometheus system.
+
+6
+00:00:11,07 --> 00:00:14,00
+The most common type is a gauge.
+
+7
+00:00:14,00 --> 00:00:16,04
+It's a value that can go up and down.
+
+8
+00:00:16,04 --> 00:00:19,02
+For example, duration of a query.
+
+9
+00:00:19,02 --> 00:00:21,02
+Another type is a counter.
+
+10
+00:00:21,02 --> 00:00:23,05
+It's a value that goes only up.
+
+11
+00:00:23,05 --> 00:00:25,07
+For example, the number of errors,
+
+12
+00:00:25,07 --> 00:00:28,05
+which you can use for managing your error budget.
+
+13
+00:00:28,05 --> 00:00:32,01
+Other common types are histograms or summary.
+
+14
+00:00:32,01 --> 00:00:35,01
+They are an aggregation of values over time.
+
+15
+00:00:35,01 --> 00:00:39,00
+For example, the number of website hits in the last second.
+
+16
+00:00:39,00 --> 00:00:41,06
+Learn the metric types that are supported
+
+17
+00:00:41,06 --> 00:00:43,02
+by the system you are using
+
+18
+00:00:43,02 --> 00:00:46,00
+and use the right type for what you measure.
+

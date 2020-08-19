@@ -1,0 +1,706 @@
+1
+00:00:00.07 --> 00:00:04.03
+- One of the truly useful
+tools is the video manager.
+
+2
+00:00:04.03 --> 00:00:07.09
+This lets you see all of
+your videos in an account.
+
+3
+00:00:07.09 --> 00:00:11.05
+It's great for finding content
+or making bulk changes.
+
+4
+00:00:11.05 --> 00:00:13.05
+With the video manager, we can do things
+
+5
+00:00:13.05 --> 00:00:15.08
+like actually see everything.
+
+6
+00:00:15.08 --> 00:00:17.00
+And there are a lot of tools
+
+7
+00:00:17.00 --> 00:00:20.03
+to sort and sift and find things.
+
+8
+00:00:20.03 --> 00:00:24.00
+Also, it's going to show
+you everything by default.
+
+9
+00:00:24.00 --> 00:00:27.05
+But it's easy to change that
+to see certain privacy settings
+
+10
+00:00:27.05 --> 00:00:31.00
+like only my private videos or only videos
+
+11
+00:00:31.00 --> 00:00:36.01
+that have been set to a
+creative commons license.
+
+12
+00:00:36.01 --> 00:00:38.02
+These filter settings are quite useful
+
+13
+00:00:38.02 --> 00:00:39.04
+so you can find things.
+
+14
+00:00:39.04 --> 00:00:42.02
+And you can even take a look
+at other advanced settings,
+
+15
+00:00:42.02 --> 00:00:44.07
+searching for things like who uploaded it
+
+16
+00:00:44.07 --> 00:00:48.07
+or how many views a video has received.
+
+17
+00:00:48.07 --> 00:00:53.03
+Also what's great is the ability
+to control multiple videos.
+
+18
+00:00:53.03 --> 00:00:55.03
+This allows you to change any setting
+
+19
+00:00:55.03 --> 00:00:59.02
+for individual videos or a group.
+
+20
+00:00:59.02 --> 00:01:01.00
+This can be quite useful if you want to
+
+21
+00:01:01.00 --> 00:01:05.01
+put multiple videos into
+a playlist, for example.
+
+22
+00:01:05.01 --> 00:01:06.09
+Or if you need to add tags,
+
+23
+00:01:06.09 --> 00:01:11.08
+change categories, or
+add age restrictions.
+
+24
+00:01:11.08 --> 00:01:15.01
+Also, it's a great way
+to check the status.
+
+25
+00:01:15.01 --> 00:01:18.03
+So on each video, you
+can see key information
+
+26
+00:01:18.03 --> 00:01:22.05
+like the privacy, the publication status,
+
+27
+00:01:22.05 --> 00:01:26.07
+the number of likes,
+dislikes, views, and comments,
+
+28
+00:01:26.07 --> 00:01:30.09
+and as you see here, it
+really is total control.
+
+29
+00:01:30.09 --> 00:01:35.00
+I have the ability to see
+exactly all of my videos.
+
+30
+00:01:35.00 --> 00:01:38.06
+I can see whether or
+not they've been shared.
+
+31
+00:01:38.06 --> 00:01:41.07
+Is a video high definition?
+
+32
+00:01:41.07 --> 00:01:45.00
+Is a video being monetized?
+
+33
+00:01:45.00 --> 00:01:48.02
+Is the video scheduled or public?
+
+34
+00:01:48.02 --> 00:01:52.00
+And this is really quite useful.
+
+35
+00:01:52.00 --> 00:01:54.02
+In this case, it helps me understand
+
+36
+00:01:54.02 --> 00:01:57.02
+the status of what I've published.
+
+37
+00:01:57.02 --> 00:02:00.02
+Let me give you an example
+of using the video manager
+
+38
+00:02:00.02 --> 00:02:02.07
+to make a change to several videos.
+
+39
+00:02:02.07 --> 00:02:04.00
+I'm going to go to one of my accounts
+
+40
+00:02:04.00 --> 00:02:06.07
+that has several videos uploaded.
+
+41
+00:02:06.07 --> 00:02:09.09
+In this case, I've switched
+back to the Photofocus account.
+
+42
+00:02:09.09 --> 00:02:12.01
+And I'm in the video manager.
+
+43
+00:02:12.01 --> 00:02:15.06
+This is part of the creator studio.
+
+44
+00:02:15.06 --> 00:02:19.02
+I'm going to tell it that I
+want to find certain content.
+
+45
+00:02:19.02 --> 00:02:21.05
+So under view here, I'm going to click
+
+46
+00:02:21.05 --> 00:02:29.03
+and say that I want to see
+all of my unlisted videos.
+
+47
+00:02:29.03 --> 00:02:31.06
+You see that it finds my unlisted videos.
+
+48
+00:02:31.06 --> 00:02:34.06
+And in this case, I've
+got a bunch of interviews
+
+49
+00:02:34.06 --> 00:02:38.05
+and other things that are only
+published in certain places.
+
+50
+00:02:38.05 --> 00:02:41.04
+Well, I want to modify these studio tips.
+
+51
+00:02:41.04 --> 00:02:43.09
+So I'm going to select
+all of the studio tips
+
+52
+00:02:43.09 --> 00:02:45.09
+that are currently unlisted.
+
+53
+00:02:45.09 --> 00:02:48.08
+These have been published
+to a specific article
+
+54
+00:02:48.08 --> 00:02:51.06
+on the Photofocus website,
+but they're not easy
+
+55
+00:02:51.06 --> 00:02:54.02
+for other people to see
+unless they directly went
+
+56
+00:02:54.02 --> 00:02:57.05
+to that article because
+they're not listed on the page.
+
+57
+00:02:57.05 --> 00:03:00.00
+So now, I'm going to give
+these a broader audience
+
+58
+00:03:00.00 --> 00:03:02.03
+so they're easier to discover.
+
+59
+00:03:02.03 --> 00:03:06.08
+What I've done here is selected
+all of the studio tips.
+
+60
+00:03:06.08 --> 00:03:09.04
+And we're going to make these public.
+
+61
+00:03:09.04 --> 00:03:11.02
+Now, you see that I can go through
+
+62
+00:03:11.02 --> 00:03:12.07
+and navigate through pages.
+
+63
+00:03:12.07 --> 00:03:15.09
+In this case I've got two
+pages of unlisted videos.
+
+64
+00:03:15.09 --> 00:03:17.02
+So it's important to switch
+
+65
+00:03:17.02 --> 00:03:19.02
+and make sure that none were left behind.
+
+66
+00:03:19.02 --> 00:03:21.09
+And it looks like I found them all there.
+
+67
+00:03:21.09 --> 00:03:24.09
+So I'll go back
+
+68
+00:03:24.09 --> 00:03:28.09
+and in this case, with
+those videos selected,
+
+69
+00:03:28.09 --> 00:03:30.09
+notice that it only wants me to be able
+
+70
+00:03:30.09 --> 00:03:33.04
+to do that on one page at a time.
+
+71
+00:03:33.04 --> 00:03:37.01
+So if I switch pages,
+it lost the selection.
+
+72
+00:03:37.01 --> 00:03:40.09
+So it's important that you
+either fit everything on one page
+
+73
+00:03:40.09 --> 00:03:45.01
+or you make these changes
+in smaller groups.
+
+74
+00:03:45.01 --> 00:03:47.09
+There we go.
+
+75
+00:03:47.09 --> 00:03:50.05
+Now what I'm going to do
+is make a few changes.
+
+76
+00:03:50.05 --> 00:03:52.03
+First under actions, I'm going to say
+
+77
+00:03:52.03 --> 00:03:56.09
+that I want to switch these to public.
+
+78
+00:03:56.09 --> 00:04:00.04
+And I'm going to update that
+
+79
+00:04:00.04 --> 00:04:05.01
+and click submit.
+
+80
+00:04:05.01 --> 00:04:09.03
+Now, as I'm waiting, you'll
+notice that I am unable
+
+81
+00:04:09.03 --> 00:04:12.00
+to do things while that's being edited.
+
+82
+00:04:12.00 --> 00:04:14.07
+It says pending edit.
+
+83
+00:04:14.07 --> 00:04:17.09
+So this is going to take a
+little bit to find all of those,
+
+84
+00:04:17.09 --> 00:04:22.07
+but it'll be done in just a moment.
+
+85
+00:04:22.07 --> 00:04:24.09
+Now they've been updated and are removed
+
+86
+00:04:24.09 --> 00:04:27.02
+from the unlisted list.
+
+87
+00:04:27.02 --> 00:04:29.00
+Let's go ahead and search here for things
+
+88
+00:04:29.00 --> 00:04:32.01
+that have studio tips in the title.
+
+89
+00:04:32.01 --> 00:04:35.05
+I'll just do a search here
+
+90
+00:04:35.05 --> 00:04:38.01
+and it found them all.
+
+91
+00:04:38.01 --> 00:04:41.08
+Now what I'm going to do is
+click to select all of those
+
+92
+00:04:41.08 --> 00:04:44.01
+and I'm going to make another change here.
+
+93
+00:04:44.01 --> 00:04:47.04
+Under actions, for example,
+I can make sure I tell it
+
+94
+00:04:47.04 --> 00:04:49.08
+that I want to monetize these.
+
+95
+00:04:49.08 --> 00:04:53.03
+Maybe I want to allow video ads
+
+96
+00:04:53.03 --> 00:04:56.03
+or sponsored cards.
+
+97
+00:04:56.03 --> 00:04:58.03
+If I click monetize,
+
+98
+00:04:58.03 --> 00:05:01.06
+now these videos are able to be monetized.
+
+99
+00:05:01.06 --> 00:05:02.09
+Now one of the things I noticed
+
+100
+00:05:02.09 --> 00:05:06.05
+is that the uploader
+hasn't been consistent.
+
+101
+00:05:06.05 --> 00:05:08.05
+Studio tips plural,
+
+102
+00:05:08.05 --> 00:05:13.01
+studio tips plural with
+a colon, studio tip.
+
+103
+00:05:13.01 --> 00:05:16.03
+Now, this is a great way to
+see those sorts of problems.
+
+104
+00:05:16.03 --> 00:05:18.05
+So what you can actually do is work
+
+105
+00:05:18.05 --> 00:05:21.08
+with that content if you
+needed to make a change.
+
+106
+00:05:21.08 --> 00:05:26.03
+So you'll see here other
+choices including more actions,
+
+107
+00:05:26.03 --> 00:05:29.02
+which allows you to make
+additional changes here.
+
+108
+00:05:29.02 --> 00:05:31.02
+Do you want to allow
+something to be embedded?
+
+109
+00:05:31.02 --> 00:05:33.07
+Do you want to adjust the title?
+
+110
+00:05:33.07 --> 00:05:36.04
+So this'll make it easy and I can assign
+
+111
+00:05:36.04 --> 00:05:39.08
+a new title to all of
+these videos if I wanted.
+
+112
+00:05:39.08 --> 00:05:40.07
+Pretty useful.
+
+113
+00:05:40.07 --> 00:05:42.04
+Let's go ahead and exit that for a moment.
+
+114
+00:05:42.04 --> 00:05:44.04
+But with all these videos selected,
+
+115
+00:05:44.04 --> 00:05:48.04
+what I want to actually do
+is add this to a playlist.
+
+116
+00:05:48.04 --> 00:05:50.03
+So I'm going to click
+cancel for a second here
+
+117
+00:05:50.03 --> 00:05:52.05
+and say add to
+
+118
+00:05:52.05 --> 00:05:58.03
+and I'm going to make a new
+playlist called studio tips
+
+119
+00:05:58.03 --> 00:06:01.00
+and click create.
+
+120
+00:06:01.00 --> 00:06:02.03
+And you'll see that those videos
+
+121
+00:06:02.03 --> 00:06:08.04
+have been added to a playlist.
+
+122
+00:06:08.04 --> 00:06:09.09
+Add to studio tips.
+
+123
+00:06:09.09 --> 00:06:11.00
+Great.
+
+124
+00:06:11.00 --> 00:06:13.04
+Now we do already have
+a playlist of that name,
+
+125
+00:06:13.04 --> 00:06:16.09
+so keep in mind that you might
+have a little confusion there
+
+126
+00:06:16.09 --> 00:06:19.07
+if you have two sets of tips.
+
+127
+00:06:19.07 --> 00:06:22.00
+So it's important that you control this.
+
+128
+00:06:22.00 --> 00:06:24.00
+But in any case, you see that the videos
+
+129
+00:06:24.00 --> 00:06:27.01
+have now been set to monetize and public,
+
+130
+00:06:27.01 --> 00:06:30.02
+and those global changes have been made.
+
+131
+00:06:30.02 --> 00:06:32.09
+If I were to go over to
+my playlist category here,
+
+132
+00:06:32.09 --> 00:06:34.06
+I'd be able to see things.
+
+133
+00:06:34.06 --> 00:06:37.04
+So here we have two sets of videos.
+
+134
+00:06:37.04 --> 00:06:41.00
+Studio tips, both public and private.
+
+135
+00:06:41.00 --> 00:06:42.05
+Now in this case, I'm going to get rid
+
+136
+00:06:42.05 --> 00:06:44.03
+of that new one that I made.
+
+137
+00:06:44.03 --> 00:06:46.06
+But you see, easy enough, it was able
+
+138
+00:06:46.06 --> 00:06:49.07
+to put those all into one playlist.
+
+139
+00:06:49.07 --> 00:06:52.07
+Let's go ahead back for a second.
+
+140
+00:06:52.07 --> 00:07:01.05
+Let's go ahead and edit that for a second.
+
+141
+00:07:01.05 --> 00:07:05.02
+And if I want to, I can
+actually remove this one
+
+142
+00:07:05.02 --> 00:07:07.07
+from this particular
+playlist and it's done.
+
+143
+00:07:07.07 --> 00:07:10.06
+Or if needed, I can click
+the edit button here
+
+144
+00:07:10.06 --> 00:07:13.07
+and make additional changes
+to this particular playlist
+
+145
+00:07:13.07 --> 00:07:16.08
+including the settings and other changes.
+
+146
+00:07:16.08 --> 00:07:19.00
+If you want, click the more button
+
+147
+00:07:19.00 --> 00:07:21.03
+and this is where you can
+get rid of the playlist
+
+148
+00:07:21.03 --> 00:07:23.07
+or make other global changes.
+
+149
+00:07:23.07 --> 00:07:25.05
+Now I'm going to kill that
+playlist 'cause I actually
+
+150
+00:07:25.05 --> 00:07:28.00
+have these videos in a playlist already.
+
+151
+00:07:28.00 --> 00:07:31.01
+But as you can see, this
+makes it much easier
+
+152
+00:07:31.01 --> 00:07:33.08
+to control how videos are being used.
+
+153
+00:07:33.08 --> 00:07:36.02
+Now that ability to use the video manager
+
+154
+00:07:36.02 --> 00:07:39.03
+is quite useful and quite powerful.
+
+155
+00:07:39.03 --> 00:07:42.01
+Remember, you have great search controls
+
+156
+00:07:42.01 --> 00:07:45.07
+as well as an actions menu
+that lets you change things.
+
+157
+00:07:45.07 --> 00:07:48.04
+As you start to select multiple videos,
+
+158
+00:07:48.04 --> 00:07:50.09
+that actions menu truly becomes useful
+
+159
+00:07:50.09 --> 00:07:54.01
+so you can apply global
+changes to a list of videos
+
+160
+00:07:54.01 --> 00:07:57.00
+or use the add to button to organize them
+
+161
+00:07:57.00 --> 00:07:58.08
+into a playlist for enjoyment.
+

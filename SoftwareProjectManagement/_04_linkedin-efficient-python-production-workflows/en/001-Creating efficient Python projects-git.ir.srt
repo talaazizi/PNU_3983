@@ -1,0 +1,68 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:01,05
+- [Instructor] The ultimate test
+
+2
+00:00:01,05 --> 00:00:04,08
+to your code is how it works in production.
+
+3
+00:00:04,08 --> 00:00:06,08
+It doesn't matter the tests are passing
+
+4
+00:00:06,08 --> 00:00:08,09
+if your code fails in production.
+
+5
+00:00:08,09 --> 00:00:11,08
+Hi, I'm Miki Tebeka and I've been shipping
+
+6
+00:00:11,08 --> 00:00:15,01
+Python code to production for over 20 years.
+
+7
+00:00:15,01 --> 00:00:16,08
+In this class, I'll teach you how
+
+8
+00:00:16,08 --> 00:00:19,02
+to make your code production-ready.
+
+9
+00:00:19,02 --> 00:00:21,05
+A production-ready code will let you sleep better
+
+10
+00:00:21,05 --> 00:00:22,09
+at night and will make you
+
+11
+00:00:22,09 --> 00:00:25,06
+a good friend of the operations team.
+
+12
+00:00:25,06 --> 00:00:28,05
+We'll discuss many concepts, from testing
+
+13
+00:00:28,05 --> 00:00:31,03
+to logging and development strategies.
+
+14
+00:00:31,03 --> 00:00:33,00
+All of these are not strictly related
+
+15
+00:00:33,00 --> 00:00:34,08
+to coding, but crucial
+
+16
+00:00:34,08 --> 00:00:37,00
+for having your code making a difference.
+

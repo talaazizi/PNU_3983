@@ -1,0 +1,88 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,01
+- [Instructor] As Heraclitus said,
+
+2
+00:00:02,01 --> 00:00:05,00
+"change is the only constant in life."
+
+3
+00:00:05,00 --> 00:00:08,03
+Over time, your production environment will change,
+
+4
+00:00:08,03 --> 00:00:11,00
+your team will change, customers will change,
+
+5
+00:00:11,00 --> 00:00:13,03
+as well as many other things.
+
+6
+00:00:13,03 --> 00:00:15,02
+Your process should change as well,
+
+7
+00:00:15,02 --> 00:00:17,06
+to accommodate for these changes.
+
+8
+00:00:17,06 --> 00:00:19,08
+Your process should serve you.
+
+9
+00:00:19,08 --> 00:00:22,07
+If you feel it doesn't, go and fix it.
+
+10
+00:00:22,07 --> 00:00:25,08
+However, you shouldn't just blindly change things.
+
+11
+00:00:25,08 --> 00:00:29,04
+You should make changes based on data.
+
+12
+00:00:29,04 --> 00:00:32,05
+A nice model you can look into is the OODA,
+
+13
+00:00:32,05 --> 00:00:37,03
+which stands for observe, orient, decide and act loop.
+
+14
+00:00:37,03 --> 00:00:40,07
+Every time you make a change, you observe the affect it made
+
+15
+00:00:40,07 --> 00:00:43,00
+and then make changes accordingly.
+
+16
+00:00:43,00 --> 00:00:44,08
+Repeat forever.
+
+17
+00:00:44,08 --> 00:00:48,03
+Our eyes into production and the way we can observe changes
+
+18
+00:00:48,03 --> 00:00:52,06
+is monitoring, which we will discuss in other chapters.
+
+19
+00:00:52,06 --> 00:00:55,04
+As DJ Patil, who was the Chief Data Scientist
+
+20
+00:00:55,04 --> 00:00:56,08
+for the White House said,
+
+21
+00:00:56,08 --> 00:01:00,00
+"if you can't measure it, you can't fix it."
+

@@ -1,0 +1,172 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:03,02
+- [Instructor] Every piece of work you do should be tracked.
+
+2
+00:00:03,02 --> 00:00:06,01
+It can be a back fix, a feature to implement,
+
+3
+00:00:06,01 --> 00:00:07,08
+or a maintenance task.
+
+4
+00:00:07,08 --> 00:00:09,09
+The seven issue tracking systems,
+
+5
+00:00:09,09 --> 00:00:13,04
+such as Jira, Trello, Asana, and more.
+
+6
+00:00:13,04 --> 00:00:16,01
+GitHub has its own issue system, which is good enough,
+
+7
+00:00:16,01 --> 00:00:17,08
+in my opinion.
+
+8
+00:00:17,08 --> 00:00:21,02
+So if you to our project, we see we have an issues tab,
+
+9
+00:00:21,02 --> 00:00:23,06
+and we can add issues here.
+
+10
+00:00:23,06 --> 00:00:27,05
+A good issue has a good title and a good description.
+
+11
+00:00:27,05 --> 00:00:30,02
+Imagine yourself in a couple of months
+
+12
+00:00:30,02 --> 00:00:33,00
+getting back to an issue to implement it.
+
+13
+00:00:33,00 --> 00:00:36,05
+Be kind to your future self or fellow developers
+
+14
+00:00:36,05 --> 00:00:39,04
+and invest time in creating a good issue.
+
+15
+00:00:39,04 --> 00:00:41,08
+Some themes have templates for an issue
+
+16
+00:00:41,08 --> 00:00:44,02
+with item such as these.
+
+17
+00:00:44,02 --> 00:00:47,07
+Here's the pandas theme new issue template.
+
+18
+00:00:47,07 --> 00:00:50,02
+So when you create a new issue in pandas,
+
+19
+00:00:50,02 --> 00:00:55,01
+you get a template and you need to put in the code,
+
+20
+00:00:55,01 --> 00:00:58,04
+the problem description, expected output,
+
+21
+00:00:58,04 --> 00:01:01,07
+output of the version, etc. etc.
+
+22
+00:01:01,07 --> 00:01:05,01
+Think about the checklist for your issues.
+
+23
+00:01:05,01 --> 00:01:08,00
+Looking at our code in _init_.py, we see
+
+24
+00:01:08,00 --> 00:01:12,03
+that in _init_, the tokenize function is not documented.
+
+25
+00:01:12,03 --> 00:01:15,00
+Let's create an issue for it.
+
+26
+00:01:15,00 --> 00:01:19,01
+So, we go to nlpy, we create a new issue,
+
+27
+00:01:19,01 --> 00:01:24,02
+we write "Document tokenize."
+
+28
+00:01:24,02 --> 00:01:26,05
+And here we could write in markdown format
+
+29
+00:01:26,05 --> 00:01:28,09
+the description of the issue.
+
+30
+00:01:28,09 --> 00:01:32,05
+"The tokenize function
+
+31
+00:01:32,05 --> 00:01:37,05
+"in nlp._init_.py,"
+
+32
+00:01:37,05 --> 00:01:39,06
+which lets people know where it is,
+
+33
+00:01:39,06 --> 00:01:44,07
+"is not documented.
+
+34
+00:01:44,07 --> 00:01:50,02
+"Add a docstring to the function."
+
+35
+00:01:50,02 --> 00:01:51,05
+I think this is clear enough.
+
+36
+00:01:51,05 --> 00:01:54,06
+You can hit the Preview and see how it looks.
+
+37
+00:01:54,06 --> 00:02:00,05
+And once you're satisfied, you can submit the new issue.
+
+38
+00:02:00,05 --> 00:02:02,02
+Other things we can do with the issue,
+
+39
+00:02:02,02 --> 00:02:05,09
+we can assign it, so I am going to assign it to myself.
+
+40
+00:02:05,09 --> 00:02:09,07
+We can add labels to issues for easier searching,
+
+41
+00:02:09,07 --> 00:02:12,07
+and we can add milestones to issues saying,
+
+42
+00:02:12,07 --> 00:02:17,00
+"This issue belongs to release 1.0.6."
+

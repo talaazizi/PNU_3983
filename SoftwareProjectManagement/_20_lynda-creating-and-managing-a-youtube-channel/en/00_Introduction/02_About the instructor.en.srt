@@ -1,0 +1,400 @@
+1
+00:00:00.05 --> 00:00:02.05
+- Before we explore
+YouTube, I'd like to take
+
+2
+00:00:02.05 --> 00:00:05.00
+just a brief moment to introduce myself.
+
+3
+00:00:05.00 --> 00:00:07.07
+I've been creating web
+content for many years.
+
+4
+00:00:07.07 --> 00:00:12.03
+In fact, I put my first
+video up online back in 1996.
+
+5
+00:00:12.03 --> 00:00:15.01
+So I've been at this for
+awhile with encoding video.
+
+6
+00:00:15.01 --> 00:00:17.03
+I've managed websites for many years,
+
+7
+00:00:17.03 --> 00:00:19.06
+including those on photography and music
+
+8
+00:00:19.06 --> 00:00:21.07
+and I've always relied upon different ways
+
+9
+00:00:21.07 --> 00:00:24.00
+of sharing audio and video content
+
+10
+00:00:24.00 --> 00:00:26.05
+to really distribute to the masses.
+
+11
+00:00:26.05 --> 00:00:28.08
+Now, YouTube is a big
+part of that strategy
+
+12
+00:00:28.08 --> 00:00:30.09
+and I'll share with you some
+of the lessons I've learned
+
+13
+00:00:30.09 --> 00:00:32.02
+through the years.
+
+14
+00:00:32.02 --> 00:00:34.00
+I've also authored about 40 books
+
+15
+00:00:34.00 --> 00:00:37.03
+for things about photography,
+video, and business.
+
+16
+00:00:37.03 --> 00:00:39.01
+So many of these have been official texts
+
+17
+00:00:39.01 --> 00:00:42.08
+for Adobe and Apple and a
+lot of content on web video.
+
+18
+00:00:42.08 --> 00:00:45.09
+In fact, I wrote the first
+book on video podcasting,
+
+19
+00:00:45.09 --> 00:00:48.06
+which is a precursor to a lot of things
+
+20
+00:00:48.06 --> 00:00:51.06
+that have happened now and
+migrated over to YouTube.
+
+21
+00:00:51.06 --> 00:00:53.04
+I'm very familiar with the concept
+
+22
+00:00:53.04 --> 00:00:56.00
+of creating content for
+the web specifically,
+
+23
+00:00:56.00 --> 00:00:58.03
+and distributing it
+out to folks to consume
+
+24
+00:00:58.03 --> 00:01:01.01
+on a regular basis.
+
+25
+00:01:01.01 --> 00:01:04.01
+I've recorded more than
+150 online classes,
+
+26
+00:01:04.01 --> 00:01:06.05
+so making online content is something
+
+27
+00:01:06.05 --> 00:01:08.00
+I'm very familiar with.
+
+28
+00:01:08.00 --> 00:01:10.04
+And I regularly publish two websites.
+
+29
+00:01:10.04 --> 00:01:14.01
+A personal blog and a daily
+blog about photography
+
+30
+00:01:14.01 --> 00:01:16.02
+that's been published
+with multiple authors
+
+31
+00:01:16.02 --> 00:01:19.01
+coming up on 20 years now.
+
+32
+00:01:19.01 --> 00:01:21.00
+I also serve as the
+program manager for the
+
+33
+00:01:21.00 --> 00:01:22.08
+National Association of Broadcasters
+
+34
+00:01:22.08 --> 00:01:25.01
+for their post-production
+world conference.
+
+35
+00:01:25.01 --> 00:01:26.09
+This is a conference that has been around
+
+36
+00:01:26.09 --> 00:01:29.04
+for almost two decades and it helps people
+
+37
+00:01:29.04 --> 00:01:32.02
+learn and master new
+skills about video editing,
+
+38
+00:01:32.02 --> 00:01:35.09
+production, post-production,
+and distributing content
+
+39
+00:01:35.09 --> 00:01:37.07
+to the world.
+
+40
+00:01:37.07 --> 00:01:39.08
+I also keep myself busy as an owner
+
+41
+00:01:39.08 --> 00:01:41.02
+of a video production company.
+
+42
+00:01:41.02 --> 00:01:43.05
+And we're frequently
+called upon to make content
+
+43
+00:01:43.05 --> 00:01:45.05
+for YouTube and to help people with things
+
+44
+00:01:45.05 --> 00:01:48.01
+like live streaming and live events.
+
+45
+00:01:48.01 --> 00:01:50.00
+Creating content for the web is something
+
+46
+00:01:50.00 --> 00:01:52.03
+that I've had the pleasure
+of doing a lot of.
+
+47
+00:01:52.03 --> 00:01:54.04
+As such, I've made a lot of
+mistakes through the years
+
+48
+00:01:54.04 --> 00:01:57.08
+and have had a lot of opportunities
+to learn best practices.
+
+49
+00:01:57.08 --> 00:01:59.09
+We've been able to put this into practice
+
+50
+00:01:59.09 --> 00:02:03.01
+for many different companies
+and brands you might recognize.
+
+51
+00:02:03.01 --> 00:02:05.00
+A partial client roster includes the fact
+
+52
+00:02:05.00 --> 00:02:06.05
+that we've done work for companies like
+
+53
+00:02:06.05 --> 00:02:15.07
+Apple, Adobe, Canon, Cisco, Drobo, Google,
+
+54
+00:02:15.07 --> 00:02:22.06
+KelbyOne, Lynda.com,
+Microsoft, and Skylum Software.
+
+55
+00:02:22.06 --> 00:02:25.00
+As you can see we've
+been around the block.
+
+56
+00:02:25.00 --> 00:02:27.01
+And as such I have pretty strong opinions
+
+57
+00:02:27.01 --> 00:02:29.03
+about what works and what doesn't work.
+
+58
+00:02:29.03 --> 00:02:31.06
+To be perfectly honest
+there's things about YouTube
+
+59
+00:02:31.06 --> 00:02:32.09
+that drive me crazy.
+
+60
+00:02:32.09 --> 00:02:34.09
+And there are things
+about the terms of service
+
+61
+00:02:34.09 --> 00:02:37.07
+that I want to make sure
+you are keenly aware of.
+
+62
+00:02:37.07 --> 00:02:39.08
+In this course, while
+we're going to explore
+
+63
+00:02:39.08 --> 00:02:42.03
+a lot of technical things, I'm
+also going to share with you
+
+64
+00:02:42.03 --> 00:02:45.05
+practical advice when it
+comes to having a strategy,
+
+65
+00:02:45.05 --> 00:02:47.03
+as well as some business considerations
+
+66
+00:02:47.03 --> 00:02:49.00
+you need to keep in mind if YouTube
+
+67
+00:02:49.00 --> 00:02:51.02
+is going to be a part of your platform.
+
+68
+00:02:51.02 --> 00:02:52.07
+Through the years we've also produced
+
+69
+00:02:52.07 --> 00:02:55.03
+a lot of different types of content.
+
+70
+00:02:55.03 --> 00:02:58.07
+We've produced videos on
+a wide range of topics
+
+71
+00:02:58.07 --> 00:03:00.07
+from technology and photography
+
+72
+00:03:00.07 --> 00:03:02.09
+to graphic design and fashion.
+
+73
+00:03:02.09 --> 00:03:04.09
+We've worked with a lot of
+clients who are producing
+
+74
+00:03:04.09 --> 00:03:07.02
+content for health and parenting.
+
+75
+00:03:07.02 --> 00:03:09.08
+As well as even the
+college admissions process,
+
+76
+00:03:09.08 --> 00:03:14.03
+education, fundraising,
+fitness, and many other areas.
+
+77
+00:03:14.03 --> 00:03:17.01
+Now, a lot of you know me
+as an on-camera trainer
+
+78
+00:03:17.01 --> 00:03:19.05
+producing courses like
+this one that you watch.
+
+79
+00:03:19.05 --> 00:03:21.07
+But we spend far more time at my company
+
+80
+00:03:21.07 --> 00:03:24.03
+helping other people
+produce content for the web.
+
+81
+00:03:24.03 --> 00:03:26.08
+So I'm usually actually behind a camera
+
+82
+00:03:26.08 --> 00:03:28.04
+and that's going to be some of the lessons
+
+83
+00:03:28.04 --> 00:03:29.07
+I share with you today.
+
+84
+00:03:29.07 --> 00:03:32.03
+What have I learned
+producing content for YouTube
+
+85
+00:03:32.03 --> 00:03:34.06
+as well as how to put
+the channels together.
+
+86
+00:03:34.06 --> 00:03:37.00
+We've had the benefit of
+managing some YouTube channels
+
+87
+00:03:37.00 --> 00:03:38.08
+for a few different
+brands through the years
+
+88
+00:03:38.08 --> 00:03:41.06
+and we've learned a lot about
+how to make the platform
+
+89
+00:03:41.06 --> 00:03:43.02
+give us good results.
+

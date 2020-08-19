@@ -1,0 +1,412 @@
+1
+00:00:00,640 --> 00:00:03,840
+agile projects are great when business
+
+2
+00:00:03,280 --> 00:00:06,319
+needs
+
+3
+00:00:03,840 --> 00:00:07,120
+change frequently or the business wants
+
+4
+00:00:06,319 --> 00:00:10,400
+to receive
+
+5
+00:00:07,120 --> 00:00:11,679
+value sooner agile does this by
+
+6
+00:00:10,400 --> 00:00:13,840
+frequently delivering
+
+7
+00:00:11,679 --> 00:00:15,440
+small chunks of a product known as
+
+8
+00:00:13,840 --> 00:00:17,600
+features
+
+9
+00:00:15,440 --> 00:00:19,760
+this steady release of deliverables
+
+10
+00:00:17,600 --> 00:00:22,560
+requires a different approach
+
+11
+00:00:19,760 --> 00:00:23,760
+to managing and implementing work you
+
+12
+00:00:22,560 --> 00:00:27,599
+guessed it
+
+13
+00:00:23,760 --> 00:00:29,840
+agile project management with agile
+
+14
+00:00:27,599 --> 00:00:31,760
+work is performed in time periods called
+
+15
+00:00:29,840 --> 00:00:34,960
+iterations or sprints
+
+16
+00:00:31,760 --> 00:00:37,600
+they typically last 2 to 12 weeks
+
+17
+00:00:34,960 --> 00:00:38,960
+the goal of each iteration is to deliver
+
+18
+00:00:37,600 --> 00:00:42,079
+a complete
+
+19
+00:00:38,960 --> 00:00:43,600
+ready to use feature that's how value is
+
+20
+00:00:42,079 --> 00:00:45,520
+delivered sooner
+
+21
+00:00:43,600 --> 00:00:47,039
+and if business needs change you can
+
+22
+00:00:45,520 --> 00:00:50,559
+address that in a later
+
+23
+00:00:47,039 --> 00:00:51,520
+iteration agile places more importance
+
+24
+00:00:50,559 --> 00:00:54,559
+on people and
+
+25
+00:00:51,520 --> 00:00:56,719
+interaction than processes and tools
+
+26
+00:00:54,559 --> 00:00:58,239
+for example people communicate when
+
+27
+00:00:56,719 --> 00:01:00,640
+there's a reason to
+
+28
+00:00:58,239 --> 00:01:01,600
+not because the weekly team meeting is
+
+29
+00:01:00,640 --> 00:01:03,920
+scheduled
+
+30
+00:01:01,600 --> 00:01:06,000
+to facilitate interaction business and
+
+31
+00:01:03,920 --> 00:01:07,280
+technical team members work in the same
+
+32
+00:01:06,000 --> 00:01:09,600
+location
+
+33
+00:01:07,280 --> 00:01:11,200
+or use collaboration tools to achieve
+
+34
+00:01:09,600 --> 00:01:14,240
+the same effect
+
+35
+00:01:11,200 --> 00:01:15,200
+with agile your goal is to produce a
+
+36
+00:01:14,240 --> 00:01:18,479
+product
+
+37
+00:01:15,200 --> 00:01:19,119
+not reams of documentation that doesn't
+
+38
+00:01:18,479 --> 00:01:21,680
+mean
+
+39
+00:01:19,119 --> 00:01:22,799
+no documentation while the team is
+
+40
+00:01:21,680 --> 00:01:25,280
+building features
+
+41
+00:01:22,799 --> 00:01:26,000
+documentation is limited to what they
+
+42
+00:01:25,280 --> 00:01:28,560
+need to do
+
+43
+00:01:26,000 --> 00:01:31,200
+their work documentation like user
+
+44
+00:01:28,560 --> 00:01:33,920
+guides are added to the features list
+
+45
+00:01:31,200 --> 00:01:35,360
+the customer is much more engaged in an
+
+46
+00:01:33,920 --> 00:01:37,360
+agile project
+
+47
+00:01:35,360 --> 00:01:39,040
+in the waterfall approach the customer
+
+48
+00:01:37,360 --> 00:01:41,280
+negotiates requirements
+
+49
+00:01:39,040 --> 00:01:42,560
+front and then waits for the end
+
+50
+00:01:41,280 --> 00:01:45,280
+deliverables
+
+51
+00:01:42,560 --> 00:01:47,920
+in agile the customer collaborates
+
+52
+00:01:45,280 --> 00:01:50,320
+throughout the development process
+
+53
+00:01:47,920 --> 00:01:51,759
+which means it's easier to meet their
+
+54
+00:01:50,320 --> 00:01:54,560
+needs
+
+55
+00:01:51,759 --> 00:01:55,759
+changes are not only expected but
+
+56
+00:01:54,560 --> 00:01:58,960
+welcomed
+
+57
+00:01:55,759 --> 00:02:00,399
+the agile philosophy views change as a
+
+58
+00:01:58,960 --> 00:02:03,759
+way to provide
+
+59
+00:02:00,399 --> 00:02:05,759
+more value with agile you can shift
+
+60
+00:02:03,759 --> 00:02:08,959
+priorities quickly by adding new
+
+61
+00:02:05,759 --> 00:02:10,879
+features in a later iteration
+
+62
+00:02:08,959 --> 00:02:12,800
+agile performs many of the same
+
+63
+00:02:10,879 --> 00:02:13,760
+activities in waterfall project
+
+64
+00:02:12,800 --> 00:02:16,720
+management
+
+65
+00:02:13,760 --> 00:02:17,680
+in a slightly different order one way to
+
+66
+00:02:16,720 --> 00:02:19,920
+think about it
+
+67
+00:02:17,680 --> 00:02:20,879
+the waterfall approach defines the scope
+
+68
+00:02:19,920 --> 00:02:23,520
+of the project
+
+69
+00:02:20,879 --> 00:02:26,000
+and then estimates the time cost and
+
+70
+00:02:23,520 --> 00:02:29,120
+quality to deliver that scope
+
+71
+00:02:26,000 --> 00:02:32,160
+agile looks at time cost and quality as
+
+72
+00:02:29,120 --> 00:02:33,599
+fixed elements then you figure out which
+
+73
+00:02:32,160 --> 00:02:36,480
+features you can produce
+
+74
+00:02:33,599 --> 00:02:38,480
+given those constraints the agile
+
+75
+00:02:36,480 --> 00:02:40,640
+methodology described in this chapter
+
+76
+00:02:38,480 --> 00:02:42,480
+starts with the envision stage
+
+77
+00:02:40,640 --> 00:02:44,560
+where you define the goal and the
+
+78
+00:02:42,480 --> 00:02:47,200
+boundaries of the project
+
+79
+00:02:44,560 --> 00:02:48,640
+you then repeat the speculate explore
+
+80
+00:02:47,200 --> 00:02:51,280
+and adapt stages
+
+81
+00:02:48,640 --> 00:02:53,360
+to develop and test features at the end
+
+82
+00:02:51,280 --> 00:02:54,000
+of the project you perform a closing
+
+83
+00:02:53,360 --> 00:02:58,000
+stage
+
+84
+00:02:54,000 --> 00:03:00,480
+once to wrap things up change control is
+
+85
+00:02:58,000 --> 00:03:01,680
+done by prioritizing the backlog of
+
+86
+00:03:00,480 --> 00:03:04,159
+features
+
+87
+00:03:01,680 --> 00:03:05,360
+and risk is managed with frequent
+
+88
+00:03:04,159 --> 00:03:07,599
+releases
+
+89
+00:03:05,360 --> 00:03:09,200
+if you're familiar with agile you might
+
+90
+00:03:07,599 --> 00:03:12,879
+think agile means
+
+91
+00:03:09,200 --> 00:03:15,280
+it projects it turns out agile works
+
+92
+00:03:12,879 --> 00:03:17,680
+with non-it projects too
+
+93
+00:03:15,280 --> 00:03:19,040
+as long as deliverables can be produced
+
+94
+00:03:17,680 --> 00:03:21,840
+and implemented in
+
+95
+00:03:19,040 --> 00:03:23,360
+short periods and can be added to in the
+
+96
+00:03:21,840 --> 00:03:25,360
+future
+
+97
+00:03:23,360 --> 00:03:26,799
+agile works well for projects with
+
+98
+00:03:25,360 --> 00:03:29,920
+changing business needs
+
+99
+00:03:26,799 --> 00:03:31,360
+or a desire to produce value quickly if
+
+100
+00:03:29,920 --> 00:03:33,519
+you want to practice
+
+101
+00:03:31,360 --> 00:03:35,680
+identify portions of the hospital
+
+102
+00:03:33,519 --> 00:03:40,000
+scheduling project that could benefit
+
+103
+00:03:35,680 --> 00:03:40,000
+from an agile approach
+

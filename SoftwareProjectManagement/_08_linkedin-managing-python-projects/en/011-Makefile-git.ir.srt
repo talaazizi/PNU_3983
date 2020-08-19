@@ -1,0 +1,128 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,06
+- [Instructor] People tend to forget things.
+
+2
+00:00:02,06 --> 00:00:05,06
+If, for example, running your tests involved
+
+3
+00:00:05,06 --> 00:00:07,02
+more than one command,
+
+4
+00:00:07,02 --> 00:00:10,00
+I can almost guarantee that at some point in time
+
+5
+00:00:10,00 --> 00:00:12,00
+someone will forget a step.
+
+6
+00:00:12,00 --> 00:00:14,08
+The best cure for this is automation.
+
+7
+00:00:14,08 --> 00:00:18,04
+Once you write all the steps to run the tests in a script
+
+8
+00:00:18,04 --> 00:00:22,01
+they are there, documented and ready to execute.
+
+9
+00:00:22,01 --> 00:00:25,07
+There are several systems that support task automation.
+
+10
+00:00:25,07 --> 00:00:28,03
+I tend to use Make utility.
+
+11
+00:00:28,03 --> 00:00:32,00
+The reasons I like Make are it's simple,
+
+12
+00:00:32,00 --> 00:00:36,01
+it's already installed on most Unix-like systems,
+
+13
+00:00:36,01 --> 00:00:38,09
+and there's a lot of knowledge around it.
+
+14
+00:00:38,09 --> 00:00:41,08
+Let's have a look at the makefile.
+
+15
+00:00:41,08 --> 00:00:45,05
+In a makefile we have a rule followed by a column.
+
+16
+00:00:45,05 --> 00:00:48,07
+So the rule name is test and it's followed column.
+
+17
+00:00:48,07 --> 00:00:51,04
+Then, all the commands this rule should invoke
+
+18
+00:00:51,04 --> 00:00:54,06
+are prefixed by the top character.
+
+19
+00:00:54,06 --> 00:00:57,09
+If a line is long, you can split it with a backslash.
+
+20
+00:00:57,09 --> 00:01:01,01
+We can see we have three steps for running our tests.
+
+21
+00:01:01,01 --> 00:01:03,04
+First we clean the .pyc files,
+
+22
+00:01:03,04 --> 00:01:06,06
+then we run the flake8 linter,
+
+23
+00:01:06,06 --> 00:01:09,09
+and then the pytest test run.
+
+24
+00:01:09,09 --> 00:01:12,05
+And now we can invoke it,
+
+25
+00:01:12,05 --> 00:01:15,07
+make test
+
+26
+00:01:15,07 --> 00:01:19,03
+and we see that every line is executed
+
+27
+00:01:19,03 --> 00:01:22,02
+and finally, we run the tests.
+
+28
+00:01:22,02 --> 00:01:24,09
+It might be that Make is not the right system for you,
+
+29
+00:01:24,09 --> 00:01:28,00
+though I encourage you to give it a try.
+
+30
+00:01:28,00 --> 00:01:29,00
+If you can't use Make,
+
+31
+00:01:29,00 --> 00:01:32,00
+try to find another automation system.
+

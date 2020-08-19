@@ -1,0 +1,353 @@
+1
+00:00:00.01 --> 00:00:01.09
+- Another option you have that you can add
+
+2
+00:00:01.09 --> 00:00:05.01
+to all of your videos
+is a branding watermark.
+
+3
+00:00:05.01 --> 00:00:07.05
+This is useful because
+it essentially serves
+
+4
+00:00:07.05 --> 00:00:09.04
+as a subscribe button,
+
+5
+00:00:09.04 --> 00:00:12.06
+so as people watch your
+video on other places
+
+6
+00:00:12.06 --> 00:00:15.02
+such as Search, they're actually prompted
+
+7
+00:00:15.02 --> 00:00:17.01
+and it has a little branding icon,
+
+8
+00:00:17.01 --> 00:00:20.02
+to help establish who made the video.
+
+9
+00:00:20.02 --> 00:00:22.09
+Let me show how this works,
+
+10
+00:00:22.09 --> 00:00:25.02
+now the subscribe button is a watermark
+
+11
+00:00:25.02 --> 00:00:27.08
+that goes over the corners of your video,
+
+12
+00:00:27.08 --> 00:00:30.06
+and it will work if
+the videos are embedded
+
+13
+00:00:30.06 --> 00:00:34.01
+or shared on other platforms.
+
+14
+00:00:34.01 --> 00:00:36.08
+When you add the watermark,
+people can hover over it
+
+15
+00:00:36.08 --> 00:00:39.05
+and if they click, it will subscribe them.
+
+16
+00:00:39.05 --> 00:00:42.02
+Do keep in mind that this
+subscription component
+
+17
+00:00:42.02 --> 00:00:47.01
+only works on a desktop
+computer at this time.
+
+18
+00:00:47.01 --> 00:00:48.05
+It's not shown to people
+
+19
+00:00:48.05 --> 00:00:51.06
+who've already subscribed to your video.
+
+20
+00:00:51.06 --> 00:00:53.01
+Some people will add the word,
+
+21
+00:00:53.01 --> 00:00:55.01
+subscribe to their button as well,
+
+22
+00:00:55.01 --> 00:00:57.04
+it's up to you.
+
+23
+00:00:57.04 --> 00:01:00.07
+It should be a PNG file
+with transparency though,
+
+24
+00:01:00.07 --> 00:01:02.04
+so use a graphics editing tool,
+
+25
+00:01:02.04 --> 00:01:06.00
+like Photoshop or Photoshop
+Elements to make this easier.
+
+26
+00:01:06.00 --> 00:01:08.07
+Now with the watermark,
+it's going to work in
+
+27
+00:01:08.07 --> 00:01:10.07
+only specific circumstances,
+
+28
+00:01:10.07 --> 00:01:13.02
+but in general these
+are the most common ones
+
+29
+00:01:13.02 --> 00:01:15.03
+and it's pretty useful.
+
+30
+00:01:15.03 --> 00:01:18.06
+It will only work on videos
+that are in landscape view,
+
+31
+00:01:18.06 --> 00:01:20.09
+so if you're on a computer
+or a mobile device
+
+32
+00:01:20.09 --> 00:01:22.09
+that's turned into landscape view,
+
+33
+00:01:22.09 --> 00:01:25.02
+you will see the watermark.
+
+34
+00:01:25.02 --> 00:01:29.00
+But remember, the watermark
+is not clickable on mobile,
+
+35
+00:01:29.00 --> 00:01:31.00
+but it does serve to help brand
+
+36
+00:01:31.00 --> 00:01:32.05
+and can get your identity out there
+
+37
+00:01:32.05 --> 00:01:37.00
+to make it easier for people
+to know what they're watching.
+
+38
+00:01:37.00 --> 00:01:39.01
+The channel watermarks will not appear
+
+39
+00:01:39.01 --> 00:01:42.06
+in custom YouTube players
+or third party ones,
+
+40
+00:01:42.06 --> 00:01:44.04
+or if you're using the older
+
+41
+00:01:44.04 --> 00:01:47.04
+Adobe Flash based YouTube player.
+
+42
+00:01:47.04 --> 00:01:50.01
+So how exactly do you add the watermark?
+
+43
+00:01:50.01 --> 00:01:51.08
+Well it's essentially going to be
+
+44
+00:01:51.08 --> 00:01:54.07
+a higher resolution social media icon,
+
+45
+00:01:54.07 --> 00:01:57.03
+maybe the logo you made
+for your channel icon
+
+46
+00:01:57.03 --> 00:02:02.01
+but simplified to a simple,
+single color, or fewer colors
+
+47
+00:02:02.01 --> 00:02:05.02
+and make sure that it has transparency,
+
+48
+00:02:05.02 --> 00:02:07.00
+then it's pretty simple.
+
+49
+00:02:07.00 --> 00:02:11.05
+To add a watermark,
+just sign into YouTube,
+
+50
+00:02:11.05 --> 00:02:14.00
+go to the Creator Studio section
+
+51
+00:02:14.00 --> 00:02:18.01
+and make sure that you
+access all of the controls,
+
+52
+00:02:18.01 --> 00:02:23.04
+from there, you can choose
+Channel, and then Branding,
+
+53
+00:02:23.04 --> 00:02:27.02
+click to add a watermark
+
+54
+00:02:27.02 --> 00:02:30.01
+and then follow the
+on-screen instructions.
+
+55
+00:02:30.01 --> 00:02:32.07
+So let me show you,
+
+56
+00:02:32.07 --> 00:02:39.09
+when I'm logged in, I'll go
+ahead and choose Creator Studio,
+
+57
+00:02:39.09 --> 00:02:44.01
+now I'll go to Channel,
+
+58
+00:02:44.01 --> 00:02:48.04
+and select Branding.
+
+59
+00:02:48.04 --> 00:02:52.06
+From here, click to add a watermark,
+
+60
+00:02:52.06 --> 00:02:54.06
+it gives you a little bit
+of additional information
+
+61
+00:02:54.06 --> 00:02:57.05
+on what it thinks works best,
+
+62
+00:02:57.05 --> 00:03:02.01
+choose the file and
+I've already placed one
+
+63
+00:03:02.01 --> 00:03:04.03
+inside a folder for here,
+
+64
+00:03:04.03 --> 00:03:08.08
+I'm just going to choose the PNG file,
+
+65
+00:03:08.08 --> 00:03:13.02
+here's a larger one, that's not square,
+
+66
+00:03:13.02 --> 00:03:17.00
+and here's a smaller
+one, let's click Choose.
+
+67
+00:03:17.00 --> 00:03:21.06
+When ready I can click Save,
+and it should add it in,
+
+68
+00:03:21.06 --> 00:03:27.09
+there it is, looks good
+and I'll click Save.
+
+69
+00:03:27.09 --> 00:03:28.09
+It gives you a preview
+
+70
+00:03:28.09 --> 00:03:32.06
+of what it's going to
+look like over the video,
+
+71
+00:03:32.06 --> 00:03:36.06
+you could decide how long you
+want to wait for it to appear,
+
+72
+00:03:36.06 --> 00:03:38.05
+many folks wait a few seconds
+
+73
+00:03:38.05 --> 00:03:43.00
+after the video starts so
+it appears and fades on,
+
+74
+00:03:43.00 --> 00:03:46.03
+but you can decide if you want
+it up for the entire video
+
+75
+00:03:46.03 --> 00:03:49.05
+or how close it comes up to
+the end as a call to action
+
+76
+00:03:49.05 --> 00:03:51.03
+when people are watching,
+
+77
+00:03:51.03 --> 00:03:54.01
+I generally recommend a custom start time
+
+78
+00:03:54.01 --> 00:03:57.04
+or the entire video duration,
+
+79
+00:03:57.04 --> 00:04:01.04
+then just click Update to have it store,
+
+80
+00:04:01.04 --> 00:04:02.08
+and it's now saved.
+

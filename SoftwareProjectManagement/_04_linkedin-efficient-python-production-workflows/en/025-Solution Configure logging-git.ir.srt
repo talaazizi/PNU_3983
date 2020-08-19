@@ -1,0 +1,64 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,03 --> 00:00:05,01
+(upbeat melody)
+
+2
+00:00:05,01 --> 00:00:06,07
+- [Instructor] Here is my solution.
+
+3
+00:00:06,07 --> 00:00:07,08
+We import logging
+
+4
+00:00:07,08 --> 00:00:10,04
+and read the stderr from the sys module.
+
+5
+00:00:10,04 --> 00:00:12,05
+We define the log_format in a separate line
+
+6
+00:00:12,05 --> 00:00:14,01
+because it's long.
+
+7
+00:00:14,01 --> 00:00:15,08
+You can read in the commentation,
+
+8
+00:00:15,08 --> 00:00:19,05
+all the fields that are available inside the log record.
+
+9
+00:00:19,05 --> 00:00:22,05
+In line nine, I'm using logging.basicConfig
+
+10
+00:00:22,05 --> 00:00:24,06
+telling it that the stream is stderr,
+
+11
+00:00:24,06 --> 00:00:29,07
+use our own format, and to use info-level logging.
+
+12
+00:00:29,07 --> 00:00:31,09
+After that, we have the function hello
+
+13
+00:00:31,09 --> 00:00:34,00
+and main that caused it.
+
+14
+00:00:34,00 --> 00:00:38,07
+We can run the code, python app.py,
+
+15
+00:00:38,07 --> 00:00:41,00
+and we see the desired output.
+

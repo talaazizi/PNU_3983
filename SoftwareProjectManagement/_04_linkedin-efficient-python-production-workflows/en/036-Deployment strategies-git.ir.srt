@@ -1,0 +1,160 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,02
+- [Instructor] In this episode we'll discuss
+
+2
+00:00:02,02 --> 00:00:04,03
+several deployment methods,
+
+3
+00:00:04,03 --> 00:00:07,02
+these methods are not tied to specific platform
+
+4
+00:00:07,02 --> 00:00:10,07
+such as, kubernetes AWS or others.
+
+5
+00:00:10,07 --> 00:00:13,07
+And these guidelines can be applied to each platform,
+
+6
+00:00:13,07 --> 00:00:16,05
+let's start with the method you don't want to use
+
+7
+00:00:16,05 --> 00:00:17,08
+the big bang
+
+8
+00:00:17,08 --> 00:00:20,04
+in this method, once you have a new version
+
+9
+00:00:20,04 --> 00:00:23,05
+you take down the current code and start the new one.
+
+10
+00:00:23,05 --> 00:00:25,05
+This method is very risky,
+
+11
+00:00:25,05 --> 00:00:29,00
+and how to get back from try to avoid it.
+
+12
+00:00:29,00 --> 00:00:32,03
+The second method is known as blue-green deployment
+
+13
+00:00:32,03 --> 00:00:35,07
+in this method, you have two production systems running,
+
+14
+00:00:35,07 --> 00:00:38,04
+the blue environment is currently serving users
+
+15
+00:00:38,04 --> 00:00:40,06
+and the green one is idle,
+
+16
+00:00:40,06 --> 00:00:41,07
+once you have a new code
+
+17
+00:00:41,07 --> 00:00:43,07
+you deployed to the green environment,
+
+18
+00:00:43,07 --> 00:00:46,02
+run some tests and then direct traffic
+
+19
+00:00:46,02 --> 00:00:49,07
+to the green environment, making it the current blue.
+
+20
+00:00:49,07 --> 00:00:52,09
+In this approach it's easy to roll back from mistakes,
+
+21
+00:00:52,09 --> 00:00:56,05
+we direct traffic back to the old blue and you're done.
+
+22
+00:00:56,05 --> 00:00:59,02
+The next deployment methods are pretty similar,
+
+23
+00:00:59,02 --> 00:01:01,06
+they are rolling and canary,
+
+24
+00:01:01,06 --> 00:01:03,08
+the idea is, that you deploy the code
+
+25
+00:01:03,08 --> 00:01:08,01
+to part of your server and wait to see how the code behaves.
+
+26
+00:01:08,01 --> 00:01:11,04
+once you're confident, deploy the new code to more server
+
+27
+00:01:11,04 --> 00:01:12,06
+and observe again
+
+28
+00:01:12,06 --> 00:01:15,00
+eventually all of your servers,
+
+29
+00:01:15,00 --> 00:01:17,00
+will run the new version of the code.
+
+30
+00:01:17,00 --> 00:01:19,02
+In all of these methods blue-green,
+
+31
+00:01:19,02 --> 00:01:21,04
+canary enrolling, you must have a good
+
+32
+00:01:21,04 --> 00:01:23,07
+monitoring analytic system in place,
+
+33
+00:01:23,07 --> 00:01:26,00
+to know how the new code behaves.
+
+34
+00:01:26,00 --> 00:01:28,04
+Don't forget to mark releases
+
+35
+00:01:28,04 --> 00:01:31,01
+on the metrics visualization system.
+
+36
+00:01:31,01 --> 00:01:34,01
+you also need a way to rollback bad releases,
+
+37
+00:01:34,01 --> 00:01:35,07
+it might seems like a lot of work
+
+38
+00:01:35,07 --> 00:01:37,08
+to get these systems in place.
+
+39
+00:01:37,08 --> 00:01:40,00
+But they will save you in the long run.
+

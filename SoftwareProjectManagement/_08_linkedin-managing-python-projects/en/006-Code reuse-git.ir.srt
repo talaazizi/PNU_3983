@@ -1,0 +1,76 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,07
+- [Instructor] By writing code in an established way,
+
+2
+00:00:02,07 --> 00:00:06,00
+we can pack and reuse this code in other projects.
+
+3
+00:00:06,00 --> 00:00:08,06
+This is a huge gain since it gives us a system
+
+4
+00:00:08,06 --> 00:00:11,05
+where one bot fix or a new feature can be used
+
+5
+00:00:11,05 --> 00:00:14,05
+by all of the clients of this package.
+
+6
+00:00:14,05 --> 00:00:16,07
+In the Python ward, we have an established way
+
+7
+00:00:16,07 --> 00:00:18,08
+of packaging code.
+
+8
+00:00:18,08 --> 00:00:20,05
+When you package code in a way
+
+9
+00:00:20,05 --> 00:00:23,02
+that a package manager, such as Peep, understands,
+
+10
+00:00:23,02 --> 00:00:26,00
+people can easily use your code.
+
+11
+00:00:26,00 --> 00:00:29,07
+Packaging is not just for open source project.
+
+12
+00:00:29,07 --> 00:00:32,05
+Many companies have internal depositories of packages
+
+13
+00:00:32,05 --> 00:00:36,06
+they use for infrastructure and other common tasks.
+
+14
+00:00:36,06 --> 00:00:38,03
+They will use the same method for packaging
+
+15
+00:00:38,03 --> 00:00:40,06
+and standard structure of code
+
+16
+00:00:40,06 --> 00:00:43,07
+that many other Python projects use.
+
+17
+00:00:43,07 --> 00:00:45,09
+It's easy for new employees to come in
+
+18
+00:00:45,09 --> 00:00:48,00
+and get familiar with the code.
+

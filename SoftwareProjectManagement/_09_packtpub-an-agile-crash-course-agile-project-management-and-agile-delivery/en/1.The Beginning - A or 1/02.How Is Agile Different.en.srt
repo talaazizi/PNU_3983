@@ -1,0 +1,560 @@
+1
+00:00:00,960 --> 00:00:05,759
+so how is agile different to other
+
+2
+00:00:02,800 --> 00:00:08,320
+methodologies or ways of doing things
+
+3
+00:00:05,759 --> 00:00:09,120
+well it's different in many ways for
+
+4
+00:00:08,320 --> 00:00:10,800
+example
+
+5
+00:00:09,120 --> 00:00:12,960
+in traditional project delivery you
+
+6
+00:00:10,800 --> 00:00:14,639
+would start off with an analysis phase
+
+7
+00:00:12,960 --> 00:00:16,320
+which would take a couple of weeks or a
+
+8
+00:00:14,639 --> 00:00:18,080
+couple of months then
+
+9
+00:00:16,320 --> 00:00:20,240
+you would move to a design and spend
+
+10
+00:00:18,080 --> 00:00:22,320
+again a couple of weeks or months
+
+11
+00:00:20,240 --> 00:00:24,480
+and then you would actually develop or
+
+12
+00:00:22,320 --> 00:00:26,880
+code after that process
+
+13
+00:00:24,480 --> 00:00:27,680
+you would pass it on to the qa team for
+
+14
+00:00:26,880 --> 00:00:29,439
+testing
+
+15
+00:00:27,680 --> 00:00:31,599
+and you would move to production at the
+
+16
+00:00:29,439 --> 00:00:33,920
+end after testing
+
+17
+00:00:31,599 --> 00:00:35,360
+so traditionally in a lot of project
+
+18
+00:00:33,920 --> 00:00:36,480
+management and project delivery
+
+19
+00:00:35,360 --> 00:00:38,320
+methodologies
+
+20
+00:00:36,480 --> 00:00:40,000
+you wouldn't move on from one phase to
+
+21
+00:00:38,320 --> 00:00:40,879
+the other until that phase has been
+
+22
+00:00:40,000 --> 00:00:42,960
+completed
+
+23
+00:00:40,879 --> 00:00:44,000
+until milestones and deliverables have
+
+24
+00:00:42,960 --> 00:00:46,399
+been met
+
+25
+00:00:44,000 --> 00:00:48,000
+and signed off you would also ensure
+
+26
+00:00:46,399 --> 00:00:50,719
+that scope doesn't change
+
+27
+00:00:48,000 --> 00:00:52,000
+and keep that as constrained as possible
+
+28
+00:00:50,719 --> 00:00:53,680
+since varying scope
+
+29
+00:00:52,000 --> 00:00:55,520
+would actually translate in the project
+
+30
+00:00:53,680 --> 00:00:56,559
+taking even longer than originally
+
+31
+00:00:55,520 --> 00:00:59,440
+planned
+
+32
+00:00:56,559 --> 00:01:01,120
+and finally in traditional development
+
+33
+00:00:59,440 --> 00:01:02,320
+you would work on the final solution
+
+34
+00:01:01,120 --> 00:01:05,360
+from the very beginning
+
+35
+00:01:02,320 --> 00:01:07,600
+the ferrari the long-term vision the
+
+36
+00:01:05,360 --> 00:01:11,119
+product with all the bells and whistles
+
+37
+00:01:07,600 --> 00:01:13,360
+but you wouldn't do any of this in agile
+
+38
+00:01:11,119 --> 00:01:14,560
+in agile you would actually test from
+
+39
+00:01:13,360 --> 00:01:17,759
+the very beginning
+
+40
+00:01:14,560 --> 00:01:20,000
+not just at the end you would also plan
+
+41
+00:01:17,759 --> 00:01:22,159
+and analyze every two weeks or every
+
+42
+00:01:20,000 --> 00:01:25,360
+time you finish your sprint
+
+43
+00:01:22,159 --> 00:01:28,000
+and you will deliver iteratively often
+
+44
+00:01:25,360 --> 00:01:29,040
+and quickly you would also embrace
+
+45
+00:01:28,000 --> 00:01:31,680
+changes in scope
+
+46
+00:01:29,040 --> 00:01:33,520
+when reasonable and required since you
+
+47
+00:01:31,680 --> 00:01:34,880
+are working iteratively and building
+
+48
+00:01:33,520 --> 00:01:37,200
+products along the way
+
+49
+00:01:34,880 --> 00:01:39,119
+you are able to provide more flexibility
+
+50
+00:01:37,200 --> 00:01:40,560
+to your end user and customer
+
+51
+00:01:39,119 --> 00:01:42,640
+and involve them in the development
+
+52
+00:01:40,560 --> 00:01:44,720
+process from the beginning
+
+53
+00:01:42,640 --> 00:01:46,159
+this is one of the most important
+
+54
+00:01:44,720 --> 00:01:48,560
+advantages of agile
+
+55
+00:01:46,159 --> 00:01:50,320
+and a reason why so many business owners
+
+56
+00:01:48,560 --> 00:01:52,960
+stakeholders and customers
+
+57
+00:01:50,320 --> 00:01:54,159
+love it they have direct input in the
+
+58
+00:01:52,960 --> 00:01:56,000
+development process
+
+59
+00:01:54,159 --> 00:01:57,360
+and they do it from the beginning and
+
+60
+00:01:56,000 --> 00:02:00,079
+they do it often
+
+61
+00:01:57,360 --> 00:02:01,280
+not just at the end another thing that
+
+62
+00:02:00,079 --> 00:02:03,600
+makes agile different
+
+63
+00:02:01,280 --> 00:02:06,159
+is that agile focuses more on the actual
+
+64
+00:02:03,600 --> 00:02:08,399
+work than on documentation
+
+65
+00:02:06,159 --> 00:02:10,160
+now please don't misinterpret this and
+
+66
+00:02:08,399 --> 00:02:10,479
+leave this course with the misconception
+
+67
+00:02:10,160 --> 00:02:13,200
+that
+
+68
+00:02:10,479 --> 00:02:14,000
+agile doesn't involve documentation
+
+69
+00:02:13,200 --> 00:02:15,520
+agile
+
+70
+00:02:14,000 --> 00:02:18,400
+also requires documentation but
+
+71
+00:02:15,520 --> 00:02:20,720
+documentation is not the main focus
+
+72
+00:02:18,400 --> 00:02:22,400
+it's kept short and simple since the
+
+73
+00:02:20,720 --> 00:02:23,599
+team needs to focus more on the work
+
+74
+00:02:22,400 --> 00:02:26,560
+than on paper
+
+75
+00:02:23,599 --> 00:02:27,680
+in agile roles blur and by that i mean
+
+76
+00:02:26,560 --> 00:02:29,280
+that for example
+
+77
+00:02:27,680 --> 00:02:31,360
+everyone in the team can be involved in
+
+78
+00:02:29,280 --> 00:02:32,879
+testing not just the people that would
+
+79
+00:02:31,360 --> 00:02:34,080
+normally do it because that's their
+
+80
+00:02:32,879 --> 00:02:37,920
+official role
+
+81
+00:02:34,080 --> 00:02:39,200
+tester or test lead so since in agile
+
+82
+00:02:37,920 --> 00:02:41,360
+you're testing and planning
+
+83
+00:02:39,200 --> 00:02:43,040
+every step of the way well most team
+
+84
+00:02:41,360 --> 00:02:44,640
+members get involved
+
+85
+00:02:43,040 --> 00:02:47,280
+that doesn't mean that everyone has to
+
+86
+00:02:44,640 --> 00:02:49,920
+test or their agile dictate set
+
+87
+00:02:47,280 --> 00:02:51,840
+it doesn't some agile projects still use
+
+88
+00:02:49,920 --> 00:02:52,720
+the official roles for team assignments
+
+89
+00:02:51,840 --> 00:02:55,200
+and tasks
+
+90
+00:02:52,720 --> 00:02:55,920
+and that's fine the point you need to
+
+91
+00:02:55,200 --> 00:02:58,159
+understand
+
+92
+00:02:55,920 --> 00:02:59,519
+is that agile can allow for roles to
+
+93
+00:02:58,159 --> 00:03:01,599
+blur and overlap
+
+94
+00:02:59,519 --> 00:03:03,440
+or complement one another and that's
+
+95
+00:03:01,599 --> 00:03:05,519
+okay people embrace
+
+96
+00:03:03,440 --> 00:03:07,360
+this in agile and support each other to
+
+97
+00:03:05,519 --> 00:03:09,360
+ensure the team's success
+
+98
+00:03:07,360 --> 00:03:11,200
+now in terms of planning well planning
+
+99
+00:03:09,360 --> 00:03:13,280
+is adaptive in agile
+
+100
+00:03:11,200 --> 00:03:15,599
+and priorities can change for each print
+
+101
+00:03:13,280 --> 00:03:18,560
+depending on what the team defines
+
+102
+00:03:15,599 --> 00:03:19,280
+and finally in agile requirements can
+
+103
+00:03:18,560 --> 00:03:22,239
+change
+
+104
+00:03:19,280 --> 00:03:24,000
+and the team is open to those changes
+
+105
+00:03:22,239 --> 00:03:24,640
+that doesn't mean that agile dictates
+
+106
+00:03:24,000 --> 00:03:26,560
+that
+
+107
+00:03:24,640 --> 00:03:27,760
+that you should change requirements it
+
+108
+00:03:26,560 --> 00:03:30,080
+just means that
+
+109
+00:03:27,760 --> 00:03:30,879
+the team considers something no longer a
+
+110
+00:03:30,080 --> 00:03:34,159
+priority
+
+111
+00:03:30,879 --> 00:03:35,920
+well it can be discovered for example
+
+112
+00:03:34,159 --> 00:03:37,840
+say you are working on that ecommerce
+
+113
+00:03:35,920 --> 00:03:39,920
+website and after sprint 2
+
+114
+00:03:37,840 --> 00:03:41,200
+you show a demo to the product owner
+
+115
+00:03:39,920 --> 00:03:43,680
+which is your customer
+
+116
+00:03:41,200 --> 00:03:45,440
+or a person who represents him or her
+
+117
+00:03:43,680 --> 00:03:47,519
+and that person now says
+
+118
+00:03:45,440 --> 00:03:48,720
+that they no longer want to have product
+
+119
+00:03:47,519 --> 00:03:51,599
+displayed vertically
+
+120
+00:03:48,720 --> 00:03:52,720
+but now horizontally in traditional
+
+121
+00:03:51,599 --> 00:03:55,760
+project delivery
+
+122
+00:03:52,720 --> 00:03:57,200
+you might say well you signed off on
+
+123
+00:03:55,760 --> 00:03:58,840
+vertical at the beginning
+
+124
+00:03:57,200 --> 00:04:00,400
+and now it's too late to make that
+
+125
+00:03:58,840 --> 00:04:03,040
+change but in
+
+126
+00:04:00,400 --> 00:04:03,920
+agile you would say to your customer
+
+127
+00:04:03,040 --> 00:04:05,599
+sure
+
+128
+00:04:03,920 --> 00:04:07,360
+by the end of the next print we will
+
+129
+00:04:05,599 --> 00:04:09,280
+have another demo and show you the
+
+130
+00:04:07,360 --> 00:04:11,599
+changes the improvements
+
+131
+00:04:09,280 --> 00:04:13,439
+given scope is varying you might
+
+132
+00:04:11,599 --> 00:04:15,200
+negotiate with the product owner
+
+133
+00:04:13,439 --> 00:04:17,840
+about some of the user stories of the
+
+134
+00:04:15,200 --> 00:04:20,239
+next print and move them to the next one
+
+135
+00:04:17,840 --> 00:04:21,919
+or maybe remove them so that you can
+
+136
+00:04:20,239 --> 00:04:23,280
+actually deliver and meet their
+
+137
+00:04:21,919 --> 00:04:26,560
+expectations
+
+138
+00:04:23,280 --> 00:04:29,400
+see the difference that's agile
+
+139
+00:04:26,560 --> 00:04:32,400
+and that is why people love it it's
+
+140
+00:04:29,400 --> 00:04:32,400
+powerful
+

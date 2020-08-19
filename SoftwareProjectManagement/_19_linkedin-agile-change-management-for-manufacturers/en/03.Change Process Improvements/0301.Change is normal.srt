@@ -1,0 +1,264 @@
+1
+00:00:00.060 --> 00:00:02.030
+- [Instructor] As we discussed in the previous chapter
+
+2
+00:00:02.030 --> 00:00:05.010
+of this course, you may need to begin your journey
+
+3
+00:00:05.010 --> 00:00:08.080
+into Agile new product development change management
+
+4
+00:00:08.080 --> 00:00:12.040
+by giving your business an introduction or a refresher
+
+5
+00:00:12.040 --> 00:00:17.020
+into the Agile methodology, and Agile vocabulary.
+
+6
+00:00:17.020 --> 00:00:20.020
+Similarly, we reviewed that the business users
+
+7
+00:00:20.020 --> 00:00:22.040
+may be thinking about requirements
+
+8
+00:00:22.040 --> 00:00:24.000
+and not necessarily in tune
+
+9
+00:00:24.000 --> 00:00:26.070
+with the way that you formulate your actual work,
+
+10
+00:00:26.070 --> 00:00:31.020
+and your actual work breakdown structure under Agile.
+
+11
+00:00:31.020 --> 00:00:32.010
+As Socrates reminds us,
+
+12
+00:00:32.010 --> 00:00:34.040
+the secret to success is letting go of the old
+
+13
+00:00:34.040 --> 00:00:36.060
+and embracing the new paradigm.
+
+14
+00:00:36.060 --> 00:00:40.080
+Let's discuss how you can facilitate such a transformation.
+
+15
+00:00:40.080 --> 00:00:43.040
+To begin with, remind your stakeholders
+
+16
+00:00:43.040 --> 00:00:45.080
+and your project team that you want
+
+17
+00:00:45.080 --> 00:00:47.070
+to deliver a product, and you think
+
+18
+00:00:47.070 --> 00:00:51.010
+to deliver a product, not documentation.
+
+19
+00:00:51.010 --> 00:00:53.050
+Now clearly as we discussed earlier in this course,
+
+20
+00:00:53.050 --> 00:00:55.050
+some documentation's very important,
+
+21
+00:00:55.050 --> 00:00:57.090
+and some documentation is dictated
+
+22
+00:00:57.090 --> 00:01:01.000
+by regulating bodies in government agencies.
+
+23
+00:01:01.000 --> 00:01:03.050
+So you cannot get away with doing no documentation
+
+24
+00:01:03.050 --> 00:01:04.080
+for a physical product.
+
+25
+00:01:04.080 --> 00:01:07.050
+But you want to make sure that you are minimizing
+
+26
+00:01:07.050 --> 00:01:10.040
+the documentation done and the documentation
+
+27
+00:01:10.040 --> 00:01:14.030
+that is done is done in a very efficient manner.
+
+28
+00:01:14.030 --> 00:01:18.020
+You also need to make your project team comfortable,
+
+29
+00:01:18.020 --> 00:01:20.070
+with the fact that you sometimes need
+
+30
+00:01:20.070 --> 00:01:24.000
+to stop, assess, and re-plan product requirements
+
+31
+00:01:24.000 --> 00:01:26.000
+in an Agile methodology.
+
+32
+00:01:26.000 --> 00:01:28.030
+Because a core tentative Agile
+
+33
+00:01:28.030 --> 00:01:30.060
+is that you begin building things
+
+34
+00:01:30.060 --> 00:01:32.050
+or you begin working on the design,
+
+35
+00:01:32.050 --> 00:01:34.060
+before all the requirements are known.
+
+36
+00:01:34.060 --> 00:01:35.060
+This is very different
+
+37
+00:01:35.060 --> 00:01:39.020
+from the traditional waterfall methodology.
+
+38
+00:01:39.020 --> 00:01:41.080
+Again, another difference in Agile,
+
+39
+00:01:41.080 --> 00:01:45.000
+you purposely delay decisions.
+
+40
+00:01:45.000 --> 00:01:47.060
+This can be very foreign to folks familiar
+
+41
+00:01:47.060 --> 00:01:50.000
+with the traditional waterfall methodology,
+
+42
+00:01:50.000 --> 00:01:55.020
+in which, a known unmade decision is viewed as a risk.
+
+43
+00:01:55.020 --> 00:01:57.090
+Another big part of Agile is involving the customer
+
+44
+00:01:57.090 --> 00:01:59.090
+and involving the customer early on,
+
+45
+00:01:59.090 --> 00:02:02.030
+even in the change process.
+
+46
+00:02:02.030 --> 00:02:04.000
+The companies that are using
+
+47
+00:02:04.000 --> 00:02:06.010
+Agile methodologies most effectively,
+
+48
+00:02:06.010 --> 00:02:08.070
+are on those that are leveraging change
+
+49
+00:02:08.070 --> 00:02:10.060
+as a competitive advantage.
+
+50
+00:02:10.060 --> 00:02:12.090
+Now viewing it as something that they have to do
+
+51
+00:02:12.090 --> 00:02:15.010
+but something that they almost want to do,
+
+52
+00:02:15.010 --> 00:02:17.060
+so that they can satisfy the customer
+
+53
+00:02:17.060 --> 00:02:20.060
+and come out with a more optimized design.
+
+54
+00:02:20.060 --> 00:02:23.090
+Another technique based on industry best practices
+
+55
+00:02:23.090 --> 00:02:25.070
+is to make your product modular.
+
+56
+00:02:25.070 --> 00:02:28.080
+Making a product modular does have some costs,
+
+57
+00:02:28.080 --> 00:02:31.000
+in that you need to define the interfaces.
+
+58
+00:02:31.000 --> 00:02:32.050
+But it also adds some benefits,
+
+59
+00:02:32.050 --> 00:02:35.000
+in that it allows you to fence in change.
+
+60
+00:02:35.000 --> 00:02:37.060
+Later on this chapter, we will have an example
+
+61
+00:02:37.060 --> 00:02:40.000
+of how a well known manufacturer
+
+62
+00:02:40.000 --> 00:02:42.070
+is using the idea of modular projects
+
+63
+00:02:42.070 --> 00:02:45.080
+to create their designs in a manner
+
+64
+00:02:45.080 --> 00:02:47.040
+that fences in change,
+
+65
+00:02:47.040 --> 00:02:51.010
+allowing them to freely make changes to styling for example,
+
+66
+00:02:51.010 --> 00:02:54.000
+but not make changes to structural components.
+

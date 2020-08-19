@@ -1,0 +1,92 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:03,08
+- [Instructor] _init_.py tells Python that a directory
+
+2
+00:00:03,08 --> 00:00:05,09
+can be imported as a package.
+
+3
+00:00:05,09 --> 00:00:08,03
+_init_.py should start with a docstring
+
+4
+00:00:08,03 --> 00:00:09,09
+for the whole module.
+
+5
+00:00:09,09 --> 00:00:13,02
+As in readme, the docstring should contain an elevator page
+
+6
+00:00:13,02 --> 00:00:16,05
+for your project, and some example usage.
+
+7
+00:00:16,05 --> 00:00:19,05
+You should have a version for your project.
+
+8
+00:00:19,05 --> 00:00:22,07
+The viable is usually _version_
+
+9
+00:00:22,07 --> 00:00:24,08
+and you should use semantic versioning,
+
+10
+00:00:24,08 --> 00:00:28,09
+which means first number is the major number, stable API,
+
+11
+00:00:28,09 --> 00:00:32,01
+second number is a minor version, editions only,
+
+12
+00:00:32,01 --> 00:00:34,08
+and the last one is patch level.
+
+13
+00:00:34,08 --> 00:00:37,03
+The version itself is usually a simple string,
+
+14
+00:00:37,03 --> 00:00:39,03
+but it can be a more complex object
+
+15
+00:00:39,03 --> 00:00:42,02
+like Python's sys.version_info.
+
+16
+00:00:42,02 --> 00:00:46,01
+We'll cover versioning in depth in other episodes.
+
+17
+00:00:46,01 --> 00:00:50,07
+Apart from that, you can have some code in _init_.py.
+
+18
+00:00:50,07 --> 00:00:53,08
+Some people like to keep _init_.py clear of code
+
+19
+00:00:53,08 --> 00:00:55,09
+and import all the functions and classes
+
+20
+00:00:55,09 --> 00:00:59,06
+from other sub-models, and that' okay as well.
+
+21
+00:00:59,06 --> 00:01:04,03
+_init_.py can be empty, and for sub-packages, it's okay.
+
+22
+00:01:04,03 --> 00:01:08,00
+But make sure that top-level _init_.py has some content.
+

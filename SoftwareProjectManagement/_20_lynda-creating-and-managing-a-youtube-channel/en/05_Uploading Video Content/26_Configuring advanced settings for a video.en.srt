@@ -1,0 +1,663 @@
+1
+00:00:00.05 --> 00:00:02.09
+- Besides the basic
+information about the video,
+
+2
+00:00:02.09 --> 00:00:04.08
+there is an advanced settings tab
+
+3
+00:00:04.08 --> 00:00:07.03
+that has a lot of useful controls.
+
+4
+00:00:07.03 --> 00:00:10.07
+This will allow you to
+change many properties.
+
+5
+00:00:10.07 --> 00:00:11.09
+Now when you're uploading,
+
+6
+00:00:11.09 --> 00:00:13.07
+you'll see this as another tab
+
+7
+00:00:13.07 --> 00:00:17.04
+or you can access this by
+going to the video manager.
+
+8
+00:00:17.04 --> 00:00:18.04
+What it comes down to
+
+9
+00:00:18.04 --> 00:00:21.01
+is choosing the settings
+that matter to you.
+
+10
+00:00:21.01 --> 00:00:24.05
+So you can decide to
+allow comments or not.
+
+11
+00:00:24.05 --> 00:00:29.01
+I generally choose to allow
+only approved comments.
+
+12
+00:00:29.01 --> 00:00:32.06
+You can also decide if you want
+to allow videos to be rated.
+
+13
+00:00:32.06 --> 00:00:35.03
+Now the ratings can be rated by the users
+
+14
+00:00:35.03 --> 00:00:37.08
+so you can see what people
+think of your content,
+
+15
+00:00:37.08 --> 00:00:40.08
+but you can decide whether or
+not you want to share those
+
+16
+00:00:40.08 --> 00:00:43.09
+and let other people
+see the average score.
+
+17
+00:00:43.09 --> 00:00:45.07
+Now there's pros and cons here.
+
+18
+00:00:45.07 --> 00:00:49.04
+Many people believe that
+YouTube is a social platform
+
+19
+00:00:49.04 --> 00:00:52.01
+and you want to let everybody see it.
+
+20
+00:00:52.01 --> 00:00:54.06
+Other people feel like this
+is more like television
+
+21
+00:00:54.06 --> 00:00:57.01
+and why do we need to put the
+reviews in front of people
+
+22
+00:00:57.01 --> 00:00:58.02
+before they watch it.
+
+23
+00:00:58.02 --> 00:01:00.03
+Let them make up their own mind.
+
+24
+00:01:00.03 --> 00:01:02.06
+Well, it comes down to who
+you're trying to target.
+
+25
+00:01:02.06 --> 00:01:05.06
+Many people will decide
+whether or not to watch a movie
+
+26
+00:01:05.06 --> 00:01:07.01
+based upon the reviews
+
+27
+00:01:07.01 --> 00:01:08.09
+and this is why scores
+like Rotten Tomatoes
+
+28
+00:01:08.09 --> 00:01:10.08
+and others have become popular,
+
+29
+00:01:10.08 --> 00:01:13.05
+but there is something to
+be said of not giving people
+
+30
+00:01:13.05 --> 00:01:17.09
+too many opportunities for
+feedback so you need to decide.
+
+31
+00:01:17.09 --> 00:01:21.03
+Additionally, you can assign
+the license and rights.
+
+32
+00:01:21.03 --> 00:01:23.01
+There is the Standard YouTube License
+
+33
+00:01:23.01 --> 00:01:24.06
+which we'll talk more about later
+
+34
+00:01:24.06 --> 00:01:28.02
+that gives people the ability
+to often reshare your content
+
+35
+00:01:28.02 --> 00:01:31.07
+or you can specify the
+Creative Comments License.
+
+36
+00:01:31.07 --> 00:01:33.04
+If you're interested in Creative Comments,
+
+37
+00:01:33.04 --> 00:01:35.07
+be sure to visit their
+website to learn more
+
+38
+00:01:35.07 --> 00:01:38.04
+about how the system works.
+
+39
+00:01:38.04 --> 00:01:41.01
+Other settings that you can
+choose include the ability
+
+40
+00:01:41.01 --> 00:01:44.06
+to certify information about the captions.
+
+41
+00:01:44.06 --> 00:01:47.07
+So if this is content that's
+already aired on television,
+
+42
+00:01:47.07 --> 00:01:49.04
+particularly the US market,
+
+43
+00:01:49.04 --> 00:01:52.08
+well then you might actually
+be subject to regulations
+
+44
+00:01:52.08 --> 00:01:55.02
+and so you might be asked
+to provide information
+
+45
+00:01:55.02 --> 00:01:59.06
+about the captions if this
+material has them or does not.
+
+46
+00:01:59.06 --> 00:02:02.08
+Also, you can decide
+how the video is allowed
+
+47
+00:02:02.08 --> 00:02:04.04
+to be redistributed.
+
+48
+00:02:04.04 --> 00:02:06.02
+Is embedding allowed?
+
+49
+00:02:06.02 --> 00:02:09.01
+Do you want to make sure
+that your subscribers know
+
+50
+00:02:09.01 --> 00:02:10.04
+that the video went up?
+
+51
+00:02:10.04 --> 00:02:12.04
+So this is pretty important.
+
+52
+00:02:12.04 --> 00:02:16.00
+Additionally, make sure you
+take a look at age restrictions.
+
+53
+00:02:16.00 --> 00:02:18.06
+If you are concerned
+about who can access this,
+
+54
+00:02:18.06 --> 00:02:21.05
+you can actually set
+a restriction for age.
+
+55
+00:02:21.05 --> 00:02:24.08
+This means that only people
+over the age of 18 can view it.
+
+56
+00:02:24.08 --> 00:02:27.03
+You can also assign a category.
+
+57
+00:02:27.03 --> 00:02:29.04
+Now I find categories frustrating
+
+58
+00:02:29.04 --> 00:02:32.06
+because YouTube's category
+system is very limiting
+
+59
+00:02:32.06 --> 00:02:35.09
+and a lot of videos don't
+cleanly fit into a category,
+
+60
+00:02:35.09 --> 00:02:39.00
+but trying to make the best
+match is going to help you
+
+61
+00:02:39.00 --> 00:02:40.04
+get the broader audience
+
+62
+00:02:40.04 --> 00:02:42.02
+and will help suggest your video
+
+63
+00:02:42.02 --> 00:02:44.05
+when people are watching
+particular genres.
+
+64
+00:02:44.05 --> 00:02:46.02
+I really think that the categories
+
+65
+00:02:46.02 --> 00:02:48.02
+need to be revisited by YouTube.
+
+66
+00:02:48.02 --> 00:02:52.02
+The only system worse than
+YouTube's is Apple's Podcast.
+
+67
+00:02:52.02 --> 00:02:54.08
+They really have not kept
+up with the type of content
+
+68
+00:02:54.08 --> 00:02:57.01
+that's frequently published.
+
+69
+00:02:57.01 --> 00:02:59.03
+Additionally, think about
+if you want to allow
+
+70
+00:02:59.03 --> 00:03:00.08
+community contributions.
+
+71
+00:03:00.08 --> 00:03:03.03
+This can allow other
+people to upload captions
+
+72
+00:03:03.03 --> 00:03:05.05
+or other things to it
+
+73
+00:03:05.05 --> 00:03:08.03
+and do you want to see any statistics.
+
+74
+00:03:08.03 --> 00:03:13.06
+Can the public see
+these stats or only you?
+
+75
+00:03:13.06 --> 00:03:16.06
+Additionally, you can
+tag relevant information
+
+76
+00:03:16.06 --> 00:03:18.09
+such as where was the video captured,
+
+77
+00:03:18.09 --> 00:03:20.08
+what was the date it was captured in,
+
+78
+00:03:20.08 --> 00:03:23.08
+is it 3D and what's the language.
+
+79
+00:03:23.08 --> 00:03:25.08
+Choosing the language is very important
+
+80
+00:03:25.08 --> 00:03:28.02
+because this will help
+generate the auto captions
+
+81
+00:03:28.02 --> 00:03:31.01
+that YouTube will create to
+make your video more accessible.
+
+82
+00:03:31.01 --> 00:03:33.03
+We'll talk more about
+those a little bit later.
+
+83
+00:03:33.03 --> 00:03:35.02
+And if the video is 3D,
+
+84
+00:03:35.02 --> 00:03:37.04
+YouTube does support 3D content
+
+85
+00:03:37.04 --> 00:03:39.06
+so you can upload that
+and people can watch it
+
+86
+00:03:39.06 --> 00:03:44.00
+with special glasses or viewers.
+
+87
+00:03:44.00 --> 00:03:47.05
+Lastly, make sure you
+identify if the video contains
+
+88
+00:03:47.05 --> 00:03:52.01
+any sponsored paid placement
+and this is very important.
+
+89
+00:03:52.01 --> 00:03:54.03
+YouTube got itself into a bit of trouble
+
+90
+00:03:54.03 --> 00:03:56.00
+as well as blogging in general
+
+91
+00:03:56.00 --> 00:03:57.09
+where people were
+getting paid by companies
+
+92
+00:03:57.09 --> 00:04:00.03
+to pitch products and talk about them.
+
+93
+00:04:00.03 --> 00:04:02.09
+So if I were going to in this video
+
+94
+00:04:02.09 --> 00:04:05.01
+talk to you about how
+much I love this remote
+
+95
+00:04:05.01 --> 00:04:06.04
+and why it was awesome,
+
+96
+00:04:06.04 --> 00:04:08.03
+well if the company that made it
+
+97
+00:04:08.03 --> 00:04:11.03
+actually paid me to do
+that, I needed to tell you.
+
+98
+00:04:11.03 --> 00:04:13.09
+Now if I generally like
+something or I bought it myself,
+
+99
+00:04:13.09 --> 00:04:15.04
+I don't have to tell you about it
+
+100
+00:04:15.04 --> 00:04:18.05
+and say that I was paid to
+give you this information,
+
+101
+00:04:18.05 --> 00:04:22.00
+but those hosts or those making
+videos that have products
+
+102
+00:04:22.00 --> 00:04:24.08
+that had been given to them
+for promotional purposes
+
+103
+00:04:24.08 --> 00:04:27.04
+or they've been paid to talk about them,
+
+104
+00:04:27.04 --> 00:04:29.06
+well they're asked to disclose that here
+
+105
+00:04:29.06 --> 00:04:34.02
+so that is in the system and
+not hidden from the public.
+
+106
+00:04:34.02 --> 00:04:36.04
+Remember, if you are on a video
+
+107
+00:04:36.04 --> 00:04:39.00
+and you want to modify
+it and you're logged in,
+
+108
+00:04:39.00 --> 00:04:40.08
+you can get those same controls
+
+109
+00:04:40.08 --> 00:04:43.08
+for the advanced area under edit video.
+
+110
+00:04:43.08 --> 00:04:45.09
+Just scroll down and
+these are very similar
+
+111
+00:04:45.09 --> 00:04:50.00
+to the upload controls and
+go to the advanced settings.
+
+112
+00:04:50.00 --> 00:04:52.07
+All of the different areas
+we talked about are here.
+
+113
+00:04:52.07 --> 00:04:57.07
+So for example, I can say
+show only approved comments
+
+114
+00:04:57.07 --> 00:05:01.07
+and show the most popular comments first.
+
+115
+00:05:01.07 --> 00:05:04.00
+I don't want to let users see the ratings.
+
+116
+00:05:04.00 --> 00:05:05.07
+I don't think it's needed
+
+117
+00:05:05.07 --> 00:05:08.06
+and I'm going to apply a Creative
+Comments Attribution License
+
+118
+00:05:08.06 --> 00:05:12.00
+so people know that this
+could be freely shared.
+
+119
+00:05:12.00 --> 00:05:13.04
+There are no captions here
+
+120
+00:05:13.04 --> 00:05:17.00
+so I'll say that this has
+never aired on television,
+
+121
+00:05:17.00 --> 00:05:18.09
+but I will allow this to be embedded
+
+122
+00:05:18.09 --> 00:05:21.03
+and I will allow it to be published.
+
+123
+00:05:21.03 --> 00:05:24.00
+There are no age restrictions.
+
+124
+00:05:24.00 --> 00:05:28.09
+In this case, the category
+is science and technology
+
+125
+00:05:28.09 --> 00:05:33.03
+and the language it was
+produced in was English.
+
+126
+00:05:33.03 --> 00:05:36.09
+Now if I want to allow people
+to put extra captions up,
+
+127
+00:05:36.09 --> 00:05:39.03
+maybe they want to translate
+this into another language,
+
+128
+00:05:39.03 --> 00:05:42.00
+I can click to allow that.
+
+129
+00:05:42.00 --> 00:05:44.09
+You don't have to put in a
+recording date but you could.
+
+130
+00:05:44.09 --> 00:05:46.03
+I'll turn off the statistics
+
+131
+00:05:46.03 --> 00:05:48.00
+because I don't care to share those
+
+132
+00:05:48.00 --> 00:05:52.06
+and this is not 3D content
+nor was it paid placement.
+
+133
+00:05:52.06 --> 00:05:55.06
+So now I'll click save changes
+
+134
+00:05:55.06 --> 00:05:58.05
+and those changes are
+now written to the file.
+
+135
+00:05:58.05 --> 00:06:01.05
+Now for the most, this is going
+to be handled under the hood.
+
+136
+00:06:01.05 --> 00:06:04.06
+Not all of this information
+is shown to the viewer,
+
+137
+00:06:04.06 --> 00:06:06.04
+but this will control how the videos
+
+138
+00:06:06.04 --> 00:06:08.02
+are searched and discovered
+
+139
+00:06:08.02 --> 00:06:12.04
+and affect what information
+is displayed on the page.
+
+140
+00:06:12.04 --> 00:06:17.04
+So now if we go ahead and go
+back to that page for a moment,
+
+141
+00:06:17.04 --> 00:06:20.06
+you'll see that while
+the viewer can like this,
+
+142
+00:06:20.06 --> 00:06:23.07
+there are no stars shown on this video.
+
+143
+00:06:23.07 --> 00:06:25.09
+And while they can post comments,
+
+144
+00:06:25.09 --> 00:06:28.01
+if somebody logs in to post a comment,
+
+145
+00:06:28.01 --> 00:06:32.01
+I'm going to have to approve it
+before it appears on the page.
+
+146
+00:06:32.01 --> 00:06:34.08
+So these types of controls
+can be quite useful.
+

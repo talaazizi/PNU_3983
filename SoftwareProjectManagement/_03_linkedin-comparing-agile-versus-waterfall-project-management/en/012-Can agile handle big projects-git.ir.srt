@@ -1,0 +1,264 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:03.050 --> 00:00:06.080
+- And something else I've got on my list to ask is,
+
+2
+00:00:06.080 --> 00:00:11.020
+when projects get bigger, my gut feeling is
+
+3
+00:00:11.020 --> 00:00:13.040
+that if you're going to do something really big,
+
+4
+00:00:13.040 --> 00:00:15.040
+you wouldn't use Agile because you couldn't
+
+5
+00:00:15.040 --> 00:00:17.030
+keep control of it.
+
+6
+00:00:17.030 --> 00:00:18.070
+You know, as a Waterfall person,
+
+7
+00:00:18.070 --> 00:00:20.040
+I'm a control freak, so I want to know
+
+8
+00:00:20.040 --> 00:00:24.080
+what's the plan? Are we on schedule? Who's doing what?
+
+9
+00:00:24.080 --> 00:00:28.010
+And Agile just feels horribly out of control to me.
+
+10
+00:00:28.010 --> 00:00:32.010
+So, do you think that there's a limit to the size
+
+11
+00:00:32.010 --> 00:00:35.090
+of project you could use Agile on?
+
+12
+00:00:35.090 --> 00:00:38.040
+- I think that, yes.
+
+13
+00:00:38.040 --> 00:00:42.000
+I think that it's a big challenge
+
+14
+00:00:42.000 --> 00:00:44.080
+kind of in the Agile community, and so they came out with
+
+15
+00:00:44.080 --> 00:00:46.030
+a bunch of frameworks, so scaled edge frameworks
+
+16
+00:00:46.030 --> 00:00:48.050
+- I've seen, Safe, yeah, the scaled Agile frame.
+
+17
+00:00:48.050 --> 00:00:50.020
+And I looked at that, in Google Images
+
+18
+00:00:50.020 --> 00:00:55.010
+and, whoa, it was this horrendous, but I mean, does it work?
+
+19
+00:00:55.010 --> 00:00:56.070
+Or could it work?
+
+20
+00:00:56.070 --> 00:00:59.000
+- Well, you know there's Safe, that's Dean Leffingwell
+
+21
+00:00:59.000 --> 00:01:04.010
+you know, there's Less, there's stuff coming out of
+
+22
+00:01:04.010 --> 00:01:06.030
+you know, Scott, I forgot his last name
+
+23
+00:01:06.030 --> 00:01:09.070
+but he comes out of IBM, he's got a scaled edge,
+
+24
+00:01:09.070 --> 00:01:12.000
+a Discipline Agile, which is another sort of scaling
+
+25
+00:01:12.000 --> 00:01:13.090
+Agile framework. And, so-
+
+26
+00:01:13.090 --> 00:01:16.080
+- Clearly, if a management consultant could crack it
+
+27
+00:01:16.080 --> 00:01:18.040
+they'd make a load of money.
+
+28
+00:01:18.040 --> 00:01:21.020
+So there is an incentive to scale Agile, but is that
+
+29
+00:01:21.020 --> 00:01:24.070
+basically trying to make
+
+30
+00:01:24.070 --> 00:01:27.040
+a pig into an elephant, or something?
+
+31
+00:01:27.040 --> 00:01:28.090
+I mean, is it impossible?
+
+32
+00:01:28.090 --> 00:01:31.080
+- It's a challenge, because I think that, you know,
+
+33
+00:01:31.080 --> 00:01:34.090
+you have your organization set up for silos, and so
+
+34
+00:01:34.090 --> 00:01:38.000
+scaled Agile, or a lot of the scaling frameworks come in
+
+35
+00:01:38.000 --> 00:01:39.010
+Less is a little bit different,
+
+36
+00:01:39.010 --> 00:01:41.050
+but they come in, and you know, they say,
+
+37
+00:01:41.050 --> 00:01:42.080
+"Well, okay, we can work within this
+
+38
+00:01:42.080 --> 00:01:44.020
+organizational structure".
+
+39
+00:01:44.020 --> 00:01:47.020
+And, so what they do, is they create a bunch of sort of
+
+40
+00:01:47.020 --> 00:01:51.080
+Agile-like processes, which try to push down some innovation
+
+41
+00:01:51.080 --> 00:01:53.050
+in feedback to the team.
+
+42
+00:01:53.050 --> 00:01:57.020
+So, essentially, you take away a lot of their flexibility
+
+43
+00:01:57.020 --> 00:02:00.040
+so you can assign work to teams, sometimes they're
+
+44
+00:02:00.040 --> 00:02:03.000
+you know, Safe uses something called Agile Release Trains,
+
+45
+00:02:03.000 --> 00:02:05.060
+or ARTs, which are like product streams,
+
+46
+00:02:05.060 --> 00:02:09.050
+and then you put, sort of, work into those.
+
+47
+00:02:09.050 --> 00:02:12.020
+But, of course, the challenge with that is that it
+
+48
+00:02:12.020 --> 00:02:15.000
+takes away from a lot of the creativity of the teams.
+
+49
+00:02:15.000 --> 00:02:17.070
+You know, typically, you know scrum teams, they have
+
+50
+00:02:17.070 --> 00:02:20.020
+the ultimate flexibility to sort of deliver the product
+
+51
+00:02:20.020 --> 00:02:21.040
+the way that they like.
+
+52
+00:02:21.040 --> 00:02:23.050
+So, if you're working on a really big product,
+
+53
+00:02:23.050 --> 00:02:25.040
+you have to take some of that away.
+
+54
+00:02:25.040 --> 00:02:28.010
+But, the way that a lot of these scaled frameworks do it,
+
+55
+00:02:28.010 --> 00:02:30.070
+is they take away, but then they kind of break them
+
+56
+00:02:30.070 --> 00:02:31.090
+into phases.
+
+57
+00:02:31.090 --> 00:02:32.070
+So it's almost like,
+
+58
+00:02:32.070 --> 00:02:33.060
+"Okay, you're an Agile team, so you work on"
+
+59
+00:02:33.060 --> 00:02:36.080
+- Oh, I'm getting a bit of a Waterfall feeling now.
+
+60
+00:02:36.080 --> 00:02:38.090
+- Yeah, so you're like the wheel team,
+
+61
+00:02:38.090 --> 00:02:41.020
+or you're the chassie team, and you're the paint team
+
+62
+00:02:41.020 --> 00:02:45.000
+and you can be as agile as you want, making the wheel.
+
+63
+00:02:45.000 --> 00:02:45.090
+But, that's-
+
+64
+00:02:45.090 --> 00:02:47.050
+- [Chris] But it's got to be ready by a certain date.
+
+65
+00:02:47.050 --> 00:02:51.000
+- Right. And, so, it's kind of a little bit of a mish-mash.
+

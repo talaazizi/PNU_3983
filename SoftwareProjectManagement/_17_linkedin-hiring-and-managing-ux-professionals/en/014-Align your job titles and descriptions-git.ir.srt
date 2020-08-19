@@ -1,0 +1,464 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:03,06
+- At some point, you're going to want to post a job,
+
+2
+00:00:03,06 --> 00:00:06,05
+a title that encourages prospects to read further
+
+3
+00:00:06,05 --> 00:00:08,09
+along with an enticing job description.
+
+4
+00:00:08,09 --> 00:00:10,09
+Clearly, the title and job description
+
+5
+00:00:10,09 --> 00:00:14,03
+are critical pieces of finding the employees that you need.
+
+6
+00:00:14,03 --> 00:00:15,05
+And truth be told,
+
+7
+00:00:15,05 --> 00:00:18,08
+it's not necessarily just employees that you're posting for.
+
+8
+00:00:18,08 --> 00:00:22,03
+You can post for temporary talent, too.
+
+9
+00:00:22,03 --> 00:00:25,00
+Before we get into the specifics of the job posting,
+
+10
+00:00:25,00 --> 00:00:28,03
+it's important to figure out what you really want.
+
+11
+00:00:28,03 --> 00:00:30,03
+Earlier, we talked at a high level
+
+12
+00:00:30,03 --> 00:00:32,09
+about the varying types of UX jobs and skill sets
+
+13
+00:00:32,09 --> 00:00:36,02
+clustered into design, research, and strategy.
+
+14
+00:00:36,02 --> 00:00:38,09
+You shouldn't try to get it all in one person,
+
+15
+00:00:38,09 --> 00:00:42,09
+particularly if you are looking for a level of expertise.
+
+16
+00:00:42,09 --> 00:00:45,08
+Instead, focus on your core needs,
+
+17
+00:00:45,08 --> 00:00:48,06
+the UX superpowers that you are really looking for,
+
+18
+00:00:48,06 --> 00:00:51,02
+along with those UX skills which would be nice to have,
+
+19
+00:00:51,02 --> 00:00:53,02
+but aren't critical.
+
+20
+00:00:53,02 --> 00:00:55,00
+Let's start with the title.
+
+21
+00:00:55,00 --> 00:00:57,07
+If your primary skill set is interaction design,
+
+22
+00:00:57,07 --> 00:01:02,00
+then title your job interaction designer or UX designer.
+
+23
+00:01:02,00 --> 00:01:03,09
+If it's critical to you that you get someone
+
+24
+00:01:03,09 --> 00:01:07,01
+with both interaction design and research skills,
+
+25
+00:01:07,01 --> 00:01:10,05
+then you can use interaction designer/user researcher,
+
+26
+00:01:10,05 --> 00:01:13,04
+or UX designer/researcher.
+
+27
+00:01:13,04 --> 00:01:15,02
+Beware of going too generic.
+
+28
+00:01:15,02 --> 00:01:18,04
+You may think that user experience specialist
+
+29
+00:01:18,04 --> 00:01:19,08
+gives you the Big 10,
+
+30
+00:01:19,08 --> 00:01:21,09
+but it doesn't tell potential applicants
+
+31
+00:01:21,09 --> 00:01:24,07
+what kind of skill sets you're looking for.
+
+32
+00:01:24,07 --> 00:01:27,04
+Also, if you want a UX professional,
+
+33
+00:01:27,04 --> 00:01:31,00
+please avoid calling the job UX/UI.
+
+34
+00:01:31,00 --> 00:01:33,07
+The UI part muddies the waters.
+
+35
+00:01:33,07 --> 00:01:37,00
+Sometimes it's used to indicate visual design skills.
+
+36
+00:01:37,00 --> 00:01:37,08
+Other times,
+
+37
+00:01:37,08 --> 00:01:39,07
+it can mean that you're actually looking for someone
+
+38
+00:01:39,07 --> 00:01:41,08
+with front-end developer skills.
+
+39
+00:01:41,08 --> 00:01:45,02
+In short, if you call a job UX/UI,
+
+40
+00:01:45,02 --> 00:01:46,05
+it could look to a job seeker
+
+41
+00:01:46,05 --> 00:01:49,09
+that you don't know what you're looking for.
+
+42
+00:01:49,09 --> 00:01:52,05
+I understand that you may have a limited budget,
+
+43
+00:01:52,05 --> 00:01:55,04
+but again, don't try to get UX expertise
+
+44
+00:01:55,04 --> 00:01:58,07
+and development expertise in the same person.
+
+45
+00:01:58,07 --> 00:02:01,04
+You can get solid development and some UX,
+
+46
+00:02:01,04 --> 00:02:03,08
+or solid UX and some development,
+
+47
+00:02:03,08 --> 00:02:07,03
+but truly getting expertise in both is difficult.
+
+48
+00:02:07,03 --> 00:02:10,00
+Seeing coding expertise in a job title or description
+
+49
+00:02:10,00 --> 00:02:12,00
+will frighten off a lot of potential applicants
+
+50
+00:02:12,00 --> 00:02:15,06
+who do have the appropriate UX expertise.
+
+51
+00:02:15,06 --> 00:02:18,09
+You also need to specify a level of seniority.
+
+52
+00:02:18,09 --> 00:02:22,05
+Feel free to use terms like junior, mid-level, or senior,
+
+53
+00:02:22,05 --> 00:02:24,06
+but keep in mind that these terms
+
+54
+00:02:24,06 --> 00:02:27,01
+don't mean the same thing to everyone.
+
+55
+00:02:27,01 --> 00:02:28,08
+Many people would agree that titles
+
+56
+00:02:28,08 --> 00:02:31,06
+like director and principal or even vice president
+
+57
+00:02:31,06 --> 00:02:32,09
+are above senior,
+
+58
+00:02:32,09 --> 00:02:36,05
+but again, those terms don't have a single definition.
+
+59
+00:02:36,05 --> 00:02:38,01
+And no matter what,
+
+60
+00:02:38,01 --> 00:02:39,08
+don't use internal classification
+
+61
+00:02:39,08 --> 00:02:42,07
+to designate seniority on a public job posting.
+
+62
+00:02:42,07 --> 00:02:44,06
+I recently got an email from a recruiter
+
+63
+00:02:44,06 --> 00:02:47,03
+that tacked on the number four to the job title,
+
+64
+00:02:47,03 --> 00:02:49,06
+as if I'm supposed to know what kind of seniority
+
+65
+00:02:49,06 --> 00:02:53,01
+is implied from a UX designer four.
+
+66
+00:02:53,01 --> 00:02:55,06
+Now let's think about the job description.
+
+67
+00:02:55,06 --> 00:02:58,01
+Keep your critical skills as narrow as you can
+
+68
+00:02:58,01 --> 00:02:59,04
+within that UX umbrella,
+
+69
+00:02:59,04 --> 00:03:03,06
+and then expand in a follow-up nice-to-have section.
+
+70
+00:03:03,06 --> 00:03:05,05
+But even that nice-to-have section
+
+71
+00:03:05,05 --> 00:03:07,09
+shouldn't expand too wide,
+
+72
+00:03:07,09 --> 00:03:09,03
+or it may look like you're looking
+
+73
+00:03:09,03 --> 00:03:11,05
+for that elusive UX unicorn,
+
+74
+00:03:11,05 --> 00:03:15,03
+that magical creature who's an expert in everything.
+
+75
+00:03:15,03 --> 00:03:19,00
+It's a big turnoff to experienced job-seekers.
+
+76
+00:03:19,00 --> 00:03:22,02
+Your description needs to be specific about job functions.
+
+77
+00:03:22,02 --> 00:03:24,03
+Feel free to mention tools you use.
+
+78
+00:03:24,03 --> 00:03:27,06
+For example, a design team may already be using InVision
+
+79
+00:03:27,06 --> 00:03:29,04
+or the various Adobe products.
+
+80
+00:03:29,04 --> 00:03:33,04
+But be cautious about requiring specific software expertise,
+
+81
+00:03:33,04 --> 00:03:34,07
+which can be an instant turnoff
+
+82
+00:03:34,07 --> 00:03:36,02
+to a very experienced professional
+
+83
+00:03:36,02 --> 00:03:38,02
+who hasn't interacted with a piece of software
+
+84
+00:03:38,02 --> 00:03:41,01
+but has lots of experience on similar tools.
+
+85
+00:03:41,01 --> 00:03:43,02
+It's much easier to translate knowledge
+
+86
+00:03:43,02 --> 00:03:44,07
+between software products
+
+87
+00:03:44,07 --> 00:03:48,04
+than it is to learn new software concepts from scratch.
+
+88
+00:03:48,04 --> 00:03:51,04
+If you have headcount for two UX professionals,
+
+89
+00:03:51,04 --> 00:03:53,07
+consider the possibility that you may find
+
+90
+00:03:53,07 --> 00:03:56,04
+one person with some of the necessary UX skills
+
+91
+00:03:56,04 --> 00:03:59,06
+and another person with the other UX skills,
+
+92
+00:03:59,06 --> 00:04:01,07
+so keep your descriptions open enough
+
+93
+00:04:01,07 --> 00:04:04,01
+that you can leave yourself flexibility
+
+94
+00:04:04,01 --> 00:04:05,05
+to work with whomever happens
+
+95
+00:04:05,05 --> 00:04:07,05
+to be in a job market at that time.
+
+96
+00:04:07,05 --> 00:04:10,02
+Also, feel free to mention that you are looking
+
+97
+00:04:10,02 --> 00:04:12,08
+for specialists with a subset of areas of expertise
+
+98
+00:04:12,08 --> 00:04:14,02
+for your master list,
+
+99
+00:04:14,02 --> 00:04:16,08
+and make it clear that these areas of expertise
+
+100
+00:04:16,08 --> 00:04:20,02
+may be covered over multiple hires.
+
+101
+00:04:20,02 --> 00:04:22,05
+Oh, just one more thing.
+
+102
+00:04:22,05 --> 00:04:25,01
+There are a handful of certifications out there,
+
+103
+00:04:25,01 --> 00:04:26,08
+so which one do you request
+
+104
+00:04:26,08 --> 00:04:29,00
+when you post your job description?
+
+105
+00:04:29,00 --> 00:04:32,05
+I will strongly and emphatically say none.
+
+106
+00:04:32,05 --> 00:04:36,06
+Do not require or even prefer a certification.
+
+107
+00:04:36,06 --> 00:04:38,07
+Certification of UX professionals,
+
+108
+00:04:38,07 --> 00:04:40,08
+when there are widely diverse skill sets
+
+109
+00:04:40,08 --> 00:04:42,03
+and no single definition
+
+110
+00:04:42,03 --> 00:04:44,05
+of what it means to be a UX professional,
+
+111
+00:04:44,05 --> 00:04:47,00
+is highly controversial.
+
+112
+00:04:47,00 --> 00:04:49,05
+Don't even suggest that this matters to you.
+
+113
+00:04:49,05 --> 00:04:52,00
+Instead, focus on asking for a level
+
+114
+00:04:52,00 --> 00:04:53,08
+of UX knowledge and expertise
+
+115
+00:04:53,08 --> 00:04:58,00
+that match the seniority and expertise required of the role.
+

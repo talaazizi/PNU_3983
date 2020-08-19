@@ -1,0 +1,44 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:05,05
+(upbeat music)
+
+2
+00:00:05,05 --> 00:00:07,06
+- [Instructor] Use logging.basicConfig
+
+3
+00:00:07,06 --> 00:00:09,01
+to configure the logging system
+
+4
+00:00:09,01 --> 00:00:11,07
+to emit INFO level and up logs
+
+5
+00:00:11,07 --> 00:00:14,08
+to standard error with the following fields,
+
+6
+00:00:14,08 --> 00:00:18,09
+time, logger name, level, module name,
+
+7
+00:00:18,09 --> 00:00:21,03
+function name, and message.
+
+8
+00:00:21,03 --> 00:00:25,01
+For example, doing logging.info roses are red
+
+9
+00:00:25,01 --> 00:00:27,04
+should produce the line below.
+
+10
+00:00:27,04 --> 00:00:30,00
+You can see the example in the exercise files.
+

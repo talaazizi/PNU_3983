@@ -1,0 +1,108 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,01 --> 00:00:03,00
+- Our third bucket, strategy,
+
+2
+00:00:03,00 --> 00:00:05,07
+winds its way through both design
+
+3
+00:00:05,07 --> 00:00:08,06
+and research skillsets and careers.
+
+4
+00:00:08,06 --> 00:00:12,08
+But strategy has careers and skillsets of its own right.
+
+5
+00:00:12,08 --> 00:00:16,00
+UX strategy ties business goals
+
+6
+00:00:16,00 --> 00:00:19,05
+to the use of products by intended users.
+
+7
+00:00:19,05 --> 00:00:22,03
+Are you able to achieve both happy business owners
+
+8
+00:00:22,03 --> 00:00:24,04
+and simultaneously happy customers
+
+9
+00:00:24,04 --> 00:00:28,07
+with products that actually lead to business success?
+
+10
+00:00:28,07 --> 00:00:30,07
+Then there is content strategy which makes sure
+
+11
+00:00:30,07 --> 00:00:32,05
+that content and messaging are consistent
+
+12
+00:00:32,05 --> 00:00:35,05
+in tone and voice across a product.
+
+13
+00:00:35,05 --> 00:00:38,00
+It is understandable by the intended audience
+
+14
+00:00:38,00 --> 00:00:40,05
+and align with business goals.
+
+15
+00:00:40,05 --> 00:00:42,02
+Have you ever found it jarring when going
+
+16
+00:00:42,02 --> 00:00:43,08
+from one page of a website that informs you
+
+17
+00:00:43,08 --> 00:00:46,01
+with succinct bits of information
+
+18
+00:00:46,01 --> 00:00:49,06
+and the next page overwhelms you with wordiness?
+
+19
+00:00:49,06 --> 00:00:53,07
+Beyond just the interaction, customer experience or CX,
+
+20
+00:00:53,07 --> 00:00:56,03
+makes sure that there is strategic alignment
+
+21
+00:00:56,03 --> 00:00:59,00
+between all customer touchpoints in the business,
+
+22
+00:00:59,00 --> 00:01:03,06
+seeking to improve experience and financial success.
+
+23
+00:01:03,06 --> 00:01:04,08
+I bet you've seen an email
+
+24
+00:01:04,08 --> 00:01:07,02
+or text recently asking you likely you are
+
+25
+00:01:07,02 --> 00:01:09,02
+to recommend a company to a friend.
+
+26
+00:01:09,02 --> 00:01:12,00
+That's customer experience.
+

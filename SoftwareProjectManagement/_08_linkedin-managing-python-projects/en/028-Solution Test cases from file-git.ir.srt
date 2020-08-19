@@ -1,0 +1,108 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:06,00
+(upbeat music)
+
+2
+00:00:06,00 --> 00:00:08,01
+- Here's my solution to the problem.
+
+3
+00:00:08,01 --> 00:00:10,05
+The client seeks I define a variable called "here",
+
+4
+00:00:10,05 --> 00:00:11,09
+which is the absolute path
+
+5
+00:00:11,09 --> 00:00:14,07
+to the directory of the current test file.
+
+6
+00:00:14,07 --> 00:00:18,08
+I know that the test case's file is next to this file.
+
+7
+00:00:18,08 --> 00:00:22,08
+In line nine, I define a function called load_cases.
+
+8
+00:00:22,08 --> 00:00:24,02
+To get the file name,
+
+9
+00:00:24,02 --> 00:00:27,06
+get the absolute path to the file name in line 10,
+
+10
+00:00:27,06 --> 00:00:30,03
+and then, for every line in the file,
+
+11
+00:00:30,03 --> 00:00:34,03
+we'll use json to decode the line into a Python dictionary,
+
+12
+00:00:34,03 --> 00:00:39,00
+and yield the object value, output, and error.
+
+13
+00:00:39,00 --> 00:00:42,09
+Then in line 18, I define test_sqrt,
+
+14
+00:00:42,09 --> 00:00:45,05
+which gets the value, expected, and error.
+
+15
+00:00:45,05 --> 00:00:47,05
+And as you can in line 17,
+
+16
+00:00:47,05 --> 00:00:51,03
+this is a parametrized function with these values
+
+17
+00:00:51,03 --> 00:00:56,00
+getting the test cases by calling load_cases off our file.
+
+18
+00:00:56,00 --> 00:00:57,09
+In the function code, in line 18,
+
+19
+00:00:57,09 --> 00:00:59,08
+if the function should error,
+
+20
+00:00:59,08 --> 00:01:03,09
+we using the raises context manager to check that it does.
+
+21
+00:01:03,09 --> 00:01:08,04
+Otherwise, in line 24, the computer output on the value
+
+22
+00:01:08,04 --> 00:01:10,02
+we got from our test case,
+
+23
+00:01:10,02 --> 00:01:13,08
+and in line 25, we checked that we got the right value.
+
+24
+00:01:13,08 --> 00:01:17,02
+Again, error messages are important.
+
+25
+00:01:17,02 --> 00:01:21,06
+And now, python -m pytest -v tests,
+
+26
+00:01:21,06 --> 00:01:25,00
+and it's going to run all of our test cases from the file.
+

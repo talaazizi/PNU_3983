@@ -1,0 +1,112 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:01,02
+- [Instructor] The good thing
+
+2
+00:00:01,02 --> 00:00:03,06
+is much more than just a bunch of people,
+
+3
+00:00:03,06 --> 00:00:06,03
+but in order to work together, we need to have a system.
+
+4
+00:00:06,03 --> 00:00:08,02
+Sometimes this system
+
+5
+00:00:08,02 --> 00:00:10,09
+will come on the expense of individuals.
+
+6
+00:00:10,09 --> 00:00:13,05
+If you want to get some ice cream, ideally,
+
+7
+00:00:13,05 --> 00:00:15,07
+you'll park your car right in the middle of the road
+
+8
+00:00:15,07 --> 00:00:18,02
+next to the store entrance, go in,
+
+9
+00:00:18,02 --> 00:00:21,07
+cut to be the first in line, pay, and get back home.
+
+10
+00:00:21,07 --> 00:00:24,00
+However, you don't do that.
+
+11
+00:00:24,00 --> 00:00:26,09
+You find an empty parking spot and park there,
+
+12
+00:00:26,09 --> 00:00:29,01
+and you get to the back of the line.
+
+13
+00:00:29,01 --> 00:00:33,04
+You do that since this is how we can function as a society.
+
+14
+00:00:33,04 --> 00:00:35,08
+The same goes for software development.
+
+15
+00:00:35,08 --> 00:00:37,00
+We need some structure
+
+16
+00:00:37,00 --> 00:00:40,00
+in order to effectively work together.
+
+17
+00:00:40,00 --> 00:00:42,00
+I've consulted in many companies.
+
+18
+00:00:42,00 --> 00:00:44,02
+Each have their own process, and sometimes,
+
+19
+00:00:44,02 --> 00:00:47,08
+teams inside the company will have a different process.
+
+20
+00:00:47,08 --> 00:00:48,09
+What works for Google
+
+21
+00:00:48,09 --> 00:00:51,08
+is probably an overkill for a small startup.
+
+22
+00:00:51,08 --> 00:00:56,02
+Jared Spool said, "Too much process is just like no process,
+
+23
+00:00:56,02 --> 00:00:58,01
+"except slower."
+
+24
+00:00:58,01 --> 00:01:01,07
+Remember that the process should serve your team.
+
+25
+00:01:01,07 --> 00:01:04,06
+If you find that the process is holding your team back,
+
+26
+00:01:04,06 --> 00:01:05,08
+change it.
+
+27
+00:01:05,08 --> 00:01:08,00
+Nothing is set in stone.
+

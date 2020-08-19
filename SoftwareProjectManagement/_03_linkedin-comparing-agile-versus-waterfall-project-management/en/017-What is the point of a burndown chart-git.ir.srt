@@ -1,0 +1,212 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.080 --> 00:00:07.050
+- You mentioned burn down charts earlier on.
+
+2
+00:00:07.050 --> 00:00:11.010
+That's another of the buzz words that,
+
+3
+00:00:11.010 --> 00:00:13.020
+Agile is so full of buzz words.
+
+4
+00:00:13.020 --> 00:00:14.020
+- Yeah.
+
+5
+00:00:14.020 --> 00:00:17.070
+- But, you know, that makes it exciting for people,
+
+6
+00:00:17.070 --> 00:00:19.020
+and harder to assess.
+
+7
+00:00:19.020 --> 00:00:20.000
+(laughs)
+
+8
+00:00:20.000 --> 00:00:25.050
+But burn down charts, are they really just a budget?
+
+9
+00:00:25.050 --> 00:00:26.060
+I suppose it's got a timeline,
+
+10
+00:00:26.060 --> 00:00:28.040
+so you can look at the angle of it,
+
+11
+00:00:28.040 --> 00:00:32.010
+but is it really just looking at your expenditure rate
+
+12
+00:00:32.010 --> 00:00:34.020
+and saying, if we carry on at the current rate,
+
+13
+00:00:34.020 --> 00:00:37.000
+this is when we're going to run out of money?
+
+14
+00:00:37.000 --> 00:00:39.050
+Is that all it is, or is there more to it than that?
+
+15
+00:00:39.050 --> 00:00:41.080
+- It doesn't directly have to do with money,
+
+16
+00:00:41.080 --> 00:00:45.040
+because you have two typical, two burn down charts
+
+17
+00:00:45.040 --> 00:00:46.090
+in a Scrum team.
+
+18
+00:00:46.090 --> 00:00:49.050
+You'll have the Sprint burn down,
+
+19
+00:00:49.050 --> 00:00:50.090
+which will be the number of user stories.
+
+20
+00:00:50.090 --> 00:00:52.060
+Which is basically sort of doing the same thing
+
+21
+00:00:52.060 --> 00:00:57.010
+as the task board, it's just showing how much of the tasks
+
+22
+00:00:57.010 --> 00:00:59.020
+are being burned down to meet the bottom,
+
+23
+00:00:59.020 --> 00:01:01.000
+which will be the Sprint review.
+
+24
+00:01:01.000 --> 00:01:05.080
+Because, again, in Scrum it's inflexible,
+
+25
+00:01:05.080 --> 00:01:08.000
+you have to deliver something in two weeks.
+
+26
+00:01:08.000 --> 00:01:10.030
+You can't just stand up there and be like,
+
+27
+00:01:10.030 --> 00:01:12.060
+well, you know, sorry.
+
+28
+00:01:12.060 --> 00:01:14.070
+It's December and so we.
+
+29
+00:01:14.070 --> 00:01:17.010
+So you have to deliver what you commit to delivering
+
+30
+00:01:17.010 --> 00:01:18.080
+at the end of the Sprint.
+
+31
+00:01:18.080 --> 00:01:21.070
+But then you have a release burn down,
+
+32
+00:01:21.070 --> 00:01:23.070
+which is a little bit more sophisticated.
+
+33
+00:01:23.070 --> 00:01:27.000
+Where you and I would sit together and we were doing
+
+34
+00:01:27.000 --> 00:01:29.050
+an Agile product, and I would say to you,
+
+35
+00:01:29.050 --> 00:01:32.020
+how many Sprints worth of work can you afford?
+
+36
+00:01:32.020 --> 00:01:38.040
+I have five developers that cost me $250,000 a Sprint,
+
+37
+00:01:38.040 --> 00:01:39.090
+you have a budget of whatever.
+
+38
+00:01:39.090 --> 00:01:42.050
+So we'll go through and we'll figure out
+
+39
+00:01:42.050 --> 00:01:46.040
+when we're going to be done delivering something.
+
+40
+00:01:46.040 --> 00:01:50.010
+So we'll have like 20 Sprints or whatever,
+
+41
+00:01:50.010 --> 00:01:53.020
+and we'll burn down the work that the product owner
+
+42
+00:01:53.020 --> 00:01:57.050
+identifies until we release at the end of that,
+
+43
+00:01:57.050 --> 00:01:59.060
+you know, whatever.
+
+44
+00:01:59.060 --> 00:02:01.010
+- But it's not a Gantt chart because we don't know
+
+45
+00:02:01.010 --> 00:02:02.080
+what we're going to be doing at each time.
+
+46
+00:02:02.080 --> 00:02:04.080
+Because a Gantt chart will tell you
+
+47
+00:02:04.080 --> 00:02:05.090
+what you're going to spend when, and what you'll get for it.
+
+48
+00:02:05.090 --> 00:02:08.040
+But with this we just know that's the rate
+
+49
+00:02:08.040 --> 00:02:09.030
+that the monies going to be going at.
+
+50
+00:02:09.030 --> 00:02:11.020
+- That's how many Sprints you can afford.
+
+51
+00:02:11.020 --> 00:02:12.030
+- Yeah.
+
+52
+00:02:12.030 --> 00:02:15.000
+- And Gantt charts also manage dependencies.
+

@@ -1,0 +1,204 @@
+1
+00:00:00.000 --> 00:00:03.030
+- [Narrator] The agile methodology, embraces, and stresses
+
+2
+00:00:03.030 --> 00:00:06.000
+the complexity of project delivery by implementing
+
+3
+00:00:06.000 --> 00:00:09.030
+empirical process control. Or essentially what we'd call
+
+4
+00:00:09.030 --> 00:00:12.050
+closed-loop feedback. We've discussed this several times
+
+5
+00:00:12.050 --> 00:00:15.020
+in the course already. But I wanted to take just a moment,
+
+6
+00:00:15.020 --> 00:00:18.040
+and illustrate what this might look like as a project
+
+7
+00:00:18.040 --> 00:00:23.000
+moves along, and as the design moves further in maturity.
+
+8
+00:00:23.000 --> 00:00:26.040
+Very similar to the very generic example we had
+
+9
+00:00:26.040 --> 00:00:28.040
+with the University study a few minutes ago.
+
+10
+00:00:28.040 --> 00:00:29.090
+In this case, what we have.
+
+11
+00:00:29.090 --> 00:00:32.080
+Is we have a series of running sprints.
+
+12
+00:00:32.080 --> 00:00:36.000
+So a design is underway. In this case,
+
+13
+00:00:36.000 --> 00:00:39.030
+as an early prototype is tested we get feedback
+
+14
+00:00:39.030 --> 00:00:42.080
+from various stakeholders indicating the performance
+
+15
+00:00:42.080 --> 00:00:45.090
+of the design, indicating some feedback about what
+
+16
+00:00:45.090 --> 00:00:47.080
+could be changed. And even,
+
+17
+00:00:47.080 --> 00:00:50.050
+as we can see from the stakeholder on the left.
+
+18
+00:00:50.050 --> 00:00:53.070
+indicating what might be possible to change.
+
+19
+00:00:53.070 --> 00:00:55.040
+So a properly functioning,
+
+20
+00:00:55.040 --> 00:00:58.080
+agile new product development team is able to bring
+
+21
+00:00:58.080 --> 00:01:01.080
+feedback, and suggestions together
+
+22
+00:01:01.080 --> 00:01:04.060
+in the design review meetings.
+
+23
+00:01:04.060 --> 00:01:07.040
+Now as this design moves along, and as we go through
+
+24
+00:01:07.040 --> 00:01:10.080
+another set of sprints or perhaps several other sprints,
+
+25
+00:01:10.080 --> 00:01:14.020
+we get more feedback, we get more refined designs,
+
+26
+00:01:14.020 --> 00:01:16.090
+and we continue using this closed loop feedback.
+
+27
+00:01:16.090 --> 00:01:20.000
+This information should be stored so that it can be
+
+28
+00:01:20.000 --> 00:01:22.040
+reused later, and recalled.
+
+29
+00:01:22.040 --> 00:01:25.010
+This middle phase again is typically where we would use
+
+30
+00:01:25.010 --> 00:01:27.080
+a formal design review tool of some type.
+
+31
+00:01:27.080 --> 00:01:29.070
+And we'd be capturing that information,
+
+32
+00:01:29.070 --> 00:01:32.000
+and keeping it under revision control.
+
+33
+00:01:32.000 --> 00:01:35.020
+As we move further to the right in time,
+
+34
+00:01:35.020 --> 00:01:37.020
+or further along in time,
+
+35
+00:01:37.020 --> 00:01:40.020
+the design runs through a series of sprints again.
+
+36
+00:01:40.020 --> 00:01:44.030
+And what we find is that we get very near the final product,
+
+37
+00:01:44.030 --> 00:01:46.070
+or we get the completed product.
+
+38
+00:01:46.070 --> 00:01:49.070
+Feedback from the testers indicates that it meets
+
+39
+00:01:49.070 --> 00:01:53.060
+all the requirements, and the design professionals agree
+
+40
+00:01:53.060 --> 00:01:55.080
+that the design can be frozen.
+
+41
+00:01:55.080 --> 00:01:59.000
+So a couple things I want to point out here at this time.
+
+42
+00:01:59.000 --> 00:02:02.000
+As you would expect, any changes moving forward
+
+43
+00:02:02.000 --> 00:02:03.080
+would have to be handled through a formal
+
+44
+00:02:03.080 --> 00:02:07.010
+change management process, not a design review process.
+
+45
+00:02:07.010 --> 00:02:10.090
+Similarly I think it's important to note that the design
+
+46
+00:02:10.090 --> 00:02:15.060
+team, or the product development team is agreeing on things
+
+47
+00:02:15.060 --> 00:02:20.010
+in this process. It's very important that as a manager
+
+48
+00:02:20.010 --> 00:02:23.020
+of agile new product development projects,
+
+49
+00:02:23.020 --> 00:02:25.050
+that you seek to have agreements, and that you seek
+
+50
+00:02:25.050 --> 00:02:28.070
+to have decisions made at the time that they can be made,
+
+51
+00:02:28.070 --> 00:02:32.000
+and by the stakeholders most empowered to make them.
+

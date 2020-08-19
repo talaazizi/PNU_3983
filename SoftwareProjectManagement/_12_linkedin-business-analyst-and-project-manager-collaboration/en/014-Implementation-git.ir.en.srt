@@ -1,0 +1,324 @@
+1
+00:00:00,960 --> 00:00:06,160
+so requirements are done
+
+2
+00:00:03,439 --> 00:00:06,960
+now what does implementation have to do
+
+3
+00:00:06,160 --> 00:00:10,400
+with the ba
+
+4
+00:00:06,960 --> 00:00:12,880
+and pm partnership bailey the ba
+
+5
+00:00:10,400 --> 00:00:14,400
+has the requirements done helped with
+
+6
+00:00:12,880 --> 00:00:17,279
+development and testing
+
+7
+00:00:14,400 --> 00:00:18,640
+so what's next collaborating on
+
+8
+00:00:17,279 --> 00:00:20,960
+implementation starts
+
+9
+00:00:18,640 --> 00:00:22,080
+long before prepping for the go live day
+
+10
+00:00:20,960 --> 00:00:24,640
+activities
+
+11
+00:00:22,080 --> 00:00:26,400
+and the key areas where pat the pm and
+
+12
+00:00:24,640 --> 00:00:28,720
+bayley the ba collaborate
+
+13
+00:00:26,400 --> 00:00:30,480
+are the transition requirements and
+
+14
+00:00:28,720 --> 00:00:33,280
+change readiness
+
+15
+00:00:30,480 --> 00:00:35,760
+let's start with transition requirements
+
+16
+00:00:33,280 --> 00:00:38,640
+these are the requirements that define
+
+17
+00:00:35,760 --> 00:00:40,480
+what it takes to transition from the old
+
+18
+00:00:38,640 --> 00:00:42,960
+to the new solution
+
+19
+00:00:40,480 --> 00:00:44,640
+and bailey thinks about them often
+
+20
+00:00:42,960 --> 00:00:46,879
+they're things like
+
+21
+00:00:44,640 --> 00:00:48,879
+what data needs to be brought from the
+
+22
+00:00:46,879 --> 00:00:51,600
+old to the new solution
+
+23
+00:00:48,879 --> 00:00:53,280
+so that it works as intended for users
+
+24
+00:00:51,600 --> 00:00:56,559
+and customers
+
+25
+00:00:53,280 --> 00:00:58,879
+an example of this is customer data
+
+26
+00:00:56,559 --> 00:00:59,920
+if a new system is implemented for an
+
+27
+00:00:58,879 --> 00:01:01,680
+organization
+
+28
+00:00:59,920 --> 00:01:04,159
+and none of the customer data is
+
+29
+00:01:01,680 --> 00:01:07,119
+transitioned to the new system
+
+30
+00:01:04,159 --> 00:01:09,200
+then when i interact as a customer the
+
+31
+00:01:07,119 --> 00:01:12,320
+new system may not know who i am
+
+32
+00:01:09,200 --> 00:01:14,080
+or my history this means customer
+
+33
+00:01:12,320 --> 00:01:17,040
+service nor myself
+
+34
+00:01:14,080 --> 00:01:18,000
+has information about me as a customer
+
+35
+00:01:17,040 --> 00:01:20,080
+it may seem
+
+36
+00:01:18,000 --> 00:01:22,080
+far-reaching to think this gets
+
+37
+00:01:20,080 --> 00:01:25,200
+forgotten or not done well
+
+38
+00:01:22,080 --> 00:01:28,000
+but it happens more often than you think
+
+39
+00:01:25,200 --> 00:01:29,920
+or the team thinks it's taken care of
+
+40
+00:01:28,000 --> 00:01:33,439
+but the customer experience
+
+41
+00:01:29,920 --> 00:01:35,520
+shows another view related to this
+
+42
+00:01:33,439 --> 00:01:36,560
+is other data migrations of work in
+
+43
+00:01:35,520 --> 00:01:39,439
+progress
+
+44
+00:01:36,560 --> 00:01:40,240
+things like current orders and status
+
+45
+00:01:39,439 --> 00:01:42,399
+data
+
+46
+00:01:40,240 --> 00:01:44,240
+another area of transition and
+
+47
+00:01:42,399 --> 00:01:46,720
+implementation preparation
+
+48
+00:01:44,240 --> 00:01:48,079
+patent bailey collaborate on is change
+
+49
+00:01:46,720 --> 00:01:50,479
+readiness
+
+50
+00:01:48,079 --> 00:01:51,680
+this includes things like training the
+
+51
+00:01:50,479 --> 00:01:54,079
+users
+
+52
+00:01:51,680 --> 00:01:55,200
+communicating the changes to each group
+
+53
+00:01:54,079 --> 00:01:57,680
+impacted
+
+54
+00:01:55,200 --> 00:02:00,000
+and evaluating if those impacted are
+
+55
+00:01:57,680 --> 00:02:00,640
+ready to make the change without adverse
+
+56
+00:02:00,000 --> 00:02:03,680
+impact
+
+57
+00:02:00,640 --> 00:02:07,280
+to the organization or customers
+
+58
+00:02:03,680 --> 00:02:09,280
+and last the go no go decision
+
+59
+00:02:07,280 --> 00:02:10,319
+facilitating the decision among
+
+60
+00:02:09,280 --> 00:02:12,879
+stakeholders of
+
+61
+00:02:10,319 --> 00:02:15,599
+readiness to deploy is a partnership
+
+62
+00:02:12,879 --> 00:02:17,599
+activity between pat and bailey
+
+63
+00:02:15,599 --> 00:02:19,040
+both pat and bailey have relationships
+
+64
+00:02:17,599 --> 00:02:20,879
+with the stakeholders
+
+65
+00:02:19,040 --> 00:02:23,360
+and have perspectives on the end
+
+66
+00:02:20,879 --> 00:02:25,599
+customer points of view
+
+67
+00:02:23,360 --> 00:02:26,640
+pat is looking closely at the triple
+
+68
+00:02:25,599 --> 00:02:29,440
+constraint
+
+69
+00:02:26,640 --> 00:02:31,280
+while bailly is analyzing the experience
+
+70
+00:02:29,440 --> 00:02:32,800
+and impacts to user groups in the
+
+71
+00:02:31,280 --> 00:02:35,120
+customer
+
+72
+00:02:32,800 --> 00:02:37,760
+all these pieces need to be taken into
+
+73
+00:02:35,120 --> 00:02:40,959
+account in these critical decisions
+
+74
+00:02:37,760 --> 00:02:43,200
+and moments of implementation
+
+75
+00:02:40,959 --> 00:02:45,440
+pat and bailey makes sure all the angles
+
+76
+00:02:43,200 --> 00:02:48,080
+are considered in the decision making
+
+77
+00:02:45,440 --> 00:02:49,200
+and both pat and bailey have a powerful
+
+78
+00:02:48,080 --> 00:02:51,760
+lens to provide
+
+79
+00:02:49,200 --> 00:02:52,959
+value together as the project heads
+
+80
+00:02:51,760 --> 00:03:01,840
+towards hopefully
+
+81
+00:02:52,959 --> 00:03:01,840
+a rewarding implementation
+

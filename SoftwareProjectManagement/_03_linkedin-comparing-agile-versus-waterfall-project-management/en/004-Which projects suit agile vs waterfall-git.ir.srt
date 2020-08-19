@@ -1,0 +1,376 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.020 --> 00:00:07.010
+- So I can see that you get the flexibility
+
+2
+00:00:07.010 --> 00:00:08.030
+and you learn from the customer
+
+3
+00:00:08.030 --> 00:00:10.060
+and you can have those increments.
+
+4
+00:00:10.060 --> 00:00:14.000
+Do you pay a price in terms of the time it takes
+
+5
+00:00:14.000 --> 00:00:15.060
+and it cost it takes,
+
+6
+00:00:15.060 --> 00:00:18.010
+because sticking with the house analogy,
+
+7
+00:00:18.010 --> 00:00:20.030
+if the flooring guy comes and does the kitchen floor
+
+8
+00:00:20.030 --> 00:00:22.030
+and then later on comes back and does the bathroom floor
+
+9
+00:00:22.030 --> 00:00:23.050
+and then does another floor,
+
+10
+00:00:23.050 --> 00:00:25.040
+rather than just doing the floor in one lot,
+
+11
+00:00:25.040 --> 00:00:28.080
+which you would do if you had a project plan,
+
+12
+00:00:28.080 --> 00:00:32.080
+does it mean that projects take longer to finish
+
+13
+00:00:32.080 --> 00:00:36.060
+and probably cost more if you do them in an agile way?
+
+14
+00:00:36.060 --> 00:00:42.050
+- Yeah, well typically agile teams don't deliver projects.
+
+15
+00:00:42.050 --> 00:00:45.010
+They are building products,
+
+16
+00:00:45.010 --> 00:00:46.020
+which is distinguishable
+
+17
+00:00:46.020 --> 00:00:50.040
+because your agile team is not thinking about
+
+18
+00:00:50.040 --> 00:00:54.090
+all the things that make a project,
+
+19
+00:00:54.090 --> 00:00:57.000
+it has to be novel but with the iron triangle
+
+20
+00:00:57.000 --> 00:00:58.060
+and things like that.
+
+21
+00:00:58.060 --> 00:01:02.030
+So with an agile team that's working on a software product
+
+22
+00:01:02.030 --> 00:01:03.070
+or some sort of product,
+
+23
+00:01:03.070 --> 00:01:06.020
+they should expect a lot of rework.
+
+24
+00:01:06.020 --> 00:01:09.020
+XP teams say that, extreme programming,
+
+25
+00:01:09.020 --> 00:01:11.060
+this is one of the frameworks used in agile.
+
+26
+00:01:11.060 --> 00:01:12.090
+They say that you shouldn't be afraid
+
+27
+00:01:12.090 --> 00:01:15.070
+to throw away software, if it's suboptimal.
+
+28
+00:01:15.070 --> 00:01:16.070
+- Yeah.
+
+29
+00:01:16.070 --> 00:01:18.040
+- And they call it software refactoring.
+
+30
+00:01:18.040 --> 00:01:20.080
+Where you're optimizing it all the time.
+
+31
+00:01:20.080 --> 00:01:24.000
+But the idea behind it is that it's much easier
+
+32
+00:01:24.000 --> 00:01:30.000
+to create a product and throw away work that's suboptimal,
+
+33
+00:01:30.000 --> 00:01:33.040
+than it is to try and plan everything out in the beginning.
+
+34
+00:01:33.040 --> 00:01:36.030
+So you take that time you would've spent planning
+
+35
+00:01:36.030 --> 00:01:37.080
+and you get rid of it,
+
+36
+00:01:37.080 --> 00:01:39.080
+and instead you use it on adapting.
+
+37
+00:01:39.080 --> 00:01:41.030
+And sometimes when you're adapting
+
+38
+00:01:41.030 --> 00:01:44.020
+and learning from your mistakes you have to throw out work.
+
+39
+00:01:44.020 --> 00:01:46.060
+But in the end you still save time
+
+40
+00:01:46.060 --> 00:01:50.000
+because you don't have that planning, that big chunk.
+
+41
+00:01:50.000 --> 00:01:52.020
+- Yeah, and I guess that depends how long
+
+42
+00:01:52.020 --> 00:01:53.060
+it takes to plan things.
+
+43
+00:01:53.060 --> 00:01:55.040
+Or even whether it's possible to plan.
+
+44
+00:01:55.040 --> 00:01:56.070
+'Cause I've got of a confession,
+
+45
+00:01:56.070 --> 00:01:59.030
+as somebody who has got some prejudice
+
+46
+00:01:59.030 --> 00:02:02.070
+against agile before this conversation.
+
+47
+00:02:02.070 --> 00:02:06.090
+I had an app made, my Jobs To Do app,
+
+48
+00:02:06.090 --> 00:02:08.090
+free on the app store folks.
+
+49
+00:02:08.090 --> 00:02:10.050
+I made a Jobs to Do app
+
+50
+00:02:10.050 --> 00:02:12.060
+because none of the jobs to do apps did what I wanted.
+
+51
+00:02:12.060 --> 00:02:13.080
+And when I say I made it,
+
+52
+00:02:13.080 --> 00:02:15.080
+I paid a guy to make it,
+
+53
+00:02:15.080 --> 00:02:17.090
+really clever app guy I've got.
+
+54
+00:02:17.090 --> 00:02:21.090
+And I think it wasn't possible for me to plan it,
+
+55
+00:02:21.090 --> 00:02:23.070
+to think of everything beforehand.
+
+56
+00:02:23.070 --> 00:02:25.060
+So we made it agile style.
+
+57
+00:02:25.060 --> 00:02:27.080
+And we didn't have scrums and sprints
+
+58
+00:02:27.080 --> 00:02:28.070
+and all that sort of thing,
+
+59
+00:02:28.070 --> 00:02:30.090
+but basically I explained to him roughly what I wanted
+
+60
+00:02:30.090 --> 00:02:32.070
+and he more or less understood,
+
+61
+00:02:32.070 --> 00:02:34.070
+so I knew probably 80% of what I wanted
+
+62
+00:02:34.070 --> 00:02:36.030
+and by the time I'd explained to him
+
+63
+00:02:36.030 --> 00:02:40.040
+he understood probably 60% of what was in my head.
+
+64
+00:02:40.040 --> 00:02:42.020
+I wasn't very good at explaining it.
+
+65
+00:02:42.020 --> 00:02:45.010
+So he then made that,
+
+66
+00:02:45.010 --> 00:02:46.040
+and then when I got it I sort of said,
+
+67
+00:02:46.040 --> 00:02:48.070
+"Well I like it but could it be a different color,
+
+68
+00:02:48.070 --> 00:02:50.090
+"and could this be over here, and could this be bigger?"
+
+69
+00:02:50.090 --> 00:02:52.030
+And then we had version two
+
+70
+00:02:52.030 --> 00:02:53.050
+and then I used it for a bit
+
+71
+00:02:53.050 --> 00:02:55.020
+and realized I need an extra screen
+
+72
+00:02:55.020 --> 00:02:57.040
+and I wanted it to go from small to big
+
+73
+00:02:57.040 --> 00:02:59.000
+rather than big to small.
+
+74
+00:02:59.000 --> 00:03:02.020
+And we did about probably four iterations,
+
+75
+00:03:02.020 --> 00:03:04.040
+which took longer and cost more
+
+76
+00:03:04.040 --> 00:03:06.090
+than if he had just nailed it first time.
+
+77
+00:03:06.090 --> 00:03:10.030
+But it just wasn't possible for me to even know
+
+78
+00:03:10.030 --> 00:03:11.070
+what the finished thing was going to be like.
+
+79
+00:03:11.070 --> 00:03:13.020
+And because it was software,
+
+80
+00:03:13.020 --> 00:03:15.030
+he could easily just go back in and tweak it
+
+81
+00:03:15.030 --> 00:03:18.030
+for another hundred pounds, and another hundred.
+
+82
+00:03:18.030 --> 00:03:21.000
+And so by the end I wasn't bitter
+
+83
+00:03:21.000 --> 00:03:23.010
+about the fact that it had cost a bit more than we thought,
+
+84
+00:03:23.010 --> 00:03:25.000
+because it was me that kept messing him around.
+
+85
+00:03:25.000 --> 00:03:27.000
+So I was fine with that.
+
+86
+00:03:27.000 --> 00:03:28.050
+And I kind of knew at the beginning of the process
+
+87
+00:03:28.050 --> 00:03:31.090
+that that was how it was going to have to go.
+
+88
+00:03:31.090 --> 00:03:34.070
+So I can see with software that
+
+89
+00:03:34.070 --> 00:03:36.020
+you can change things halfway through
+
+90
+00:03:36.020 --> 00:03:39.010
+in a way that you can't change with a house.
+
+91
+00:03:39.010 --> 00:03:41.010
+And I can also see that with software
+
+92
+00:03:41.010 --> 00:03:44.020
+it's harder to imagine sometimes what it's going to be like,
+
+93
+00:03:44.020 --> 00:03:46.000
+so you have to be pretty flexible.
+

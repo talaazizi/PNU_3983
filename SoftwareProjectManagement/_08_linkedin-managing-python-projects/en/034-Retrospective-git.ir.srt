@@ -1,0 +1,100 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:01,05
+- [Instructor] A retrospective,
+
+2
+00:00:01,05 --> 00:00:04,09
+sometimes called postmortem, is a meeting you do
+
+3
+00:00:04,09 --> 00:00:07,00
+at the end of a period or a sprint
+
+4
+00:00:07,00 --> 00:00:09,06
+to discuss how you can improve.
+
+5
+00:00:09,06 --> 00:00:12,02
+Retrospectives are very effective.
+
+6
+00:00:12,02 --> 00:00:14,00
+Sadly, people tend to skip them
+
+7
+00:00:14,00 --> 00:00:17,04
+and they have a low priority in many teams.
+
+8
+00:00:17,04 --> 00:00:20,08
+You should always allocate time for retrospectives.
+
+9
+00:00:20,08 --> 00:00:23,06
+You can do retrospective in physical meeting
+
+10
+00:00:23,06 --> 00:00:26,03
+or in asynchronous way in a chat room
+
+11
+00:00:26,03 --> 00:00:28,01
+or a shared document.
+
+12
+00:00:28,01 --> 00:00:31,03
+I highly recommend to document these retrospectives
+
+13
+00:00:31,03 --> 00:00:32,04
+since they common knowledge
+
+14
+00:00:32,04 --> 00:00:35,04
+and represent organizational memory.
+
+15
+00:00:35,04 --> 00:00:38,04
+Retrospectives can get long and tedious.
+
+16
+00:00:38,04 --> 00:00:41,08
+Here's a template for making them short and effective.
+
+17
+00:00:41,08 --> 00:00:44,03
+Everyone writes or talks about three things
+
+18
+00:00:44,03 --> 00:00:46,07
+that went well and we should keep
+
+19
+00:00:46,07 --> 00:00:48,05
+and three things that didn't go well
+
+20
+00:00:48,05 --> 00:00:50,07
+and how to improve them.
+
+21
+00:00:50,07 --> 00:00:53,02
+During the meeting if there are things to do,
+
+22
+00:00:53,02 --> 00:00:54,05
+known as action items,
+
+23
+00:00:54,05 --> 00:00:57,02
+make sure to add them to your issue tracking
+
+24
+00:00:57,02 --> 00:00:59,00
+and allocate time for them.
+

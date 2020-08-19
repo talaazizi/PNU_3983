@@ -1,0 +1,512 @@
+1
+00:00:00.05 --> 00:00:02.03
+- One of the next choices you have
+
+2
+00:00:02.03 --> 00:00:05.03
+is how a video's privacy is set.
+
+3
+00:00:05.03 --> 00:00:06.05
+This is pretty straightforward,
+
+4
+00:00:06.05 --> 00:00:07.08
+but it comes down to
+
+5
+00:00:07.08 --> 00:00:10.04
+how do you want people to find your video
+
+6
+00:00:10.04 --> 00:00:13.03
+and you'll find a couple of
+choices available in YouTube
+
+7
+00:00:13.03 --> 00:00:15.00
+depending upon if you're a member
+
+8
+00:00:15.00 --> 00:00:17.04
+of the Partner Program or not.
+
+9
+00:00:17.04 --> 00:00:20.00
+So first up is a public video
+
+10
+00:00:20.00 --> 00:00:22.05
+and this is a video
+that everybody can see.
+
+11
+00:00:22.05 --> 00:00:24.02
+It can be embedded freely,
+
+12
+00:00:24.02 --> 00:00:26.07
+but you do still have the
+option on public videos
+
+13
+00:00:26.07 --> 00:00:28.04
+to turn off embedding,
+
+14
+00:00:28.04 --> 00:00:31.07
+but public videos can be
+searched and found by anybody
+
+15
+00:00:31.07 --> 00:00:35.08
+using a standard search on YouTube.
+
+16
+00:00:35.08 --> 00:00:39.01
+Another category is
+unlisted and what this means
+
+17
+00:00:39.01 --> 00:00:42.04
+is that only people who
+have the link can view it.
+
+18
+00:00:42.04 --> 00:00:44.04
+Now they can share the link freely.
+
+19
+00:00:44.04 --> 00:00:46.00
+They can send it to a friend.
+
+20
+00:00:46.00 --> 00:00:48.03
+There are no password protection on it,
+
+21
+00:00:48.03 --> 00:00:51.03
+but it is essentially like
+an unlisted phone number
+
+22
+00:00:51.03 --> 00:00:54.05
+which means that if people
+pass it around or share it,
+
+23
+00:00:54.05 --> 00:00:55.07
+well it's there.
+
+24
+00:00:55.07 --> 00:00:57.09
+Some folks will do unlisted videos
+
+25
+00:00:57.09 --> 00:01:00.09
+so they can test out how
+effective their blog is
+
+26
+00:01:00.09 --> 00:01:04.05
+or to see if social media
+can drive traffic to a page.
+
+27
+00:01:04.05 --> 00:01:07.04
+And if you really only want
+people to find the video
+
+28
+00:01:07.04 --> 00:01:08.09
+because they've been told about it,
+
+29
+00:01:08.09 --> 00:01:11.04
+well then unlisted comes in handy.
+
+30
+00:01:11.04 --> 00:01:12.07
+With unlisted videos,
+
+31
+00:01:12.07 --> 00:01:15.04
+do keep in mind that they will not show up
+
+32
+00:01:15.04 --> 00:01:16.09
+on your channel or page
+
+33
+00:01:16.09 --> 00:01:19.05
+and they don't show up in search results,
+
+34
+00:01:19.05 --> 00:01:22.02
+but other people do have the ability
+
+35
+00:01:22.02 --> 00:01:25.05
+to put an unlisted video into a playlist.
+
+36
+00:01:25.05 --> 00:01:28.07
+So what this means is is that
+it doesn't show up in search
+
+37
+00:01:28.07 --> 00:01:31.05
+and it doesn't show up on your page,
+
+38
+00:01:31.05 --> 00:01:34.03
+but it still can be shared by other people
+
+39
+00:01:34.03 --> 00:01:37.09
+or embedded or added to a playlist.
+
+40
+00:01:37.09 --> 00:01:40.08
+Now another style is a private video.
+
+41
+00:01:40.08 --> 00:01:44.05
+A private video is a video
+that only you can see.
+
+42
+00:01:44.05 --> 00:01:45.08
+Now with private videos,
+
+43
+00:01:45.08 --> 00:01:47.05
+they're not going to show
+up on the channel page.
+
+44
+00:01:47.05 --> 00:01:49.01
+They're not going to show up in search,
+
+45
+00:01:49.01 --> 00:01:52.03
+but they're not going to show
+up for other people either.
+
+46
+00:01:52.03 --> 00:01:55.02
+If you want somebody
+to see a private video,
+
+47
+00:01:55.02 --> 00:01:58.05
+you have to invite them via email.
+
+48
+00:01:58.05 --> 00:02:00.01
+Now typically what will happen is
+
+49
+00:02:00.01 --> 00:02:01.03
+they'll receive the message
+
+50
+00:02:01.03 --> 00:02:04.01
+and then when they click
+to log into YouTube,
+
+51
+00:02:04.01 --> 00:02:06.02
+it will make sure that
+they're logged into YouTube
+
+52
+00:02:06.02 --> 00:02:07.09
+or ask them to create an account
+
+53
+00:02:07.09 --> 00:02:09.09
+and then they're going
+to be able to see it.
+
+54
+00:02:09.09 --> 00:02:13.03
+So you can't just forward
+this message to somebody else.
+
+55
+00:02:13.03 --> 00:02:15.00
+Typically it's a one-time link
+
+56
+00:02:15.00 --> 00:02:18.01
+that's going to tie back to
+the person's email address.
+
+57
+00:02:18.01 --> 00:02:20.00
+There is one other type of video
+
+58
+00:02:20.00 --> 00:02:22.02
+and that is a scheduled video.
+
+59
+00:02:22.02 --> 00:02:25.00
+This is a video that you upload and queue
+
+60
+00:02:25.00 --> 00:02:26.02
+for future release.
+
+61
+00:02:26.02 --> 00:02:28.02
+So you have the ability to set the date,
+
+62
+00:02:28.02 --> 00:02:30.01
+the time, and the timezone.
+
+63
+00:02:30.01 --> 00:02:32.01
+Scheduled videos are quite useful
+
+64
+00:02:32.01 --> 00:02:33.08
+because maybe you have a product launch
+
+65
+00:02:33.08 --> 00:02:36.03
+or a big campaign that's starting.
+
+66
+00:02:36.03 --> 00:02:39.02
+You can upload the video and
+set it to private initially
+
+67
+00:02:39.02 --> 00:02:41.04
+and then when you know the release date,
+
+68
+00:02:41.04 --> 00:02:44.08
+exactly set it for when
+it's supposed to go live.
+
+69
+00:02:44.08 --> 00:02:46.05
+These controls are accurate
+
+70
+00:02:46.05 --> 00:02:50.00
+and allow you to really tie
+these to marketing efforts.
+
+71
+00:02:50.00 --> 00:02:52.04
+Now a couple more pieces
+of practical advice.
+
+72
+00:02:52.04 --> 00:02:55.02
+First up, both private and unlisted videos
+
+73
+00:02:55.02 --> 00:02:57.04
+could be quite useful for team review
+
+74
+00:02:57.04 --> 00:02:59.09
+and are great if you need
+to pass something around
+
+75
+00:02:59.09 --> 00:03:01.01
+to get feedback,
+
+76
+00:03:01.01 --> 00:03:03.03
+but do remember that
+anything on the internet
+
+77
+00:03:03.03 --> 00:03:05.03
+is never truly private.
+
+78
+00:03:05.03 --> 00:03:07.08
+So even if you have a video set to private
+
+79
+00:03:07.08 --> 00:03:10.03
+and you've set it so that
+it can't be embedded,
+
+80
+00:03:10.03 --> 00:03:12.02
+well people might still be able
+
+81
+00:03:12.02 --> 00:03:15.07
+to run screen capture
+software and capture the video
+
+82
+00:03:15.07 --> 00:03:18.02
+or take their cellphone and
+point it right at the screen
+
+83
+00:03:18.02 --> 00:03:20.04
+and record it and upload that.
+
+84
+00:03:20.04 --> 00:03:22.08
+So if privacy is a concern,
+
+85
+00:03:22.08 --> 00:03:25.07
+don't use YouTube because
+no matter what you do,
+
+86
+00:03:25.07 --> 00:03:29.02
+once it's on the net, somebody
+can find a way of sharing it,
+
+87
+00:03:29.02 --> 00:03:31.04
+but these privacy controls do help.
+
+88
+00:03:31.04 --> 00:03:34.08
+Lastly, remember that there
+are more secure methods
+
+89
+00:03:34.08 --> 00:03:38.00
+available to you,
+password protected sites,
+
+90
+00:03:38.00 --> 00:03:40.02
+digital downloads that are encrypted.
+
+91
+00:03:40.02 --> 00:03:41.06
+There are lots of solutions
+
+92
+00:03:41.06 --> 00:03:44.04
+if you truly need to
+deliver something securely.
+
+93
+00:03:44.04 --> 00:03:46.03
+All right, let me show
+you how to upload a video
+
+94
+00:03:46.03 --> 00:03:47.07
+and choose these settings.
+
+95
+00:03:47.07 --> 00:03:49.02
+It's really pretty straightforward.
+
+96
+00:03:49.02 --> 00:03:52.08
+When you're logged into YouTube
+on whatever page you're on,
+
+97
+00:03:52.08 --> 00:03:56.07
+you'll notice in the top
+toolbar an upload button.
+
+98
+00:03:56.07 --> 00:03:58.09
+Make sure that you're
+logged into the account
+
+99
+00:03:58.09 --> 00:04:01.09
+that you want to upload to.
+
+100
+00:04:01.09 --> 00:04:06.03
+Click the upload button
+and a new window pops up.
+
+101
+00:04:06.03 --> 00:04:10.04
+Now what you can do is
+click to select a file.
+
+102
+00:04:10.04 --> 00:04:14.07
+Now let's select a video
+here and I'll click choose.
+
+103
+00:04:14.07 --> 00:04:17.07
+You'll notice that it starts
+to upload automatically
+
+104
+00:04:17.07 --> 00:04:19.09
+and from the popup list here,
+
+105
+00:04:19.09 --> 00:04:23.03
+we can choose how that video is uploaded.
+
+106
+00:04:23.03 --> 00:04:25.02
+That's quite useful.
+
+107
+00:04:25.02 --> 00:04:28.04
+Let me cancel for a second here.
+
+108
+00:04:28.04 --> 00:04:31.01
+You'll also notice on the upload button
+
+109
+00:04:31.01 --> 00:04:34.02
+that you have the ability
+to set that beforehand.
+
+110
+00:04:34.02 --> 00:04:37.00
+So if you intend to
+upload multiple videos,
+
+111
+00:04:37.00 --> 00:04:39.06
+you can change that so
+the same privacy setting
+
+112
+00:04:39.06 --> 00:04:41.09
+is applied to all videos.
+
+113
+00:04:41.09 --> 00:04:44.02
+Now we'll revisit this
+screen in just a moment,
+
+114
+00:04:44.02 --> 00:04:46.01
+but it's a simple popup
+
+115
+00:04:46.01 --> 00:04:48.02
+whether you want to set it for all uploads
+
+116
+00:04:48.02 --> 00:04:52.02
+before you add them in or
+individually movie by movie.
+

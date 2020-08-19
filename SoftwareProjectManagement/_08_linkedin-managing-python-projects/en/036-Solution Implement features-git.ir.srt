@@ -1,0 +1,184 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:06,00
+(energetic music)
+
+2
+00:00:06,00 --> 00:00:08,02
+- [Instructor] We start by going to the issues tab
+
+3
+00:00:08,02 --> 00:00:11,01
+and clicking on your issue.
+
+4
+00:00:11,01 --> 00:00:17,02
+Let's say create sentencize function.
+
+5
+00:00:17,02 --> 00:00:20,00
+And here we write a description.
+
+6
+00:00:20,00 --> 00:00:26,05
+Create a sentencize[text] function
+
+7
+00:00:26,05 --> 00:00:31,07
+that will split text to sentences.
+
+8
+00:00:31,07 --> 00:00:39,02
+Splits on the dot, exclamation mark, and question mark.
+
+9
+00:00:39,02 --> 00:00:40,08
+I can have a look at the preview.
+
+10
+00:00:40,08 --> 00:00:42,05
+This looks nice.
+
+11
+00:00:42,05 --> 00:00:45,04
+I will assign it to myself.
+
+12
+00:00:45,04 --> 00:00:48,00
+And I will submit a new issue.
+
+13
+00:00:48,00 --> 00:00:51,00
+This is issue number six.
+
+14
+00:00:51,00 --> 00:00:53,06
+So now I can go to my code
+
+15
+00:00:53,06 --> 00:01:02,00
+and git checkout -b issue/6-sentencize
+
+16
+00:01:02,00 --> 00:01:03,09
+and now I'm writing my code.
+
+17
+00:01:03,09 --> 00:01:06,09
+Adding new code, changing code.
+
+18
+00:01:06,09 --> 00:01:10,01
+For example here, I'm going to add the new code
+
+19
+00:01:10,01 --> 00:01:14,05
+for sentencize and save the file.
+
+20
+00:01:14,05 --> 00:01:17,09
+I can do git status to check and see
+
+21
+00:01:17,09 --> 00:01:22,06
+that I have one modified file, and two new file.
+
+22
+00:01:22,06 --> 00:01:29,09
+Before I'm going to commit, I'm going to run the tests.
+
+23
+00:01:29,09 --> 00:01:31,04
+And once the tests are passing,
+
+24
+00:01:31,04 --> 00:01:33,08
+I can do git add nlp
+
+25
+00:01:33,08 --> 00:01:38,08
+init nlp, sentences, and test, test.
+
+26
+00:01:38,08 --> 00:01:40,02
+And sentences.
+
+27
+00:01:40,02 --> 00:01:43,08
+And then I do git commit -m
+
+28
+00:01:43,08 --> 00:01:50,01
+add sentencize function
+
+29
+00:01:50,01 --> 00:01:52,01
+And these changes are still local,
+
+30
+00:01:52,01 --> 00:01:57,04
+now I need to do git push -u origin which is to github.
+
+31
+00:01:57,04 --> 00:02:04,08
+And we're saying that this is issue/6-sentencize.
+
+32
+00:02:04,08 --> 00:02:09,03
+This is going to push it to github.
+
+33
+00:02:09,03 --> 00:02:11,02
+Now I can go back to github.
+
+34
+00:02:11,02 --> 00:02:13,03
+I will click on pull requests.
+
+35
+00:02:13,03 --> 00:02:16,09
+I see that I get a notification under new pull requests.
+
+36
+00:02:16,09 --> 00:02:20,00
+So I can compare the pull request.
+
+37
+00:02:20,00 --> 00:02:24,04
+Change the add to capital A, so it will be nicer.
+
+38
+00:02:24,04 --> 00:02:28,03
+And create a pull request.
+
+39
+00:02:28,03 --> 00:02:29,08
+Now I have a pull request,
+
+40
+00:02:29,08 --> 00:02:31,06
+I can look at files changed,
+
+41
+00:02:31,06 --> 00:02:36,02
+and see that these files are there.
+
+42
+00:02:36,02 --> 00:02:42,06
+And I can collaborate by adding some comments.
+
+43
+00:02:42,06 --> 00:02:45,08
+And once everything is fine, I can approve that,
+
+44
+00:02:45,08 --> 00:02:53,00
+I can do a squash emerge to get the new feature in.
+
+45
+00:02:53,00 --> 00:02:54,00
+And that's it.
+

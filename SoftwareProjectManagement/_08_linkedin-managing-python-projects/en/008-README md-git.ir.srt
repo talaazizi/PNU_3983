@@ -1,0 +1,68 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:02,00
+- [Instructor] You should have a ReadMe file
+
+2
+00:00:02,00 --> 00:00:03,06
+at your repository.
+
+3
+00:00:03,06 --> 00:00:07,00
+It should provide some documentation about your project,
+
+4
+00:00:07,00 --> 00:00:10,08
+and some help for new developers on how to get by.
+
+5
+00:00:10,08 --> 00:00:14,08
+It's very common to write ReadMe in Markdown format.
+
+6
+00:00:14,08 --> 00:00:17,06
+GitHub and other services well render this Markdown
+
+7
+00:00:17,06 --> 00:00:21,07
+to nice HTML, as you can see here.
+
+8
+00:00:21,07 --> 00:00:23,08
+The first lines of the ReadMe should be
+
+9
+00:00:23,08 --> 00:00:25,09
+an elevator pitch for your project.
+
+10
+00:00:25,09 --> 00:00:30,04
+It should explain in short terms what your project is about.
+
+11
+00:00:30,04 --> 00:00:33,06
+Usually after that comes uses, examples
+
+12
+00:00:33,06 --> 00:00:35,05
+and more documentation.
+
+13
+00:00:35,05 --> 00:00:38,05
+At the end we usually have some data for developers
+
+14
+00:00:38,05 --> 00:00:41,06
+on how to get started hacking on the project.
+
+15
+00:00:41,06 --> 00:00:43,09
+ReadMe is important, don't skip it
+
+16
+00:00:43,09 --> 00:00:46,00
+and make sure it's updated.
+

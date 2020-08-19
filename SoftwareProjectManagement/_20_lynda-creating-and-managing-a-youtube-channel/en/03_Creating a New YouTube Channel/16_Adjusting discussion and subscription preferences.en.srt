@@ -1,0 +1,597 @@
+1
+00:00:00.05 --> 00:00:02.04
+- Another area that you
+need to take a look at
+
+2
+00:00:02.04 --> 00:00:05.05
+is how you control the
+settings for discussion
+
+3
+00:00:05.05 --> 00:00:07.01
+about your channel.
+
+4
+00:00:07.01 --> 00:00:09.02
+Now, personally, I like to see discussion
+
+5
+00:00:09.02 --> 00:00:11.00
+on individual videos
+
+6
+00:00:11.00 --> 00:00:13.08
+but I'm not interested in
+having comments available
+
+7
+00:00:13.08 --> 00:00:15.02
+on the channel itself
+
+8
+00:00:15.02 --> 00:00:18.04
+where people discuss
+the channel as a whole.
+
+9
+00:00:18.04 --> 00:00:20.04
+However, some people may want this.
+
+10
+00:00:20.04 --> 00:00:22.05
+It does tend to be a place, though,
+
+11
+00:00:22.05 --> 00:00:24.02
+where your harshest critics will gather
+
+12
+00:00:24.02 --> 00:00:26.08
+and post things for everyone to see.
+
+13
+00:00:26.08 --> 00:00:28.07
+Let me show you how you can control this.
+
+14
+00:00:28.07 --> 00:00:31.01
+First up, the channel discussion
+
+15
+00:00:31.01 --> 00:00:33.02
+is going to be done under the gear icon
+
+16
+00:00:33.02 --> 00:00:35.01
+in the top right corner of the page.
+
+17
+00:00:35.01 --> 00:00:37.05
+This controls whether people can comment
+
+18
+00:00:37.05 --> 00:00:41.01
+on a channel as a whole.
+
+19
+00:00:41.01 --> 00:00:45.02
+What you can do is sign in
+and then click on My Channel
+
+20
+00:00:45.02 --> 00:00:48.05
+and go to your channel banner.
+
+21
+00:00:48.05 --> 00:00:52.04
+Click the settings icon.
+
+22
+00:00:52.04 --> 00:00:55.02
+Sign in on your computer
+and then click on your icon
+
+23
+00:00:55.02 --> 00:00:58.00
+and choose my channel.
+
+24
+00:00:58.00 --> 00:01:00.04
+Under the channel banner,
+you'll see a choice
+
+25
+00:01:00.04 --> 00:01:02.08
+for settings, a gear icon.
+
+26
+00:01:02.08 --> 00:01:04.06
+Click it and you can now decide
+
+27
+00:01:04.06 --> 00:01:09.04
+to show the discussion tab
+and make things on or off.
+
+28
+00:01:09.04 --> 00:01:11.07
+If you do turn this on, you can decide
+
+29
+00:01:11.07 --> 00:01:14.02
+that you'd like to show
+comments automatically
+
+30
+00:01:14.02 --> 00:01:17.09
+without moderation or wait
+until you've had a chance
+
+31
+00:01:17.09 --> 00:01:20.06
+to login and approve them.
+
+32
+00:01:20.06 --> 00:01:23.05
+Comments will not be
+available on private videos
+
+33
+00:01:23.05 --> 00:01:25.07
+so if you don't want to
+allow commenting on a video
+
+34
+00:01:25.07 --> 00:01:29.01
+that's publicly available,
+make sure you post it
+
+35
+00:01:29.01 --> 00:01:34.05
+as an unlisted video.
+
+36
+00:01:34.05 --> 00:01:35.04
+Now, let's go to the channel
+
+37
+00:01:35.04 --> 00:01:37.09
+and I'll click the
+customize channel button
+
+38
+00:01:37.09 --> 00:01:40.05
+to make sure it's editable.
+
+39
+00:01:40.05 --> 00:01:45.04
+You'll now see the gear
+icon and simply click.
+
+40
+00:01:45.04 --> 00:01:49.03
+You can decide if you want
+to show the discussions tab.
+
+41
+00:01:49.03 --> 00:01:53.05
+Let's close this for a moment
+and you'll see discussions.
+
+42
+00:01:53.05 --> 00:01:56.09
+This is where people can post comments.
+
+43
+00:01:56.09 --> 00:01:59.04
+If you don't want
+discussions on the main page,
+
+44
+00:01:59.04 --> 00:02:03.00
+click that icon again
+and choose to disable it
+
+45
+00:02:03.00 --> 00:02:05.00
+and it will go away.
+
+46
+00:02:05.00 --> 00:02:07.02
+Remember, if it's enabled, you can decide
+
+47
+00:02:07.02 --> 00:02:11.05
+to display automatically
+or to moderate them.
+
+48
+00:02:11.05 --> 00:02:18.06
+I'm gonna turn it off at the
+channel level and click save.
+
+49
+00:02:18.06 --> 00:02:22.05
+You'll see that the
+discussions tab goes away.
+
+50
+00:02:22.05 --> 00:02:25.02
+Now, if you do decide
+to enable discussions,
+
+51
+00:02:25.02 --> 00:02:27.08
+let me give you a few pieces of advice.
+
+52
+00:02:27.08 --> 00:02:31.02
+First up, make sure that
+you choose whether or not
+
+53
+00:02:31.02 --> 00:02:33.00
+to display them.
+
+54
+00:02:33.00 --> 00:02:37.00
+I do not recommend being
+automatically displayed.
+
+55
+00:02:37.00 --> 00:02:38.08
+Rather, I would strongly suggest
+
+56
+00:02:38.08 --> 00:02:41.05
+that if you choose to show
+comments on your page,
+
+57
+00:02:41.05 --> 00:02:46.05
+that you set these to be
+only approved comments.
+
+58
+00:02:46.05 --> 00:02:48.09
+Also, I would recommend
+that those comments
+
+59
+00:02:48.09 --> 00:02:50.07
+are reviewed by either you
+
+60
+00:02:50.07 --> 00:02:52.06
+or one of the communications manager
+
+61
+00:02:52.06 --> 00:02:54.09
+before you make them live.
+
+62
+00:02:54.09 --> 00:02:57.03
+This gives you a chance
+to respond to people
+
+63
+00:02:57.03 --> 00:03:00.07
+and to decide if the comment
+adds to the discussion
+
+64
+00:03:00.07 --> 00:03:04.06
+or is simply somebody venting.
+
+65
+00:03:04.06 --> 00:03:06.06
+Now, in my own personal experience,
+
+66
+00:03:06.06 --> 00:03:08.08
+YouTube commenters typically exhibit
+
+67
+00:03:08.08 --> 00:03:10.07
+some of the worst writing skills.
+
+68
+00:03:10.07 --> 00:03:14.09
+What it comes down to is make
+sure that you're in control.
+
+69
+00:03:14.09 --> 00:03:17.03
+If this is a brand that matters to you,
+
+70
+00:03:17.03 --> 00:03:20.01
+you might not want to give
+people a free for all.
+
+71
+00:03:20.01 --> 00:03:22.03
+I'm all for social media and engagement
+
+72
+00:03:22.03 --> 00:03:23.08
+but think of it this way.
+
+73
+00:03:23.08 --> 00:03:26.05
+Would you let somebody stand
+in the lobby of your building
+
+74
+00:03:26.05 --> 00:03:29.03
+or the front entryway
+screaming negative things?
+
+75
+00:03:29.03 --> 00:03:31.00
+Probably not.
+
+76
+00:03:31.00 --> 00:03:34.05
+It can be really distracting
+to other customers or visitors.
+
+77
+00:03:34.05 --> 00:03:38.02
+Now it's fine to see those
+comments if they're moderated
+
+78
+00:03:38.02 --> 00:03:42.01
+and reply to the person as a
+customer service opportunity.
+
+79
+00:03:42.01 --> 00:03:45.03
+So, if you're prepared to
+monitor these comments,
+
+80
+00:03:45.03 --> 00:03:49.07
+turn on the discussion tab but
+set them to approval first.
+
+81
+00:03:49.07 --> 00:03:51.07
+This way, you can get
+the negative feedback
+
+82
+00:03:51.07 --> 00:03:54.08
+and engage the customer
+to make them satisfied.
+
+83
+00:03:54.08 --> 00:03:56.09
+If you don't have time to moderate this
+
+84
+00:03:56.09 --> 00:03:59.06
+and you don't want to get
+customer support complaints
+
+85
+00:03:59.06 --> 00:04:02.02
+through YouTube, then turn it off
+
+86
+00:04:02.02 --> 00:04:05.00
+and just make sure that you
+have a feedback mechanism
+
+87
+00:04:05.00 --> 00:04:07.01
+on your company's website.
+
+88
+00:04:07.01 --> 00:04:09.08
+Now, couple more things
+to look at for settings.
+
+89
+00:04:09.08 --> 00:04:12.03
+I would also suggest that you take a look
+
+90
+00:04:12.03 --> 00:04:14.01
+at your privacy settings.
+
+91
+00:04:14.01 --> 00:04:18.05
+Remember, this controls what's
+going to be shown to people.
+
+92
+00:04:18.05 --> 00:04:23.09
+I generally recommend that
+these should be disabled.
+
+93
+00:04:23.09 --> 00:04:26.03
+And take a look at your notifications
+
+94
+00:04:26.03 --> 00:04:29.04
+to understand what's going
+to be put out to people
+
+95
+00:04:29.04 --> 00:04:31.03
+when you publish.
+
+96
+00:04:31.03 --> 00:04:35.04
+So, if we go here to our settings icon,
+
+97
+00:04:35.04 --> 00:04:38.03
+I'm gonna leave things set to private here
+
+98
+00:04:38.03 --> 00:04:40.07
+so all of my playlists, subscriptions
+
+99
+00:04:40.07 --> 00:04:42.08
+and viewed videos are private
+
+100
+00:04:42.08 --> 00:04:45.07
+and if I want other controls, I can click
+
+101
+00:04:45.07 --> 00:04:47.08
+to access advanced settings.
+
+102
+00:04:47.08 --> 00:04:51.05
+And this will let me
+control what is shared.
+
+103
+00:04:51.05 --> 00:04:54.03
+So, for example, I'm gonna keep all
+
+104
+00:04:54.03 --> 00:04:56.08
+of my liked videos private.
+
+105
+00:04:56.08 --> 00:05:00.03
+And I'm not going to post
+to the activity feed.
+
+106
+00:05:00.03 --> 00:05:04.05
+This way, I don't get
+accidental posts on my content.
+
+107
+00:05:04.05 --> 00:05:07.08
+Additionally, if I click
+the notification icon here,
+
+108
+00:05:07.08 --> 00:05:11.07
+I can control, if there are
+any notifications coming in
+
+109
+00:05:11.07 --> 00:05:13.05
+and I can click the gear icon here
+
+110
+00:05:13.05 --> 00:05:15.04
+to see the settings and, you see,
+
+111
+00:05:15.04 --> 00:05:18.05
+it let's me control
+what I'm notified about.
+
+112
+00:05:18.05 --> 00:05:22.08
+So, for example, I can get
+emails about all of my activity
+
+113
+00:05:22.08 --> 00:05:28.01
+or only do ones that are
+required announcements.
+
+114
+00:05:28.01 --> 00:05:31.02
+You see that this affects
+what you get notified on,
+
+115
+00:05:31.02 --> 00:05:35.09
+everything or only specific things.
+
+116
+00:05:35.09 --> 00:05:38.05
+You can decide what you're
+gonna get notified on.
+
+117
+00:05:38.05 --> 00:05:42.09
+Do you want to get a push
+message or an email or both?
+
+118
+00:05:42.09 --> 00:05:46.04
+And this will show you up
+here, as a push message,
+
+119
+00:05:46.04 --> 00:05:49.09
+in the mobile app and in your email.
+
+120
+00:05:49.09 --> 00:05:53.01
+And you can decide if you want
+to get notified about things.
+
+121
+00:05:53.01 --> 00:05:55.08
+For example, I don't
+really care about activity
+
+122
+00:05:55.08 --> 00:05:59.02
+on my channel or my comments
+
+123
+00:05:59.02 --> 00:06:03.06
+but I do want to know about
+replies to my comments.
+
+124
+00:06:03.06 --> 00:06:07.04
+This way I get notified if I
+need to respond to somebody
+
+125
+00:06:07.04 --> 00:06:10.01
+after they've replied to me.
+
+126
+00:06:10.01 --> 00:06:13.07
+In any case, you're in control
+of what you get notified on
+
+127
+00:06:13.07 --> 00:06:16.09
+and what information
+you share with people.
+
+128
+00:06:16.09 --> 00:06:18.04
+Remember, this is important
+
+129
+00:06:18.04 --> 00:06:24.06
+because as you go back
+to your channel here,
+
+130
+00:06:24.06 --> 00:06:27.04
+this will affect what
+information is going to appear
+
+131
+00:06:27.04 --> 00:06:30.05
+in the stream and what
+notifications people
+
+132
+00:06:30.05 --> 00:06:34.01
+are told about as you start to
+engage with YouTube content.
+

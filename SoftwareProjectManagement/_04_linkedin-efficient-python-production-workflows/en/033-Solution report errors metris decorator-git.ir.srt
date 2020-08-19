@@ -1,0 +1,76 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,03 --> 00:00:05,06
+(upbeat music)
+
+2
+00:00:05,06 --> 00:00:07,01
+- [Man] Here's my solution.
+
+3
+00:00:07,01 --> 00:00:09,01
+In line eight, we write the decorator.
+
+4
+00:00:09,01 --> 00:00:12,08
+In line nine, we add the attribute called num errors
+
+5
+00:00:12,08 --> 00:00:14,00
+to the function object.
+
+6
+00:00:14,00 --> 00:00:16,01
+And, initialize it to zero.
+
+7
+00:00:16,01 --> 00:00:18,04
+In line 12, we write the wrapper function.
+
+8
+00:00:18,04 --> 00:00:20,04
+It will try to run the function.
+
+9
+00:00:20,04 --> 00:00:24,01
+And, in line 16 we check and if there was an exception.
+
+10
+00:00:24,01 --> 00:00:25,05
+And, if there was an exception,
+
+11
+00:00:25,05 --> 00:00:28,06
+in line 18 we incriminate the numbers of errors.
+
+12
+00:00:28,06 --> 00:00:32,01
+In line 19 and 20, we log.
+
+13
+00:00:32,01 --> 00:00:36,04
+And here is the uses example, we decorate the div function
+
+14
+00:00:36,04 --> 00:00:38,00
+with our reports error.
+
+15
+00:00:38,00 --> 00:00:41,02
+And in the main, we call it once, without an error.
+
+16
+00:00:41,02 --> 00:00:44,06
+And, line 33 with an error.
+
+17
+00:00:44,06 --> 00:00:48,09
+Python app.py, and we see that the div is called twice,
+
+18
+00:00:48,09 --> 00:00:52,00
+but only on the second time, we get the error report.
+

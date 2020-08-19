@@ -1,0 +1,128 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:01,08
+- [Instructor] A package manager
+
+2
+00:00:01,08 --> 00:00:03,07
+will install third-party packages
+
+3
+00:00:03,07 --> 00:00:05,08
+and their dependencies for you.
+
+4
+00:00:05,08 --> 00:00:10,09
+Pip is the most widely used one and is a good choice.
+
+5
+00:00:10,09 --> 00:00:13,04
+Pip is not the only package manager.
+
+6
+00:00:13,04 --> 00:00:22,01
+There are others such as Poetry, Conda, Pipenv, and others.
+
+7
+00:00:22,01 --> 00:00:23,07
+I'm going to talk about Pip,
+
+8
+00:00:23,07 --> 00:00:25,03
+but the ideas here apply to other
+
+9
+00:00:25,03 --> 00:00:27,04
+package managers as well.
+
+10
+00:00:27,04 --> 00:00:30,00
+By default, Pip will install the latest version
+
+11
+00:00:30,00 --> 00:00:31,02
+of a package.
+
+12
+00:00:31,02 --> 00:00:33,08
+I highly recommend you specify which version
+
+13
+00:00:33,08 --> 00:00:36,04
+of a package you want to install.
+
+14
+00:00:36,04 --> 00:00:38,05
+It will save you from surprises in the future
+
+15
+00:00:38,05 --> 00:00:41,02
+when someone accidentally introduces a bug
+
+16
+00:00:41,02 --> 00:00:44,04
+or a change to a function parameters.
+
+17
+00:00:44,04 --> 00:00:46,01
+You should also write your dependencies
+
+18
+00:00:46,01 --> 00:00:50,00
+and their versions down and place this file in SuSE control
+
+19
+00:00:50,00 --> 00:00:52,05
+so other team members and the operations team
+
+20
+00:00:52,05 --> 00:00:55,04
+will be able to reproduce the same environment.
+
+21
+00:00:55,04 --> 00:00:57,01
+Here's an example.
+
+22
+00:00:57,01 --> 00:01:00,09
+This file is usually called requirements.txt.
+
+23
+00:01:00,09 --> 00:01:03,00
+You can have comments like in line one
+
+24
+00:01:03,00 --> 00:01:06,01
+and then in line three and four we specify the dependencies
+
+25
+00:01:06,01 --> 00:01:10,09
+and we specify the version for every dependency.
+
+26
+00:01:10,09 --> 00:01:17,05
+To install these requirements from Python -m pip install -r
+
+27
+00:01:17,05 --> 00:01:20,01
+and our requirements file.
+
+28
+00:01:20,01 --> 00:01:22,05
+Then the pip will install the dependencies
+
+29
+00:01:22,05 --> 00:01:26,00
+and their dependencies.
+
+30
+00:01:26,00 --> 00:01:31,03
+And now in our code we can use pandas for example.
+
+31
+00:01:31,03 --> 00:01:34,00
+We put pandas as pd works.
+

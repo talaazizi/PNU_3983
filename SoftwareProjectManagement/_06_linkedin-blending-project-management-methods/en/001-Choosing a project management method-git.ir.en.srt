@@ -1,0 +1,103 @@
+1
+00:00:00,09 --> 00:00:04,07
+Many organizations are shifting their project portfolios
+
+2
+00:00:04,07 --> 00:00:06,06
+to Agile frameworks.
+
+3
+00:00:06,06 --> 00:00:10,02
+However, even as the transition is taking place,
+
+4
+00:00:10,02 --> 00:00:12,07
+traditional methods remain.
+
+5
+00:00:12,07 --> 00:00:16,00
+In fact, in many cases both Agile
+
+6
+00:00:16,00 --> 00:00:20,05
+and traditional project methods continue to exist together.
+
+7
+00:00:20,05 --> 00:00:23,09
+But knowing how to do that effectively can be a challenge.
+
+8
+00:00:23,09 --> 00:00:26,04
+In fact, a lot of people think
+
+9
+00:00:26,04 --> 00:00:29,07
+they can't even exist together at all.
+
+10
+00:00:29,07 --> 00:00:33,00
+However, in this course we compare Agile
+
+11
+00:00:33,00 --> 00:00:35,04
+and traditional project frameworks.
+
+12
+00:00:35,04 --> 00:00:39,06
+We investigate the criteria you should use as you choose
+
+13
+00:00:39,06 --> 00:00:43,01
+which is the right method for your project.
+
+14
+00:00:43,01 --> 00:00:45,09
+We all want to be effective project leaders
+
+15
+00:00:45,09 --> 00:00:47,05
+in our organizations.
+
+16
+00:00:47,05 --> 00:00:50,08
+Organizational change can make that challenging.
+
+17
+00:00:50,08 --> 00:00:54,05
+What we need to do is to understand the changes taking place
+
+18
+00:00:54,05 --> 00:00:56,07
+and the reasons behind them.
+
+19
+00:00:56,07 --> 00:00:59,00
+Hi, I'm Kelley O'Connell.
+
+20
+00:00:59,00 --> 00:01:01,02
+I've been a traditional project manager,
+
+21
+00:01:01,02 --> 00:01:04,09
+and am now an Agile coach and transformation strategist.
+
+22
+00:01:04,09 --> 00:01:08,02
+I've been leading teams for more than 20 years.
+
+23
+00:01:08,02 --> 00:01:10,02
+I've also been leading organizations
+
+24
+00:01:10,02 --> 00:01:13,00
+through Agile transitions for 10 years.
+
+25
+00:01:13,00 --> 00:01:15,00
+Please join me on LinkedIn Learning
+
+26
+00:01:15,00 --> 00:01:18,01
+as we explore blending project methods.

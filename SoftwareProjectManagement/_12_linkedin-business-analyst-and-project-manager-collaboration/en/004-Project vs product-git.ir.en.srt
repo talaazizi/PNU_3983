@@ -1,0 +1,392 @@
+1
+00:00:00,719 --> 00:00:04,000
+many confuse the terms project and
+
+2
+00:00:03,199 --> 00:00:06,640
+product
+
+3
+00:00:04,000 --> 00:00:07,680
+is this something you've experienced too
+
+4
+00:00:06,640 --> 00:00:11,440
+product
+
+5
+00:00:07,680 --> 00:00:14,160
+project what's the difference a project
+
+6
+00:00:11,440 --> 00:00:15,360
+is a temporary initiative to create a
+
+7
+00:00:14,160 --> 00:00:18,160
+product
+
+8
+00:00:15,360 --> 00:00:18,720
+and a product is something that delivers
+
+9
+00:00:18,160 --> 00:00:22,080
+value
+
+10
+00:00:18,720 --> 00:00:22,720
+as the result of a project it's easy to
+
+11
+00:00:22,080 --> 00:00:25,599
+use them
+
+12
+00:00:22,720 --> 00:00:26,560
+interchangeably in conversation yet in
+
+13
+00:00:25,599 --> 00:00:29,279
+project work
+
+14
+00:00:26,560 --> 00:00:30,640
+it's important to differentiate the
+
+15
+00:00:29,279 --> 00:00:33,840
+focus of each of these
+
+16
+00:00:30,640 --> 00:00:37,680
+is different the product lives on
+
+17
+00:00:33,840 --> 00:00:40,559
+while the project is temporary the pm
+
+18
+00:00:37,680 --> 00:00:42,719
+focuses on the project and the ba
+
+19
+00:00:40,559 --> 00:00:45,280
+focuses on the product
+
+20
+00:00:42,719 --> 00:00:46,399
+let's look at pat the pm and bailey the
+
+21
+00:00:45,280 --> 00:00:49,440
+ba
+
+22
+00:00:46,399 --> 00:00:50,640
+pat the pm and bailey the ba are on a
+
+23
+00:00:49,440 --> 00:00:52,800
+project together
+
+24
+00:00:50,640 --> 00:00:55,039
+looking to transform their customer
+
+25
+00:00:52,800 --> 00:00:58,239
+relationship management processes
+
+26
+00:00:55,039 --> 00:01:00,239
+or crm for short and improve customer
+
+27
+00:00:58,239 --> 00:01:03,120
+relationships
+
+28
+00:01:00,239 --> 00:01:05,199
+the organization built a legacy system
+
+29
+00:01:03,120 --> 00:01:07,360
+years ago for crm
+
+30
+00:01:05,199 --> 00:01:08,479
+and it's no longer cost effective to
+
+31
+00:01:07,360 --> 00:01:10,840
+maintain
+
+32
+00:01:08,479 --> 00:01:12,080
+nor is it meeting business goals and
+
+33
+00:01:10,840 --> 00:01:14,640
+needs
+
+34
+00:01:12,080 --> 00:01:16,400
+they decided to invest in a new system
+
+35
+00:01:14,640 --> 00:01:18,560
+and determine that purchasing
+
+36
+00:01:16,400 --> 00:01:20,240
+rather than building software is the
+
+37
+00:01:18,560 --> 00:01:22,960
+approach to take
+
+38
+00:01:20,240 --> 00:01:24,400
+the project is the initiative to make
+
+39
+00:01:22,960 --> 00:01:26,640
+the change
+
+40
+00:01:24,400 --> 00:01:28,000
+it's temporary and has completion
+
+41
+00:01:26,640 --> 00:01:30,960
+criteria
+
+42
+00:01:28,000 --> 00:01:32,240
+the product is the system and process
+
+43
+00:01:30,960 --> 00:01:35,280
+that lives on
+
+44
+00:01:32,240 --> 00:01:37,920
+after the project is complete the
+
+45
+00:01:35,280 --> 00:01:40,720
+project creates the product
+
+46
+00:01:37,920 --> 00:01:42,320
+it's common that smaller projects or a
+
+47
+00:01:40,720 --> 00:01:45,520
+product team is formed
+
+48
+00:01:42,320 --> 00:01:48,399
+to enhance the product as needed
+
+49
+00:01:45,520 --> 00:01:48,720
+pat looks from the project perspective
+
+50
+00:01:48,399 --> 00:01:50,640
+and
+
+51
+00:01:48,720 --> 00:01:53,600
+bailey looks at the product point of
+
+52
+00:01:50,640 --> 00:01:55,600
+view for the crm project
+
+53
+00:01:53,600 --> 00:01:56,719
+this has pat looking at the vendor
+
+54
+00:01:55,600 --> 00:02:00,079
+management
+
+55
+00:01:56,719 --> 00:02:03,119
+resources budget schedule
+
+56
+00:02:00,079 --> 00:02:06,000
+and overall plans for the project
+
+57
+00:02:03,119 --> 00:02:07,040
+bailey's focus is on the groups that are
+
+58
+00:02:06,000 --> 00:02:09,520
+impacted
+
+59
+00:02:07,040 --> 00:02:11,599
+and how their usage and interaction with
+
+60
+00:02:09,520 --> 00:02:14,239
+the system changes
+
+61
+00:02:11,599 --> 00:02:17,040
+bailey is also looking at how any end
+
+62
+00:02:14,239 --> 00:02:18,879
+customer touch points may be impacted
+
+63
+00:02:17,040 --> 00:02:21,440
+bailly's focus is working with
+
+64
+00:02:18,879 --> 00:02:22,000
+stakeholders to understand how the new
+
+65
+00:02:21,440 --> 00:02:24,560
+crm
+
+66
+00:02:22,000 --> 00:02:26,400
+package works and what it takes to make
+
+67
+00:02:24,560 --> 00:02:29,200
+it work in their environment to serve
+
+68
+00:02:26,400 --> 00:02:31,599
+their operation and customers
+
+69
+00:02:29,200 --> 00:02:32,400
+collaboration between patent bailly is
+
+70
+00:02:31,599 --> 00:02:34,640
+critical
+
+71
+00:02:32,400 --> 00:02:35,760
+as they feed one another to get their
+
+72
+00:02:34,640 --> 00:02:39,440
+work accomplished
+
+73
+00:02:35,760 --> 00:02:41,440
+successfully bailey working to define
+
+74
+00:02:39,440 --> 00:02:44,080
+the product and its requirements
+
+75
+00:02:41,440 --> 00:02:44,720
+will run into scope questions and scope
+
+76
+00:02:44,080 --> 00:02:46,720
+questions
+
+77
+00:02:44,720 --> 00:02:48,879
+feed the estimates and schedule that
+
+78
+00:02:46,720 --> 00:02:50,959
+pat's working on
+
+79
+00:02:48,879 --> 00:02:52,560
+changing priorities means changes to
+
+80
+00:02:50,959 --> 00:02:55,680
+scope requirements
+
+81
+00:02:52,560 --> 00:02:58,080
+budget and schedule and an increase in
+
+82
+00:02:55,680 --> 00:03:00,480
+risk for the project
+
+83
+00:02:58,080 --> 00:03:01,440
+changing requirements involve both pat
+
+84
+00:03:00,480 --> 00:03:03,760
+and bailey
+
+85
+00:03:01,440 --> 00:03:06,800
+working together to ensure the right
+
+86
+00:03:03,760 --> 00:03:08,800
+expectations and value are delivered
+
+87
+00:03:06,800 --> 00:03:10,400
+pat and bailey work well together as a
+
+88
+00:03:08,800 --> 00:03:12,239
+team because they both
+
+89
+00:03:10,400 --> 00:03:14,239
+understand the difference between the
+
+90
+00:03:12,239 --> 00:03:16,080
+project and the product
+
+91
+00:03:14,239 --> 00:03:17,760
+and what it means to their roles and how
+
+92
+00:03:16,080 --> 00:03:19,760
+they work together
+
+93
+00:03:17,760 --> 00:03:21,360
+they're in constant communication on
+
+94
+00:03:19,760 --> 00:03:24,000
+areas where the project
+
+95
+00:03:21,360 --> 00:03:26,000
+and the product overlap and they play
+
+96
+00:03:24,000 --> 00:03:26,720
+off one another's work to get great
+
+97
+00:03:26,000 --> 00:03:31,840
+results
+
+98
+00:03:26,720 --> 00:03:31,840
+for stakeholders
+

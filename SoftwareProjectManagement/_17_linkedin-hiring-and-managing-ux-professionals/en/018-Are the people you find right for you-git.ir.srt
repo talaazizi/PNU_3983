@@ -1,0 +1,228 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,04 --> 00:00:03,09
+- Once you've identified someone as a potential employee
+
+2
+00:00:03,09 --> 00:00:07,02
+of your company, or a valuable freelance resource,
+
+3
+00:00:07,02 --> 00:00:11,01
+how do you figure out if they are really right for you?
+
+4
+00:00:11,01 --> 00:00:15,00
+Someone that is newer to UX may not have a UX brand yet.
+
+5
+00:00:15,00 --> 00:00:17,00
+But someone who is coming to you who has experience,
+
+6
+00:00:17,00 --> 00:00:19,02
+whether an employee or a contractor,
+
+7
+00:00:19,02 --> 00:00:23,00
+should be self-branded as a UX professional.
+
+8
+00:00:23,00 --> 00:00:25,05
+First off, does their LinkedIn profile
+
+9
+00:00:25,05 --> 00:00:29,07
+and their resume articulate a solid set of UX experiences?
+
+10
+00:00:29,07 --> 00:00:32,05
+And do those experiences tell the story of a UX professional
+
+11
+00:00:32,05 --> 00:00:36,00
+who does UX activities within the design, research,
+
+12
+00:00:36,00 --> 00:00:37,06
+and strategy framework?
+
+13
+00:00:37,06 --> 00:00:41,04
+And without too much time away from UX in the narrative.
+
+14
+00:00:41,04 --> 00:00:43,07
+If you Google that person, you should ideally
+
+15
+00:00:43,07 --> 00:00:45,06
+be able to see a UX brand.
+
+16
+00:00:45,06 --> 00:00:48,02
+Preferably with evidence that they've been associated
+
+17
+00:00:48,02 --> 00:00:50,04
+with UX activities, have some semblance
+
+18
+00:00:50,04 --> 00:00:52,02
+of UX represented on social media.
+
+19
+00:00:52,02 --> 00:00:56,07
+And perhaps have blogged about UX or even spoken at events.
+
+20
+00:00:56,07 --> 00:00:58,09
+That's not to say that someone who doesn't have a brand
+
+21
+00:00:58,09 --> 00:01:01,00
+that is steep in UX is wrong for you,
+
+22
+00:01:01,00 --> 00:01:03,02
+but positive UX branding provides you clues
+
+23
+00:01:03,02 --> 00:01:05,09
+that this is someone who wants to stay on top of things
+
+24
+00:01:05,09 --> 00:01:09,09
+and be connected to UX knowledge, ideas, and people.
+
+25
+00:01:09,09 --> 00:01:10,09
+UX isn't a static field
+
+26
+00:01:10,09 --> 00:01:14,07
+but doesn't have standardized continue education either.
+
+27
+00:01:14,07 --> 00:01:17,00
+Look for evidence through what you can gather online
+
+28
+00:01:17,00 --> 00:01:18,08
+or simply by talking with them
+
+29
+00:01:18,08 --> 00:01:20,09
+that no matter what the level of experience,
+
+30
+00:01:20,09 --> 00:01:23,07
+they show an interest in growing and learning.
+
+31
+00:01:23,07 --> 00:01:25,07
+And that they are excited to try new things
+
+32
+00:01:25,07 --> 00:01:29,00
+within their respective slice or slices of UX.
+
+33
+00:01:29,00 --> 00:01:30,03
+When you look at a portfolio,
+
+34
+00:01:30,03 --> 00:01:32,01
+make sure that you are presented in some way
+
+35
+00:01:32,01 --> 00:01:33,09
+with a narrative that tells you
+
+36
+00:01:33,09 --> 00:01:36,05
+that they not only understand the UX framework,
+
+37
+00:01:36,05 --> 00:01:39,00
+but also specific skills to a level
+
+38
+00:01:39,00 --> 00:01:42,03
+that matches the target expectations of the position.
+
+39
+00:01:42,03 --> 00:01:45,01
+If they're describing their portfolio to you in real time,
+
+40
+00:01:45,01 --> 00:01:47,04
+listen for that narrative as well.
+
+41
+00:01:47,04 --> 00:01:49,07
+What is the story of their experiences?
+
+42
+00:01:49,07 --> 00:01:51,08
+How do users fit into the story?
+
+43
+00:01:51,08 --> 00:01:55,00
+How does their story mesh with your needs?
+
+44
+00:01:55,00 --> 00:01:57,06
+Finally, remember that UX
+
+45
+00:01:57,06 --> 00:02:00,08
+does not have a single body of knowledge
+
+46
+00:02:00,08 --> 00:02:03,00
+or a single set of terminology.
+
+47
+00:02:03,00 --> 00:02:05,03
+Or, involve a single type of practice
+
+48
+00:02:05,03 --> 00:02:08,02
+within any particular slice of skills.
+
+49
+00:02:08,02 --> 00:02:11,00
+So even if someone comes in as an expert,
+
+50
+00:02:11,00 --> 00:02:14,01
+but is missing one or two of your required experiences,
+
+51
+00:02:14,01 --> 00:02:16,02
+don't discount them just yet.
+
+52
+00:02:16,02 --> 00:02:18,09
+If they solidly understand what UX is about,
+
+53
+00:02:18,09 --> 00:02:22,02
+what they are doing, and who they are doing it for,
+
+54
+00:02:22,02 --> 00:02:24,00
+the end users, then consider
+
+55
+00:02:24,00 --> 00:02:26,01
+that one or two missing experiences
+
+56
+00:02:26,01 --> 00:02:29,00
+can likely be picked up with use.
+

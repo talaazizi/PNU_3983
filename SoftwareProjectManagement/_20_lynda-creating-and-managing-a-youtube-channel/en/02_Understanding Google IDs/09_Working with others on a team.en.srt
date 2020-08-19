@@ -1,0 +1,389 @@
+1
+00:00:00.05 --> 00:00:02.01
+- Now, we've talked about the concept
+
+2
+00:00:02.01 --> 00:00:05.05
+of a Brand Account with
+multiple managers before,
+
+3
+00:00:05.05 --> 00:00:07.01
+but I'd like to go a
+little bit more deeply
+
+4
+00:00:07.01 --> 00:00:08.05
+on how you can work together
+
+5
+00:00:08.05 --> 00:00:10.03
+with multiple people as a team
+
+6
+00:00:10.03 --> 00:00:12.06
+to manage a YouTube channel.
+
+7
+00:00:12.06 --> 00:00:18.00
+So first you'll sign in as the
+owner of the Brand Account.
+
+8
+00:00:18.00 --> 00:00:19.09
+Then, in the upper right hand corner,
+
+9
+00:00:19.09 --> 00:00:21.06
+you'll click the account icon,
+
+10
+00:00:21.06 --> 00:00:23.04
+which drops down a menu,
+
+11
+00:00:23.04 --> 00:00:25.04
+and you'll need to select the channel
+
+12
+00:00:25.04 --> 00:00:27.08
+that you want to manage.
+
+13
+00:00:27.08 --> 00:00:31.00
+From here you can click the settings icon,
+
+14
+00:00:31.00 --> 00:00:33.01
+and you'll see the ability to add
+
+15
+00:00:33.01 --> 00:00:35.07
+or remove managers.
+
+16
+00:00:35.07 --> 00:00:38.06
+Then you'll simply be switched over
+
+17
+00:00:38.06 --> 00:00:40.09
+to the Brand Account details page
+
+18
+00:00:40.09 --> 00:00:43.06
+where it's very simple to add people.
+
+19
+00:00:43.06 --> 00:00:47.06
+Then you'll need to
+click manage permissions.
+
+20
+00:00:47.06 --> 00:00:50.03
+You'll be presented with a few choices.
+
+21
+00:00:50.03 --> 00:00:51.09
+You can add an owner,
+
+22
+00:00:51.09 --> 00:00:53.04
+and this is someone who will have
+
+23
+00:00:53.04 --> 00:00:56.01
+the ability to actually own the page
+
+24
+00:00:56.01 --> 00:00:58.01
+and decide what happens to it.
+
+25
+00:00:58.01 --> 00:01:00.03
+A page can only have one owner,
+
+26
+00:01:00.03 --> 00:01:03.01
+so this could be useful
+if you've sold the website
+
+27
+00:01:03.01 --> 00:01:05.09
+or had to setup a YouTube
+channel for someone else
+
+28
+00:01:05.09 --> 00:01:08.05
+and then transfer the
+ownership over to them
+
+29
+00:01:08.05 --> 00:01:10.08
+for their turn to manage it.
+
+30
+00:01:10.08 --> 00:01:12.06
+You can also add managers.
+
+31
+00:01:12.06 --> 00:01:14.02
+To do this you'll need to enter
+
+32
+00:01:14.02 --> 00:01:16.00
+a valid email address.
+
+33
+00:01:16.00 --> 00:01:19.08
+You don't have to know their Google ID.
+
+34
+00:01:19.08 --> 00:01:22.06
+You then click invite,
+and once they accept it,
+
+35
+00:01:22.06 --> 00:01:26.03
+they'll be connected to the channel.
+
+36
+00:01:26.03 --> 00:01:28.05
+You can also do this to promote someone
+
+37
+00:01:28.05 --> 00:01:33.03
+from an owner down to a
+manager or vice versa.
+
+38
+00:01:33.03 --> 00:01:34.06
+Here's how that works.
+
+39
+00:01:34.06 --> 00:01:37.02
+To start, make sure you're logged in
+
+40
+00:01:37.02 --> 00:01:39.09
+and then click on the icon here,
+
+41
+00:01:39.09 --> 00:01:41.09
+and make sure that
+you're using the account
+
+42
+00:01:41.09 --> 00:01:43.02
+you want to manage.
+
+43
+00:01:43.02 --> 00:01:45.04
+If you don't have the
+current one selected,
+
+44
+00:01:45.04 --> 00:01:48.01
+you can click switch account
+
+45
+00:01:48.01 --> 00:01:50.00
+and see all of the different choices
+
+46
+00:01:50.00 --> 00:01:52.09
+for the pages that you manage.
+
+47
+00:01:52.09 --> 00:01:56.02
+Then click the settings icon.
+
+48
+00:01:56.02 --> 00:01:58.05
+On this page you can choose to add
+
+49
+00:01:58.05 --> 00:02:04.02
+or remove managers.
+
+50
+00:02:04.02 --> 00:02:07.08
+Click the manage permissions button,
+
+51
+00:02:07.08 --> 00:02:11.04
+and you will see who has access.
+
+52
+00:02:11.04 --> 00:02:14.04
+For example, we have multiple managers
+
+53
+00:02:14.04 --> 00:02:16.01
+and someone who's been invited
+
+54
+00:02:16.01 --> 00:02:18.01
+but hasn't yet accepted.
+
+55
+00:02:18.01 --> 00:02:19.07
+If I want to remove someone,
+
+56
+00:02:19.07 --> 00:02:23.00
+I just click the X button
+and they are removed
+
+57
+00:02:23.00 --> 00:02:26.00
+and no longer have privileges.
+
+58
+00:02:26.00 --> 00:02:27.05
+If I want to add someone,
+
+59
+00:02:27.05 --> 00:02:29.08
+I simply click the plus button here
+
+60
+00:02:29.08 --> 00:02:33.01
+and enter their name.
+
+61
+00:02:33.01 --> 00:02:34.04
+Or, if I'm not sure
+
+62
+00:02:34.04 --> 00:02:36.05
+that this is their particular Google ID,
+
+63
+00:02:36.05 --> 00:02:45.03
+I can enter an email address.
+
+64
+00:02:45.03 --> 00:02:47.08
+From the choose a role you can decide
+
+65
+00:02:47.08 --> 00:02:50.02
+what they're allowed to do.
+
+66
+00:02:50.02 --> 00:02:55.04
+You can only have one owner on the page.
+
+67
+00:02:55.04 --> 00:02:58.01
+Additionally, managers have the ability
+
+68
+00:02:58.01 --> 00:03:01.05
+to actually make changes
+to the page itself
+
+69
+00:03:01.05 --> 00:03:03.06
+like playlist and upload.
+
+70
+00:03:03.06 --> 00:03:05.00
+Or, if you just want someone
+
+71
+00:03:05.00 --> 00:03:06.09
+to be able to send out messages
+
+72
+00:03:06.09 --> 00:03:12.00
+or reply to comments, make
+them a communications manager.
+
+73
+00:03:12.00 --> 00:03:14.08
+Once they are invited,
+they'll be added to the list
+
+74
+00:03:14.08 --> 00:03:19.07
+as a pending member, and you'll
+see their potential role.
+
+75
+00:03:19.07 --> 00:03:22.02
+When done just click the done button,
+
+76
+00:03:22.02 --> 00:03:24.00
+and it will update.
+
+77
+00:03:24.00 --> 00:03:26.00
+This ability to collaborate with others
+
+78
+00:03:26.00 --> 00:03:27.08
+and invite them to your page
+
+79
+00:03:27.08 --> 00:03:31.07
+makes it very easy for them
+to actually be a contributor.
+
+80
+00:03:31.07 --> 00:03:33.02
+For example, if you've invited someone
+
+81
+00:03:33.02 --> 00:03:34.06
+to be a manager, and they're going to use
+
+82
+00:03:34.06 --> 00:03:37.03
+their mobile device, well,
+they can now live stream
+
+83
+00:03:37.03 --> 00:03:38.09
+directly to the page, which means
+
+84
+00:03:38.09 --> 00:03:40.06
+that maybe they're at a trade show
+
+85
+00:03:40.06 --> 00:03:43.01
+and they want to do an on
+the show floor interview,
+
+86
+00:03:43.01 --> 00:03:45.03
+or maybe they need to do a live event.
+
+87
+00:03:45.03 --> 00:03:47.01
+Well, if you've added them as a manager,
+
+88
+00:03:47.01 --> 00:03:48.03
+they can do that.
+
+89
+00:03:48.03 --> 00:03:49.09
+So this is a very useful way
+
+90
+00:03:49.09 --> 00:03:52.09
+to give people access
+to a particular channel
+
+91
+00:03:52.09 --> 00:03:55.06
+without actually worrying
+about giving them the keys
+
+92
+00:03:55.06 --> 00:03:56.04
+to the castle.
+

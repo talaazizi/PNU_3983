@@ -1,0 +1,386 @@
+1
+00:00:00.05 --> 00:00:03.03
+- One of the easiest ways
+to go live is with an event.
+
+2
+00:00:03.03 --> 00:00:05.07
+And the easiest way to
+do this completely is
+
+3
+00:00:05.07 --> 00:00:07.06
+with the Hangouts On Air engine
+
+4
+00:00:07.06 --> 00:00:09.05
+that used to be part of Google Plus.
+
+5
+00:00:09.05 --> 00:00:10.06
+Now Hangouts On Air,
+
+6
+00:00:10.06 --> 00:00:13.05
+also known as YouTube
+Live are pretty simple.
+
+7
+00:00:13.05 --> 00:00:17.02
+You go to the Live Streaming
+section in your Creator Studio
+
+8
+00:00:17.02 --> 00:00:20.09
+and you click on New live event.
+
+9
+00:00:20.09 --> 00:00:25.07
+Then, choose Quick using
+Google Hangouts On Air.
+
+10
+00:00:25.07 --> 00:00:29.08
+Give your live stream a
+title and click Go live now
+
+11
+00:00:29.08 --> 00:00:32.05
+if you want to immediately
+start broadcasting.
+
+12
+00:00:32.05 --> 00:00:36.00
+Or you can enter in
+details to schedule it.
+
+13
+00:00:36.00 --> 00:00:38.04
+Then you use the Google
+Hangouts engine to do
+
+14
+00:00:38.04 --> 00:00:41.06
+a live broadcast which can
+include multiple panelists
+
+15
+00:00:41.06 --> 00:00:44.01
+and guests as well as screen sharing.
+
+16
+00:00:44.01 --> 00:00:46.05
+Now, I use this sometimes
+to do live events
+
+17
+00:00:46.05 --> 00:00:49.00
+on photofocus where we
+teach people software
+
+18
+00:00:49.00 --> 00:00:50.09
+with guest experts.
+
+19
+00:00:50.09 --> 00:00:54.00
+As you can see here, it's
+easy to schedule it in advance
+
+20
+00:00:54.00 --> 00:00:57.02
+and then during the webinar,
+multiple people can join us
+
+21
+00:00:57.02 --> 00:01:01.06
+for the conversation as
+we take a look at tools.
+
+22
+00:01:01.06 --> 00:01:05.00
+It even has great tools for
+putting things like lower thirds
+
+23
+00:01:05.00 --> 00:01:07.08
+or graphics over the top,
+so as you're teaching,
+
+24
+00:01:07.08 --> 00:01:12.00
+people can see who's talking
+and what's happening.
+
+25
+00:01:12.00 --> 00:01:15.07
+To schedule a live broadcast,
+it's pretty straight forward
+
+26
+00:01:15.07 --> 00:01:19.03
+Make sure you take advantage
+of the built in scheduler.
+
+27
+00:01:19.03 --> 00:01:23.02
+And this can also control
+who can see a broadcast.
+
+28
+00:01:23.02 --> 00:01:26.01
+Is it public, unlisted, et cetera.
+
+29
+00:01:26.01 --> 00:01:28.08
+When you create the event,
+you have a few options.
+
+30
+00:01:28.08 --> 00:01:32.07
+Public means anyone can
+find it and watch it.
+
+31
+00:01:32.07 --> 00:01:35.04
+Unlisted means it's not shown publicly,
+
+32
+00:01:35.04 --> 00:01:38.05
+but if you put the link out
+there via social media, a blog,
+
+33
+00:01:38.05 --> 00:01:40.07
+or email, people can find it.
+
+34
+00:01:40.07 --> 00:01:44.08
+I'll sometimes use unlisted
+for smaller meeting or events
+
+35
+00:01:44.08 --> 00:01:46.05
+that I want people to be at
+
+36
+00:01:46.05 --> 00:01:49.00
+but I don't want to
+publicize quite largely.
+
+37
+00:01:49.00 --> 00:01:50.09
+This way I can email the link around
+
+38
+00:01:50.09 --> 00:01:52.07
+and people can watch and view.
+
+39
+00:01:52.07 --> 00:01:54.07
+If I'm really concerned
+about who's attending,
+
+40
+00:01:54.07 --> 00:01:56.09
+well then I can set that event to private.
+
+41
+00:01:56.09 --> 00:01:58.00
+A private event means
+
+42
+00:01:58.00 --> 00:02:01.02
+that only people you've
+specifically invited
+
+43
+00:02:01.02 --> 00:02:05.09
+by an email address or a web
+domain or a particular group
+
+44
+00:02:05.09 --> 00:02:09.05
+that you've set up, can
+see the live broadcast.
+
+45
+00:02:09.05 --> 00:02:12.01
+To access a live broadcast is easy.
+
+46
+00:02:12.01 --> 00:02:17.05
+Just log into your channel
+and go to Creator Studio.
+
+47
+00:02:17.05 --> 00:02:23.05
+Then, click on Live Streaming.
+
+48
+00:02:23.05 --> 00:02:27.03
+If you want to go live
+now, click on Stream Now
+
+49
+00:02:27.03 --> 00:02:31.04
+and you'll see here that you
+have the ability to go live.
+
+50
+00:02:31.04 --> 00:02:35.02
+You simply put in some general information
+
+51
+00:02:35.02 --> 00:02:38.08
+and from Stream Options here,
+you can decide what to do.
+
+52
+00:02:38.08 --> 00:02:42.00
+This means for example,
+that we can stream this
+
+53
+00:02:42.00 --> 00:02:43.03
+and then make an archive.
+
+54
+00:02:43.03 --> 00:02:48.03
+We can stream it and allow
+people to have rewind, et cetera.
+
+55
+00:02:48.03 --> 00:02:51.02
+We'll talk more about these
+options in just a moment.
+
+56
+00:02:51.02 --> 00:02:53.00
+Now, what I want to suggest is
+
+57
+00:02:53.00 --> 00:02:56.06
+that you use the Events section.
+
+58
+00:02:56.06 --> 00:02:59.06
+This is going to give you more control.
+
+59
+00:02:59.06 --> 00:03:03.01
+Click to make a new live event.
+
+60
+00:03:03.01 --> 00:03:07.07
+Then, enter a title.
+
+61
+00:03:07.07 --> 00:03:10.01
+You can choose to go live now
+
+62
+00:03:10.01 --> 00:03:15.09
+or set this for a specific time.
+
+63
+00:03:15.09 --> 00:03:19.03
+You can also add an end time.
+
+64
+00:03:19.03 --> 00:03:26.00
+Feel free to put in a description.
+
+65
+00:03:26.00 --> 00:03:34.02
+And tags.
+
+66
+00:03:34.02 --> 00:03:38.09
+You can decide the publicity
+status, and decide on a method.
+
+67
+00:03:38.09 --> 00:03:41.00
+The easiest one is the Quick method
+
+68
+00:03:41.00 --> 00:03:43.05
+with the Google's Hangout On Air.
+
+69
+00:03:43.05 --> 00:03:46.04
+Once I create the event,
+a new video is made
+
+70
+00:03:46.04 --> 00:03:49.06
+that's designed to be a
+container for the live stream.
+
+71
+00:03:49.06 --> 00:03:51.03
+If we scroll down here to the bottom,
+
+72
+00:03:51.03 --> 00:03:54.06
+you see that it's got the
+date and the information.
+
+73
+00:03:54.06 --> 00:03:58.01
+If people were to go to that
+page or I was to embed this
+
+74
+00:03:58.01 --> 00:04:02.06
+into a webpage, it would look
+just like a YouTube video.
+
+75
+00:04:02.06 --> 00:04:05.01
+But in the mean time,
+it's got a countdown timer
+
+76
+00:04:05.01 --> 00:04:08.05
+until the event starts or
+they can click set a reminder
+
+77
+00:04:08.05 --> 00:04:11.06
+and get notified when the event begins.
+
+78
+00:04:11.06 --> 00:04:14.02
+Now there's more to running
+a Google Hangout On Air
+
+79
+00:04:14.02 --> 00:04:16.03
+and I invite you to check
+out some of the courses
+
+80
+00:04:16.03 --> 00:04:18.07
+in our library about webinars and events
+
+81
+00:04:18.07 --> 00:04:21.06
+or some of the documentation
+on Google's website.
+
+82
+00:04:21.06 --> 00:04:24.09
+But the Hangout On Air
+engine is the easiest way
+
+83
+00:04:24.09 --> 00:04:26.08
+to do a live video stream.
+
+84
+00:04:26.08 --> 00:04:29.07
+But there are other methods
+and we'll talk about that next.
+

@@ -1,0 +1,220 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:03,00
+- [ Narrator ] Docker and Kubernetes are becoming
+
+2
+00:00:03,00 --> 00:00:06,03
+the standard way to ship and manage applications.
+
+3
+00:00:06,03 --> 00:00:09,04
+A Docker container is an isolated environment,
+
+4
+00:00:09,04 --> 00:00:11,07
+and here we can install packages without
+
+5
+00:00:11,07 --> 00:00:14,04
+the need for a virtual environment.
+
+6
+00:00:14,04 --> 00:00:16,06
+To create a Docker image for your application,
+
+7
+00:00:16,06 --> 00:00:19,01
+you need to write a Docker file.
+
+8
+00:00:19,01 --> 00:00:20,05
+Let's have a look.
+
+9
+00:00:20,05 --> 00:00:24,00
+So this is Docker file for the time z HTTP server.
+
+10
+00:00:24,00 --> 00:00:26,03
+We specify in line 2 that we using
+
+11
+00:00:26,03 --> 00:00:30,01
+the Python 3.7-slim Docker image.
+
+12
+00:00:30,01 --> 00:00:32,09
+In line 3 we create a user for our application.
+
+13
+00:00:32,09 --> 00:00:35,06
+It is considered a good security practice.
+
+14
+00:00:35,06 --> 00:00:38,04
+In line 6 we set the environment variable
+
+15
+00:00:38,04 --> 00:00:41,01
+for the port to listen on, for 8080.
+
+16
+00:00:41,01 --> 00:00:43,08
+In line 8 we copy the requirements file.
+
+17
+00:00:43,08 --> 00:00:46,05
+In line 9 we install them.
+
+18
+00:00:46,05 --> 00:00:48,07
+In line 13 we copy the package.
+
+19
+00:00:48,07 --> 00:00:52,04
+I line 14 we specify the command to run,
+
+20
+00:00:52,04 --> 00:00:55,01
+Python, dash-m, time z.
+
+21
+00:00:55,01 --> 00:00:56,02
+And now we can build it.
+
+22
+00:00:56,02 --> 00:00:57,04
+Docker,
+
+23
+00:00:57,04 --> 00:00:58,08
+build,
+
+24
+00:00:58,08 --> 00:01:00,03
+and we say the tag.
+
+25
+00:01:00,03 --> 00:01:02,08
+The tag is the name of the docker image,
+
+26
+00:01:02,08 --> 00:01:03,07
+and let's say lil
+
+27
+00:01:03,07 --> 00:01:06,02
+time z.
+
+28
+00:01:06,02 --> 00:01:09,06
+And then we say the current directory.
+
+29
+00:01:09,06 --> 00:01:10,06
+So Docker,
+
+30
+00:01:10,06 --> 00:01:11,04
+build,
+
+31
+00:01:11,04 --> 00:01:13,08
+dash t is the name of the image
+
+32
+00:01:13,08 --> 00:01:20,04
+So l i l slash time z, and then we say the current directory
+
+33
+00:01:20,04 --> 00:01:24,01
+And Docker is going to build the image for us.
+
+34
+00:01:24,01 --> 00:01:28,09
+It's going to install dependencies and copy our application.
+
+35
+00:01:28,09 --> 00:01:29,09
+And now we can run it.
+
+36
+00:01:29,09 --> 00:01:33,05
+So we can do Docker, run, dash-p, 8080,
+
+37
+00:01:33,05 --> 00:01:34,05
+8080
+
+38
+00:01:34,05 --> 00:01:37,03
+We telling Docker to expose port 8080 from the Docker
+
+39
+00:01:37,03 --> 00:01:39,09
+container, to our local machine,
+
+40
+00:01:39,09 --> 00:01:41,09
+and dash rm saying remove
+
+41
+00:01:41,09 --> 00:01:45,04
+this container once it's down, and then
+
+42
+00:01:45,04 --> 00:01:47,02
+timez.
+
+43
+00:01:47,02 --> 00:01:50,02
+And now server is running, now we can
+
+44
+00:01:50,02 --> 00:01:54,08
+open a new tab and try to connect to our server.
+
+45
+00:01:54,08 --> 00:01:57,05
+So I am going to use a curl command line
+
+46
+00:01:57,05 --> 00:01:59,05
+and say http
+
+47
+00:01:59,05 --> 00:02:00,07
+local host
+
+48
+00:02:00,07 --> 00:02:02,03
+8080,
+
+49
+00:02:02,03 --> 00:02:05,03
+and then the current time in
+
+50
+00:02:05,03 --> 00:02:07,02
+Europe,
+
+51
+00:02:07,02 --> 00:02:08,02
+London
+
+52
+00:02:08,02 --> 00:02:11,05
+and I get the current time, in JSON format.
+
+53
+00:02:11,05 --> 00:02:14,00
+If you want to learn more about Docker, or Kubernetes,
+
+54
+00:02:14,00 --> 00:02:17,00
+check out our offering on these topics.
+

@@ -1,0 +1,224 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,05
+- As your company and code evolves
+
+2
+00:00:02,05 --> 00:00:04,03
+you'll have some packages that you wrote
+
+3
+00:00:04,03 --> 00:00:07,03
+and are used by several other projects.
+
+4
+00:00:07,03 --> 00:00:10,03
+If your company is okay with releasing these packages
+
+5
+00:00:10,03 --> 00:00:13,08
+as open source, it's a win-win situation.
+
+6
+00:00:13,08 --> 00:00:15,07
+You can install them from PyPI
+
+7
+00:00:15,07 --> 00:00:18,01
+and the community gains a package.
+
+8
+00:00:18,01 --> 00:00:20,00
+However, in some cases
+
+9
+00:00:20,00 --> 00:00:22,03
+you'd like to keep some packages internal
+
+10
+00:00:22,03 --> 00:00:23,07
+to your company.
+
+11
+00:00:23,07 --> 00:00:24,08
+At the same time,
+
+12
+00:00:24,08 --> 00:00:27,07
+you'd like to use your regular install process.
+
+13
+00:00:27,07 --> 00:00:29,09
+Lucky for you, PyPI's very flexible
+
+14
+00:00:29,09 --> 00:00:32,00
+about installing packages.
+
+15
+00:00:32,00 --> 00:00:36,00
+You need to build your packages as a wheel, egg or sdist.
+
+16
+00:00:36,00 --> 00:00:39,03
+See the documentation on how to do that.
+
+17
+00:00:39,03 --> 00:00:41,02
+Once you have a wheel of your package
+
+18
+00:00:41,02 --> 00:00:43,04
+you can use pips --find-link option.
+
+19
+00:00:43,04 --> 00:00:47,08
+'-- find-links option' can work both with directories
+
+20
+00:00:47,08 --> 00:00:50,00
+or actually to be service.
+
+21
+00:00:50,00 --> 00:00:54,00
+If you have a shared directory, this is the simplest.
+
+22
+00:00:54,00 --> 00:00:55,06
+Copy the wheel over.
+
+23
+00:00:55,06 --> 00:00:58,01
+Here's an example of requirements file
+
+24
+00:00:58,01 --> 00:00:59,04
+for directory.
+
+25
+00:00:59,04 --> 00:01:01,09
+In line three, we're looking for Python packages
+
+26
+00:01:01,09 --> 00:01:04,02
+in /opt/packages.
+
+27
+00:01:04,02 --> 00:01:07,00
+Your location might fail.
+
+28
+00:01:07,00 --> 00:01:13,06
+So let's create a virtual environment.
+
+29
+00:01:13,06 --> 00:01:19,05
+And then virtual environment bin python-m pip
+
+30
+00:01:19,05 --> 00:01:24,09
+install -r requirements dir.pur.
+
+31
+00:01:24,09 --> 00:01:28,00
+And you see that the lilmath packkage is installed
+
+32
+00:01:28,00 --> 00:01:31,02
+from /opt/packages.
+
+33
+00:01:31,02 --> 00:01:32,09
+If you don't have a shared directory
+
+34
+00:01:32,09 --> 00:01:34,03
+you can have a web server
+
+35
+00:01:34,03 --> 00:01:36,01
+that serves as directory.
+
+36
+00:01:36,01 --> 00:01:38,02
+Here's a quick way to do it.
+
+37
+00:01:38,02 --> 00:01:41,00
+In the same directory that we have the packages
+
+38
+00:01:41,00 --> 00:01:46,00
+you run python -m http.server.
+
+39
+00:01:46,00 --> 00:01:49,09
+This will stop web server on port 8000.
+
+40
+00:01:49,09 --> 00:01:52,02
+And now, in our requirement file
+
+41
+00:01:52,02 --> 00:01:54,08
+which is requirements-web.txt.
+
+42
+00:01:54,08 --> 00:01:57,01
+In line three you can see find links now
+
+43
+00:01:57,01 --> 00:01:59,08
+points to local host 8000.
+
+44
+00:01:59,08 --> 00:02:01,07
+And now let's install.
+
+45
+00:02:01,07 --> 00:02:04,07
+So, let's remove
+
+46
+00:02:04,07 --> 00:02:08,01
+the virtual environment
+
+47
+00:02:08,01 --> 00:02:10,08
+and recreate it again.
+
+48
+00:02:10,08 --> 00:02:17,07
+And now, venv/bin/phyton -m pip install -r requirements,
+
+49
+00:02:17,07 --> 00:02:20,05
+and this time, the web WANS.
+
+50
+00:02:20,05 --> 00:02:21,07
+Install.
+
+51
+00:02:21,07 --> 00:02:23,09
+And you can see that lilmath is installed from
+
+52
+00:02:23,09 --> 00:02:26,04
+local host 88.
+
+53
+00:02:26,04 --> 00:02:27,08
+Apart from these solutions,
+
+54
+00:02:27,08 --> 00:02:29,07
+there are applications that host packages
+
+55
+00:02:29,07 --> 00:02:33,00
+from free open source commercial offerings.
+

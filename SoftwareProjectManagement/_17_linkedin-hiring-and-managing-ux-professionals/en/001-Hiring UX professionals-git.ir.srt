@@ -1,0 +1,104 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:02,07
+- Something is wrong.
+
+2
+00:00:02,07 --> 00:00:04,09
+Perhaps the users of your existing product
+
+3
+00:00:04,09 --> 00:00:08,06
+are complaining on social media about poor usability.
+
+4
+00:00:08,06 --> 00:00:11,06
+Or maybe you're planning on creating something new
+
+5
+00:00:11,06 --> 00:00:14,09
+and want to get it right from the start.
+
+6
+00:00:14,09 --> 00:00:18,09
+Or perhaps you have a robust user experience team already,
+
+7
+00:00:18,09 --> 00:00:20,09
+but they're the ones who are complaining about
+
+8
+00:00:20,09 --> 00:00:23,09
+a totally overwhelming workload.
+
+9
+00:00:23,09 --> 00:00:27,02
+What you need is more user experience firepower.
+
+10
+00:00:27,02 --> 00:00:28,07
+Now.
+
+11
+00:00:28,07 --> 00:00:31,00
+Whether you have a UX team already or not,
+
+12
+00:00:31,00 --> 00:00:34,05
+your business goals may require expanding your capabilities
+
+13
+00:00:34,05 --> 00:00:37,01
+with additional skills and staff.
+
+14
+00:00:37,01 --> 00:00:39,09
+If you're trying to figure out what kind of help you need,
+
+15
+00:00:39,09 --> 00:00:41,07
+what kind of specialties exist
+
+16
+00:00:41,07 --> 00:00:43,09
+or whether your needs require permanent placement
+
+17
+00:00:43,09 --> 00:00:46,01
+or limited contracting resources,
+
+18
+00:00:46,01 --> 00:00:48,09
+we'll go through what you need to know.
+
+19
+00:00:48,09 --> 00:00:50,03
+I'm Cory Lebson,
+
+20
+00:00:50,03 --> 00:00:52,03
+author of the UX Careers handbook,
+
+21
+00:00:52,03 --> 00:00:57,00
+past president of UXPA, and a long time UX practitioner.
+
+22
+00:00:57,00 --> 00:00:58,08
+Join me on LinkedIn Learning
+
+23
+00:00:58,08 --> 00:01:01,03
+where we'll talk through all those specialties together,
+
+24
+00:01:01,03 --> 00:01:04,00
+and explore how you can find the UX support
+
+25
+00:01:04,00 --> 00:01:06,00
+that you so critically need.
+

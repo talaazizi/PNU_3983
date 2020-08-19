@@ -1,0 +1,356 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:04,04
+- There is UX work to do and someone has to do it.
+
+2
+00:00:04,04 --> 00:00:07,06
+Maybe this is an employee or several employees.
+
+3
+00:00:07,06 --> 00:00:09,09
+Maybe the work is done by a contractor,
+
+4
+00:00:09,09 --> 00:00:11,08
+whether a freelancer or a moonlighter
+
+5
+00:00:11,08 --> 00:00:13,06
+who has a regular day job.
+
+6
+00:00:13,06 --> 00:00:16,04
+Or maybe you're using an agency or a larger company
+
+7
+00:00:16,04 --> 00:00:18,02
+to contract out the work.
+
+8
+00:00:18,02 --> 00:00:21,06
+There are certainly pros and cons to each option.
+
+9
+00:00:21,06 --> 00:00:24,02
+In theory, in a world of agile development,
+
+10
+00:00:24,02 --> 00:00:27,04
+UX should be as regular, iterative and ongoing
+
+11
+00:00:27,04 --> 00:00:29,00
+as any other job.
+
+12
+00:00:29,00 --> 00:00:32,01
+And maybe times that is true.
+
+13
+00:00:32,01 --> 00:00:34,06
+If you have ongoing full-time UX work,
+
+14
+00:00:34,06 --> 00:00:36,07
+the most economical way to get that work done
+
+15
+00:00:36,07 --> 00:00:39,02
+is by bringing on a full-time hire.
+
+16
+00:00:39,02 --> 00:00:42,02
+Hiring someone as a regular full-time employee
+
+17
+00:00:42,02 --> 00:00:44,04
+of your company gives you the most control
+
+18
+00:00:44,04 --> 00:00:46,03
+over their work and their time.
+
+19
+00:00:46,03 --> 00:00:49,04
+In return for a level of loyalty and commitment,
+
+20
+00:00:49,04 --> 00:00:51,04
+you as the employer should commit to invest
+
+21
+00:00:51,04 --> 00:00:55,08
+in those employees, and help them to grow professionally.
+
+22
+00:00:55,08 --> 00:00:57,08
+That said, there are a number of reasons
+
+23
+00:00:57,08 --> 00:01:00,08
+that you might consider a contract position instead.
+
+24
+00:01:00,08 --> 00:01:04,04
+UX is hot, and there may simply not be enough skilled talent
+
+25
+00:01:04,04 --> 00:01:07,05
+to go around, making it hard to find employees.
+
+26
+00:01:07,05 --> 00:01:10,00
+Or given these hot fields, you may find
+
+27
+00:01:10,00 --> 00:01:12,08
+that limited available talent makes the hiring process
+
+28
+00:01:12,08 --> 00:01:14,08
+take longer than you're anticipating.
+
+29
+00:01:14,08 --> 00:01:17,02
+And you need someone to fill in the gaps
+
+30
+00:01:17,02 --> 00:01:19,07
+as you continue your search.
+
+31
+00:01:19,07 --> 00:01:22,02
+Or you may have irregular development cycles,
+
+32
+00:01:22,02 --> 00:01:25,01
+so UX work, such as your user research,
+
+33
+00:01:25,01 --> 00:01:28,00
+isn't always needed or budgeted.
+
+34
+00:01:28,00 --> 00:01:30,01
+Or maybe there's already a UX team,
+
+35
+00:01:30,01 --> 00:01:31,08
+but you have some overflow design work
+
+36
+00:01:31,08 --> 00:01:33,07
+that needs doing urgently.
+
+37
+00:01:33,07 --> 00:01:34,09
+In cases like these,
+
+38
+00:01:34,09 --> 00:01:38,01
+a contractor can fill the gap with expertise.
+
+39
+00:01:38,01 --> 00:01:41,00
+A freelancer is an individual contractor
+
+40
+00:01:41,00 --> 00:01:42,09
+that represents their own business interest
+
+41
+00:01:42,09 --> 00:01:45,08
+and functions as a limited contracting resource.
+
+42
+00:01:45,08 --> 00:01:48,05
+I say limited contracting resource because their ability
+
+43
+00:01:48,05 --> 00:01:52,01
+to help is defined by how much one person can do.
+
+44
+00:01:52,01 --> 00:01:54,09
+As long as a designated freelancer is available,
+
+45
+00:01:54,09 --> 00:01:56,06
+and as long as a business is willing to offer
+
+46
+00:01:56,06 --> 00:01:59,05
+that person appropriate rate of pay, which may admittedly be
+
+47
+00:01:59,05 --> 00:02:02,04
+higher for UX expertise than you might expect,
+
+48
+00:02:02,04 --> 00:02:06,00
+it's possible to rapidly bring on a level of UX expertise
+
+49
+00:02:06,00 --> 00:02:08,07
+without a need for long-term commitment.
+
+50
+00:02:08,07 --> 00:02:11,02
+For example, I spent a decade as a freelancer
+
+51
+00:02:11,02 --> 00:02:14,01
+focused largely in UX research and evaluation.
+
+52
+00:02:14,01 --> 00:02:17,01
+While in my dream world research is done very regularly,
+
+53
+00:02:17,01 --> 00:02:19,04
+this is not always the case.
+
+54
+00:02:19,04 --> 00:02:22,03
+So in actuality, the user research that I do
+
+55
+00:02:22,03 --> 00:02:25,01
+is well suited to freelancing.
+
+56
+00:02:25,01 --> 00:02:27,09
+I often find that I'm called on to jump into a project,
+
+57
+00:02:27,09 --> 00:02:29,09
+help assess some user needs,
+
+58
+00:02:29,09 --> 00:02:32,05
+or perhaps how usable an existing product is,
+
+59
+00:02:32,05 --> 00:02:35,06
+and then jump out after meeting the urgent needs.
+
+60
+00:02:35,06 --> 00:02:37,09
+And then, I don't hear from the company again
+
+61
+00:02:37,09 --> 00:02:40,09
+for a few weeks, or maybe a few months, until they,
+
+62
+00:02:40,09 --> 00:02:43,06
+again, have an urgent need and no external experts.
+
+63
+00:02:43,06 --> 00:02:48,00
+While I like the term freelancer, I'm also a micro-business.
+
+64
+00:02:48,00 --> 00:02:50,00
+I'm not the only one who works directly
+
+65
+00:02:50,00 --> 00:02:51,04
+for my company Lebsontech.
+
+66
+00:02:51,04 --> 00:02:53,02
+And to deal with varying bandwidth needs,
+
+67
+00:02:53,02 --> 00:02:55,09
+I've taken on subcontractors, others freelancers
+
+68
+00:02:55,09 --> 00:02:58,03
+and small businesses, as I manage projects
+
+69
+00:02:58,03 --> 00:03:00,08
+and typically take a lead role.
+
+70
+00:03:00,08 --> 00:03:04,01
+A UX moonlighter is a special kind of freelancer
+
+71
+00:03:04,01 --> 00:03:06,08
+who also has a day job, where they work full time.
+
+72
+00:03:06,08 --> 00:03:10,05
+Moonlighters expand the options you have on who can help you
+
+73
+00:03:10,05 --> 00:03:13,03
+with your UX work, and many have a good level
+
+74
+00:03:13,03 --> 00:03:15,08
+of UX expertise as well.
+
+75
+00:03:15,08 --> 00:03:18,05
+The downside is that since they have a full-time day job,
+
+76
+00:03:18,05 --> 00:03:20,03
+which may not be so flexible,
+
+77
+00:03:20,03 --> 00:03:23,04
+they may need to work exclusively off hours.
+
+78
+00:03:23,04 --> 00:03:24,09
+And their first loyalty is going to be
+
+79
+00:03:24,09 --> 00:03:27,08
+to their primary employer no matter how much you want it
+
+80
+00:03:27,08 --> 00:03:29,04
+to be otherwise.
+
+81
+00:03:29,04 --> 00:03:31,01
+But that said, you may find moonlighters
+
+82
+00:03:31,01 --> 00:03:32,01
+are a little bit cheaper
+
+83
+00:03:32,01 --> 00:03:35,03
+than their full-time, freelancing counterparts.
+
+84
+00:03:35,03 --> 00:03:37,07
+All these options are focused at person level,
+
+85
+00:03:37,07 --> 00:03:40,03
+but what if you have a project that you want to hand off
+
+86
+00:03:40,03 --> 00:03:43,00
+to a team to get that project done?
+
+87
+00:03:43,00 --> 00:03:46,00
+That's where a larger agency or consulting firm comes in.
+
+88
+00:03:46,00 --> 00:03:49,00
+Let's now explore this a bit more.
+

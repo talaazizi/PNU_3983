@@ -1,0 +1,165 @@
+1
+00:00:00,700 --> 00:00:05,939
+When Bailey the BA first started out, not
+much attention was given to risk management
+
+2
+00:00:05,939 --> 00:00:09,860
+and many boys feel the same, it's a PM thing.
+
+3
+00:00:09,860 --> 00:00:15,769
+Bailey found working closely with the PM that
+the payroll had a lot to do with risk management
+
+4
+00:00:15,769 --> 00:00:19,600
+and learned how to become an integral part
+of it.
+
+5
+00:00:19,600 --> 00:00:25,930
+Bailey found three main areas of risk that
+helped a lot when collaborating with Pat stakeholder
+
+6
+00:00:25,930 --> 00:00:32,570
+involvement, the risk of building the wrong
+thing and risk schedule.
+
+7
+00:00:32,570 --> 00:00:38,120
+Many studies have shown that a top risk for
+projects is inadequate requirements.
+
+8
+00:00:38,120 --> 00:00:43,150
+And they also show that the number one risk
+to high quality requirements is lack of stakeholder
+
+9
+00:00:43,150 --> 00:00:45,970
+involvement in this course.
+
+10
+00:00:45,970 --> 00:00:51,300
+We've talked a lot about stakeholders and
+how Pat and Bailey work together in communicating
+
+11
+00:00:51,300 --> 00:00:54,510
+and managing stakeholder relationships.
+
+12
+00:00:54,510 --> 00:01:00,149
+This comes full circle with risk management
+as they work together to identify and mitigate
+
+13
+00:01:00,149 --> 00:01:06,560
+or manage the risks of stakeholders who are
+not engaged or not as engaged as we need them
+
+14
+00:01:06,560 --> 00:01:07,840
+to be.
+
+15
+00:01:07,840 --> 00:01:10,749
+Have you ever had a challenge getting stakeholders
+time?
+
+16
+00:01:10,749 --> 00:01:12,679
+I know quite the question.
+
+17
+00:01:12,679 --> 00:01:14,939
+I'm sure you have.
+
+18
+00:01:14,939 --> 00:01:21,380
+The next big risk and what I'm quite passionate
+about is the risk of building the wrong thing.
+
+19
+00:01:21,380 --> 00:01:27,340
+This also includes the risk of simply not
+delivering any value to users and to customers
+
+20
+00:01:27,340 --> 00:01:33,509
+with what we build, even if it's exactly what
+they asked for together.Pat and Bailey analyze
+
+21
+00:01:33,509 --> 00:01:40,539
+context stakeholders and the organization
+to ensure what's being built matters.
+
+22
+00:01:40,539 --> 00:01:46,270
+And it's the right thing to build Pat and
+Bailey's share learnings, bring curiosity
+
+23
+00:01:46,270 --> 00:01:52,279
+to the team and facilitate shared understanding
+with the team on the vision and the why behind
+
+24
+00:01:52,279 --> 00:01:54,369
+the project.
+
+25
+00:01:54,369 --> 00:02:01,529
+The team understanding the intent of what's
+needed and why it's needed is so critical.
+
+26
+00:02:01,529 --> 00:02:06,409
+The last crucial area of risk to collaborate
+on is schedule.
+
+27
+00:02:06,409 --> 00:02:10,129
+The work Bailey does can have a big impact
+on the schedule.
+
+28
+00:02:10,129 --> 00:02:13,209
+Pat is working hard to manage.
+
+29
+00:02:13,209 --> 00:02:18,980
+Both must be transparent and their activities
+and status, including impediments.
+
+30
+00:02:18,980 --> 00:02:22,370
+I also want to talk a little bit about assumptions.
+
+31
+00:02:22,370 --> 00:02:29,900
+Both Pat and Bailey elicit and track assumptions
+and assumptions, if not true, become big risks.
+
+32
+00:02:29,900 --> 00:02:36,450
+So like other areas, they make these transparent
+and talk about them together to collaborate.
+
+33
+00:02:36,450 --> 00:02:43,180
+Overall, PM's and BAs work together to draw
+on each other's expertise and experience to
+
+34
+00:02:43,180 --> 00:02:48,640
+ensure that risks are well understood and
+so that the team and the leaders can make
+
+35
+00:02:48,640 --> 00:02:49,689
+good decisions.
+

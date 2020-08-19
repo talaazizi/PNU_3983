@@ -1,0 +1,76 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,06
+- [Instructor] Setup.py is Python's way
+
+2
+00:00:02,06 --> 00:00:04,04
+of defining a project.
+
+3
+00:00:04,04 --> 00:00:06,06
+We import setup from functools
+
+4
+00:00:06,06 --> 00:00:11,04
+and then we read the description from the readme file,
+
+5
+00:00:11,04 --> 00:00:15,04
+and we load the requirements from the files.
+
+6
+00:00:15,04 --> 00:00:18,06
+Requirements-dev and regular requirements.
+
+7
+00:00:18,06 --> 00:00:20,05
+And we also have a utility function
+
+8
+00:00:20,05 --> 00:00:25,02
+to read the version from _init_.py.
+
+9
+00:00:25,02 --> 00:00:28,04
+The final step is calling the setup function.
+
+10
+00:00:28,04 --> 00:00:31,00
+We say the project name is nlp,
+
+11
+00:00:31,00 --> 00:00:33,04
+the version we read from the _init_,
+
+12
+00:00:33,04 --> 00:00:36,03
+the package is nlpy.
+
+13
+00:00:36,03 --> 00:00:39,08
+Entry points which will create a script called nlpd,
+
+14
+00:00:39,08 --> 00:00:42,02
+then what is required for installation
+
+15
+00:00:42,02 --> 00:00:44,04
+and what is required for tests.
+
+16
+00:00:44,04 --> 00:00:47,01
+We have description, a long description,
+
+17
+00:00:47,01 --> 00:00:49,01
+what is the license for the package,
+
+18
+00:00:49,01 --> 00:00:52,00
+and then some information about the project.
+

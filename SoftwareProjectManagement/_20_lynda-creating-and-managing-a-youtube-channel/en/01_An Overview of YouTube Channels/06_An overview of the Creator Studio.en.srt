@@ -1,0 +1,587 @@
+1
+00:00:00.04 --> 00:00:01.08
+- There's a key area
+
+2
+00:00:01.08 --> 00:00:04.06
+where you will control
+your YouTube content
+
+3
+00:00:04.06 --> 00:00:06.03
+as a YouTube creator
+
+4
+00:00:06.03 --> 00:00:09.03
+and it's often referred
+to as the Creator Studio.
+
+5
+00:00:09.03 --> 00:00:12.01
+This is a suite of tools
+that gives you access
+
+6
+00:00:12.01 --> 00:00:14.06
+to different controls over your content
+
+7
+00:00:14.06 --> 00:00:17.03
+and different ways to
+manage it, analyze it,
+
+8
+00:00:17.03 --> 00:00:19.01
+and engage others.
+
+9
+00:00:19.01 --> 00:00:22.00
+Now currently, YouTube
+has been in a beta process
+
+10
+00:00:22.00 --> 00:00:24.06
+of rolling out a new Creator Studio.
+
+11
+00:00:24.06 --> 00:00:26.03
+And at the time of this recording,
+
+12
+00:00:26.03 --> 00:00:28.04
+they have not yet fully implemented it.
+
+13
+00:00:28.04 --> 00:00:30.03
+It's only about half done.
+
+14
+00:00:30.03 --> 00:00:33.05
+I'd like to show you each for
+a moment and help you realize
+
+15
+00:00:33.05 --> 00:00:36.03
+that you're going to be using
+both versions for a while
+
+16
+00:00:36.03 --> 00:00:39.05
+and even after the beta version
+becomes the new version,
+
+17
+00:00:39.05 --> 00:00:41.01
+there's a good chance that YouTube
+
+18
+00:00:41.01 --> 00:00:42.04
+will keep the other one around
+
+19
+00:00:42.04 --> 00:00:44.02
+because people know how to use it.
+
+20
+00:00:44.02 --> 00:00:47.00
+So let's show you what these
+look like at a high level.
+
+21
+00:00:47.00 --> 00:00:50.09
+The current YouTube Studio
+is a simple dashboard
+
+22
+00:00:50.09 --> 00:00:53.03
+and if you're logged in
+to your YouTube account
+
+23
+00:00:53.03 --> 00:00:58.01
+and you visit youtube.com/dashboard,
+you'll see this.
+
+24
+00:00:58.01 --> 00:01:00.04
+However, there's a very different version
+
+25
+00:01:00.04 --> 00:01:01.09
+that's the beta version
+
+26
+00:01:01.09 --> 00:01:05.01
+and this version only works
+with Google Chrome currently
+
+27
+00:01:05.01 --> 00:01:08.07
+and this is the Studio version
+that has similar controls
+
+28
+00:01:08.07 --> 00:01:11.00
+but many things are missing.
+
+29
+00:01:11.00 --> 00:01:13.00
+Well, let's take a look at that first one.
+
+30
+00:01:13.00 --> 00:01:16.01
+Let me switch to one of my
+accounts that's populated.
+
+31
+00:01:16.01 --> 00:01:18.07
+Your account may have
+nothing in it like this one
+
+32
+00:01:18.07 --> 00:01:20.07
+when you first start.
+
+33
+00:01:20.07 --> 00:01:22.06
+When I switch to another account,
+
+34
+00:01:22.06 --> 00:01:24.08
+you'll see that I have
+the ability to choose
+
+35
+00:01:24.08 --> 00:01:26.08
+how I want to use YouTube
+
+36
+00:01:26.08 --> 00:01:29.04
+and I'm going to select as
+Photo Focus in this case.
+
+37
+00:01:29.04 --> 00:01:31.08
+But again, only I have access to this.
+
+38
+00:01:31.08 --> 00:01:33.05
+You would not.
+
+39
+00:01:33.05 --> 00:01:35.01
+This is the classic version
+
+40
+00:01:35.01 --> 00:01:37.06
+and you'll see that on the dashboard here,
+
+41
+00:01:37.06 --> 00:01:39.03
+I get some useful tools.
+
+42
+00:01:39.03 --> 00:01:41.08
+I have the ability to see different videos
+
+43
+00:01:41.08 --> 00:01:44.01
+and these are two
+playlists that I've setup,
+
+44
+00:01:44.01 --> 00:01:46.07
+the ability to see my published videos
+
+45
+00:01:46.07 --> 00:01:49.03
+and the ability to see
+all of my private videos
+
+46
+00:01:49.03 --> 00:01:51.03
+that have not yet been published.
+
+47
+00:01:51.03 --> 00:01:55.01
+I can click view all to switch
+to seeing all of the videos.
+
+48
+00:01:55.01 --> 00:01:58.05
+On the right here I have some
+basic analytics and details
+
+49
+00:01:58.05 --> 00:02:01.05
+and they'll provide some
+additional information to me here
+
+50
+00:02:01.05 --> 00:02:05.01
+with ads about other changes
+that Google has published
+
+51
+00:02:05.01 --> 00:02:08.05
+that might affect me as a YouTube creator.
+
+52
+00:02:08.05 --> 00:02:10.08
+Now you can see recent
+comments from people
+
+53
+00:02:10.08 --> 00:02:13.07
+and these are comments
+across multiple videos.
+
+54
+00:02:13.07 --> 00:02:16.03
+So instead of having to go video to video,
+
+55
+00:02:16.03 --> 00:02:17.09
+you can see all of your comments
+
+56
+00:02:17.09 --> 00:02:21.03
+and reply to them from your audience.
+
+57
+00:02:21.03 --> 00:02:24.03
+On the left-hand side,
+there are different tools
+
+58
+00:02:24.03 --> 00:02:26.05
+and I'm not going to go
+through all of these now,
+
+59
+00:02:26.05 --> 00:02:28.05
+but we will explore them in depth.
+
+60
+00:02:28.05 --> 00:02:30.01
+Essentially, it's the ability
+
+61
+00:02:30.01 --> 00:02:32.07
+to see an overview of the dashboard,
+
+62
+00:02:32.07 --> 00:02:37.04
+the ability to see all of your
+videos in the video manager,
+
+63
+00:02:37.04 --> 00:02:41.05
+live streaming to put on
+webinars and live events,
+
+64
+00:02:41.05 --> 00:02:44.04
+community to engage with your audience,
+
+65
+00:02:44.04 --> 00:02:47.09
+controls over how your
+channel is presented,
+
+66
+00:02:47.09 --> 00:02:50.02
+the ability to learn about your audience
+
+67
+00:02:50.02 --> 00:02:51.05
+and their consumption,
+
+68
+00:02:51.05 --> 00:02:53.07
+the ability to see language translations
+
+69
+00:02:53.07 --> 00:02:56.07
+as well as transcripts for a video,
+
+70
+00:02:56.07 --> 00:03:01.07
+and the ability to create
+additional content.
+
+71
+00:03:01.07 --> 00:03:02.07
+If you click on one of these,
+
+72
+00:03:02.07 --> 00:03:05.00
+you'll see that it starts to expand.
+
+73
+00:03:05.00 --> 00:03:08.01
+For example, YouTube has
+an audio library here
+
+74
+00:03:08.01 --> 00:03:12.01
+and policies about how you can use music.
+
+75
+00:03:12.01 --> 00:03:15.05
+And you can also lastly
+see your contributions.
+
+76
+00:03:15.05 --> 00:03:17.05
+If you want to see the beta studio,
+
+77
+00:03:17.05 --> 00:03:20.07
+you can click here on YouTube Studio Beta.
+
+78
+00:03:20.07 --> 00:03:23.02
+However, as you see here,
+it's going to warn you
+
+79
+00:03:23.02 --> 00:03:26.01
+that it only works with
+certain web browsers.
+
+80
+00:03:26.01 --> 00:03:30.00
+The best experience is going
+to be on Google's own Chrome.
+
+81
+00:03:30.00 --> 00:03:31.09
+Let's go ahead and switch
+over to Chrome for a moment
+
+82
+00:03:31.09 --> 00:03:35.01
+so you can see this and you'll
+see a dramatically different
+
+83
+00:03:35.01 --> 00:03:37.08
+more modern user interface.
+
+84
+00:03:37.08 --> 00:03:41.00
+However, there are many things missing.
+
+85
+00:03:41.00 --> 00:03:44.08
+Right now, we only have
+access to our video library,
+
+86
+00:03:44.08 --> 00:03:49.04
+analytics or information about
+the library, and comments.
+
+87
+00:03:49.04 --> 00:03:51.04
+If I come down here to missing features,
+
+88
+00:03:51.04 --> 00:03:54.02
+you'll see that there are
+quite a few other choices
+
+89
+00:03:54.02 --> 00:03:55.08
+that are still missing.
+
+90
+00:03:55.08 --> 00:03:57.07
+For example, if you
+want to make a playlist,
+
+91
+00:03:57.07 --> 00:03:59.03
+well when you click that,
+
+92
+00:03:59.03 --> 00:04:00.08
+it's going to open a new tab
+
+93
+00:04:00.08 --> 00:04:04.00
+and take you back to
+the old user interface.
+
+94
+00:04:04.00 --> 00:04:06.08
+As such, we're not going
+to spend as much time here
+
+95
+00:04:06.08 --> 00:04:08.06
+on the new user interface,
+
+96
+00:04:08.06 --> 00:04:10.05
+but I will say that eventually,
+
+97
+00:04:10.05 --> 00:04:14.03
+this is where things are going
+and as you log in to YouTube,
+
+98
+00:04:14.03 --> 00:04:17.00
+you may see one or the other.
+
+99
+00:04:17.00 --> 00:04:19.08
+You will see at the bottom
+here that you have the ability
+
+100
+00:04:19.08 --> 00:04:23.05
+to use what they refer to
+as Creator Studio Classic
+
+101
+00:04:23.05 --> 00:04:26.09
+or to use the new
+YouTube Studio interface.
+
+102
+00:04:26.09 --> 00:04:29.05
+Right now though, this
+is very much in beta
+
+103
+00:04:29.05 --> 00:04:32.08
+and many of the features and
+functionality are missing.
+
+104
+00:04:32.08 --> 00:04:35.03
+However, this beta has
+been going on currently
+
+105
+00:04:35.03 --> 00:04:36.09
+for almost a year and a half
+
+106
+00:04:36.09 --> 00:04:39.06
+and will likely continue for some time.
+
+107
+00:04:39.06 --> 00:04:43.02
+YouTube is a sizeable website
+with hundreds of features
+
+108
+00:04:43.02 --> 00:04:46.06
+so making the migration is
+going to take some time.
+
+109
+00:04:46.06 --> 00:04:48.07
+Where relevant, I'll make sure to show you
+
+110
+00:04:48.07 --> 00:04:52.00
+both user interfaces,
+but just remember this.
+
+111
+00:04:52.00 --> 00:04:55.02
+The general functionality
+is going to be the same.
+
+112
+00:04:55.02 --> 00:04:57.06
+So if you know that
+it's called a playlist,
+
+113
+00:04:57.06 --> 00:04:59.00
+you can look for playlist
+
+114
+00:04:59.00 --> 00:05:01.02
+and while the button
+might have moved slightly
+
+115
+00:05:01.02 --> 00:05:04.03
+or something that you used
+this week can be gone next,
+
+116
+00:05:04.03 --> 00:05:07.09
+just realize that the general
+concepts stay the same.
+
+117
+00:05:07.09 --> 00:05:09.07
+So what you're going to use in this course
+
+118
+00:05:09.07 --> 00:05:12.04
+and what you're going to
+learn is going to be relevant
+
+119
+00:05:12.04 --> 00:05:15.00
+and really stay the course
+
+120
+00:05:15.00 --> 00:05:17.09
+as you start to build
+out your Google Library.
+
+121
+00:05:17.09 --> 00:05:19.07
+As you build out that YouTube channel,
+
+122
+00:05:19.07 --> 00:05:22.03
+what you'll see is that the exact buttons
+
+123
+00:05:22.03 --> 00:05:25.05
+and tools that you use may change slightly
+
+124
+00:05:25.05 --> 00:05:27.05
+and it might move from the left column
+
+125
+00:05:27.05 --> 00:05:30.05
+to the upper right
+corner to a dialogue box,
+
+126
+00:05:30.05 --> 00:05:32.07
+but as long as you know what to look for
+
+127
+00:05:32.07 --> 00:05:34.09
+and you're not above
+clicking the help menu,
+
+128
+00:05:34.09 --> 00:05:38.00
+you will find where
+Google moved the cheese.
+
+129
+00:05:38.00 --> 00:05:40.03
+All right, let's continue
+and start to look
+
+130
+00:05:40.03 --> 00:05:43.00
+at some of the specific tools
+that you'll need to use.
+

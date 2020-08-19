@@ -1,0 +1,254 @@
+1
+00:00:00.05 --> 00:00:02.00
+- Now if you go to edit
+your page and you can't
+
+2
+00:00:02.00 --> 00:00:04.06
+easily find the options
+to do so, you might have
+
+3
+00:00:04.06 --> 00:00:07.03
+disabled the ability to
+customize your channel.
+
+4
+00:00:07.03 --> 00:00:08.08
+Let me show you where this is.
+
+5
+00:00:08.08 --> 00:00:10.02
+If you want to take advantage of editing
+
+6
+00:00:10.02 --> 00:00:12.08
+the navigation, make sure
+you sign into your account
+
+7
+00:00:12.08 --> 00:00:14.05
+and visit the channel.
+
+8
+00:00:14.05 --> 00:00:17.00
+You can then click the edit layout button.
+
+9
+00:00:17.00 --> 00:00:19.07
+Then choose the settings
+icon and make sure
+
+10
+00:00:19.07 --> 00:00:21.04
+that customize is on.
+
+11
+00:00:21.04 --> 00:00:22.04
+Pretty simple.
+
+12
+00:00:22.04 --> 00:00:24.02
+You click the settings icon there
+
+13
+00:00:24.02 --> 00:00:27.02
+and in the pop-up list
+make sure that customize
+
+14
+00:00:27.02 --> 00:00:28.05
+is enabled.
+
+15
+00:00:28.05 --> 00:00:30.04
+Here we are back on
+Photofocus and I'll click
+
+16
+00:00:30.04 --> 00:00:32.08
+the settings button.
+
+17
+00:00:32.08 --> 00:00:35.02
+You'll notice that customize
+the layout of the channel
+
+18
+00:00:35.02 --> 00:00:37.01
+is turned on.
+
+19
+00:00:37.01 --> 00:00:40.01
+If you don't have this
+turned on and you disable it,
+
+20
+00:00:40.01 --> 00:00:43.02
+what'll happen is it
+goes to default layout.
+
+21
+00:00:43.02 --> 00:00:45.06
+However, I'm going to leave that enabled
+
+22
+00:00:45.06 --> 00:00:48.02
+but if for some reason
+you're unable to add sections
+
+23
+00:00:48.02 --> 00:00:50.06
+or rearrange items on the page, make sure
+
+24
+00:00:50.06 --> 00:00:52.05
+you enable this option.
+
+25
+00:00:52.05 --> 00:00:54.03
+Additionally, feel free to click over
+
+26
+00:00:54.03 --> 00:00:56.00
+to advanced settings.
+
+27
+00:00:56.00 --> 00:00:58.06
+This will give you additional
+controls over what's happening
+
+28
+00:00:58.06 --> 00:01:01.06
+on the page for example,
+if you want to allow ads
+
+29
+00:01:01.06 --> 00:01:05.02
+to appear on the page, if
+there's an associated website,
+
+30
+00:01:05.02 --> 00:01:07.09
+and if you want your content to be shown
+
+31
+00:01:07.09 --> 00:01:10.05
+on other channel recommendations.
+
+32
+00:01:10.05 --> 00:01:13.01
+By allowing your content
+to appear on other channels
+
+33
+00:01:13.01 --> 00:01:16.01
+as a recommended channel,
+this means that other channels
+
+34
+00:01:16.01 --> 00:01:18.02
+will appear on your page.
+
+35
+00:01:18.02 --> 00:01:20.02
+Additionally you can
+choose if you want to show
+
+36
+00:01:20.02 --> 00:01:23.03
+the subscriber count or not
+and if you want to track
+
+37
+00:01:23.03 --> 00:01:25.00
+with Google Analytics.
+
+38
+00:01:25.00 --> 00:01:27.04
+What you'll notice for example
+if we visit the channel
+
+39
+00:01:27.04 --> 00:01:30.05
+is there are some of those
+featured promotion channels.
+
+40
+00:01:30.05 --> 00:01:32.09
+These are channels that
+are similar to mine
+
+41
+00:01:32.09 --> 00:01:35.00
+and they appear in my sidebar.
+
+42
+00:01:35.00 --> 00:01:37.01
+There's a good chance
+that my channel may be
+
+43
+00:01:37.01 --> 00:01:39.01
+promoted on theirs or on other websites
+
+44
+00:01:39.01 --> 00:01:40.08
+that are similar.
+
+45
+00:01:40.08 --> 00:01:43.09
+Additionally I turned off the
+option to show subscribers
+
+46
+00:01:43.09 --> 00:01:45.08
+so that doesn't appear on the channel page
+
+47
+00:01:45.08 --> 00:01:50.00
+but you do have that option
+of making it visible or not.
+
+48
+00:01:50.00 --> 00:01:53.02
+Taking the time to customize
+your channel is essential.
+
+49
+00:01:53.02 --> 00:01:56.00
+Don't go through all of this
+work of uploading videos,
+
+50
+00:01:56.00 --> 00:01:58.00
+organizing them and
+putting a graphic identity
+
+51
+00:01:58.00 --> 00:02:00.09
+just to let YouTube automatically generate
+
+52
+00:02:00.09 --> 00:02:02.05
+your channel navigation.
+
+53
+00:02:02.05 --> 00:02:04.08
+You should decide what's
+strategically important
+
+54
+00:02:04.08 --> 00:02:07.08
+and what content you want
+to feature and what videos
+
+55
+00:02:07.08 --> 00:02:10.05
+are going to have the best
+results to drive subscribers
+
+56
+00:02:10.05 --> 00:02:11.09
+and viewers.
+

@@ -1,0 +1,212 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:02,04
+- There is no one right answer
+
+2
+00:00:02,04 --> 00:00:04,05
+to whether you should bring on permanent staff
+
+3
+00:00:04,05 --> 00:00:07,01
+or freelancers or larger businesses.
+
+4
+00:00:07,01 --> 00:00:09,01
+You may find that your best option
+
+5
+00:00:09,01 --> 00:00:13,03
+is to mix and match towards business success.
+
+6
+00:00:13,03 --> 00:00:14,08
+If you are going to mix and match,
+
+7
+00:00:14,08 --> 00:00:16,05
+it's critical that you have leadership
+
+8
+00:00:16,05 --> 00:00:19,03
+that really understand the entire UX framework,
+
+9
+00:00:19,03 --> 00:00:22,04
+and can manage what needs to get accomplished.
+
+10
+00:00:22,04 --> 00:00:25,09
+These leaders can support both directly and indirectly,
+
+11
+00:00:25,09 --> 00:00:28,03
+the growth of hires and the integration of those
+
+12
+00:00:28,03 --> 00:00:30,08
+who are only on board a short time.
+
+13
+00:00:30,08 --> 00:00:32,03
+Leadership could take the form
+
+14
+00:00:32,03 --> 00:00:34,00
+of a small business owner,
+
+15
+00:00:34,00 --> 00:00:37,00
+a project or program manager who has strong UX knowledge,
+
+16
+00:00:37,00 --> 00:00:39,06
+or a dedicated UX lead.
+
+17
+00:00:39,06 --> 00:00:42,04
+That leadership position, whatever it may be,
+
+18
+00:00:42,04 --> 00:00:45,01
+is likely to be a full-time hire itself,
+
+19
+00:00:45,01 --> 00:00:47,03
+but could also be a contract position,
+
+20
+00:00:47,03 --> 00:00:50,09
+if for example, it's only of limited duration.
+
+21
+00:00:50,09 --> 00:00:54,00
+If you're going to hire, pull in novice generalists,
+
+22
+00:00:54,00 --> 00:00:56,01
+that the UX leadership can shape,
+
+23
+00:00:56,01 --> 00:00:58,09
+and hire experts who cover some critical areas
+
+24
+00:00:58,09 --> 00:01:00,01
+that you're going to need,
+
+25
+00:01:00,01 --> 00:01:01,09
+as well as mentor the novice generalist
+
+26
+00:01:01,09 --> 00:01:03,05
+in these specific areas.
+
+27
+00:01:03,05 --> 00:01:05,02
+Now, as needed,
+
+28
+00:01:05,02 --> 00:01:07,08
+sprinkle in UX freelancers for shorter periods
+
+29
+00:01:07,08 --> 00:01:10,02
+when work overflows existing bandwidth.
+
+30
+00:01:10,02 --> 00:01:13,08
+The freelancer should also likely be experts.
+
+31
+00:01:13,08 --> 00:01:15,08
+If you do hire junior UX staff
+
+32
+00:01:15,08 --> 00:01:18,06
+and don't have more experienced permanent staff available,
+
+33
+00:01:18,06 --> 00:01:21,00
+your freelancers can also be contracted
+
+34
+00:01:21,00 --> 00:01:23,01
+to help mentor the junior staff.
+
+35
+00:01:23,01 --> 00:01:26,00
+In this way, you are increasing your in-house capabilities
+
+36
+00:01:26,00 --> 00:01:27,06
+for the future.
+
+37
+00:01:27,06 --> 00:01:30,00
+I can tell you that as a freelance researcher,
+
+38
+00:01:30,00 --> 00:01:32,03
+while I love to get repeat business,
+
+39
+00:01:32,03 --> 00:01:34,03
+it's also really rewarding to be able
+
+40
+00:01:34,03 --> 00:01:36,07
+to help UX novices grow their skills
+
+41
+00:01:36,07 --> 00:01:40,00
+and blossom into experts in their own right.
+
+42
+00:01:40,00 --> 00:01:41,00
+If you have a project
+
+43
+00:01:41,00 --> 00:01:44,02
+that requires many experts quickly to get the job done,
+
+44
+00:01:44,02 --> 00:01:46,08
+pull in a larger company to help you.
+
+45
+00:01:46,08 --> 00:01:49,07
+But again, figure out if there's a way to leverage
+
+46
+00:01:49,07 --> 00:01:52,06
+that larger company to help grow the skills and knowledge
+
+47
+00:01:52,06 --> 00:01:54,08
+of your staff along the way.
+
+48
+00:01:54,08 --> 00:01:57,01
+Ultimately, as your UX needs shift, grow,
+
+49
+00:01:57,01 --> 00:01:58,05
+and sometimes shrink,
+
+50
+00:01:58,05 --> 00:02:01,00
+it's going to be a mix of employment types
+
+51
+00:02:01,00 --> 00:02:02,09
+when you are likely to find the best balance
+
+52
+00:02:02,09 --> 00:02:05,00
+for business success.
+

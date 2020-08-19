@@ -1,0 +1,260 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,00
+- Your code is ready.
+
+2
+00:00:02,00 --> 00:00:05,05
+Now it's time to move it to production and run it.
+
+3
+00:00:05,05 --> 00:00:08,03
+You'd like to give the operations team an easy way
+
+4
+00:00:08,03 --> 00:00:10,06
+to run and manage your application.
+
+5
+00:00:10,06 --> 00:00:13,04
+One way is to create a Python script just
+
+6
+00:00:13,04 --> 00:00:15,00
+for running your application.
+
+7
+00:00:15,00 --> 00:00:17,02
+This approach has two problems.
+
+8
+00:00:17,02 --> 00:00:19,06
+The first, is that you need to tell people
+
+9
+00:00:19,06 --> 00:00:22,03
+of the Python script and where to find it.
+
+10
+00:00:22,03 --> 00:00:24,04
+The second, is that over time
+
+11
+00:00:24,04 --> 00:00:27,01
+you find yourself with too many scripts.
+
+12
+00:00:27,01 --> 00:00:29,03
+Python allows you to run a module
+
+13
+00:00:29,03 --> 00:00:33,00
+as if they are scripts using the -m switch,
+
+14
+00:00:33,00 --> 00:00:36,06
+and I find it a great way to run applications as well.
+
+15
+00:00:36,06 --> 00:00:40,05
+Let's see an example from the Python standard library first.
+
+16
+00:00:40,05 --> 00:00:43,09
+The calendar module supports the -m.
+
+17
+00:00:43,09 --> 00:00:48,01
+So Python, -m, calendar,
+
+18
+00:00:48,01 --> 00:00:50,05
+and then we want to see the calendar
+
+19
+00:00:50,05 --> 00:00:53,07
+for January 2020 and we have it.
+
+20
+00:00:53,07 --> 00:00:56,05
+Now let's see how you can use it in your code
+
+21
+00:00:56,05 --> 00:01:00,00
+using the built-in Argparse library.
+
+22
+00:01:00,00 --> 00:01:01,06
+So we are using the Argparse,
+
+23
+00:01:01,06 --> 00:01:04,03
+and we also using the environment.
+
+24
+00:01:04,03 --> 00:01:07,03
+The usual order of parameters is command line
+
+25
+00:01:07,03 --> 00:01:10,06
+that overrides environment, that overrides the default.
+
+26
+00:01:10,06 --> 00:01:12,07
+And the way we do it is in line 17,
+
+27
+00:01:12,07 --> 00:01:16,00
+we try to get values from the environment
+
+28
+00:01:16,00 --> 00:01:17,05
+and provide the default value
+
+29
+00:01:17,05 --> 00:01:20,05
+for the host and then for the port.
+
+30
+00:01:20,05 --> 00:01:22,08
+And then we use an ArgumentParser
+
+31
+00:01:22,08 --> 00:01:26,03
+and create subparsers on line 23.
+
+32
+00:01:26,03 --> 00:01:30,05
+One subparser is the one for the start command in line 25.
+
+33
+00:01:30,05 --> 00:01:33,01
+And here, we had an argument for the host,
+
+34
+00:01:33,01 --> 00:01:36,03
+and for the port, which uses the default one.
+
+35
+00:01:36,03 --> 00:01:38,09
+And you have another command for a health check,
+
+36
+00:01:38,09 --> 00:01:43,00
+which gets the URL for the server in an optional timeout.
+
+37
+00:01:43,00 --> 00:01:46,03
+Line 39, we parse the arguments
+
+38
+00:01:46,03 --> 00:01:47,09
+and call the func value,
+
+39
+00:01:47,09 --> 00:01:50,06
+which will call the corresponding function
+
+40
+00:01:50,06 --> 00:01:52,08
+because calling functions are very simple.
+
+41
+00:01:52,08 --> 00:01:54,05
+In line eight to start,
+
+42
+00:01:54,05 --> 00:01:57,07
+with the start from the HtDP module,
+
+43
+00:01:57,07 --> 00:01:59,03
+which is our own module.
+
+44
+00:01:59,03 --> 00:02:03,01
+And in line 12 we use the health check from
+
+45
+00:02:03,01 --> 00:02:06,07
+the checks model again, inside our application.
+
+46
+00:02:06,07 --> 00:02:09,01
+You can see the imports on line five.
+
+47
+00:02:09,01 --> 00:02:11,09
+And now let's run it.
+
+48
+00:02:11,09 --> 00:02:14,04
+So Python, -m, bugs,
+
+49
+00:02:14,04 --> 00:02:17,08
+and we can do a -help to see what helped here.
+
+50
+00:02:17,08 --> 00:02:21,08
+And we see it says you have a start and a health.
+
+51
+00:02:21,08 --> 00:02:24,04
+So let's do start -h,
+
+52
+00:02:24,04 --> 00:02:27,04
+you it tell us to help for the start command.
+
+53
+00:02:27,04 --> 00:02:29,08
+We get a possible host and a port.
+
+54
+00:02:29,08 --> 00:02:34,05
+So Python, -m, bugs start,
+
+55
+00:02:34,05 --> 00:02:36,06
+and this will start the server,
+
+56
+00:02:36,06 --> 00:02:40,03
+which is running on localhost: 8080.
+
+57
+00:02:40,03 --> 00:02:43,06
+So we're going to run pythom, -m, bugs
+
+58
+00:02:43,06 --> 00:02:46,04
+and health for the health check.
+
+59
+00:02:46,04 --> 00:02:49,04
+And it returns successfully without an error.
+
+60
+00:02:49,04 --> 00:02:51,06
+If you're curious, you can see
+
+61
+00:02:51,06 --> 00:02:54,01
+that the server got the request for
+
+62
+00:02:54,01 --> 00:02:56,06
+the -health URL.
+
+63
+00:02:56,06 --> 00:02:58,03
+By adding -m support,
+
+64
+00:02:58,03 --> 00:03:01,00
+you'll have a single script to manage your application.
+

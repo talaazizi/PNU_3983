@@ -1,0 +1,308 @@
+1
+00:00:00.05 --> 00:00:01.07
+- [Instructor] Once you've
+built some playlists,
+
+2
+00:00:01.07 --> 00:00:03.08
+there are some great
+options you have to control
+
+3
+00:00:03.08 --> 00:00:05.05
+how it actually works.
+
+4
+00:00:05.05 --> 00:00:06.09
+Let's talk about that.
+
+5
+00:00:06.09 --> 00:00:08.05
+When it comes managing your playlists,
+
+6
+00:00:08.05 --> 00:00:12.03
+you have the ability to re-order videos,
+
+7
+00:00:12.03 --> 00:00:15.01
+change their general settings,
+
+8
+00:00:15.01 --> 00:00:17.05
+and use options like auto add.
+
+9
+00:00:17.05 --> 00:00:20.04
+This is easiest explained by taking a look
+
+10
+00:00:20.04 --> 00:00:22.02
+at an existing playlist.
+
+11
+00:00:22.02 --> 00:00:24.04
+So either take one that
+you created yourself
+
+12
+00:00:24.04 --> 00:00:26.08
+or just follow along.
+
+13
+00:00:26.08 --> 00:00:29.08
+When you're working with the playlist,
+
+14
+00:00:29.08 --> 00:00:31.04
+remember you have the ability to click
+
+15
+00:00:31.04 --> 00:00:35.02
+on playlist settings
+to access the controls.
+
+16
+00:00:35.02 --> 00:00:37.05
+This is where you can
+change things like the order
+
+17
+00:00:37.05 --> 00:00:39.07
+and the privacy settings
+we discussed earlier.
+
+18
+00:00:39.07 --> 00:00:42.09
+You also can take advantage of auto add.
+
+19
+00:00:42.09 --> 00:00:44.08
+This means that you can create a rule.
+
+20
+00:00:44.08 --> 00:00:47.05
+For example, I can say add any videos
+
+21
+00:00:47.05 --> 00:00:56.04
+that contain the word luminar
+to this luminar playlist.
+
+22
+00:00:56.04 --> 00:00:59.01
+And I can also add an additional rule,
+
+23
+00:00:59.01 --> 00:01:00.06
+and you see that we can work with things
+
+24
+00:01:00.06 --> 00:01:03.08
+that are tagged with luminar.
+
+25
+00:01:03.08 --> 00:01:07.02
+That way, whether the title
+or the tag says luminar,
+
+26
+00:01:07.02 --> 00:01:09.07
+it's automatically added.
+
+27
+00:01:09.07 --> 00:01:11.08
+I also have the ability to collaborate.
+
+28
+00:01:11.08 --> 00:01:15.01
+So I can turn this on and
+that means that I can invite
+
+29
+00:01:15.01 --> 00:01:19.02
+specific collaborators to
+actually work with this.
+
+30
+00:01:19.02 --> 00:01:21.09
+So if I get this particular
+link and send it to em,
+
+31
+00:01:21.09 --> 00:01:25.02
+what this means is is that
+if I have other people
+
+32
+00:01:25.02 --> 00:01:28.04
+within my organization
+or trusted colleagues
+
+33
+00:01:28.04 --> 00:01:30.07
+that I want to invite,
+they have the ability
+
+34
+00:01:30.07 --> 00:01:35.01
+to also add their videos to the playlist.
+
+35
+00:01:35.01 --> 00:01:37.03
+This is independent of
+people who have access
+
+36
+00:01:37.03 --> 00:01:38.04
+to your channel.
+
+37
+00:01:38.04 --> 00:01:41.01
+If you've invited managers or
+collaborators to the channel,
+
+38
+00:01:41.01 --> 00:01:43.06
+they can of course access the playlist
+
+39
+00:01:43.06 --> 00:01:45.02
+through the brand account.
+
+40
+00:01:45.02 --> 00:01:47.05
+But this is ideal if you want to work
+
+41
+00:01:47.05 --> 00:01:49.06
+with outside contributors who are not
+
+42
+00:01:49.06 --> 00:01:51.03
+managing your channel.
+
+43
+00:01:51.03 --> 00:01:54.01
+This gives them management
+ability to add videos
+
+44
+00:01:54.01 --> 00:01:58.02
+to a playlist that's meant to
+be shared with the community.
+
+45
+00:01:58.02 --> 00:02:00.02
+When you click save, it will go ahead
+
+46
+00:02:00.02 --> 00:02:05.06
+and capture these
+settings for the playlist.
+
+47
+00:02:05.06 --> 00:02:07.07
+I'll go ahead and do this.
+
+48
+00:02:07.07 --> 00:02:08.08
+It says there's another video that
+
+49
+00:02:08.08 --> 00:02:13.04
+has the word luminar in
+it, so I'll click done.
+
+50
+00:02:13.04 --> 00:02:18.03
+And you see now that it put
+another video into the playlist.
+
+51
+00:02:18.03 --> 00:02:20.02
+Now if I decide that I don't want that,
+
+52
+00:02:20.02 --> 00:02:22.06
+from the more menu here,
+you'll see that I can actually
+
+53
+00:02:22.06 --> 00:02:25.03
+move things around, or I can change things
+
+54
+00:02:25.03 --> 00:02:29.04
+like the thumbnails, or move
+it to the top or bottom.
+
+55
+00:02:29.04 --> 00:02:30.08
+This works quite well.
+
+56
+00:02:30.08 --> 00:02:33.09
+If you decide you also
+want to add videos again,
+
+57
+00:02:33.09 --> 00:02:36.03
+just click the add videos button.
+
+58
+00:02:36.03 --> 00:02:38.04
+But now, this is ready to share,
+
+59
+00:02:38.04 --> 00:02:47.04
+and the only thing missing
+is the description.
+
+60
+00:02:47.04 --> 00:02:50.02
+And in this case I'm just
+adding a simple description,
+
+61
+00:02:50.02 --> 00:02:53.03
+much like I would describe
+an individual video.
+
+62
+00:02:53.03 --> 00:02:56.01
+But including that this is
+a collection or a playlist
+
+63
+00:02:56.01 --> 00:02:59.02
+is a good idea, and this gives
+me a simple pop-up control
+
+64
+00:02:59.02 --> 00:03:02.06
+where I can share this
+or embed it on a website
+
+65
+00:03:02.06 --> 00:03:04.07
+or easily email it to folks.
+
+66
+00:03:04.07 --> 00:03:07.00
+So this is quite useful.
+
+67
+00:03:07.00 --> 00:03:09.06
+Your ability to control
+playlists is a great way
+
+68
+00:03:09.06 --> 00:03:13.00
+to organize your content
+and easily invite others
+
+69
+00:03:13.00 --> 00:03:15.04
+to experience it and enjoy it.
+

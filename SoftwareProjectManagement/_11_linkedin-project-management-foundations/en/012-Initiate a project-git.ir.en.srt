@@ -1,0 +1,152 @@
+1
+00:00:00,960 --> 00:00:05,600
+initiating a project is about getting
+
+2
+00:00:03,199 --> 00:00:07,919
+commitment to move forward
+
+3
+00:00:05,600 --> 00:00:09,920
+in other words the customer or sponsor
+
+4
+00:00:07,919 --> 00:00:13,440
+says yes to the project
+
+5
+00:00:09,920 --> 00:00:15,440
+and gives the go-ahead to start planning
+
+6
+00:00:13,440 --> 00:00:17,760
+typically the first step in project
+
+7
+00:00:15,440 --> 00:00:18,720
+initiation is to assign the project
+
+8
+00:00:17,760 --> 00:00:20,560
+manager
+
+9
+00:00:18,720 --> 00:00:23,199
+who guides the project through the rest
+
+10
+00:00:20,560 --> 00:00:24,800
+of the initiation process
+
+11
+00:00:23,199 --> 00:00:26,880
+sometimes the project manager is
+
+12
+00:00:24,800 --> 00:00:28,320
+assigned after the project's been
+
+13
+00:00:26,880 --> 00:00:31,039
+approved
+
+14
+00:00:28,320 --> 00:00:32,399
+if you find yourself in this situation
+
+15
+00:00:31,039 --> 00:00:34,960
+be sure to review
+
+16
+00:00:32,399 --> 00:00:35,600
+what was done during initiation and
+
+17
+00:00:34,960 --> 00:00:37,920
+complete
+
+18
+00:00:35,600 --> 00:00:39,840
+any activities that were skipped or left
+
+19
+00:00:37,920 --> 00:00:42,160
+unfinished
+
+20
+00:00:39,840 --> 00:00:44,640
+the customer or sponsor should make an
+
+21
+00:00:42,160 --> 00:00:46,000
+informed decision whether to approve the
+
+22
+00:00:44,640 --> 00:00:48,160
+project
+
+23
+00:00:46,000 --> 00:00:50,960
+that's why initiation boils down to
+
+24
+00:00:48,160 --> 00:00:53,120
+defining the project
+
+25
+00:00:50,960 --> 00:00:54,399
+you identify the problem the project is
+
+26
+00:00:53,120 --> 00:00:57,360
+supposed to solve
+
+27
+00:00:54,399 --> 00:00:58,320
+and gather information about the project
+
+28
+00:00:57,360 --> 00:01:01,920
+objectives
+
+29
+00:00:58,320 --> 00:01:03,520
+requirements deliverables and more
+
+30
+00:01:01,920 --> 00:01:06,000
+once you have an initial project
+
+31
+00:01:03,520 --> 00:01:09,280
+definition it's time to prepare
+
+32
+00:01:06,000 --> 00:01:11,760
+the project charter this document
+
+33
+00:01:09,280 --> 00:01:14,159
+formally authorizes the project and
+
+34
+00:01:11,760 --> 00:01:15,520
+describes the authority of the project
+
+35
+00:01:14,159 --> 00:01:17,680
+manager
+
+36
+00:01:15,520 --> 00:01:21,200
+throughout this chapter i'll describe
+
+37
+00:01:17,680 --> 00:01:26,880
+the key elements of a project definition
+
+38
+00:01:21,200 --> 00:01:26,880
+and what goes into a project charter
+

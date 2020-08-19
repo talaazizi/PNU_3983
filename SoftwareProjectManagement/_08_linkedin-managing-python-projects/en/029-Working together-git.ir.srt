@@ -1,0 +1,92 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,02
+- [Instructor] We work better as a team
+
+2
+00:00:02,02 --> 00:00:05,00
+and a good team is more than the sum of its parts.
+
+3
+00:00:05,00 --> 00:00:08,06
+What helps us work together is a process.
+
+4
+00:00:08,06 --> 00:00:12,00
+I see the development process as a set of rules we follow
+
+5
+00:00:12,00 --> 00:00:14,01
+when working together.
+
+6
+00:00:14,01 --> 00:00:16,00
+These rules help us collaborate,
+
+7
+00:00:16,00 --> 00:00:17,09
+save us from making mistakes,
+
+8
+00:00:17,09 --> 00:00:20,04
+and help us see the work progress.
+
+9
+00:00:20,04 --> 00:00:22,09
+There's no one true process.
+
+10
+00:00:22,09 --> 00:00:24,05
+In consulting and working with
+
+11
+00:00:24,05 --> 00:00:27,00
+many companies and many teams,
+
+12
+00:00:27,00 --> 00:00:28,08
+each of them have their own process
+
+13
+00:00:28,08 --> 00:00:31,09
+that was shaped and reshaped over time.
+
+14
+00:00:31,09 --> 00:00:34,05
+The process should serve the team
+
+15
+00:00:34,05 --> 00:00:36,05
+and it's not a static thing.
+
+16
+00:00:36,05 --> 00:00:39,02
+You should tweak the process to your needs over time
+
+17
+00:00:39,02 --> 00:00:43,02
+and when the environment, say the group size, changes.
+
+18
+00:00:43,02 --> 00:00:45,05
+We're going to talk about several common practices,
+
+19
+00:00:45,05 --> 00:00:49,02
+such as source control, issue tracking, feature branches,
+
+20
+00:00:49,02 --> 00:00:52,01
+code review, and retrospective.
+
+21
+00:00:52,01 --> 00:00:53,06
+You might have most steps,
+
+22
+00:00:53,06 --> 00:00:57,00
+but I highly recommend to have at least these steps.
+

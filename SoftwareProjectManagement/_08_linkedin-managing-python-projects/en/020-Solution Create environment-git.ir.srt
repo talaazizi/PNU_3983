@@ -1,0 +1,56 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:06,00
+(upbeat music)
+
+2
+00:00:06,00 --> 00:00:07,05
+- [Instructor] Here's my solution.
+
+3
+00:00:07,05 --> 00:00:11,09
+The requirements.txt contains the production requirements,
+
+4
+00:00:11,09 --> 00:00:15,03
+and the requirements are sorted alphabetically.
+
+5
+00:00:15,03 --> 00:00:18,05
+The dev-requirements.txt contains
+
+6
+00:00:18,05 --> 00:00:20,06
+the development requirements.
+
+7
+00:00:20,06 --> 00:00:24,05
+And I have a makefile to create the virtual environment
+
+8
+00:00:24,05 --> 00:00:27,08
+and the development virtual environment.
+
+9
+00:00:27,08 --> 00:00:31,01
+And now I can run make dev-venv,
+
+10
+00:00:31,01 --> 00:00:34,06
+which will create virtual environment for development,
+
+11
+00:00:34,06 --> 00:00:40,04
+containing both production and development requirements.
+
+12
+00:00:40,04 --> 00:00:46,08
+And here, I can run /venv/bin/python check_env,
+
+13
+00:00:46,08 --> 00:00:49,00
+and it should exit cleanly.
+

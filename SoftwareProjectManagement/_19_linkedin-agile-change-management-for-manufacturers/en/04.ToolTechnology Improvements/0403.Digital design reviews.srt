@@ -1,0 +1,428 @@
+1
+00:00:00.060 --> 00:00:02.020
+- [Instructor] A few times already in this course,
+
+2
+00:00:02.020 --> 00:00:05.050
+we've talked about digital reviews or design reviews
+
+3
+00:00:05.050 --> 00:00:08.000
+done in the digital environment.
+
+4
+00:00:08.000 --> 00:00:09.080
+I wanted to take some time now
+
+5
+00:00:09.080 --> 00:00:13.050
+and discuss the importance of design reviews,
+
+6
+00:00:13.050 --> 00:00:16.040
+the importance of doing them in a proper fashion,
+
+7
+00:00:16.040 --> 00:00:19.010
+and how they can support the agile methodology
+
+8
+00:00:19.010 --> 00:00:22.090
+and the agile change methodologies that we need to use.
+
+9
+00:00:22.090 --> 00:00:25.000
+To begin with, I want to point out
+
+10
+00:00:25.000 --> 00:00:29.040
+that a design review is not an examination of a prototype.
+
+11
+00:00:29.040 --> 00:00:30.070
+Design reviews should be done
+
+12
+00:00:30.070 --> 00:00:33.000
+well before the prototype is complete.
+
+13
+00:00:33.000 --> 00:00:33.090
+Now, of course,
+
+14
+00:00:33.090 --> 00:00:35.020
+there is an examination of the prototype,
+
+15
+00:00:35.020 --> 00:00:36.060
+as you would expect.
+
+16
+00:00:36.060 --> 00:00:38.070
+That certainly should be done.
+
+17
+00:00:38.070 --> 00:00:41.090
+So, how do these design reviews contribute to being agile?
+
+18
+00:00:41.090 --> 00:00:45.070
+Well, I want to take this back to very simple terms.
+
+19
+00:00:45.070 --> 00:00:48.010
+A design review, when done properly,
+
+20
+00:00:48.010 --> 00:00:50.080
+and a series of design reviews really is what it is,
+
+21
+00:00:50.080 --> 00:00:52.020
+compresses time,
+
+22
+00:00:52.020 --> 00:00:54.020
+because what you're doing
+
+23
+00:00:54.020 --> 00:00:56.020
+is you're reducing the documentation,
+
+24
+00:00:56.020 --> 00:00:58.050
+you're reducing the magnitude of the changes,
+
+25
+00:00:58.050 --> 00:01:02.060
+and you're getting more feedback earlier on in the process.
+
+26
+00:01:02.060 --> 00:01:05.060
+It contributes to better change management by,
+
+27
+00:01:05.060 --> 00:01:08.010
+as you would expect from an agile tool,
+
+28
+00:01:08.010 --> 00:01:10.080
+providing better information to stakeholders
+
+29
+00:01:10.080 --> 00:01:12.020
+and allowing the stakeholders
+
+30
+00:01:12.020 --> 00:01:14.000
+to make more knowledgeable decisions
+
+31
+00:01:14.000 --> 00:01:16.060
+at the time the decision needs to be made.
+
+32
+00:01:16.060 --> 00:01:18.090
+Similarly, as I mentioned just a moment ago,
+
+33
+00:01:18.090 --> 00:01:20.070
+design reviews reduce the magnitude
+
+34
+00:01:20.070 --> 00:01:22.060
+of each individual change.
+
+35
+00:01:22.060 --> 00:01:25.070
+Now, what this means is, there still will be changes,
+
+36
+00:01:25.070 --> 00:01:27.050
+and you may actually do more changes
+
+37
+00:01:27.050 --> 00:01:29.080
+than you would in a traditional waterfall method,
+
+38
+00:01:29.080 --> 00:01:32.030
+but each change will be smaller.
+
+39
+00:01:32.030 --> 00:01:35.010
+The design reviews help most
+
+40
+00:01:35.010 --> 00:01:38.020
+when they're done well before costs are frozen.
+
+41
+00:01:38.020 --> 00:01:40.000
+In a new product development environment,
+
+42
+00:01:40.000 --> 00:01:41.060
+you know that, generally,
+
+43
+00:01:41.060 --> 00:01:43.030
+the costs are frozen when the design
+
+44
+00:01:43.030 --> 00:01:46.010
+is maybe only 15% or 20% along.
+
+45
+00:01:46.010 --> 00:01:49.000
+So, the design reviews should be done very early.
+
+46
+00:01:49.000 --> 00:01:51.030
+A recent trend, and I think something
+
+47
+00:01:51.030 --> 00:01:54.000
+that every manufacturer should investigate very thoroughly,
+
+48
+00:01:54.000 --> 00:01:57.030
+is using augmented reality for design reviews.
+
+49
+00:01:57.030 --> 00:02:00.010
+In the past, a design review was generally done
+
+50
+00:02:00.010 --> 00:02:01.050
+by printing out a drawing
+
+51
+00:02:01.050 --> 00:02:04.030
+and redlining it with red pens.
+
+52
+00:02:04.030 --> 00:02:06.060
+As we moved along in our digital world,
+
+53
+00:02:06.060 --> 00:02:09.010
+we started doing design reviews in PowerPoint,
+
+54
+00:02:09.010 --> 00:02:11.060
+and I used to see many organizations
+
+55
+00:02:11.060 --> 00:02:14.080
+spend many hours preparing PowerPoint slides
+
+56
+00:02:14.080 --> 00:02:16.060
+for design review.
+
+57
+00:02:16.060 --> 00:02:19.040
+As we continue to progress in our technology,
+
+58
+00:02:19.040 --> 00:02:22.060
+the ability to redline actual CAD models on the fly
+
+59
+00:02:22.060 --> 00:02:24.040
+became very prevalent.
+
+60
+00:02:24.040 --> 00:02:27.030
+The next frontier or the next threshold we will cross
+
+61
+00:02:27.030 --> 00:02:29.010
+is using augmented reality
+
+62
+00:02:29.010 --> 00:02:30.090
+for a very immersive experience
+
+63
+00:02:30.090 --> 00:02:33.070
+to provide that feedback from the design professionals
+
+64
+00:02:33.070 --> 00:02:35.070
+during the design review.
+
+65
+00:02:35.070 --> 00:02:39.010
+As a manager of the new product development process,
+
+66
+00:02:39.010 --> 00:02:41.010
+there are several things that you can do
+
+67
+00:02:41.010 --> 00:02:43.080
+to improve the design review effectiveness
+
+68
+00:02:43.080 --> 00:02:45.030
+and to improve the experience
+
+69
+00:02:45.030 --> 00:02:48.020
+of the project team doing the design reviews.
+
+70
+00:02:48.020 --> 00:02:51.060
+First, make each review session effective.
+
+71
+00:02:51.060 --> 00:02:53.080
+Make sure that you have a proper,
+
+72
+00:02:53.080 --> 00:02:57.030
+well-documented agenda for the session.
+
+73
+00:02:57.030 --> 00:03:00.050
+Make sure that you have the particular goals and objectives
+
+74
+00:03:00.050 --> 00:03:02.020
+for the session identified,
+
+75
+00:03:02.020 --> 00:03:04.090
+and make sure that the feedback mechanism
+
+76
+00:03:04.090 --> 00:03:07.060
+is well identified as well.
+
+77
+00:03:07.060 --> 00:03:11.070
+To that point, design reviews are most effective
+
+78
+00:03:11.070 --> 00:03:13.020
+when there's a standard method
+
+79
+00:03:13.020 --> 00:03:16.010
+for providing meaningful feedback.
+
+80
+00:03:16.010 --> 00:03:19.040
+This allows the teams to leverage the design review
+
+81
+00:03:19.040 --> 00:03:22.020
+and to truly be empowered by the review activities
+
+82
+00:03:22.020 --> 00:03:23.080
+that are happening.
+
+83
+00:03:23.080 --> 00:03:26.000
+Now I'd like to spend just a few moments
+
+84
+00:03:26.000 --> 00:03:29.040
+talking about the disruptive technology that is 3D printing
+
+85
+00:03:29.040 --> 00:03:32.090
+and how it impacts the design review process.
+
+86
+00:03:32.090 --> 00:03:35.000
+3D printing technology, as you know,
+
+87
+00:03:35.000 --> 00:03:36.070
+is advancing rapidly.
+
+88
+00:03:36.070 --> 00:03:39.030
+In its current state, 3D printers can produce
+
+89
+00:03:39.030 --> 00:03:41.040
+almost production-ready parts,
+
+90
+00:03:41.040 --> 00:03:43.000
+and we know intrinsically
+
+91
+00:03:43.000 --> 00:03:45.040
+that in a generation or two of 3D printers,
+
+92
+00:03:45.040 --> 00:03:49.000
+we'll be making production parts with 3D printers.
+
+93
+00:03:49.000 --> 00:03:52.020
+This will completely change the market expectations.
+
+94
+00:03:52.020 --> 00:03:54.070
+Manufacturers will be asked to provide
+
+95
+00:03:54.070 --> 00:03:58.070
+production parts from a 3D printer earlier and earlier.
+
+96
+00:03:58.070 --> 00:04:01.010
+As such, remember the design review
+
+97
+00:04:01.010 --> 00:04:04.020
+cannot be an analysis of a production part,
+
+98
+00:04:04.020 --> 00:04:05.060
+or even a prototype part.
+
+99
+00:04:05.060 --> 00:04:08.010
+It should be done well before that.
+
+100
+00:04:08.010 --> 00:04:11.000
+What you need to do is build into your process
+
+101
+00:04:11.000 --> 00:04:12.060
+early design reviews.
+
+102
+00:04:12.060 --> 00:04:16.060
+I contend that 3D printing will also be an impetus
+
+103
+00:04:16.060 --> 00:04:19.060
+to adopt augmented reality that we just talked about,
+
+104
+00:04:19.060 --> 00:04:22.050
+because what augmented reality will allow you to do
+
+105
+00:04:22.050 --> 00:04:24.070
+is compress that early time
+
+106
+00:04:24.070 --> 00:04:26.090
+and get a more immersive experience
+
+107
+00:04:26.090 --> 00:04:30.000
+before the design is ready to even be printed.
+

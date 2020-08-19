@@ -1,0 +1,80 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:04,08
+- [Instructor] In 2010, GitHub suffered a severe outage.
+
+2
+00:00:04,08 --> 00:00:08,03
+The cause was tests accidentally running in production,
+
+3
+00:00:08,03 --> 00:00:10,07
+deleting the main database.
+
+4
+00:00:10,07 --> 00:00:13,03
+Many companies learn this lesson the hard way.
+
+5
+00:00:13,03 --> 00:00:17,06
+Do all you can to make sure tests don't run in production,
+
+6
+00:00:17,06 --> 00:00:20,09
+including placing them in a separate directory.
+
+7
+00:00:20,09 --> 00:00:24,09
+In our case, this directory is called tests,
+
+8
+00:00:24,09 --> 00:00:30,02
+because both test and testing are built-in models.
+
+9
+00:00:30,02 --> 00:00:33,03
+We'll talk about testing in-depth in another episode,
+
+10
+00:00:33,03 --> 00:00:35,02
+but you should have tests.
+
+11
+00:00:35,02 --> 00:00:37,07
+Apart from yourself in it when making changes
+
+12
+00:00:37,07 --> 00:00:39,05
+and validating your code,
+
+13
+00:00:39,05 --> 00:00:42,00
+they also send a signal to potential users
+
+14
+00:00:42,00 --> 00:00:44,07
+that you're serious about your code.
+
+15
+00:00:44,07 --> 00:00:47,00
+Tests can also serve as the commentation.
+
+16
+00:00:47,00 --> 00:00:49,02
+By reading test code, people will be able
+
+17
+00:00:49,02 --> 00:00:51,09
+to understand how to use your package.
+
+18
+00:00:51,09 --> 00:00:55,04
+The tests directory mostly contains Python files,
+
+19
+00:00:55,04 --> 00:00:58,00
+but it can also contain some auxiliary data.
+

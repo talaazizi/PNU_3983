@@ -1,0 +1,340 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.000 --> 00:00:07.020
+- I'm sort of thinking, if I was a customer,
+
+2
+00:00:07.020 --> 00:00:08.040
+would I like Scrum?
+
+3
+00:00:08.040 --> 00:00:12.020
+And I'd like the flexibility to change my mind all the time,
+
+4
+00:00:12.020 --> 00:00:16.010
+that would be great, but I wouldn't like
+
+5
+00:00:16.010 --> 00:00:19.040
+this thing about not having the iron triangle.
+
+6
+00:00:19.040 --> 00:00:23.010
+Because if I'm a customer, I want to to say to you,
+
+7
+00:00:23.010 --> 00:00:25.080
+build me this job and guarantee I will get this
+
+8
+00:00:25.080 --> 00:00:27.090
+on this date, back to the iron triangle you know.
+
+9
+00:00:27.090 --> 00:00:30.020
+I will get this on this date for this money.
+
+10
+00:00:30.020 --> 00:00:31.070
+And if you said to me, "Well you know,
+
+11
+00:00:31.070 --> 00:00:34.000
+"we'll just go 'til we run out and you know,
+
+12
+00:00:34.000 --> 00:00:36.080
+"we'll do quite a lot, you might get seven things,
+
+13
+00:00:36.080 --> 00:00:37.080
+"you might get nine things,
+
+14
+00:00:37.080 --> 00:00:39.090
+"we don't really know, and it kind of depends on you Chris,
+
+15
+00:00:39.090 --> 00:00:41.030
+"how much you change your mind."
+
+16
+00:00:41.030 --> 00:00:45.040
+I'd be thinking, well all the risk is with me.
+
+17
+00:00:45.040 --> 00:00:49.090
+Now, I've got customers who agonize
+
+18
+00:00:49.090 --> 00:00:54.080
+between do we quote fixed price for consultancy jobs,
+
+19
+00:00:54.080 --> 00:00:56.090
+or do we just charge by the day?
+
+20
+00:00:56.090 --> 00:00:59.040
+Because clearly, if you charge by fixed price
+
+21
+00:00:59.040 --> 00:01:02.040
+then it's much more scary because you might not deliver.
+
+22
+00:01:02.040 --> 00:01:05.020
+And you sort of think, well surely a customer
+
+23
+00:01:05.020 --> 00:01:06.050
+would always want a fixed price,
+
+24
+00:01:06.050 --> 00:01:08.050
+but actually they don't always want a fixed price.
+
+25
+00:01:08.050 --> 00:01:12.050
+Because if you force me to quote you a fixed price
+
+26
+00:01:12.050 --> 00:01:14.010
+I'm going to put in a margin on top,
+
+27
+00:01:14.010 --> 00:01:17.000
+because the risk is with me.
+
+28
+00:01:17.000 --> 00:01:21.070
+So, I guess if got an agile team who I can really trust,
+
+29
+00:01:21.070 --> 00:01:24.080
+and who I'm sitting with, working with all the time,
+
+30
+00:01:24.080 --> 00:01:28.060
+you know, maybe the risk isn't completely with me.
+
+31
+00:01:28.060 --> 00:01:31.020
+But I still feel as a customer
+
+32
+00:01:31.020 --> 00:01:33.020
+it's a little bit out of control, for me.
+
+33
+00:01:33.020 --> 00:01:34.060
+- And you don't have to really trust them either.
+
+34
+00:01:34.060 --> 00:01:36.070
+Because remember, they're delivering every two weeks,
+
+35
+00:01:36.070 --> 00:01:39.000
+so you can see if they suck much more quickly.
+
+36
+00:01:39.000 --> 00:01:39.080
+- That's true.
+
+37
+00:01:39.080 --> 00:01:41.010
+Yeah, you would know, I mean you would know
+
+38
+00:01:41.010 --> 00:01:42.010
+with a gunshot straight away,
+
+39
+00:01:42.010 --> 00:01:43.020
+because you know that they're keeping up
+
+40
+00:01:43.020 --> 00:01:44.030
+with the coloring in.
+
+41
+00:01:44.030 --> 00:01:45.090
+Are we keeping up with the line?
+
+42
+00:01:45.090 --> 00:01:48.030
+So the first task of the gunshot,
+
+43
+00:01:48.030 --> 00:01:50.020
+you'd be able to see have they done it.
+
+44
+00:01:50.020 --> 00:01:53.020
+So I think you do have just as much visibility
+
+45
+00:01:53.020 --> 00:01:54.050
+but I do take the point
+
+46
+00:01:54.050 --> 00:01:57.050
+that it has to be a working item, doesn't it?
+
+47
+00:01:57.050 --> 00:01:59.050
+After two weeks, so you can really, really check it
+
+48
+00:01:59.050 --> 00:02:00.030
+with Scrum.
+
+49
+00:02:00.030 --> 00:02:01.080
+- Like your friend with the electrician.
+
+50
+00:02:01.080 --> 00:02:03.040
+I mean, they may have been a great electrician
+
+51
+00:02:03.040 --> 00:02:05.000
+but they won't know until the fifth week.
+
+52
+00:02:05.000 --> 00:02:06.010
+- Nope, nope.
+
+53
+00:02:06.010 --> 00:02:09.010
+And the whole gunshot plan could be a big con.
+
+54
+00:02:09.010 --> 00:02:10.070
+And you wouldn't know until the end
+
+55
+00:02:10.070 --> 00:02:13.010
+unless you knew a bit about it, which you might not.
+
+56
+00:02:13.010 --> 00:02:17.040
+Yeah, so you would say then that the customer
+
+57
+00:02:17.040 --> 00:02:19.080
+isn't taking more risk upon themselves
+
+58
+00:02:19.080 --> 00:02:23.010
+by going agile then they are with a gunshot.
+
+59
+00:02:23.010 --> 00:02:24.090
+- No I would say they're taking less
+
+60
+00:02:24.090 --> 00:02:27.030
+because instead of getting commitments,
+
+61
+00:02:27.030 --> 00:02:29.010
+they're getting software.
+
+62
+00:02:29.010 --> 00:02:32.070
+And so, you know, that's what agile,
+
+63
+00:02:32.070 --> 00:02:34.050
+one of the agile principles in the agile manifesto
+
+64
+00:02:34.050 --> 00:02:35.080
+is that you know, working software.
+
+65
+00:02:35.080 --> 00:02:38.080
+And so it's, and that's how teams communicate.
+
+66
+00:02:38.080 --> 00:02:40.040
+They communicate from working software.
+
+67
+00:02:40.040 --> 00:02:42.040
+So you got...
+
+68
+00:02:42.040 --> 00:02:43.070
+- But you don't know when the whole things
+
+69
+00:02:43.070 --> 00:02:44.060
+going to be ready.
+
+70
+00:02:44.060 --> 00:02:46.040
+Or if you do set a date, you don't know
+
+71
+00:02:46.040 --> 00:02:48.010
+what you're going to get by that date.
+
+72
+00:02:48.010 --> 00:02:49.000
+- Right, it's up to the customer.
+
+73
+00:02:49.000 --> 00:02:52.010
+- Whereas, in theory, with waterfall
+
+74
+00:02:52.010 --> 00:02:54.000
+and a gunshot, you do.
+
+75
+00:02:54.000 --> 00:02:55.040
+Although in practice you may not, of course,
+
+76
+00:02:55.040 --> 00:02:56.080
+because things might go wrong.
+
+77
+00:02:56.080 --> 00:02:57.090
+- Well it depends on the customer,
+
+78
+00:02:57.090 --> 00:02:59.020
+I mean if you work on an agile team
+
+79
+00:02:59.020 --> 00:03:00.050
+and a customer doesn't have a lot of changes
+
+80
+00:03:00.050 --> 00:03:02.000
+and don't care about the feedback
+
+81
+00:03:02.000 --> 00:03:05.040
+then they'll get exactly what you decided in the beginning.
+
+82
+00:03:05.040 --> 00:03:08.070
+But if the customer does then, you know,
+
+83
+00:03:08.070 --> 00:03:10.050
+then you still deliver what they wanted
+
+84
+00:03:10.050 --> 00:03:13.000
+it's just much different from that first discussion.
+

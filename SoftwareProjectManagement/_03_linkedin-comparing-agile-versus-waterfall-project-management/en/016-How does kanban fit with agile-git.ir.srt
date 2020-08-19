@@ -1,0 +1,608 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.030 --> 00:00:06.030
+- I want to ask you about Kanban,
+
+2
+00:00:06.030 --> 00:00:08.030
+or Kanban as some people would call it.
+
+3
+00:00:08.030 --> 00:00:11.030
+I think I probably used the proper pronunciation.
+
+4
+00:00:11.030 --> 00:00:14.000
+Because I've come from manufacturing
+
+5
+00:00:14.000 --> 00:00:15.080
+and we used Kanban there as a way
+
+6
+00:00:15.080 --> 00:00:19.020
+to keep work in progress down.
+
+7
+00:00:19.020 --> 00:00:22.070
+Because just for the viewers, 'cause you already know this,
+
+8
+00:00:22.070 --> 00:00:25.070
+the idea is that if I'm doing a job
+
+9
+00:00:25.070 --> 00:00:30.010
+and I'm passing it to you, if you're slower than me,
+
+10
+00:00:30.010 --> 00:00:32.000
+or you're ill or something like that,
+
+11
+00:00:32.000 --> 00:00:35.030
+I can just make a great big pile in between the two of us.
+
+12
+00:00:35.030 --> 00:00:38.040
+And then, that means that the whole lead time's much longer,
+
+13
+00:00:38.040 --> 00:00:40.070
+'cause everything that comes through the process has
+
+14
+00:00:40.070 --> 00:00:41.090
+to wait for ages while it gets
+
+15
+00:00:41.090 --> 00:00:43.050
+through the queue before it gets to you.
+
+16
+00:00:43.050 --> 00:00:45.080
+So the idea is to limit the work in progress
+
+17
+00:00:45.080 --> 00:00:48.020
+to only a certain number, so you might have room for only,
+
+18
+00:00:48.020 --> 00:00:51.070
+like, say nine, little three by three box between us.
+
+19
+00:00:51.070 --> 00:00:54.040
+And when that box is full, I have to stop,
+
+20
+00:00:54.040 --> 00:00:55.060
+and I've got to come and help you.
+
+21
+00:00:55.060 --> 00:00:57.040
+I've got to say, "Doug, clearly there's a problem,
+
+22
+00:00:57.040 --> 00:00:59.010
+"because you haven't taken anything out
+
+23
+00:00:59.010 --> 00:01:01.000
+"of my little box where I put stuff."
+
+24
+00:01:01.000 --> 00:01:04.050
+And sometimes, if we're geographically spread,
+
+25
+00:01:04.050 --> 00:01:07.050
+you might be coming and taking them from my box.
+
+26
+00:01:07.050 --> 00:01:08.070
+But if you don't come and take them,
+
+27
+00:01:08.070 --> 00:01:10.000
+I know there's a problem at your end
+
+28
+00:01:10.000 --> 00:01:11.060
+'cause they're still in the, this is right, isn't it?
+
+29
+00:01:11.060 --> 00:01:13.030
+- Yeah. - So that's all great,
+
+30
+00:01:13.030 --> 00:01:15.080
+and I love that, and then, I suddenly discovered
+
+31
+00:01:15.080 --> 00:01:19.020
+that the Agile people are using Kanban.
+
+32
+00:01:19.020 --> 00:01:20.080
+And when I had a look at their Kanban system,
+
+33
+00:01:20.080 --> 00:01:23.080
+I was bitterly disappointed, 'cause I just thought,
+
+34
+00:01:23.080 --> 00:01:26.040
+that is so ridic-- - It's abomination.
+
+35
+00:01:26.040 --> 00:01:28.080
+- Yes, sort of facile, 'cause all they've got,
+
+36
+00:01:28.080 --> 00:01:31.020
+their boxes are jobs to do,
+
+37
+00:01:31.020 --> 00:01:33.070
+jobs we're doing, and jobs we've done.
+
+38
+00:01:33.070 --> 00:01:37.030
+And sometimes you might have design and test,
+
+39
+00:01:37.030 --> 00:01:39.080
+or there might be a couple of stages that they go through.
+
+40
+00:01:39.080 --> 00:01:42.050
+But mostly it's just jobs to do, jobs we're doing,
+
+41
+00:01:42.050 --> 00:01:46.010
+jobs we've done, and the only reason you could possibly call
+
+42
+00:01:46.010 --> 00:01:48.090
+that Kanban, I guess, is because there's a limited number,
+
+43
+00:01:48.090 --> 00:01:51.080
+amount of space on the board for Post-its.
+
+44
+00:01:51.080 --> 00:01:54.040
+So it does limit to, say, to nine Post-its,
+
+45
+00:01:54.040 --> 00:01:58.010
+so you can't have more than nine things in the queue.
+
+46
+00:01:58.010 --> 00:02:01.050
+So it's sort of, but it's not really Kanban, is it?
+
+47
+00:02:01.050 --> 00:02:02.070
+Or have I missed the point, is there something
+
+48
+00:02:02.070 --> 00:02:05.020
+really clever about Agile Kanban?
+
+49
+00:02:05.020 --> 00:02:08.060
+- Well, I mean, Kanban is, it came a little bit
+
+50
+00:02:08.060 --> 00:02:11.080
+after the Agile Manifesto, but it was about, basically,
+
+51
+00:02:11.080 --> 00:02:14.080
+managing queue size, you know, it's from queue theory.
+
+52
+00:02:14.080 --> 00:02:16.050
+Actually, I ran into queue theory on the way over.
+
+53
+00:02:16.050 --> 00:02:19.030
+I mean, I took the tube over, which is nice.
+
+54
+00:02:19.030 --> 00:02:22.060
+But they could clearly put more than a few stills,
+
+55
+00:02:22.060 --> 00:02:25.020
+these little things that you go through to get into the--
+
+56
+00:02:25.020 --> 00:02:26.010
+- Oh yeah, the ticket reader.
+
+57
+00:02:26.010 --> 00:02:27.030
+- Yeah, the ticket reader things,
+
+58
+00:02:27.030 --> 00:02:29.040
+you know, and they've got three or four.
+
+59
+00:02:29.040 --> 00:02:31.000
+And so, that's a Kanban system.
+
+60
+00:02:31.000 --> 00:02:35.020
+And so, if they put six or seven, when it's rush hour,
+
+61
+00:02:35.020 --> 00:02:36.090
+everybody would come through, and they would cram onto--
+
+62
+00:02:36.090 --> 00:02:38.050
+- I know. - Yeah, and they would cram
+
+63
+00:02:38.050 --> 00:02:41.010
+onto the escalator, and the system would shut down
+
+64
+00:02:41.010 --> 00:02:42.080
+because it would be crammed.
+
+65
+00:02:42.080 --> 00:02:44.040
+There wouldn't be sort of a smooth flow
+
+66
+00:02:44.040 --> 00:02:46.090
+of work through the system.
+
+67
+00:02:46.090 --> 00:02:50.050
+And so, in software, Kanban is a way
+
+68
+00:02:50.050 --> 00:02:53.080
+to maintain a sustainable pace
+
+69
+00:02:53.080 --> 00:02:56.050
+when you have work going through a system.
+
+70
+00:02:56.050 --> 00:02:59.040
+So typically, it's kind of an Agile way of working
+
+71
+00:02:59.040 --> 00:03:03.020
+if you have a team that has operational, repeatable work.
+
+72
+00:03:03.020 --> 00:03:05.090
+Something like a help desk ticket system,
+
+73
+00:03:05.090 --> 00:03:09.020
+where you have all these people who are working
+
+74
+00:03:09.020 --> 00:03:11.040
+on help desk tickets, doing operational stuff,
+
+75
+00:03:11.040 --> 00:03:12.070
+helping people check their email,
+
+76
+00:03:12.070 --> 00:03:14.050
+helping people fix their computers.
+
+77
+00:03:14.050 --> 00:03:16.090
+So you have a huge amount of work that comes
+
+78
+00:03:16.090 --> 00:03:19.030
+into the system, but you always have to have a steady flow
+
+79
+00:03:19.030 --> 00:03:22.030
+of work to come out, otherwise the team will get overloaded.
+
+80
+00:03:22.030 --> 00:03:27.060
+And so, some teams use Kanban boards for the Scrum board,
+
+81
+00:03:27.060 --> 00:03:29.050
+the task board is basically a Kanban board.
+
+82
+00:03:29.050 --> 00:03:30.030
+- [Chris] Is it really just the chops
+
+83
+00:03:30.030 --> 00:03:32.000
+to do this, then, really?
+
+84
+00:03:32.000 --> 00:03:34.040
+- It's not, it's a way to show whether
+
+85
+00:03:34.040 --> 00:03:37.040
+or not the team is going to deliver at the end of the sprint.
+
+86
+00:03:37.040 --> 00:03:41.050
+That's kind of what the purpose of the task board is in Scrum,
+
+87
+00:03:41.050 --> 00:03:48.000
+is that if you see everything stuck in doing and not done,
+
+88
+00:03:48.000 --> 00:03:50.070
+and you're a day or two away from the sprint review,
+
+89
+00:03:50.070 --> 00:03:52.090
+then you know you're going to be in trouble.
+
+90
+00:03:52.090 --> 00:03:55.040
+And so, it's a way to look at the board and say, okay.
+
+91
+00:03:55.040 --> 00:03:58.070
+And in Scrum, you have to work on the highest priority work
+
+92
+00:03:58.070 --> 00:04:01.030
+on the task board, so that's the stuff on the top.
+
+93
+00:04:01.030 --> 00:04:03.060
+- So those are the tasks within one sprint.
+
+94
+00:04:03.060 --> 00:04:04.080
+- Right. - And all those tasks have got
+
+95
+00:04:04.080 --> 00:04:06.030
+to be done by the end of the two weeks.
+
+96
+00:04:06.030 --> 00:04:09.080
+- Right, and so they have to go from top to bottom.
+
+97
+00:04:09.080 --> 00:04:12.030
+And so, the highest priority moves across the board.
+
+98
+00:04:12.030 --> 00:04:14.050
+And so, you can see, as a product owner,
+
+99
+00:04:14.050 --> 00:04:16.080
+usually, typically a product owner than a scrum master,
+
+100
+00:04:16.080 --> 00:04:18.000
+will look at the board and they'll be like,
+
+101
+00:04:18.000 --> 00:04:21.070
+"Oh my gosh, all of these tasks aren't going to be done
+
+102
+00:04:21.070 --> 00:04:23.070
+"in the next two days, I'm going to be standing up
+
+103
+00:04:23.070 --> 00:04:24.090
+"in front of the customer talking about
+
+104
+00:04:24.090 --> 00:04:27.010
+"how it's a funny story, we didn't finish."
+
+105
+00:04:27.010 --> 00:04:28.080
+And so, that's the purpose, really,
+
+106
+00:04:28.080 --> 00:04:30.080
+of the task board in Scrum is to help the team
+
+107
+00:04:30.080 --> 00:04:33.000
+regulate the work to make sure they're working
+
+108
+00:04:33.000 --> 00:04:36.000
+on the highest priority stuff from top to bottom.
+
+109
+00:04:36.000 --> 00:04:39.010
+But you can also use a Kanban team, a Kanban board,
+
+110
+00:04:39.010 --> 00:04:41.050
+for operational teams to work on help desk tickets
+
+111
+00:04:41.050 --> 00:04:44.070
+or things that are predictable work, but could come in,
+
+112
+00:04:44.070 --> 00:04:46.060
+you know, you have to have a predictable output,
+
+113
+00:04:46.060 --> 00:04:48.070
+but you could have a variable input.
+
+114
+00:04:48.070 --> 00:04:51.020
+So you could get like, the email server could go down
+
+115
+00:04:51.020 --> 00:04:53.060
+and you'll get 50 tickets in one day.
+
+116
+00:04:53.060 --> 00:04:55.010
+But you can't just stand there and be like,
+
+117
+00:04:55.010 --> 00:04:57.060
+"I'm overloaded," you have to start somewhere.
+
+118
+00:04:57.060 --> 00:04:59.010
+And so, you just prioritize the work
+
+119
+00:04:59.010 --> 00:05:01.010
+and pull it across the board.
+
+120
+00:05:01.010 --> 00:05:03.070
+- And is that the same as your backlog of tasks,
+
+121
+00:05:03.070 --> 00:05:06.070
+or is that a, there's a backlog of sprints as well,
+
+122
+00:05:06.070 --> 00:05:08.020
+so could you have a Kanban board
+
+123
+00:05:08.020 --> 00:05:10.020
+for all of that as well, for the higher level?
+
+124
+00:05:10.020 --> 00:05:12.040
+- I don't typically use a Kanban board,
+
+125
+00:05:12.040 --> 00:05:13.080
+or the product backlog,
+
+126
+00:05:13.080 --> 00:05:15.050
+because you don't get that much value from it,
+
+127
+00:05:15.050 --> 00:05:18.020
+because you're not really managing the work coming out
+
+128
+00:05:18.020 --> 00:05:20.090
+of the system like you are on the task board.
+
+129
+00:05:20.090 --> 00:05:22.080
+But what the product backlog will do,
+
+130
+00:05:22.080 --> 00:05:25.090
+it will show you the product owner's highest priorities.
+
+131
+00:05:25.090 --> 00:05:27.050
+And so, the product owner should
+
+132
+00:05:27.050 --> 00:05:30.070
+constantly be shifting the product backlog to make sure
+
+133
+00:05:30.070 --> 00:05:34.070
+that the stuff at the top is the most valuable to them.
+
+134
+00:05:34.070 --> 00:05:36.080
+And that's slightly different from the Kanban board,
+
+135
+00:05:36.080 --> 00:05:39.000
+which is more about just making sure
+
+136
+00:05:39.000 --> 00:05:42.090
+that the work the team produces is being done
+
+137
+00:05:42.090 --> 00:05:44.000
+at a sustainable pace.
+
+138
+00:05:44.000 --> 00:05:45.020
+And you'll see that in Scrum,
+
+139
+00:05:45.020 --> 00:05:47.010
+where they say they divide the work up based
+
+140
+00:05:47.010 --> 00:05:50.090
+on the how and the what, is the product owner will decide
+
+141
+00:05:50.090 --> 00:05:53.040
+what gets delivered in a two-week sprint.
+
+142
+00:05:53.040 --> 00:05:56.000
+But the development team will come up with the how.
+
+143
+00:05:56.000 --> 00:05:58.010
+They'll say, "Okay, here's how we're going to deliver it."
+
+144
+00:05:58.010 --> 00:05:59.060
+And so, they'll typically work off
+
+145
+00:05:59.060 --> 00:06:02.030
+of the Kanban board, or the task board.
+
+146
+00:06:02.030 --> 00:06:03.030
+So, does that make sense?
+
+147
+00:06:03.030 --> 00:06:06.050
+- Yeah, it does, actually, yeah, yeah, yep.
+
+148
+00:06:06.050 --> 00:06:09.070
+I can see the Kanban board isn't quite as bad as I thought,
+
+149
+00:06:09.070 --> 00:06:11.020
+although still not proper Kanban.
+
+150
+00:06:11.020 --> 00:06:12.030
+- Yeah, I mean, it's 'cause it comes out
+
+151
+00:06:12.030 --> 00:06:15.000
+of manufacturing, so-- - Yeah, yeah absolutely.
+

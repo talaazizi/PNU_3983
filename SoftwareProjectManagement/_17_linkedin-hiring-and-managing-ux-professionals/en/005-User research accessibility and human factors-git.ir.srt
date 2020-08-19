@@ -1,0 +1,168 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:02,07
+- When it comes to the research bucket,
+
+2
+00:00:02,07 --> 00:00:05,02
+there are activities that involve research,
+
+3
+00:00:05,02 --> 00:00:08,03
+that is interactions with and observations of,
+
+4
+00:00:08,03 --> 00:00:11,02
+actual and representative product users.
+
+5
+00:00:11,02 --> 00:00:14,01
+And there are activities that involve evaluation,
+
+6
+00:00:14,01 --> 00:00:18,03
+which compares a product with expected UX best practices.
+
+7
+00:00:18,03 --> 00:00:21,03
+The most typical job type and skill set to do this work,
+
+8
+00:00:21,03 --> 00:00:25,01
+is my UX specialty, that of user researcher.
+
+9
+00:00:25,01 --> 00:00:26,05
+As a user researcher, I've gone
+
+10
+00:00:26,05 --> 00:00:28,09
+literally all over the United States
+
+11
+00:00:28,09 --> 00:00:30,08
+and occasionally to other countries
+
+12
+00:00:30,08 --> 00:00:34,04
+to meet with the right users and understand their needs.
+
+13
+00:00:34,04 --> 00:00:36,01
+I've met with disaster survivors
+
+14
+00:00:36,01 --> 00:00:38,04
+after their homes were damaged or destroyed.
+
+15
+00:00:38,04 --> 00:00:41,01
+I've met with car buyers, tax payers, small business owners,
+
+16
+00:00:41,01 --> 00:00:42,07
+truckers, sales people.
+
+17
+00:00:42,07 --> 00:00:44,00
+They all have different needs
+
+18
+00:00:44,00 --> 00:00:47,05
+and different reactions to technological products.
+
+19
+00:00:47,05 --> 00:00:49,07
+Understanding those needs and reactions
+
+20
+00:00:49,07 --> 00:00:53,02
+leads to better offerings that can really help them.
+
+21
+00:00:53,02 --> 00:00:55,05
+In addition, a research skill set,
+
+22
+00:00:55,05 --> 00:00:57,08
+which can also be a stand alone career,
+
+23
+00:00:57,08 --> 00:01:01,01
+is that of an accessibility specialist.
+
+24
+00:01:01,01 --> 00:01:03,08
+Accessibility is focuses on making sure that products
+
+25
+00:01:03,08 --> 00:01:06,07
+adhere to international and country specific standards
+
+26
+00:01:06,07 --> 00:01:10,04
+for universal usability, usable by everyone,
+
+27
+00:01:10,04 --> 00:01:12,07
+regardless of any disability.
+
+28
+00:01:12,07 --> 00:01:13,09
+What if someone who was blind
+
+29
+00:01:13,09 --> 00:01:16,02
+was told they couldn't make online purchases?
+
+30
+00:01:16,02 --> 00:01:17,02
+What if someone who was deaf
+
+31
+00:01:17,02 --> 00:01:19,09
+was told they couldn't watch an instructional video?
+
+32
+00:01:19,09 --> 00:01:23,05
+This is what happens when products are created inaccessibly.
+
+33
+00:01:23,05 --> 00:01:26,04
+Lastly in the research bucket is human factors.
+
+34
+00:01:26,04 --> 00:01:28,04
+When I started my career many years ago,
+
+35
+00:01:28,04 --> 00:01:31,06
+human factors broadly meant what we now call UX.
+
+36
+00:01:31,06 --> 00:01:34,02
+Today, however, it's used to refer specifically
+
+37
+00:01:34,02 --> 00:01:36,01
+to research of physical products,
+
+38
+00:01:36,01 --> 00:01:38,08
+often focused on safety and comfort.
+
+39
+00:01:38,08 --> 00:01:41,08
+Think about an airplane cockpit or a car.
+
+40
+00:01:41,08 --> 00:01:43,04
+Now that we've covered design and research,
+
+41
+00:01:43,04 --> 00:01:47,00
+we have one more big bucket to discuss, strategy.
+

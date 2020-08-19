@@ -1,0 +1,244 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,08 --> 00:00:03,05
+- How do you assess whether a business that you identify
+
+2
+00:00:03,05 --> 00:00:07,05
+is actually an organization worth bringing on to help you?
+
+3
+00:00:07,05 --> 00:00:09,09
+First off, look at what they tell you.
+
+4
+00:00:09,09 --> 00:00:12,02
+If they write a proposal for the work,
+
+5
+00:00:12,02 --> 00:00:14,06
+how do they prioritize UX?
+
+6
+00:00:14,06 --> 00:00:16,03
+Look at the language they use.
+
+7
+00:00:16,03 --> 00:00:19,00
+Do they talk about user experience throughout the process,
+
+8
+00:00:19,00 --> 00:00:21,01
+and ideally in an iterative way?
+
+9
+00:00:21,01 --> 00:00:23,03
+Or does it look like UX was thrown in haphazardly,
+
+10
+00:00:23,03 --> 00:00:25,07
+just to win the bid?
+
+11
+00:00:25,07 --> 00:00:27,04
+If they talk about past performance,
+
+12
+00:00:27,04 --> 00:00:31,00
+is UX clearly integrated into those projects?
+
+13
+00:00:31,00 --> 00:00:32,00
+Look at their website.
+
+14
+00:00:32,00 --> 00:00:34,03
+Is UX prioritized there?
+
+15
+00:00:34,03 --> 00:00:36,08
+If the business is large enough, look at job posts
+
+16
+00:00:36,08 --> 00:00:39,09
+on their website, or do a quick search for job postings,
+
+17
+00:00:39,09 --> 00:00:43,06
+and see if they hire for specific UX types of jobs.
+
+18
+00:00:43,06 --> 00:00:46,04
+See if you can find UX people at that company on LinkedIn.
+
+19
+00:00:46,04 --> 00:00:49,00
+And make sure that they too are properly branded
+
+20
+00:00:49,00 --> 00:00:52,00
+as UX professionals, especially true if you know who
+
+21
+00:00:52,00 --> 00:00:54,00
+is being proposed for your project.
+
+22
+00:00:54,00 --> 00:00:56,02
+Even googling the company could get you some clues
+
+23
+00:00:56,02 --> 00:00:58,03
+as to how established they are in the UX culture,
+
+24
+00:00:58,03 --> 00:01:01,07
+and how employees may be involved beyond their regular work,
+
+25
+00:01:01,07 --> 00:01:04,06
+for example, by speaking at conferences and events.
+
+26
+00:01:04,06 --> 00:01:07,05
+Conversely, if you see that the company described themselves
+
+27
+00:01:07,05 --> 00:01:10,07
+as doing UX, often with the slash-UI after it,
+
+28
+00:01:10,07 --> 00:01:12,08
+and you notice that the core competencies
+
+29
+00:01:12,08 --> 00:01:15,01
+look less like the kinds of UX we've talked about
+
+30
+00:01:15,01 --> 00:01:16,05
+and more like something else,
+
+31
+00:01:16,05 --> 00:01:17,09
+such as web or app development,
+
+32
+00:01:17,09 --> 00:01:20,08
+be cautious of their UX expertise.
+
+33
+00:01:20,08 --> 00:01:24,01
+They may have tacked on those letters, U and X,
+
+34
+00:01:24,01 --> 00:01:26,06
+because they believe that they're doing UX work
+
+35
+00:01:26,06 --> 00:01:29,00
+whenever they're creating a user interface.
+
+36
+00:01:29,00 --> 00:01:32,09
+Or they may simply see UX inclusion as a useful SEO tool,
+
+37
+00:01:32,09 --> 00:01:35,06
+without fully understanding what UX means.
+
+38
+00:01:35,06 --> 00:01:38,03
+Either way, when UX comes without the users,
+
+39
+00:01:38,03 --> 00:01:41,02
+represented by those core UX skills and services
+
+40
+00:01:41,02 --> 00:01:43,09
+that we talked about, do not just go and accept
+
+41
+00:01:43,09 --> 00:01:46,05
+their UX work at face value.
+
+42
+00:01:46,05 --> 00:01:48,09
+If the business is a microbusiness, for example,
+
+43
+00:01:48,09 --> 00:01:51,04
+a freelancer perhaps with one or two others,
+
+44
+00:01:51,04 --> 00:01:53,09
+you can seek to establish credibility
+
+45
+00:01:53,09 --> 00:01:57,03
+on the individual level as we discussed earlier.
+
+46
+00:01:57,03 --> 00:01:59,03
+However, also make sure that the freelancer
+
+47
+00:01:59,03 --> 00:02:01,03
+has an established business presence
+
+48
+00:02:01,03 --> 00:02:04,07
+and clearly seeks out UX work as a business.
+
+49
+00:02:04,07 --> 00:02:06,09
+Does a freelancer through a microbusiness
+
+50
+00:02:06,09 --> 00:02:09,03
+clearly have business processes in place?
+
+51
+00:02:09,03 --> 00:02:11,03
+For example, in the United States, do they know
+
+52
+00:02:11,03 --> 00:02:13,08
+what you're talking about if you ask them for a W-9
+
+53
+00:02:13,08 --> 00:02:15,03
+or a certificate of insurance?
+
+54
+00:02:15,03 --> 00:02:18,02
+Or, alternatively, do your conversations with them make them
+
+55
+00:02:18,02 --> 00:02:20,01
+sound like they are trying to just fill their time
+
+56
+00:02:20,01 --> 00:02:22,06
+until they can get hired somewhere as an employee?
+
+57
+00:02:22,06 --> 00:02:25,02
+It's not that you can't contract out to a freelancer
+
+58
+00:02:25,02 --> 00:02:27,01
+as an individual, but in some ways,
+
+59
+00:02:27,01 --> 00:02:28,07
+it gets a little trickier, both legally
+
+60
+00:02:28,07 --> 00:02:32,00
+and in terms of how your relationship with them is framed.
+

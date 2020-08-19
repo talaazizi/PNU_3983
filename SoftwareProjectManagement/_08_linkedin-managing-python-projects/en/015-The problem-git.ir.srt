@@ -1,0 +1,160 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:03,08
+- [Narrator] One of Python's mottos is "batteries included".
+
+2
+00:00:03,08 --> 00:00:05,09
+When you install Python, you get a rich
+
+3
+00:00:05,09 --> 00:00:08,07
+standard library, with many packages.
+
+4
+00:00:08,07 --> 00:00:11,07
+A lot of times, the standard library will be enough.
+
+5
+00:00:11,07 --> 00:00:14,09
+However, sometimes we need a package that's not
+
+6
+00:00:14,09 --> 00:00:18,02
+in the standard library, a third party package.
+
+7
+00:00:18,02 --> 00:00:22,01
+The central location for third party packages is PyPI.
+
+8
+00:00:22,01 --> 00:00:25,09
+At the time of recording, it hosts about 200,000 packages.
+
+9
+00:00:25,09 --> 00:00:27,06
+That's a lot to choose from.
+
+10
+00:00:27,06 --> 00:00:31,00
+That's one of the problems with third party packages.
+
+11
+00:00:31,00 --> 00:00:32,06
+At first glance, it's super easy
+
+12
+00:00:32,06 --> 00:00:34,07
+to use a third party package.
+
+13
+00:00:34,07 --> 00:00:38,03
+You pip install your package and it's ready for you to use.
+
+14
+00:00:38,03 --> 00:00:41,00
+Let's look at what can go wrong.
+
+15
+00:00:41,00 --> 00:00:45,09
+If you search for PostgreSQL
+
+16
+00:00:45,09 --> 00:00:47,03
+in PyPI,
+
+17
+00:00:47,03 --> 00:00:51,00
+you will get more than 1600 results.
+
+18
+00:00:51,00 --> 00:00:54,00
+You need to ask around, check the project health,
+
+19
+00:00:54,00 --> 00:00:56,09
+and run some tests before selecting.
+
+20
+00:00:56,09 --> 00:01:01,01
+By the way, the recommended package is called psycopg2.
+
+21
+00:01:01,01 --> 00:01:03,07
+Some packages, don't install easily.
+
+22
+00:01:03,07 --> 00:01:06,00
+You might need extra shared C libraries
+
+23
+00:01:06,00 --> 00:01:08,01
+or header files to install them.
+
+24
+00:01:08,01 --> 00:01:10,06
+As you can see here in the documentation.
+
+25
+00:01:10,06 --> 00:01:12,04
+You will need to make sure the environment in
+
+26
+00:01:12,04 --> 00:01:15,04
+production measures the one developers are using.
+
+27
+00:01:15,04 --> 00:01:18,08
+Sometimes, new versions cause regressions.
+
+28
+00:01:18,08 --> 00:01:21,05
+Some packages are malicious.
+
+29
+00:01:21,05 --> 00:01:24,05
+A maintainer might decide to remove a package
+
+30
+00:01:24,05 --> 00:01:27,02
+that you're depending on from PyPI.
+
+31
+00:01:27,02 --> 00:01:29,06
+There might be even more issues.
+
+32
+00:01:29,06 --> 00:01:31,05
+I recommended reading Russ Cox's
+
+33
+00:01:31,05 --> 00:01:34,00
+'Our Software Dependency Problem.'
+
+34
+00:01:34,00 --> 00:01:35,06
+Even though it's not on Python,
+
+35
+00:01:35,06 --> 00:01:38,01
+it summarizes the problem well.
+
+36
+00:01:38,01 --> 00:01:40,09
+And we're not saying stop using third party packages,
+
+37
+00:01:40,09 --> 00:01:42,08
+they are very useful.
+
+38
+00:01:42,08 --> 00:01:45,00
+You need to be aware of the cost and try to use
+
+39
+00:01:45,00 --> 00:01:48,00
+the standard library as much as you can.
+

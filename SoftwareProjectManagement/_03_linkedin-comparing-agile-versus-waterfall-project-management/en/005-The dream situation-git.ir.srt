@@ -1,0 +1,332 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.010 --> 00:00:07.080
+- So, if you were doing something bigger like, say a website
+
+2
+00:00:07.080 --> 00:00:09.000
+and something where you could
+
+3
+00:00:09.000 --> 00:00:11.090
+actually visualize the finished product,
+
+4
+00:00:11.090 --> 00:00:13.000
+then it seems to me that
+
+5
+00:00:13.000 --> 00:00:15.030
+it would still be worth having a plan
+
+6
+00:00:15.030 --> 00:00:18.050
+rather than doing it in some sort of suboptimal order.
+
+7
+00:00:18.050 --> 00:00:21.020
+So I'm thinking that even with some software
+
+8
+00:00:21.020 --> 00:00:23.040
+if it's possible to plan it,
+
+9
+00:00:23.040 --> 00:00:25.050
+maybe it would be a benefit to plan it
+
+10
+00:00:25.050 --> 00:00:28.010
+rather than do it, doing it agile style.
+
+11
+00:00:28.010 --> 00:00:32.000
+- Yeah, I mean, I would with your app, it was agile-ish.
+
+12
+00:00:32.000 --> 00:00:33.060
+I wouldn't say it was full agile.
+
+13
+00:00:33.060 --> 00:00:35.070
+If you were actually developing an app,
+
+14
+00:00:35.070 --> 00:00:37.040
+which a lot of people do when they're developing,
+
+15
+00:00:37.040 --> 00:00:40.030
+you know, these apps in the app store,
+
+16
+00:00:40.030 --> 00:00:43.000
+I mean, it seems like there's software everywhere,
+
+17
+00:00:43.000 --> 00:00:46.090
+you would be sitting right next to your developer,
+
+18
+00:00:46.090 --> 00:00:49.080
+and they would work right next to you all the time.
+
+19
+00:00:49.080 --> 00:00:52.030
+And so the commitment, when you're the customer
+
+20
+00:00:52.030 --> 00:00:55.080
+and you're trying to sort of have a product delivered
+
+21
+00:00:55.080 --> 00:00:57.090
+using the more agile mindset is
+
+22
+00:00:57.090 --> 00:01:00.010
+you have to have the customer really sit
+
+23
+00:01:00.010 --> 00:01:03.070
+with the development team and be part of the team.
+
+24
+00:01:03.070 --> 00:01:07.020
+And so imagine if your developer that you hired to do this
+
+25
+00:01:07.020 --> 00:01:08.090
+was like sitting in your living room
+
+26
+00:01:08.090 --> 00:01:12.030
+developing it all day while you were eating cereal,
+
+27
+00:01:12.030 --> 00:01:14.060
+watching Netflix, whatever,
+
+28
+00:01:14.060 --> 00:01:17.000
+and they could just turn around and ask you a question
+
+29
+00:01:17.000 --> 00:01:18.020
+and you could turn back,
+
+30
+00:01:18.020 --> 00:01:19.080
+and they would just be able to work
+
+31
+00:01:19.080 --> 00:01:21.070
+sort of at a nice sustainable pace that way.
+
+32
+00:01:21.070 --> 00:01:22.050
+- That would be great.
+
+33
+00:01:22.050 --> 00:01:23.040
+- Yeah
+
+34
+00:01:23.040 --> 00:01:24.020
+That would be a real luxury if you could do it.
+
+35
+00:01:24.020 --> 00:01:27.010
+- And then they would finish it really quickly
+
+36
+00:01:27.010 --> 00:01:28.050
+and it would be exactly what you want,
+
+37
+00:01:28.050 --> 00:01:31.020
+because you're always getting that realtime feedback.
+
+38
+00:01:31.020 --> 00:01:34.030
+But, if you work an agile team, they don't really see it
+
+39
+00:01:34.030 --> 00:01:36.050
+as a luxury as much as a necessity,
+
+40
+00:01:36.050 --> 00:01:39.080
+because even though it would be awkward
+
+41
+00:01:39.080 --> 00:01:42.070
+to have a software developer sitting in your living room,
+
+42
+00:01:42.070 --> 00:01:47.040
+that the productivity gains you get from it are enormous.
+
+43
+00:01:47.040 --> 00:01:49.030
+And so, and I work in a lot of organizations
+
+44
+00:01:49.030 --> 00:01:51.030
+where they have difficulty with this concept
+
+45
+00:01:51.030 --> 00:01:52.070
+because they're used to business analysts
+
+46
+00:01:52.070 --> 00:01:54.050
+and things like that, who just come up with requirements,
+
+47
+00:01:54.050 --> 00:01:56.000
+kind of throw them over the wall,
+
+48
+00:01:56.000 --> 00:01:57.090
+and then say, "Okay, that's your responsibility."
+
+49
+00:01:57.090 --> 00:01:59.040
+- That's what I did with my app.
+
+50
+00:01:59.040 --> 00:02:00.090
+I just said, "Make me this."
+
+51
+00:02:00.090 --> 00:02:01.070
+- Exactly.
+
+52
+00:02:01.070 --> 00:02:02.060
+- And he came back with version 1.
+
+53
+00:02:02.060 --> 00:02:05.060
+- Right. And if you're working in an agile team
+
+54
+00:02:05.060 --> 00:02:07.080
+you don't have versions typically,
+
+55
+00:02:07.080 --> 00:02:10.020
+because you are always, you know,
+
+56
+00:02:10.020 --> 00:02:11.040
+there's nothing to show you
+
+57
+00:02:11.040 --> 00:02:13.070
+because you've been there the whole time.
+
+58
+00:02:13.070 --> 00:02:15.040
+And so the product owner will be,
+
+59
+00:02:15.040 --> 00:02:16.070
+you know, typically, if you're on a scrum team
+
+60
+00:02:16.070 --> 00:02:18.060
+this is called the product owner or the customer,
+
+61
+00:02:18.060 --> 00:02:20.070
+will typically be sort of interacting with the team
+
+62
+00:02:20.070 --> 00:02:21.080
+in real time at all times.
+
+63
+00:02:21.080 --> 00:02:23.030
+- So that's really different
+
+64
+00:02:23.030 --> 00:02:24.060
+to conventional project management
+
+65
+00:02:24.060 --> 00:02:27.060
+where you almost want to keep the customer at arm's length,
+
+66
+00:02:27.060 --> 00:02:29.060
+because you don't want the customer to see
+
+67
+00:02:29.060 --> 00:02:31.030
+some of the problems that you have
+
+68
+00:02:31.030 --> 00:02:32.040
+and you don't want the customer
+
+69
+00:02:32.040 --> 00:02:35.000
+to keep messing around and changing the spec.
+
+70
+00:02:35.000 --> 00:02:35.090
+- Yeah.
+
+71
+00:02:35.090 --> 00:02:36.090
+And you just want to get a really clear brief
+
+72
+00:02:36.090 --> 00:02:40.020
+and then be left alone to get on with it.
+
+73
+00:02:40.020 --> 00:02:42.050
+And also you might be some things that are secret.
+
+74
+00:02:42.050 --> 00:02:44.070
+You don't want the customer to know how you do them,
+
+75
+00:02:44.070 --> 00:02:47.000
+so that's really, really different.
+
+76
+00:02:47.000 --> 00:02:49.070
+- XP teams call it "embracing change."
+
+77
+00:02:49.070 --> 00:02:51.070
+So instead of saying," Okay, I don't want to
+
+78
+00:02:51.070 --> 00:02:53.060
+interact with my customer because they might change things
+
+79
+00:02:53.060 --> 00:02:55.080
+and I've got a lot invested in this the way that it is,"
+
+80
+00:02:55.080 --> 00:02:57.090
+instead you're like, "Give me changes
+
+81
+00:02:57.090 --> 00:03:00.010
+because I know that the more I change,
+
+82
+00:03:00.010 --> 00:03:02.000
+the more likely that I'm going to meet your expectations."
+

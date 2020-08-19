@@ -1,0 +1,715 @@
+1
+00:00:00.05 --> 00:00:02.09
+- While being connected
+on Google is a good idea,
+
+2
+00:00:02.09 --> 00:00:05.00
+putting all of your brands together
+
+3
+00:00:05.00 --> 00:00:07.00
+and organized and connecting multiple
+
+4
+00:00:07.00 --> 00:00:09.00
+Google services together, there are,
+
+5
+00:00:09.00 --> 00:00:11.07
+of course, other social networks.
+
+6
+00:00:11.07 --> 00:00:13.04
+Now, YouTube itself supports a
+
+7
+00:00:13.04 --> 00:00:15.05
+connection to Twitter, and in the past,
+
+8
+00:00:15.05 --> 00:00:18.00
+they've supported platforms like Facebook.
+
+9
+00:00:18.00 --> 00:00:20.00
+What this allows you to do is to tie
+
+10
+00:00:20.00 --> 00:00:22.03
+the services together, so as you put a new
+
+11
+00:00:22.03 --> 00:00:24.01
+piece of content up on YouTube,
+
+12
+00:00:24.01 --> 00:00:26.09
+it triggers a tweet on Twitter.
+
+13
+00:00:26.09 --> 00:00:30.07
+Now there are really two different
+ways to connect accounts.
+
+14
+00:00:30.07 --> 00:00:33.00
+One method is using the Connected
+
+15
+00:00:33.00 --> 00:00:35.05
+Accounts section in your profile.
+
+16
+00:00:35.05 --> 00:00:38.07
+This will currently allow
+you to connect to Twitter.
+
+17
+00:00:38.07 --> 00:00:45.01
+You do this under
+YouTube.com/account_sharing.
+
+18
+00:00:45.01 --> 00:00:47.02
+Additionally, you can control what
+
+19
+00:00:47.02 --> 00:00:50.09
+is shared by adjusting
+your privacy settings,
+
+20
+00:00:50.09 --> 00:00:53.05
+and you can use other third-party tools
+
+21
+00:00:53.05 --> 00:00:56.02
+if you want to share to other websites.
+
+22
+00:00:56.02 --> 00:00:58.09
+Tools like Hootsuite
+and dlvr.it can actually
+
+23
+00:00:58.09 --> 00:01:03.02
+take a YouTube URL and
+redistribute to other pages.
+
+24
+00:01:03.02 --> 00:01:05.03
+Let's start with that first page.
+
+25
+00:01:05.03 --> 00:01:06.06
+You'll see here, for example,
+
+26
+00:01:06.06 --> 00:01:08.05
+that I can choose to connect it.
+
+27
+00:01:08.05 --> 00:01:10.05
+Right now, it's connected to my personal
+
+28
+00:01:10.05 --> 00:01:14.04
+Twitter page and not my
+Photofocus Twitter page.
+
+29
+00:01:14.04 --> 00:01:18.04
+I'll click the Edit button
+and disconnect the account.
+
+30
+00:01:18.04 --> 00:01:22.00
+Now, when I click Connect, it's
+going to bring up a new dialog.
+
+31
+00:01:22.00 --> 00:01:28.03
+Once I log in, I can choose
+to authorize the application.
+
+32
+00:01:28.03 --> 00:01:32.03
+And you'll see that it's now connected.
+
+33
+00:01:32.03 --> 00:01:34.03
+I can tell it to automatically send up
+
+34
+00:01:34.03 --> 00:01:39.02
+a tweet when a video is uploaded.
+
+35
+00:01:39.02 --> 00:01:43.03
+Or, if a video is added
+to a particular playlist.
+
+36
+00:01:43.03 --> 00:01:45.05
+What happens is that any of these changes
+
+37
+00:01:45.05 --> 00:01:49.02
+will only affect new videos going forward.
+
+38
+00:01:49.02 --> 00:01:53.06
+If I check Upload a video,
+and Add a video to playlist,
+
+39
+00:01:53.06 --> 00:01:55.03
+it's not going to go through my library
+
+40
+00:01:55.03 --> 00:01:57.04
+and suddenly send out hundreds of tweets
+
+41
+00:01:57.04 --> 00:01:59.08
+for all of my existing content,
+
+42
+00:01:59.08 --> 00:02:04.02
+rather, it will trigger only new content.
+
+43
+00:02:04.02 --> 00:02:06.05
+Now, if you want to control what's done,
+
+44
+00:02:06.05 --> 00:02:10.09
+you can also take a look
+here at your Feed settings.
+
+45
+00:02:10.09 --> 00:02:13.04
+This is where you can decide under Privacy
+
+46
+00:02:13.04 --> 00:02:16.09
+of what sorts of things
+you want to have happen.
+
+47
+00:02:16.09 --> 00:02:18.09
+You can decide if you're going to share
+
+48
+00:02:18.09 --> 00:02:22.09
+information in the feed for the activity.
+
+49
+00:02:22.09 --> 00:02:25.04
+Make sure you visit
+these privacy controls,
+
+50
+00:02:25.04 --> 00:02:27.08
+so you know what's going to be shared.
+
+51
+00:02:27.08 --> 00:02:29.09
+I generally decide to keep my views
+
+52
+00:02:29.09 --> 00:02:32.00
+and my subscriptions private.
+
+53
+00:02:32.00 --> 00:02:33.08
+I spent way too much time watching
+
+54
+00:02:33.08 --> 00:02:36.01
+fan videos about Star
+Wars, and I don't need
+
+55
+00:02:36.01 --> 00:02:38.01
+to share that with the
+Photofocus community
+
+56
+00:02:38.01 --> 00:02:40.02
+who's interested in photography.
+
+57
+00:02:40.02 --> 00:02:41.09
+What you want to make sure of is that
+
+58
+00:02:41.09 --> 00:02:43.07
+your habits of viewing or perhaps
+
+59
+00:02:43.07 --> 00:02:46.09
+if your 10-year-old daughter
+gets ahold of your iPad,
+
+60
+00:02:46.09 --> 00:02:48.07
+all the sudden you're not sharing
+
+61
+00:02:48.07 --> 00:02:51.07
+toy unboxing videos with
+your professional audience.
+
+62
+00:02:51.07 --> 00:02:54.02
+So, make sure you turn on
+these privacy settings,
+
+63
+00:02:54.02 --> 00:02:56.08
+so you're in control of what gets shared.
+
+64
+00:02:56.08 --> 00:02:59.00
+Additionally, you can
+also have connections
+
+65
+00:02:59.00 --> 00:03:03.04
+to other social networks
+displayed on your profile.
+
+66
+00:03:03.04 --> 00:03:05.07
+To do this, you'll click the Edit button
+
+67
+00:03:05.07 --> 00:03:09.00
+in the top corner of the channel artwork.
+
+68
+00:03:09.00 --> 00:03:12.00
+This will allow you to
+add links on the page,
+
+69
+00:03:12.00 --> 00:03:13.09
+and you can specify up to five
+
+70
+00:03:13.09 --> 00:03:16.02
+links that will appear as icons.
+
+71
+00:03:16.02 --> 00:03:18.04
+In fact, you can actually add more links,
+
+72
+00:03:18.04 --> 00:03:23.02
+they just won't show as
+icons on your navigation bar.
+
+73
+00:03:23.02 --> 00:03:24.07
+You can also choose to add a
+
+74
+00:03:24.07 --> 00:03:27.08
+Google Plus link as a sixth link.
+
+75
+00:03:27.08 --> 00:03:29.07
+If you don't use all five slots,
+
+76
+00:03:29.07 --> 00:03:32.01
+then the Google Plus link will still show,
+
+77
+00:03:32.01 --> 00:03:33.09
+but you can have up to five other
+
+78
+00:03:33.09 --> 00:03:38.02
+links and a Google Plus link.
+
+79
+00:03:38.02 --> 00:03:40.03
+Remember, to edit this just click
+
+80
+00:03:40.03 --> 00:03:44.06
+the top button and choose Edit links.
+
+81
+00:03:44.06 --> 00:03:49.05
+Then those will be displayed
+to folks as a series of icons.
+
+82
+00:03:49.05 --> 00:03:54.09
+All right, let's take a
+look at how this works.
+
+83
+00:03:54.09 --> 00:03:57.03
+This will take you to a
+page where you can actually
+
+84
+00:03:57.03 --> 00:04:01.09
+edit information and decide
+which links are shown.
+
+85
+00:04:01.09 --> 00:04:03.06
+All right, let's take a look at this.
+
+86
+00:04:03.06 --> 00:04:07.02
+I'll log in to YouTube and click
+
+87
+00:04:07.02 --> 00:04:10.03
+my icon and choose My channel.
+
+88
+00:04:10.03 --> 00:04:16.07
+Then I'll click Customize Channel.
+
+89
+00:04:16.07 --> 00:04:18.06
+Now you'll see that you have the ability
+
+90
+00:04:18.06 --> 00:04:20.08
+to update your artwork,
+and we'll talk more
+
+91
+00:04:20.08 --> 00:04:23.08
+about this artwork in a later chapter.
+
+92
+00:04:23.08 --> 00:04:25.04
+If you click on the Edit button
+
+93
+00:04:25.04 --> 00:04:31.06
+here, you can edit the links.
+
+94
+00:04:31.06 --> 00:04:34.02
+If you scroll down below your description,
+
+95
+00:04:34.02 --> 00:04:38.03
+you'll see the links that are present.
+
+96
+00:04:38.03 --> 00:04:43.09
+If you want to customize
+these, click Customize Channel.
+
+97
+00:04:43.09 --> 00:04:47.07
+Now, you'll see all of the controls.
+
+98
+00:04:47.07 --> 00:04:51.02
+You can decide to
+display up to five links.
+
+99
+00:04:51.02 --> 00:04:54.02
+However, you can add additional links,
+
+100
+00:04:54.02 --> 00:04:58.00
+and these'll be shown below your bio.
+
+101
+00:04:58.00 --> 00:05:00.01
+Add the key information you want
+
+102
+00:05:00.01 --> 00:05:03.05
+along with the individual links here.
+
+103
+00:05:03.05 --> 00:05:05.02
+For example, I don't need to show the
+
+104
+00:05:05.02 --> 00:05:07.03
+YouTube page on YouTube,
+but I might want to
+
+105
+00:05:07.03 --> 00:05:12.02
+point people to my iTunes
+podcast and my SoundCloud page.
+
+106
+00:05:12.02 --> 00:05:14.07
+Maybe we want to connect
+on Twitter and Facebook.
+
+107
+00:05:14.07 --> 00:05:16.08
+Well, I can do that.
+
+108
+00:05:16.08 --> 00:05:18.09
+The Google Plus link is going to be
+
+109
+00:05:18.09 --> 00:05:22.09
+automatically filled
+in, and you can decide
+
+110
+00:05:22.09 --> 00:05:26.05
+whether or not you want that
+to be displayed to people.
+
+111
+00:05:26.05 --> 00:05:28.01
+If you have a Google Plus page
+
+112
+00:05:28.01 --> 00:05:31.08
+but don't maintain it, uncheck that box.
+
+113
+00:05:31.08 --> 00:05:37.02
+If you want to remove a link,
+just click the trashcan.
+
+114
+00:05:37.02 --> 00:05:39.04
+Now if you decide to reorder links,
+
+115
+00:05:39.04 --> 00:05:41.01
+there is no way to do that other than
+
+116
+00:05:41.01 --> 00:05:43.08
+copying and pasting the information.
+
+117
+00:05:43.08 --> 00:05:46.04
+Simply add a new field and start copying
+
+118
+00:05:46.04 --> 00:05:49.09
+and pasting to move the content around.
+
+119
+00:05:49.09 --> 00:05:54.01
+Let's go back a level here.
+
+120
+00:05:54.01 --> 00:05:57.07
+You'll see that those
+appear over here overlaid.
+
+121
+00:05:57.07 --> 00:06:01.09
+This makes it easy to see
+that content and to connect.
+
+122
+00:06:01.09 --> 00:06:03.09
+In fact, it'll often try to pull
+
+123
+00:06:03.09 --> 00:06:05.06
+a relevant piece of artwork.
+
+124
+00:06:05.06 --> 00:06:08.01
+Let's make that a little
+bit bigger so you can see.
+
+125
+00:06:08.01 --> 00:06:11.00
+You'll notice that it pulled
+different types of artwork
+
+126
+00:06:11.00 --> 00:06:14.08
+for the different areas,
+Google Plus, Facebook.
+
+127
+00:06:14.08 --> 00:06:17.08
+Now certain content here,
+it's not going to necessarily
+
+128
+00:06:17.08 --> 00:06:21.05
+know what icons to
+show, so it will depend.
+
+129
+00:06:21.05 --> 00:06:24.08
+This same view is available
+on a mobile device as well.
+
+130
+00:06:24.08 --> 00:06:27.06
+If the user connects with a page,
+
+131
+00:06:27.06 --> 00:06:29.03
+you'll notice a few things.
+
+132
+00:06:29.03 --> 00:06:32.04
+First up, the artwork
+buttons weren't overlaid
+
+133
+00:06:32.04 --> 00:06:35.09
+on mobile, but if they
+go to the About page,
+
+134
+00:06:35.09 --> 00:06:39.06
+you'll see that those
+links were available.
+
+135
+00:06:39.06 --> 00:06:42.06
+Now the user can choose to jump over.
+
+136
+00:06:42.06 --> 00:06:45.03
+If I want them to go right to my website,
+
+137
+00:06:45.03 --> 00:06:49.04
+with one click, they will
+leave the YouTube app
+
+138
+00:06:49.04 --> 00:06:52.02
+and switch over to Photofocus.com.
+
+139
+00:06:52.02 --> 00:06:56.06
+When the viewer is done and
+they click the Done button,
+
+140
+00:06:56.06 --> 00:06:59.06
+they are returned right
+to the YouTube page.
+
+141
+00:06:59.06 --> 00:07:02.01
+So, this does work quite nicely.
+
+142
+00:07:02.01 --> 00:07:05.02
+I would like to see that those
+same buttons become overlays
+
+143
+00:07:05.02 --> 00:07:09.00
+here, but different devices
+will show this differently.
+
+144
+00:07:09.00 --> 00:07:10.08
+YouTube continuously improves its
+
+145
+00:07:10.08 --> 00:07:13.06
+mobile apps for iOS and Android.
+
+146
+00:07:13.06 --> 00:07:15.06
+Taking the time to customize these links
+
+147
+00:07:15.06 --> 00:07:17.02
+and build them in will improve
+
+148
+00:07:17.02 --> 00:07:19.08
+discoverability for your content.
+
+149
+00:07:19.08 --> 00:07:21.02
+One of the things I'm
+going to let you know
+
+150
+00:07:21.02 --> 00:07:22.09
+is that you want to get people off
+
+151
+00:07:22.09 --> 00:07:25.06
+of YouTube and onto your website.
+
+152
+00:07:25.06 --> 00:07:27.03
+In fact, YouTube is designed from
+
+153
+00:07:27.03 --> 00:07:30.00
+the ground up to pull people into it.
+
+154
+00:07:30.00 --> 00:07:32.00
+When a YouTube video finishes playing,
+
+155
+00:07:32.00 --> 00:07:34.01
+even on your website, by default,
+
+156
+00:07:34.01 --> 00:07:37.00
+it shows other videos that
+the viewer might like,
+
+157
+00:07:37.00 --> 00:07:38.08
+usually having nothing to do with your
+
+158
+00:07:38.08 --> 00:07:41.04
+content, maybe even from a competitor,
+
+159
+00:07:41.04 --> 00:07:44.02
+and it pulls them back to YouTube.com.
+
+160
+00:07:44.02 --> 00:07:48.04
+They click the YouTube icon,
+it's pulls them to YouTube.com.
+
+161
+00:07:48.04 --> 00:07:51.03
+This is fair play, this is ability for you
+
+162
+00:07:51.03 --> 00:07:55.02
+to pull people off of
+YouTube back to your website
+
+163
+00:07:55.02 --> 00:07:57.04
+where it's much easier to engage them,
+
+164
+00:07:57.04 --> 00:08:00.03
+keep them as a customer, and
+potentially monetize them.
+

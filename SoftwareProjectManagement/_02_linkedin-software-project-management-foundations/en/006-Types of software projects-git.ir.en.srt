@@ -1,0 +1,244 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:03.009
+- We've established that software development projects
+
+2
+00:00:03.009 --> 00:00:05.004
+are unique.
+
+3
+00:00:05.004 --> 00:00:09.006
+Do you think all software development projects are the same?
+
+4
+00:00:09.006 --> 00:00:12.006
+I can tell you for sure they're not.
+
+5
+00:00:12.006 --> 00:00:16.001
+In fact, there are many types of software projects
+
+6
+00:00:16.001 --> 00:00:18.004
+you might manage in your career.
+
+7
+00:00:18.004 --> 00:00:21.003
+I've categorized these into three broad groups
+
+8
+00:00:21.003 --> 00:00:25.000
+of software projects. Each category will demand
+
+9
+00:00:25.000 --> 00:00:27.009
+a slightly different skill set from you.
+
+10
+00:00:27.009 --> 00:00:31.004
+The first is known as a Commercial Off-The-Shelf
+
+11
+00:00:31.004 --> 00:00:33.007
+or COTS project.
+
+12
+00:00:33.007 --> 00:00:36.004
+You'll work on this type of project whenever a company
+
+13
+00:00:36.004 --> 00:00:39.004
+chooses to buy a solution to a business problem
+
+14
+00:00:39.004 --> 00:00:42.005
+instead of building a solution to the problem.
+
+15
+00:00:42.005 --> 00:00:45.006
+In many cases it's less expensive and delivers
+
+16
+00:00:45.006 --> 00:00:48.004
+faster results if a product is purchased
+
+17
+00:00:48.004 --> 00:00:50.000
+instead of developed.
+
+18
+00:00:50.000 --> 00:00:53.007
+This project type occurs across industries so it's
+
+19
+00:00:53.007 --> 00:00:55.009
+very likely you'll have a chance to run
+
+20
+00:00:55.009 --> 00:00:58.007
+this software project during your career.
+
+21
+00:00:58.007 --> 00:01:01.005
+One of the challenges in the COTS category
+
+22
+00:01:01.005 --> 00:01:05.003
+is your dependency on a vendor to partner with you
+
+23
+00:01:05.003 --> 00:01:07.002
+during an implementation.
+
+24
+00:01:07.002 --> 00:01:11.000
+You can use a Request For Proposal, or RFP,
+
+25
+00:01:11.000 --> 00:01:14.000
+to help you make your choice.
+
+26
+00:01:14.000 --> 00:01:16.003
+The next type of software project
+
+27
+00:01:16.003 --> 00:01:19.003
+is the software enhancement project.
+
+28
+00:01:19.003 --> 00:01:21.004
+This often occurs when a company has
+
+29
+00:01:21.004 --> 00:01:25.002
+built a solution themselves at some point in the past.
+
+30
+00:01:25.002 --> 00:01:28.008
+The benefit of enhancing an existing application
+
+31
+00:01:28.008 --> 00:01:32.002
+is that you have people already using it.
+
+32
+00:01:32.002 --> 00:01:36.006
+That makes it easier to understand what changes are needed.
+
+33
+00:01:36.006 --> 00:01:40.008
+This type can be particularly challenging if the original
+
+34
+00:01:40.008 --> 00:01:44.007
+development team didn't leave robust documentation.
+
+35
+00:01:44.007 --> 00:01:47.007
+In those cases you'll need the team to do some
+
+36
+00:01:47.007 --> 00:01:52.001
+reverse engineering to understand how the software was built
+
+37
+00:01:52.001 --> 00:01:55.002
+and what design decisions they made.
+
+38
+00:01:55.002 --> 00:01:58.008
+Finally, there's the New Build Software project;
+
+39
+00:01:58.008 --> 00:02:01.008
+sometimes this is called Scratch Development.
+
+40
+00:02:01.008 --> 00:02:04.008
+The benefit to this type of project is the opportunity
+
+41
+00:02:04.008 --> 00:02:08.001
+to create exactly what your business needs.
+
+42
+00:02:08.001 --> 00:02:12.001
+In this category you'll face many challenges,
+
+43
+00:02:12.001 --> 00:02:15.004
+not the least of which is the fact that you and the team
+
+44
+00:02:15.004 --> 00:02:20.006
+may only have an objective or idea in mind when you start.
+
+45
+00:02:20.006 --> 00:02:23.005
+Use your leadership skills to navigate the team
+
+46
+00:02:23.005 --> 00:02:25.000
+through the unknown.
+
+47
+00:02:25.000 --> 00:02:29.000
+A blank sheet of paper is always intimidating, so this will
+
+48
+00:02:29.000 --> 00:02:32.005
+take strong communication and guidance from you.
+
+49
+00:02:32.005 --> 00:02:36.000
+One of the keys to this type of software project is to
+
+50
+00:02:36.000 --> 00:02:38.001
+fully understand the problem,
+
+51
+00:02:38.001 --> 00:02:41.002
+have strong contacts within the user community,
+
+52
+00:02:41.002 --> 00:02:45.004
+and keep those lines of communication open.
+
+53
+00:02:45.004 --> 00:02:48.007
+In the rest of this course we'll explore each of these
+
+54
+00:02:48.007 --> 00:02:52.008
+software project types in detail, in its own chapter.
+
+55
+00:02:52.008 --> 00:02:55.005
+We'll look into how each one is unique, and follow
+
+56
+00:02:55.005 --> 00:02:59.004
+a real life example of a project, so you develop
+
+57
+00:02:59.004 --> 00:03:03.001
+a great understanding of the knowledge you'll need.
+
+58
+00:03:03.001 --> 00:03:06.001
+As you learn all this information you'll grow
+
+59
+00:03:06.001 --> 00:03:10.005
+in your confidence and ability to manage any kind of
+
+60
+00:03:10.005 --> 00:03:13.000
+software project that comes your way.
+

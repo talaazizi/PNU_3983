@@ -1,0 +1,260 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:01,03
+- [Instructor] There are many ways
+
+2
+00:00:01,03 --> 00:00:03,05
+to configure the logging system.
+
+3
+00:00:03,05 --> 00:00:07,00
+You can build LEGO-like the components in code.
+
+4
+00:00:07,00 --> 00:00:10,08
+Grab a logger, create some handlers, add some formatters.
+
+5
+00:00:10,08 --> 00:00:13,08
+You can use configuration files in various formats.
+
+6
+00:00:13,08 --> 00:00:16,02
+And you can use the basic config function
+
+7
+00:00:16,02 --> 00:00:18,00
+which is the simplest way.
+
+8
+00:00:18,00 --> 00:00:19,05
+After initial setup,
+
+9
+00:00:19,05 --> 00:00:22,00
+user code should use the logging system
+
+10
+00:00:22,00 --> 00:00:24,06
+the same way regardless of the configuration.
+
+11
+00:00:24,06 --> 00:00:26,08
+It's recommended to have a thin layer of code
+
+12
+00:00:26,08 --> 00:00:29,04
+on top of the Python logging system.
+
+13
+00:00:29,04 --> 00:00:32,05
+Your application will not use the logging system directly
+
+14
+00:00:32,05 --> 00:00:34,05
+and it will make it easier for you
+
+15
+00:00:34,05 --> 00:00:37,09
+to make changes in configuration and implementation
+
+16
+00:00:37,09 --> 00:00:40,05
+without having to change the client code.
+
+17
+00:00:40,05 --> 00:00:43,09
+Here's an example of a configuration file.
+
+18
+00:00:43,09 --> 00:00:45,09
+It's called log.ini.
+
+19
+00:00:45,09 --> 00:00:48,07
+We say we have one logger called root,
+
+20
+00:00:48,07 --> 00:00:51,05
+and then one handler called console
+
+21
+00:00:51,05 --> 00:00:54,04
+and then one formatter called human.
+
+22
+00:00:54,04 --> 00:00:57,02
+In line 10 we now refer to the root logger,
+
+23
+00:00:57,02 --> 00:00:59,00
+so logger_root.
+
+24
+00:00:59,00 --> 00:01:01,08
+We say the level is INFO and the handler to use
+
+25
+00:01:01,08 --> 00:01:03,06
+is the console handler.
+
+26
+00:01:03,06 --> 00:01:06,01
+In line 14, we say the handler console
+
+27
+00:01:06,01 --> 00:01:08,07
+and in configuration for the console handler,
+
+28
+00:01:08,07 --> 00:01:11,05
+we say it's a class of StreamHandler
+
+29
+00:01:11,05 --> 00:01:13,04
+which writes to a stream
+
+30
+00:01:13,04 --> 00:01:16,05
+using the human formatter and the arguments
+
+31
+00:01:16,05 --> 00:01:18,05
+are to log to standard output.
+
+32
+00:01:18,05 --> 00:01:21,08
+And then in line 19, we configure the format
+
+33
+00:01:21,08 --> 00:01:23,09
+for the human formatter.
+
+34
+00:01:23,09 --> 00:01:29,03
+In log.py, we write a wrapper around the logging system.
+
+35
+00:01:29,03 --> 00:01:32,00
+In line 11, we have an environment key,
+
+36
+00:01:32,00 --> 00:01:34,04
+so we can either use the default log file
+
+37
+00:01:34,04 --> 00:01:37,08
+or the one that specified in the environment.
+
+38
+00:01:37,08 --> 00:01:40,05
+The setup function sets up the logging system.
+
+39
+00:01:40,05 --> 00:01:44,08
+In line 37, we called fileConfig with the config file
+
+40
+00:01:44,08 --> 00:01:47,01
+and then we set the functions for debug,
+
+41
+00:01:47,01 --> 00:01:50,04
+info, warning, et cetera, et cetera.
+
+42
+00:01:50,04 --> 00:01:52,00
+And here is how we use the logging.
+
+43
+00:01:52,00 --> 00:01:54,05
+This is the HTTP server.
+
+44
+00:01:54,05 --> 00:01:58,08
+You can see that in line 12 we have log.debug
+
+45
+00:01:58,08 --> 00:02:03,02
+and in line 24 we have log.info.
+
+46
+00:02:03,02 --> 00:02:07,07
+And notice that in line 20, we explicitly called log.setup
+
+47
+00:02:07,07 --> 00:02:10,07
+to make sure that the log is being setup correctly.
+
+48
+00:02:10,07 --> 00:02:12,02
+And now let's have a look.
+
+49
+00:02:12,02 --> 00:02:16,03
+So I'm going to run the server python -m nlp
+
+50
+00:02:16,03 --> 00:02:18,01
+and this is going to start the server.
+
+51
+00:02:18,01 --> 00:02:21,06
+You see we've got the INFO log message coming out.
+
+52
+00:02:21,06 --> 00:02:23,09
+But if you are going to call the server,
+
+53
+00:02:23,09 --> 00:02:30,04
+so curl http://localhost:8080
+
+54
+00:02:30,04 --> 00:02:32,04
+and then go back to our server,
+
+55
+00:02:32,04 --> 00:02:35,05
+we get a notification from the built-in HTTP server,
+
+56
+00:02:35,05 --> 00:02:39,00
+but we don't see our log message.
+
+57
+00:02:39,00 --> 00:02:40,08
+Let's stop the server,
+
+58
+00:02:40,08 --> 00:02:43,09
+and then go to our configuration
+
+59
+00:02:43,09 --> 00:02:46,09
+and we're going to change the level
+
+60
+00:02:46,09 --> 00:02:50,01
+from INFO to DEBUG.
+
+61
+00:02:50,01 --> 00:02:55,09
+Once we save this file, we can restart our server
+
+62
+00:02:55,09 --> 00:02:58,08
+and then we can call it again.
+
+63
+00:02:58,08 --> 00:03:01,06
+And this time, you see both the INFO message
+
+64
+00:03:01,06 --> 00:03:03,00
+and the DEBUG message.
+

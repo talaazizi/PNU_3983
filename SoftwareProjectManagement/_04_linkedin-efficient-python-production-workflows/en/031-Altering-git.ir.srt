@@ -1,0 +1,188 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:01,09
+- [Instructor] As time goes,
+
+2
+00:00:01,09 --> 00:00:04,02
+you will have more and more metrics.
+
+3
+00:00:04,02 --> 00:00:07,02
+You will have metrics composed of other metrics.
+
+4
+00:00:07,02 --> 00:00:09,01
+The amount of information will be
+
+5
+00:00:09,01 --> 00:00:11,07
+more than possibly human to watch,
+
+6
+00:00:11,07 --> 00:00:14,01
+and even if you don't have that much data,
+
+7
+00:00:14,01 --> 00:00:18,04
+you won't have a dedicated person watching the metrics 24/7.
+
+8
+00:00:18,04 --> 00:00:21,08
+What you need is an automated alerting system.
+
+9
+00:00:21,08 --> 00:00:24,00
+Most of the established metric systems
+
+10
+00:00:24,00 --> 00:00:26,00
+have a built-in alerting system.
+
+11
+00:00:26,00 --> 00:00:28,01
+You should know how to use them.
+
+12
+00:00:28,01 --> 00:00:32,07
+The three main things to consider are, what to alert about?
+
+13
+00:00:32,07 --> 00:00:36,00
+Sometimes it's easy to know when something went wrong
+
+14
+00:00:36,00 --> 00:00:37,03
+or requires an action.
+
+15
+00:00:37,03 --> 00:00:41,02
+For example, the disc is 99% full.
+
+16
+00:00:41,02 --> 00:00:44,03
+In other cases, it's not that clear.
+
+17
+00:00:44,03 --> 00:00:47,00
+You should discuss your alerts and plan for them.
+
+18
+00:00:47,00 --> 00:00:50,04
+In some cases, you will even use machine learning techniques
+
+19
+00:00:50,04 --> 00:00:52,02
+such as outlier detection
+
+20
+00:00:52,02 --> 00:00:54,06
+to find out if something went wrong.
+
+21
+00:00:54,06 --> 00:00:57,01
+I suggest to start with simple thresholds
+
+22
+00:00:57,01 --> 00:01:01,04
+and use more complicated methods only if there's a need.
+
+23
+00:01:01,04 --> 00:01:04,08
+The second thing is, where do alerts go to?
+
+24
+00:01:04,08 --> 00:01:07,00
+Email is the wrong answer.
+
+25
+00:01:07,00 --> 00:01:10,03
+Some themes send alerts to a special chatroom.
+
+26
+00:01:10,03 --> 00:01:13,05
+My favorite method is to use a beeper-like system
+
+27
+00:01:13,05 --> 00:01:15,02
+such as PagerDuty.
+
+28
+00:01:15,02 --> 00:01:18,07
+No matter the system you select, make sure it's effective.
+
+29
+00:01:18,07 --> 00:01:22,07
+Once alerts become too frequent, people will ignore them.
+
+30
+00:01:22,07 --> 00:01:25,09
+I prefer to have no alerts over a flaky alert
+
+31
+00:01:25,09 --> 00:01:29,01
+that will cause people to ignore all others.
+
+32
+00:01:29,01 --> 00:01:31,00
+The last thing you should think about is,
+
+33
+00:01:31,00 --> 00:01:33,05
+who responds to the alert?
+
+34
+00:01:33,05 --> 00:01:34,09
+You should set a rotation
+
+35
+00:01:34,09 --> 00:01:36,06
+since you can't have the same person
+
+36
+00:01:36,06 --> 00:01:39,09
+wake up at 4:00 a.m. to fix problems.
+
+37
+00:01:39,09 --> 00:01:41,08
+An nice system I've used before
+
+38
+00:01:41,08 --> 00:01:44,05
+is to have a primary and secondary responders,
+
+39
+00:01:44,05 --> 00:01:46,07
+each doing a week rotation
+
+40
+00:01:46,07 --> 00:01:49,02
+that changes in the middle of the week.
+
+41
+00:01:49,02 --> 00:01:52,02
+At the rotation, the secondary becomes the primary,
+
+42
+00:01:52,02 --> 00:01:55,03
+and a new team member becomes the secondary.
+
+43
+00:01:55,03 --> 00:01:57,05
+It's a good practice to have all developers
+
+44
+00:01:57,05 --> 00:01:59,03
+practicing the rotation.
+
+45
+00:01:59,03 --> 00:02:02,04
+Once you get woken up at 3:00 a.m. due to a bug,
+
+46
+00:02:02,04 --> 00:02:05,00
+it changes the way you write code.
+

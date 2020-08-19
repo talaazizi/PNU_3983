@@ -1,0 +1,156 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,09 --> 00:00:02,09
+- [Instructor] Metrics, are usually not an integral part
+
+2
+00:00:02,09 --> 00:00:04,03
+of the code.
+
+3
+00:00:04,03 --> 00:00:08,00
+You don't want to mix metrics code and application code.
+
+4
+00:00:08,00 --> 00:00:12,01
+Python gives us a nice solution for this, using decorators.
+
+5
+00:00:12,01 --> 00:00:14,02
+If you're not familiar with decorators,
+
+6
+00:00:14,02 --> 00:00:15,07
+check out our Python classes
+
+7
+00:00:15,07 --> 00:00:17,03
+that explain them.
+
+8
+00:00:17,03 --> 00:00:20,01
+Some of the third-party clients for metric systems,
+
+9
+00:00:20,01 --> 00:00:21,08
+such as Prometheus,
+
+10
+00:00:21,08 --> 00:00:23,09
+provide ready-made decorators,
+
+11
+00:00:23,09 --> 00:00:26,01
+but it's very easy to write your own.
+
+12
+00:00:26,01 --> 00:00:27,05
+here's an example,
+
+13
+00:00:27,05 --> 00:00:31,02
+we create a metrics client class which gets a URL
+
+14
+00:00:31,02 --> 00:00:32,07
+for the matrix server,
+
+15
+00:00:32,07 --> 00:00:36,05
+line 20 is the rapper, the decorator.
+
+16
+00:00:36,05 --> 00:00:38,03
+In line 23 we start the time,
+
+17
+00:00:38,03 --> 00:00:42,00
+in line 24 we set the error value to none,
+
+18
+00:00:42,00 --> 00:00:45,04
+then in line 26 we call the actual function
+
+19
+00:00:45,04 --> 00:00:46,08
+and in the final Clause,
+
+20
+00:00:46,08 --> 00:00:48,03
+which will happen either way
+
+21
+00:00:48,03 --> 00:00:52,01
+if there was an error, or no, we calculate the duration,
+
+22
+00:00:52,01 --> 00:00:55,04
+use the logging system, to log the information
+
+23
+00:00:55,04 --> 00:00:58,02
+in actual cases will send this metric,
+
+24
+00:00:58,02 --> 00:00:59,06
+to the metric server.
+
+25
+00:00:59,06 --> 00:01:02,08
+And then in line 31 we check if there was an error,
+
+26
+00:01:02,08 --> 00:01:04,09
+and if there was, we also log that
+
+27
+00:01:04,09 --> 00:01:07,00
+which might be another metric.
+
+28
+00:01:07,00 --> 00:01:09,05
+And here is example, on how to use it.
+
+29
+00:01:09,05 --> 00:01:12,05
+On line 46 we create such a client,
+
+30
+00:01:12,05 --> 00:01:16,09
+and then in line 49, we create a function for query,
+
+31
+00:01:16,09 --> 00:01:19,06
+and decorate it, with this metrics.
+
+32
+00:01:19,06 --> 00:01:22,07
+In line 57 we create a query that succeeds,
+
+33
+00:01:22,07 --> 00:01:26,03
+and in line 59 we create a query that will fail.
+
+34
+00:01:26,03 --> 00:01:27,06
+Let's run the code.
+
+35
+00:01:27,06 --> 00:01:31,00
+Python metrics.py
+
+36
+00:01:31,00 --> 00:01:35,04
+and we see that the query the didn't fail took 0.3 seconds,
+
+37
+00:01:35,04 --> 00:01:38,01
+and the query that failed, failed almost immediately
+
+38
+00:01:38,01 --> 00:01:41,00
+and we also get an error message.
+

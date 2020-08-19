@@ -1,0 +1,565 @@
+1
+00:00:00.03 --> 00:00:03.08
+- Designing a banner for
+your channel is quite tricky.
+
+2
+00:00:03.08 --> 00:00:07.03
+That's because YouTube serves
+up three different sizes
+
+3
+00:00:07.03 --> 00:00:10.01
+depending upon what platform you're using,
+
+4
+00:00:10.01 --> 00:00:14.08
+desktop computer, mobile
+device, and a television.
+
+5
+00:00:14.08 --> 00:00:18.06
+Remember, a lot of TVs have
+access to YouTube channels.
+
+6
+00:00:18.06 --> 00:00:20.04
+Internet connected TVs have become
+
+7
+00:00:20.04 --> 00:00:24.00
+a big part of people's homes
+and instead of watching cable,
+
+8
+00:00:24.00 --> 00:00:26.02
+a lot of folks simply browse to YouTube
+
+9
+00:00:26.02 --> 00:00:28.09
+and find channels that
+they're interested in.
+
+10
+00:00:28.09 --> 00:00:31.04
+Well, in any case, all of
+these different platforms
+
+11
+00:00:31.04 --> 00:00:33.01
+can also serve up variance
+
+12
+00:00:33.01 --> 00:00:36.00
+because the phones have
+different size screens.
+
+13
+00:00:36.00 --> 00:00:37.04
+As do the tablets.
+
+14
+00:00:37.04 --> 00:00:39.06
+And sometimes the resolution may change
+
+15
+00:00:39.06 --> 00:00:41.09
+based upon user settings.
+
+16
+00:00:41.09 --> 00:00:44.02
+As such, it gets pretty tricky.
+
+17
+00:00:44.02 --> 00:00:46.02
+But here are a few guidelines.
+
+18
+00:00:46.02 --> 00:00:48.09
+When it comes to making
+channel art or a banner,
+
+19
+00:00:48.09 --> 00:00:50.03
+I always go with a template.
+
+20
+00:00:50.03 --> 00:00:52.02
+And I'll show you that in a moment.
+
+21
+00:00:52.02 --> 00:00:57.04
+But the minimum dimensions
+are 2048 x 1152.
+
+22
+00:00:57.04 --> 00:00:59.08
+So if the image is lower than this,
+
+23
+00:00:59.08 --> 00:01:03.08
+it cannot be uploaded as artwork.
+
+24
+00:01:03.08 --> 00:01:11.00
+Make sure that the safe area
+for the text is 1546 x 423.
+
+25
+00:01:11.00 --> 00:01:14.04
+This is a smaller component,
+meaning that anything
+
+26
+00:01:14.04 --> 00:01:17.03
+that has text or logos
+that you want to be read
+
+27
+00:01:17.03 --> 00:01:23.00
+has to be shrunk down
+and placed in the center.
+
+28
+00:01:23.00 --> 00:01:25.09
+If an image is larger, then chances are
+
+29
+00:01:25.09 --> 00:01:32.03
+YouTube will crop away
+some of the information.
+
+30
+00:01:32.03 --> 00:01:40.01
+The maximum width that you can
+upload is 2560 pixels by 423.
+
+31
+00:01:40.01 --> 00:01:42.09
+This can get a little tricky.
+
+32
+00:01:42.09 --> 00:01:48.01
+If you upload larger, it's
+going to crop it and resize.
+
+33
+00:01:48.01 --> 00:01:51.05
+What this really means here
+is that the middle area
+
+34
+00:01:51.05 --> 00:01:53.05
+is always going to be visible.
+
+35
+00:01:53.05 --> 00:01:55.05
+So if you are going to build something
+
+36
+00:01:55.05 --> 00:02:00.03
+and you want it to be
+skinny, this is the size.
+
+37
+00:02:00.03 --> 00:02:02.04
+Now, depending upon the device,
+
+38
+00:02:02.04 --> 00:02:07.07
+those areas might get cropped
+or padded with a color.
+
+39
+00:02:07.07 --> 00:02:10.01
+The file also must be smaller
+
+40
+00:02:10.01 --> 00:02:13.01
+than six megabytes in order to upload.
+
+41
+00:02:13.01 --> 00:02:17.04
+Which shouldn't be a
+problem if you save a JPEG.
+
+42
+00:02:17.04 --> 00:02:19.09
+There is a template file available.
+
+43
+00:02:19.09 --> 00:02:22.08
+And here's the direct link
+to the support article.
+
+44
+00:02:22.08 --> 00:02:26.03
+But if you just do a search
+on the YouTube help page
+
+45
+00:02:26.03 --> 00:02:30.02
+for channel art template,
+you'll find this.
+
+46
+00:02:30.02 --> 00:02:34.08
+And in fact, a link is built
+into the uploader as well.
+
+47
+00:02:34.08 --> 00:02:36.07
+You want to use this template.
+
+48
+00:02:36.07 --> 00:02:39.00
+It's available both as a PNG file,
+
+49
+00:02:39.00 --> 00:02:40.08
+if you're using other tools,
+
+50
+00:02:40.08 --> 00:02:45.02
+or a Photoshop template,
+making it a lot easier.
+
+51
+00:02:45.02 --> 00:02:47.09
+This helps you understand
+the different devices,
+
+52
+00:02:47.09 --> 00:02:52.00
+such as television, desktop, and tablet.
+
+53
+00:02:52.00 --> 00:02:54.04
+These devices will vary depending upon
+
+54
+00:02:54.04 --> 00:02:58.01
+the width of the screen
+and what people are using.
+
+55
+00:02:58.01 --> 00:03:01.00
+Here's the image that I
+was working with earlier.
+
+56
+00:03:01.00 --> 00:03:04.02
+And you see, if I turn on the PSD overlay,
+
+57
+00:03:04.02 --> 00:03:07.09
+there's actually a folder here
+with all of those guidelines,
+
+58
+00:03:07.09 --> 00:03:11.05
+making it easier to see the content.
+
+59
+00:03:11.05 --> 00:03:13.08
+Let me turn off the
+background photo for a moment
+
+60
+00:03:13.08 --> 00:03:17.09
+and you can see that I've
+trapped the logo in the center.
+
+61
+00:03:17.09 --> 00:03:20.02
+Now I decided to nudge that to the side
+
+62
+00:03:20.02 --> 00:03:22.08
+because sometimes YouTube
+puts other information
+
+63
+00:03:22.08 --> 00:03:24.02
+here on the right.
+
+64
+00:03:24.02 --> 00:03:28.01
+But if you wanted to center
+that, you can do that as well.
+
+65
+00:03:28.01 --> 00:03:31.04
+Just select the item
+and the background layer
+
+66
+00:03:31.04 --> 00:03:34.02
+and using a tool like the move tool,
+
+67
+00:03:34.02 --> 00:03:37.07
+you'll see options for alignment.
+
+68
+00:03:37.07 --> 00:03:41.03
+Now let's build this.
+
+69
+00:03:41.03 --> 00:03:43.08
+If you take a look at
+the folder, I've included
+
+70
+00:03:43.08 --> 00:03:47.08
+a download copy of that official
+YouTube channel template.
+
+71
+00:03:47.08 --> 00:03:52.02
+Just double-click to open it.
+
+72
+00:03:52.02 --> 00:03:56.08
+You may need to update the fonts.
+
+73
+00:03:56.08 --> 00:03:58.08
+Then, select your background layer
+
+74
+00:03:58.08 --> 00:04:04.05
+by choosing file, place embedded.
+
+75
+00:04:04.05 --> 00:04:08.04
+Navigate to the artwork
+that you want to use.
+
+76
+00:04:08.04 --> 00:04:11.02
+I've put it in this sources folder here.
+
+77
+00:04:11.02 --> 00:04:15.00
+And I can choose this banner.
+
+78
+00:04:15.00 --> 00:04:18.00
+Now, I just need to adjust the size.
+
+79
+00:04:18.00 --> 00:04:21.06
+Holding down shift and
+option, I can constrain it
+
+80
+00:04:21.06 --> 00:04:25.06
+so it scales up from the middle.
+
+81
+00:04:25.06 --> 00:04:28.08
+And then press return.
+
+82
+00:04:28.08 --> 00:04:32.03
+Then choose file, place embedded,
+
+83
+00:04:32.03 --> 00:04:37.04
+and navigate to the logo
+that you want to use
+
+84
+00:04:37.04 --> 00:04:40.05
+and click place.
+
+85
+00:04:40.05 --> 00:04:43.09
+You can now adjust the size.
+
+86
+00:04:43.09 --> 00:04:49.05
+Holding down shift and option
+to make it easier to place it.
+
+87
+00:04:49.05 --> 00:04:55.00
+Now, so that was more readable,
+I chose to add an overlay.
+
+88
+00:04:55.00 --> 00:04:59.01
+I simply chose a Photoshop
+color overlay style
+
+89
+00:04:59.01 --> 00:05:03.05
+and layered on white at 100% opacity,
+
+90
+00:05:03.05 --> 00:05:07.08
+making the logo cut a bit
+better against the backdrop.
+
+91
+00:05:07.08 --> 00:05:12.06
+Before you save this off,
+turn off the overlay layer
+
+92
+00:05:12.06 --> 00:05:16.00
+that shows you the template guidelines.
+
+93
+00:05:16.00 --> 00:05:20.01
+Now, you can simply say file,
+
+94
+00:05:20.01 --> 00:05:22.06
+export,
+
+95
+00:05:22.06 --> 00:05:24.09
+save for web.
+
+96
+00:05:24.09 --> 00:05:28.02
+Save off a high or medium quality JPEG
+
+97
+00:05:28.02 --> 00:05:31.07
+and it's ready for upload to YouTube.
+
+98
+00:05:31.07 --> 00:05:34.09
+I'll just set this to JPEG high
+
+99
+00:05:34.09 --> 00:05:37.08
+and click save
+
+100
+00:05:37.08 --> 00:05:44.05
+and let's call this channel art
+
+101
+00:05:44.05 --> 00:05:45.09
+pdp
+
+102
+00:05:45.09 --> 00:05:48.04
+2.
+
+103
+00:05:48.04 --> 00:05:51.03
+And I'll save this into folder 4.0,
+
+104
+00:05:51.03 --> 00:05:53.09
+where I'm working currently
+
+105
+00:05:53.09 --> 00:05:55.01
+and click save.
+
+106
+00:05:55.01 --> 00:05:57.03
+Now if I switch back to YouTube
+
+107
+00:05:57.03 --> 00:06:00.05
+and make sure I'm logged
+into the correct channel.
+
+108
+00:06:00.05 --> 00:06:08.02
+Let's go ahead and switch here.
+
+109
+00:06:08.02 --> 00:06:14.09
+I can now choose to view my channel,
+
+110
+00:06:14.09 --> 00:06:19.02
+and I'll simply click
+the photo button here.
+
+111
+00:06:19.02 --> 00:06:24.02
+And I can select a new image.
+
+112
+00:06:24.02 --> 00:06:28.02
+Let's go to folder 4.0
+
+113
+00:06:28.02 --> 00:06:33.02
+and I'll choose that
+new image that I created
+
+114
+00:06:33.02 --> 00:06:35.08
+and click choose.
+
+115
+00:06:35.08 --> 00:06:37.02
+It uploads.
+
+116
+00:06:37.02 --> 00:06:39.05
+And I get a preview of
+how it's going to look
+
+117
+00:06:39.05 --> 00:06:42.05
+on my different devices.
+
+118
+00:06:42.05 --> 00:06:46.02
+When satisfied, I'll click select.
+
+119
+00:06:46.02 --> 00:06:48.02
+Now if you don't build a template out
+
+120
+00:06:48.02 --> 00:06:49.08
+and you're just uploading a photo,
+
+121
+00:06:49.08 --> 00:06:52.08
+you might take advantage
+of the auto-enhance feature
+
+122
+00:06:52.08 --> 00:06:54.04
+which will attempt to automatically
+
+123
+00:06:54.04 --> 00:06:56.06
+boost color and contrast.
+
+124
+00:06:56.06 --> 00:06:59.01
+But if you've built this
+yourself and you used
+
+125
+00:06:59.01 --> 00:07:02.06
+a graphics editing tool,
+you're probably okay as is.
+
+126
+00:07:02.06 --> 00:07:05.01
+So I'll just click select
+
+127
+00:07:05.01 --> 00:07:07.04
+and it updates and adds that in.
+
+128
+00:07:07.04 --> 00:07:10.08
+So you see that the page now
+takes on the new branding.
+

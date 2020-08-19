@@ -1,0 +1,96 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:02,00
+- [Instructor] A good team is much more
+
+2
+00:00:02,00 --> 00:00:04,03
+than just a bunch of people.
+
+3
+00:00:04,03 --> 00:00:06,02
+But in order to work together,
+
+4
+00:00:06,02 --> 00:00:08,00
+we need to have a process.
+
+5
+00:00:08,00 --> 00:00:10,06
+This process will make the team more productive.
+
+6
+00:00:10,06 --> 00:00:13,01
+Each member will need to help the process,
+
+7
+00:00:13,01 --> 00:00:17,03
+Sometimes at the expense of their own productivity.
+
+8
+00:00:17,03 --> 00:00:20,01
+A good process will also help us prevent errors,
+
+9
+00:00:20,01 --> 00:00:21,08
+and when errors will happen,
+
+10
+00:00:21,08 --> 00:00:23,09
+find and fix them quickly.
+
+11
+00:00:23,09 --> 00:00:25,07
+There's nothing worse than a customer
+
+12
+00:00:25,07 --> 00:00:29,02
+finding out there is a problem before you.
+
+13
+00:00:29,02 --> 00:00:31,01
+Each company has its own process,
+
+14
+00:00:31,01 --> 00:00:33,09
+and sometimes, teams inside the same company
+
+15
+00:00:33,09 --> 00:00:36,09
+will have different process for working.
+
+16
+00:00:36,09 --> 00:00:39,03
+What works for Google is probably an overkill
+
+17
+00:00:39,03 --> 00:00:41,00
+for a small startup.
+
+18
+00:00:41,00 --> 00:00:43,04
+What's a good process for the R&D team
+
+19
+00:00:43,04 --> 00:00:46,05
+will be a bad match for the operations team.
+
+20
+00:00:46,05 --> 00:00:49,02
+Remember that the process should serve you.
+
+21
+00:00:49,02 --> 00:00:52,04
+If you find that the process is hurting your team back,
+
+22
+00:00:52,04 --> 00:00:53,06
+change it.
+
+23
+00:00:53,06 --> 00:00:55,00
+Nothing is set in stone.
+

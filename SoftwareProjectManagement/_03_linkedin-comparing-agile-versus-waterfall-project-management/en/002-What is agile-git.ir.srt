@@ -1,0 +1,152 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.010 --> 00:00:06.020
+- Okay, so Doug, to start with
+
+2
+00:00:06.020 --> 00:00:09.070
+for those who don't know, what is Agile?
+
+3
+00:00:09.070 --> 00:00:12.040
+- All right, thanks Chris.
+
+4
+00:00:12.040 --> 00:00:16.040
+Agile is typically, talking about the Agile manifesto.
+
+5
+00:00:16.040 --> 00:00:19.090
+So the Agile manifesto came out in 2001.
+
+6
+00:00:19.090 --> 00:00:23.030
+It actually Scrum, extreme programming
+
+7
+00:00:23.030 --> 00:00:25.060
+which are different frameworks that you use
+
+8
+00:00:25.060 --> 00:00:28.090
+when you're working on an Agile product
+
+9
+00:00:28.090 --> 00:00:31.050
+actually preceded the Agile manifesto.
+
+10
+00:00:31.050 --> 00:00:32.030
+- Okay.
+
+11
+00:00:32.030 --> 00:00:33.010
+- So all these guys got together
+
+12
+00:00:33.010 --> 00:00:35.030
+and they said, we're doing something very similar,
+
+13
+00:00:35.030 --> 00:00:37.020
+let's come up with a name for it.
+
+14
+00:00:37.020 --> 00:00:39.090
+And so they came up with the term Agile.
+
+15
+00:00:39.090 --> 00:00:44.010
+So Agile is typically anything that's consistent
+
+16
+00:00:44.010 --> 00:00:46.000
+any way that you're developing a product
+
+17
+00:00:46.000 --> 00:00:49.060
+that's consistent with the Agile manifesto.
+
+18
+00:00:49.060 --> 00:00:52.090
+And so the Agile manifesto is a list of core values
+
+19
+00:00:52.090 --> 00:00:54.080
+and if the work that you're doing
+
+20
+00:00:54.080 --> 00:00:57.000
+is consistent with the Agile Manifesto,
+
+21
+00:00:57.000 --> 00:00:59.030
+then you're working sort of as an Agile team.
+
+22
+00:00:59.030 --> 00:01:03.000
+- Okay, and is the real essence of the Agile Manifesto
+
+23
+00:01:03.000 --> 00:01:06.000
+that you're not locked into a plan from the start
+
+24
+00:01:06.000 --> 00:01:08.020
+but you can vary it as you go along.
+
+25
+00:01:08.020 --> 00:01:09.080
+Or is that just what I've pulled out of it
+
+26
+00:01:09.080 --> 00:01:11.040
+from looking at it.
+
+27
+00:01:11.040 --> 00:01:13.030
+- Agile puts less emphasis on planning
+
+28
+00:01:13.030 --> 00:01:16.060
+and more emphasis on adapting to change.
+
+29
+00:01:16.060 --> 00:01:21.070
+And so you are not planning out a project
+
+30
+00:01:21.070 --> 00:01:23.030
+like you would in project management,
+
+31
+00:01:23.030 --> 00:01:26.080
+not looking at everything that your project will deliver,
+
+32
+00:01:26.080 --> 00:01:29.060
+instead your planning in much smaller chunks.
+
+33
+00:01:29.060 --> 00:01:32.010
+And you're sort of building up a product that way
+
+34
+00:01:32.010 --> 00:01:34.090
+by doing these really short-term plans.
+
+35
+00:01:34.090 --> 00:01:35.070
+- Okay, great.
+
+36
+00:01:35.070 --> 00:01:38.020
+So I understand that.
+
+37
+00:01:38.020 --> 00:01:41.000
+Next I want to explore that in a bit more detail.
+

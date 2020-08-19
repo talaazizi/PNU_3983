@@ -1,0 +1,325 @@
+1
+00:00:00.05 --> 00:00:03.07
+- Earlier, we talked about
+modifying multiple videos.
+
+2
+00:00:03.07 --> 00:00:06.04
+I just want to quickly
+revisit the video manager
+
+3
+00:00:06.04 --> 00:00:10.01
+to show you how useful it
+is for doing bulk edits.
+
+4
+00:00:10.01 --> 00:00:13.04
+The video manager lets you
+see all of your content,
+
+5
+00:00:13.04 --> 00:00:16.08
+and with the ability to browse
+and select multiple files,
+
+6
+00:00:16.08 --> 00:00:20.01
+it's quite easy to then make a change.
+
+7
+00:00:20.01 --> 00:00:23.04
+Let's go to the video manager here.
+
+8
+00:00:23.04 --> 00:00:24.07
+One thing I like to do is
+
+9
+00:00:24.07 --> 00:00:27.07
+browse the content and look for issues.
+
+10
+00:00:27.07 --> 00:00:30.01
+For example, here's a spelling mistake,
+
+11
+00:00:30.01 --> 00:00:33.04
+or more appropriately, a grammar mistake.
+
+12
+00:00:33.04 --> 00:00:38.01
+I can click Edit, and it
+takes me right to that video.
+
+13
+00:00:38.01 --> 00:00:43.02
+I can add the apostrophe,
+and click Save Changes,
+
+14
+00:00:43.02 --> 00:00:47.02
+and just go back to my video manager.
+
+15
+00:00:47.02 --> 00:00:50.03
+As you see here, it makes it
+easy to browse to find things,
+
+16
+00:00:50.03 --> 00:00:52.08
+so being able to just
+look at all your videos
+
+17
+00:00:52.08 --> 00:00:55.04
+will help you spot problems.
+
+18
+00:00:55.04 --> 00:00:58.05
+For example, this one
+here needs a better title.
+
+19
+00:00:58.05 --> 00:01:00.06
+I'll fix that later.
+
+20
+00:01:00.06 --> 00:01:02.02
+And it makes it really simple
+
+21
+00:01:02.02 --> 00:01:05.02
+to find and browse your content.
+
+22
+00:01:05.02 --> 00:01:08.04
+Now remember, you do have
+the ability to search here,
+
+23
+00:01:08.04 --> 00:01:12.02
+so I'm going to search
+on the word Photoshop,
+
+24
+00:01:12.02 --> 00:01:16.01
+and press Return.
+
+25
+00:01:16.01 --> 00:01:18.06
+It's found all of those videos.
+
+26
+00:01:18.06 --> 00:01:19.09
+In this case, videos where
+
+27
+00:01:19.09 --> 00:01:22.09
+the word Photoshop appears inside.
+
+28
+00:01:22.09 --> 00:01:24.06
+If we click here to see the option,
+
+29
+00:01:24.06 --> 00:01:26.06
+we can be more specific.
+
+30
+00:01:26.06 --> 00:01:28.05
+Maybe I want to search for videos
+
+31
+00:01:28.05 --> 00:01:31.06
+that have Photoshop in the title.
+
+32
+00:01:31.06 --> 00:01:34.06
+I'll click Search.
+
+33
+00:01:34.06 --> 00:01:37.05
+And that gives me a much smaller list.
+
+34
+00:01:37.05 --> 00:01:40.06
+So you see, the ability
+here works quite well.
+
+35
+00:01:40.06 --> 00:01:42.03
+Using the advanced search,
+
+36
+00:01:42.03 --> 00:01:46.00
+you can actually look and
+find things quite simply.
+
+37
+00:01:46.00 --> 00:01:48.06
+And remember, not only
+can we search on title,
+
+38
+00:01:48.06 --> 00:01:50.08
+but we can also search for other words,
+
+39
+00:01:50.08 --> 00:01:54.07
+or only videos that are
+currently publicly viewable.
+
+40
+00:01:54.07 --> 00:01:56.06
+Now when I click Update here,
+
+41
+00:01:56.06 --> 00:02:00.02
+it's going to give me better results.
+
+42
+00:02:00.02 --> 00:02:02.03
+Now what I'm going to do is actually go in
+
+43
+00:02:02.03 --> 00:02:04.02
+and do a search here for videos
+
+44
+00:02:04.02 --> 00:02:07.02
+that are currently unlisted or private
+
+45
+00:02:07.02 --> 00:02:10.06
+that have the word Photoshop in the title.
+
+46
+00:02:10.06 --> 00:02:13.01
+I want to make sure that
+those can be readily found.
+
+47
+00:02:13.01 --> 00:02:15.05
+So now I see two videos.
+
+48
+00:02:15.05 --> 00:02:18.04
+Well, I'm going to select those.
+
+49
+00:02:18.04 --> 00:02:21.08
+I can select just one or
+click to choose all of them,
+
+50
+00:02:21.08 --> 00:02:24.00
+and I want to choose an option here.
+
+51
+00:02:24.00 --> 00:02:28.06
+I'm going to say that I want to
+change the privacy to Public.
+
+52
+00:02:28.06 --> 00:02:32.09
+And I'm going to submit.
+
+53
+00:02:32.09 --> 00:02:35.02
+And the change is made.
+
+54
+00:02:35.02 --> 00:02:37.00
+Now, while the edit is being made,
+
+55
+00:02:37.00 --> 00:02:39.09
+you'll see pending edit at the top,
+
+56
+00:02:39.09 --> 00:02:42.05
+but this does make it simple to find
+
+57
+00:02:42.05 --> 00:02:45.07
+and make changes to
+multiple videos at once.
+
+58
+00:02:45.07 --> 00:02:49.06
+By moving these videos from
+Private or Unlisted to Public,
+
+59
+00:02:49.06 --> 00:02:55.02
+they should get many more views.
+
+60
+00:02:55.02 --> 00:02:57.00
+Let's go ahead and select those again,
+
+61
+00:02:57.00 --> 00:02:59.00
+and I'll choose another action.
+
+62
+00:02:59.00 --> 00:03:02.06
+In this case, I want to make
+sure that these are available
+
+63
+00:03:02.06 --> 00:03:08.02
+with a standard YouTube license.
+
+64
+00:03:08.02 --> 00:03:11.05
+And I'll click Submit.
+
+65
+00:03:11.05 --> 00:03:13.08
+And the change is made.
+
+66
+00:03:13.08 --> 00:03:16.08
+Now, unfortunately, you can't
+make multiple selections
+
+67
+00:03:16.08 --> 00:03:19.08
+before applying it, but
+this is still much faster
+
+68
+00:03:19.08 --> 00:03:23.04
+than going through and editing
+each video one at a time.
+
+69
+00:03:23.04 --> 00:03:25.07
+The ability to use the video manager
+
+70
+00:03:25.07 --> 00:03:28.03
+puts you in control of your content.
+
+71
+00:03:28.03 --> 00:03:29.07
+Make sure you take advantage of
+
+72
+00:03:29.07 --> 00:03:31.07
+some of its batch uploading ability
+
+73
+00:03:31.07 --> 00:03:33.04
+as well as using it as a tool
+
+74
+00:03:33.04 --> 00:03:35.06
+to search and find multiple videos
+
+75
+00:03:35.06 --> 00:03:37.08
+to add them to specific playlists.
+

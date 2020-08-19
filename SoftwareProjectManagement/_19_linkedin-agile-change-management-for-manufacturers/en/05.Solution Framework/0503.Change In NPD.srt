@@ -1,0 +1,336 @@
+1
+00:00:00.060 --> 00:00:01.090
+- [Instructor] At this point in the course,
+
+2
+00:00:01.090 --> 00:00:03.090
+we've gone through a number of the components
+
+3
+00:00:03.090 --> 00:00:07.010
+of what Agile change management in a new
+
+4
+00:00:07.010 --> 00:00:09.050
+product development environment actually is.
+
+5
+00:00:09.050 --> 00:00:12.050
+So, let's take a look at a hypothetical case study,
+
+6
+00:00:12.050 --> 00:00:14.090
+where we combine many of these elements together
+
+7
+00:00:14.090 --> 00:00:17.030
+and go through a new product development
+
+8
+00:00:17.030 --> 00:00:19.070
+example in a greatly simplified form
+
+9
+00:00:19.070 --> 00:00:21.090
+describing the setup of the environment
+
+10
+00:00:21.090 --> 00:00:25.020
+and how the intellectual property is moved around.
+
+11
+00:00:25.020 --> 00:00:28.030
+This is an internal or innovation-driven change,
+
+12
+00:00:28.030 --> 00:00:31.040
+which essentially means we, as the manufacturer,
+
+13
+00:00:31.040 --> 00:00:33.090
+want to design a new sensor or a new product
+
+14
+00:00:33.090 --> 00:00:36.070
+because we believe we have an idea for improving the design.
+
+15
+00:00:36.070 --> 00:00:39.020
+So, let's take a look at how that would be set up.
+
+16
+00:00:39.020 --> 00:00:41.070
+We discussed earlier about containers
+
+17
+00:00:41.070 --> 00:00:46.020
+and data management systems that hold the information.
+
+18
+00:00:46.020 --> 00:00:47.060
+I'm going to begin with what I would call
+
+19
+00:00:47.060 --> 00:00:49.020
+an innovation container.
+
+20
+00:00:49.020 --> 00:00:50.070
+An innovation container, and again,
+
+21
+00:00:50.070 --> 00:00:52.000
+I'm showing it as a file folder,
+
+22
+00:00:52.000 --> 00:00:54.020
+but it's much more than that, is an area,
+
+23
+00:00:54.020 --> 00:00:56.070
+generally in a PDM or PLM system,
+
+24
+00:00:56.070 --> 00:00:58.080
+where a limited number of users can create
+
+25
+00:00:58.080 --> 00:01:00.040
+what are called commodity parts,
+
+26
+00:01:00.040 --> 00:01:03.030
+or basically parts that can be reused again and again.
+
+27
+00:01:03.030 --> 00:01:04.090
+The access to the container itself
+
+28
+00:01:04.090 --> 00:01:06.080
+is limited to the innovation team.
+
+29
+00:01:06.080 --> 00:01:09.060
+Now, in an Agile new product development environment,
+
+30
+00:01:09.060 --> 00:01:11.070
+where you have rapidly changing teams,
+
+31
+00:01:11.070 --> 00:01:14.040
+you can simply add or remove people to the team.
+
+32
+00:01:14.040 --> 00:01:17.000
+But keep in mind it's always being kept small.
+
+33
+00:01:17.000 --> 00:01:19.040
+And there is a reason for that.
+
+34
+00:01:19.040 --> 00:01:22.050
+The output of what this group creates
+
+35
+00:01:22.050 --> 00:01:24.070
+generally goes in the library.
+
+36
+00:01:24.070 --> 00:01:27.010
+A library container is, again, limited
+
+37
+00:01:27.010 --> 00:01:29.040
+to a number of users that can create parts.
+
+38
+00:01:29.040 --> 00:01:32.090
+So, it's very, very restricted for who can create things.
+
+39
+00:01:32.090 --> 00:01:35.000
+But it's meant to be open to everybody
+
+40
+00:01:35.000 --> 00:01:37.030
+for searching and sharing and reusing,
+
+41
+00:01:37.030 --> 00:01:40.050
+so it ensures that there's a quality check
+
+42
+00:01:40.050 --> 00:01:45.050
+before tools or products or parts are added to the library.
+
+43
+00:01:45.050 --> 00:01:48.030
+And then lastly, we would have the product container,
+
+44
+00:01:48.030 --> 00:01:52.000
+which is where the actual saleable product would go.
+
+45
+00:01:52.000 --> 00:01:54.070
+In the product container, many users can create
+
+46
+00:01:54.070 --> 00:01:59.030
+product parts, and users cannot create commodity parts
+
+47
+00:01:59.030 --> 00:02:01.020
+because those should be in the library.
+
+48
+00:02:01.020 --> 00:02:04.030
+So, what we have is a set of rules established to ensure
+
+49
+00:02:04.030 --> 00:02:07.070
+what types of parts can be created in which system.
+
+50
+00:02:07.070 --> 00:02:10.040
+Every PDM and PLM system is a little bit different,
+
+51
+00:02:10.040 --> 00:02:12.070
+but from a system-agnostic viewpoint,
+
+52
+00:02:12.070 --> 00:02:14.090
+they all support roughly the same capabilities
+
+53
+00:02:14.090 --> 00:02:16.060
+for managing the different part types
+
+54
+00:02:16.060 --> 00:02:20.050
+and creation methods and access controls.
+
+55
+00:02:20.050 --> 00:02:22.080
+So, if we take a look, now, at the next step,
+
+56
+00:02:22.080 --> 00:02:26.060
+how do we actually model the part, and what really happens?
+
+57
+00:02:26.060 --> 00:02:29.090
+Well, using good change management practices,
+
+58
+00:02:29.090 --> 00:02:32.060
+we would generally first create a change request
+
+59
+00:02:32.060 --> 00:02:35.090
+and its associated change order to approve the design work.
+
+60
+00:02:35.090 --> 00:02:38.000
+Now, this may be done in a number of different ways.
+
+61
+00:02:38.000 --> 00:02:40.000
+It may also include a project plan.
+
+62
+00:02:40.000 --> 00:02:42.060
+It may include some sort of a justification,
+
+63
+00:02:42.060 --> 00:02:44.020
+or a lot of other paperwork.
+
+64
+00:02:44.020 --> 00:02:46.020
+But essentially, the change management
+
+65
+00:02:46.020 --> 00:02:48.050
+technique starts it all.
+
+66
+00:02:48.050 --> 00:02:51.030
+And then, of course, once the work is approved,
+
+67
+00:02:51.030 --> 00:02:54.070
+the design work continues, and the second step being
+
+68
+00:02:54.070 --> 00:02:57.060
+is to design this new sensor that we've been talking about.
+
+69
+00:02:57.060 --> 00:03:00.080
+So, it exists, now, in the innovation container.
+
+70
+00:03:00.080 --> 00:03:05.040
+What we want to do next is we want to release that part
+
+71
+00:03:05.040 --> 00:03:08.010
+into the library, so that we have a set
+
+72
+00:03:08.010 --> 00:03:10.040
+of democratized technology in the library
+
+73
+00:03:10.040 --> 00:03:13.010
+that everybody can use and reference.
+
+74
+00:03:13.010 --> 00:03:16.080
+So, what this means is we've got a situation set up
+
+75
+00:03:16.080 --> 00:03:20.070
+where we have a lot of core, fundamental,
+
+76
+00:03:20.070 --> 00:03:24.010
+Agile-supporting paradigms in play.
+
+77
+00:03:24.010 --> 00:03:27.000
+We've shown how we can leverage increasing rigor
+
+78
+00:03:27.000 --> 00:03:29.080
+by moving along from an innovation container
+
+79
+00:03:29.080 --> 00:03:33.030
+to a library container, which is much more restrictive.
+
+80
+00:03:33.030 --> 00:03:36.020
+We've discussed the library at high level,
+
+81
+00:03:36.020 --> 00:03:38.040
+which supports design reuse.
+
+82
+00:03:38.040 --> 00:03:40.070
+And, of course, this fosters closed-loop feedback
+
+83
+00:03:40.070 --> 00:03:42.040
+because we have the quality checks
+
+84
+00:03:42.040 --> 00:03:46.000
+as parts are checked into the library itself.
+

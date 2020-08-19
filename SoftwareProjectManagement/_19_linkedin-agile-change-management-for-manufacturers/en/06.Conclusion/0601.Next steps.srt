@@ -1,0 +1,184 @@
+1
+00:00:00.060 --> 00:00:02.090
+- [Mark] As we come to the conclusion of this course,
+
+2
+00:00:02.090 --> 00:00:04.070
+let's discuss a few next steps
+
+3
+00:00:04.070 --> 00:00:06.080
+that you could potentially take.
+
+4
+00:00:06.080 --> 00:00:10.000
+First, continue expanding your use of agile.
+
+5
+00:00:10.000 --> 00:00:11.060
+Remember the techniques and tools
+
+6
+00:00:11.060 --> 00:00:13.010
+that we discussed in this course,
+
+7
+00:00:13.010 --> 00:00:15.030
+but also remember the human factors.
+
+8
+00:00:15.030 --> 00:00:17.070
+I find that the human interaction,
+
+9
+00:00:17.070 --> 00:00:20.030
+or the soft skills necessary to work together
+
+10
+00:00:20.030 --> 00:00:22.050
+as a functioning agile team,
+
+11
+00:00:22.050 --> 00:00:25.000
+are very important to train and to stress.
+
+12
+00:00:25.000 --> 00:00:27.020
+So as an organizational leader,
+
+13
+00:00:27.020 --> 00:00:31.050
+you may want to put additional focus on the team aspects of
+
+14
+00:00:31.050 --> 00:00:34.020
+your new product development processes.
+
+15
+00:00:34.020 --> 00:00:36.080
+I found in my life as a practicing professional
+
+16
+00:00:36.080 --> 00:00:39.000
+that we can always make the technology work,
+
+17
+00:00:39.000 --> 00:00:40.030
+but getting your teams to function
+
+18
+00:00:40.030 --> 00:00:42.030
+is much more difficult sometimes.
+
+19
+00:00:42.030 --> 00:00:44.030
+That being said, technology is an important
+
+20
+00:00:44.030 --> 00:00:46.080
+component of what we've been describing here.
+
+21
+00:00:46.080 --> 00:00:49.020
+Examine your PLM investments,
+
+22
+00:00:49.020 --> 00:00:51.010
+and examine how your PLM system
+
+23
+00:00:51.010 --> 00:00:53.060
+has been configured and set up.
+
+24
+00:00:53.060 --> 00:00:56.020
+In the case studies that we just went through,
+
+25
+00:00:56.020 --> 00:00:58.000
+we examined how we can use libraries
+
+26
+00:00:58.000 --> 00:01:00.050
+and model-based design and basically
+
+27
+00:01:00.050 --> 00:01:03.080
+put together a very efficient data management solution
+
+28
+00:01:03.080 --> 00:01:07.010
+that's using some of these containers in different ways.
+
+29
+00:01:07.010 --> 00:01:09.010
+This is all done to foster
+
+30
+00:01:09.010 --> 00:01:12.030
+the agile change management methodologies
+
+31
+00:01:12.030 --> 00:01:14.050
+that you need to become very good
+
+32
+00:01:14.050 --> 00:01:17.080
+at using agile in your new product development processes.
+
+33
+00:01:17.080 --> 00:01:20.000
+I encourage you to look at how your systems
+
+34
+00:01:20.000 --> 00:01:23.000
+are configured and how you're using them,
+
+35
+00:01:23.000 --> 00:01:25.010
+and tie it back in with things like training
+
+36
+00:01:25.010 --> 00:01:26.020
+and learning and adoption,
+
+37
+00:01:26.020 --> 00:01:27.040
+to make sure that you're using them
+
+38
+00:01:27.040 --> 00:01:29.030
+to their fullest potential.
+
+39
+00:01:29.030 --> 00:01:30.090
+Please follow me on LinkedIn,
+
+40
+00:01:30.090 --> 00:01:31.090
+I tend to worry more about the
+
+41
+00:01:31.090 --> 00:01:33.060
+organizational leadership aspects
+
+42
+00:01:33.060 --> 00:01:35.020
+of what we've been discussing on LinkedIn,
+
+43
+00:01:35.020 --> 00:01:37.020
+and that would be good supplemental information
+
+44
+00:01:37.020 --> 00:01:38.090
+for you as we move along.
+
+45
+00:01:38.090 --> 00:01:40.080
+And lastly, thank you very much for attending,
+
+46
+00:01:40.080 --> 00:01:43.000
+I hope you enjoyed it, and found it worthwhile.
+

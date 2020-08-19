@@ -1,0 +1,800 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:06.050 --> 00:00:09.060
+which one to use then, I think there's no doubt
+
+2
+00:00:09.060 --> 00:00:12.050
+that manufacturing and that sort of stuff
+
+3
+00:00:12.050 --> 00:00:14.070
+has to be traditional project management,
+
+4
+00:00:14.070 --> 00:00:16.040
+which you call deterministic, which I always
+
+5
+00:00:16.040 --> 00:00:19.080
+feel is you're somehow insulting it subtly.
+
+6
+00:00:19.080 --> 00:00:20.070
+(both laugh)
+
+7
+00:00:20.070 --> 00:00:22.060
+I don't know if it's judgment, or whatever
+
+8
+00:00:22.060 --> 00:00:24.020
+you want to call it, yeah.
+
+9
+00:00:24.020 --> 00:00:25.030
+Sort of like control freak method,
+
+10
+00:00:25.030 --> 00:00:26.050
+which I'm happy with.
+
+11
+00:00:26.050 --> 00:00:28.050
+- I mean in terms of you're trying to determine
+
+12
+00:00:28.050 --> 00:00:29.050
+what you're going to deliver at the end.
+
+13
+00:00:29.050 --> 00:00:30.040
+- Yeah.
+
+14
+00:00:30.040 --> 00:00:32.030
+And then there's no doubt that for stuff
+
+15
+00:00:32.030 --> 00:00:33.090
+where there's going to be big pivoting,
+
+16
+00:00:33.090 --> 00:00:36.060
+and it's software, and you can do things
+
+17
+00:00:36.060 --> 00:00:39.040
+in order of importance and value,
+
+18
+00:00:39.040 --> 00:00:43.020
+that Agile's got it's place, no doubt about that.
+
+19
+00:00:43.020 --> 00:00:45.080
+Do you think there are some things
+
+20
+00:00:45.080 --> 00:00:47.080
+where you could use both, and where
+
+21
+00:00:47.080 --> 00:00:49.050
+it's difficult to choose?
+
+22
+00:00:49.050 --> 00:00:52.070
+How would you advise a person to choose,
+
+23
+00:00:52.070 --> 00:00:55.000
+'cause you understand both, you're not a dyed in the wool
+
+24
+00:00:55.000 --> 00:00:56.090
+Agile all the time guy, are you?
+
+25
+00:00:56.090 --> 00:00:58.050
+- No, if you have your requirements,
+
+26
+00:00:58.050 --> 00:01:01.000
+there's no reason to do it.
+
+27
+00:01:01.000 --> 00:01:02.040
+And the requirements are going to stay the same.
+
+28
+00:01:02.040 --> 00:01:03.020
+- So that for you, that's the big factor
+
+29
+00:01:03.020 --> 00:01:07.080
+is how well nailed down are the requirements?
+
+30
+00:01:07.080 --> 00:01:09.000
+- Or if the customer's just like,
+
+31
+00:01:09.000 --> 00:01:10.010
+"Here's what I want."
+
+32
+00:01:10.010 --> 00:01:12.000
+If a customer hands me a design spec
+
+33
+00:01:12.000 --> 00:01:16.010
+for a shoe, and says, "Here's what I want in six months,"
+
+34
+00:01:16.010 --> 00:01:17.050
+I'm not going to be like, well let me give you
+
+35
+00:01:17.050 --> 00:01:18.080
+a flip flop in two months, and then I'll give you--
+
+36
+00:01:18.080 --> 00:01:21.040
+- But what about a website, for example?
+
+37
+00:01:21.040 --> 00:01:23.010
+'Cause one of my customers recently said
+
+38
+00:01:23.010 --> 00:01:28.020
+that they were going to build about 30,000 pounds,
+
+39
+00:01:28.020 --> 00:01:29.070
+I could translate that into dollars, but--
+
+40
+00:01:29.070 --> 00:01:30.080
+- Well I have an idea.
+
+41
+00:01:30.080 --> 00:01:31.090
+- It's one-to-one at the moment, isn't it?
+
+42
+00:01:31.090 --> 00:01:32.070
+(both laugh)
+
+43
+00:01:32.070 --> 00:01:34.020
+It's $30,000 as well, oh the pound,
+
+44
+00:01:34.020 --> 00:01:40.020
+but anyway, so it was a reasonable sized website,
+
+45
+00:01:40.020 --> 00:01:44.000
+I didn't spend that on mine, and she was saying
+
+46
+00:01:44.000 --> 00:01:45.060
+that she had three people quoting,
+
+47
+00:01:45.060 --> 00:01:49.090
+and two of them were Agile, and they said,
+
+48
+00:01:49.090 --> 00:01:51.010
+"We'll work closely with you,
+
+49
+00:01:51.010 --> 00:01:53.050
+"we know certain things you definitely want,
+
+50
+00:01:53.050 --> 00:01:55.070
+"there might be some other things.
+
+51
+00:01:55.070 --> 00:01:57.000
+"We don't know how long it'll take really,
+
+52
+00:01:57.000 --> 00:01:58.080
+"we don't know what it'll cost,
+
+53
+00:01:58.080 --> 00:02:01.060
+"but we'll do something really good, and trust us."
+
+54
+00:02:01.060 --> 00:02:03.050
+And the third person was a Waterfall person
+
+55
+00:02:03.050 --> 00:02:06.000
+who turned up and said, "Here's my Gantt chart
+
+56
+00:02:06.000 --> 00:02:08.040
+"of what I will do for you, and you'll get
+
+57
+00:02:08.040 --> 00:02:10.040
+"all the things you told me about by this date,
+
+58
+00:02:10.040 --> 00:02:11.080
+"for this money.
+
+59
+00:02:11.080 --> 00:02:14.000
+"And you can change it if you want,
+
+60
+00:02:14.000 --> 00:02:15.060
+"but if you change it, it's going to cost you more
+
+61
+00:02:15.060 --> 00:02:17.050
+"and take longer."
+
+62
+00:02:17.050 --> 00:02:21.040
+And she went for the Waterfall supplier
+
+63
+00:02:21.040 --> 00:02:24.020
+because she felt safer, and because she didn't
+
+64
+00:02:24.020 --> 00:02:26.060
+know the Agile, I think if she'd known the Agile people
+
+65
+00:02:26.060 --> 00:02:27.040
+and trusted them.
+
+66
+00:02:27.040 --> 00:02:31.070
+So I think you could say, for a website,
+
+67
+00:02:31.070 --> 00:02:35.060
+where you more-or-less know what you want,
+
+68
+00:02:35.060 --> 00:02:37.090
+that Waterfall is probably a better way,
+
+69
+00:02:37.090 --> 00:02:40.010
+but I guess there comes a point where
+
+70
+00:02:40.010 --> 00:02:41.070
+if you want something really exciting
+
+71
+00:02:41.070 --> 00:02:43.080
+and different, then you'd want to go Agile
+
+72
+00:02:43.080 --> 00:02:46.030
+because the team are probably going to have ideas
+
+73
+00:02:46.030 --> 00:02:48.000
+as they're going along.
+
+74
+00:02:48.000 --> 00:02:50.030
+So do you think that's what the essence is,
+
+75
+00:02:50.030 --> 00:02:53.090
+to try to work out how much change there might be,
+
+76
+00:02:53.090 --> 00:02:55.080
+and that's how you would choose your method?
+
+77
+00:02:55.080 --> 00:02:58.070
+- Maybe, with her I would've steered her
+
+78
+00:02:58.070 --> 00:03:02.080
+towards Agile just because if she's a novice at it,
+
+79
+00:03:02.080 --> 00:03:05.020
+then you're putting a great deal of trust
+
+80
+00:03:05.020 --> 00:03:06.070
+into people that you don't know.
+
+81
+00:03:06.070 --> 00:03:09.000
+- I think she wanted a website that was kind of a bit
+
+82
+00:03:09.000 --> 00:03:11.000
+like the last one, only nicer looking,
+
+83
+00:03:11.000 --> 00:03:12.030
+'cause she's pretty boring.
+
+84
+00:03:12.030 --> 00:03:14.030
+- Which is fine, as long as she knows the developers.
+
+85
+00:03:14.030 --> 00:03:16.080
+But you have to remember that in a Waterfall,
+
+86
+00:03:16.080 --> 00:03:19.060
+deterministic approach, I mean that in the nicest
+
+87
+00:03:19.060 --> 00:03:22.040
+possible way, the deterministic approach is that--
+
+88
+00:03:22.040 --> 00:03:23.080
+- I don't even like the word Waterfall.
+
+89
+00:03:23.080 --> 00:03:24.070
+(both laugh)
+
+90
+00:03:24.070 --> 00:03:25.060
+I just think it's a Gantt chart,
+
+91
+00:03:25.060 --> 00:03:26.040
+it's not a waterfall.
+
+92
+00:03:26.040 --> 00:03:28.020
+I know it looks a bit like a waterfall,
+
+93
+00:03:28.020 --> 00:03:29.040
+it's a Gantt chart.
+
+94
+00:03:29.040 --> 00:03:31.010
+I wish they'd call Waterfall Gantt.
+
+95
+00:03:31.010 --> 00:03:32.010
+- It would be nice.
+
+96
+00:03:32.010 --> 00:03:33.060
+- But anyway, we'll go with Waterfall,
+
+97
+00:03:33.060 --> 00:03:34.080
+'cause that's what people call it.
+
+98
+00:03:34.080 --> 00:03:36.030
+- It's so pretty.
+
+99
+00:03:36.030 --> 00:03:41.010
+But I would advise her to work with an Agile team
+
+100
+00:03:41.010 --> 00:03:42.010
+on the product because--
+
+101
+00:03:42.010 --> 00:03:43.020
+- I knew you'd say that.
+
+102
+00:03:43.020 --> 00:03:44.060
+- Yeah, I know.
+
+103
+00:03:44.060 --> 00:03:46.080
+Although there are times, but she's putting a lot
+
+104
+00:03:46.080 --> 00:03:49.060
+of trust in these teams, and so because remember
+
+105
+00:03:49.060 --> 00:03:53.000
+they're going to be working, she's going to be paying them,
+
+106
+00:03:53.000 --> 00:03:55.000
+they're going to be working presumably for weeks
+
+107
+00:03:55.000 --> 00:03:57.030
+or months, and then at the very end,
+
+108
+00:03:57.030 --> 00:03:59.060
+she's going to get her project.
+
+109
+00:03:59.060 --> 00:04:01.030
+She's going to get what she paid for.
+
+110
+00:04:01.030 --> 00:04:03.060
+But if you're working with an Agile team,
+
+111
+00:04:03.060 --> 00:04:06.060
+then every two weeks, she'll see it,
+
+112
+00:04:06.060 --> 00:04:08.080
+and she'll see where things are going.
+
+113
+00:04:08.080 --> 00:04:10.070
+And so if I were going to work on something
+
+114
+00:04:10.070 --> 00:04:12.060
+and I was a novice, I hadn't worked
+
+115
+00:04:12.060 --> 00:04:15.020
+with a team before, then I would use an Agile approach
+
+116
+00:04:15.020 --> 00:04:17.050
+just because I wouldn't want to necessarily
+
+117
+00:04:17.050 --> 00:04:19.030
+want to give someone a bunch of money,
+
+118
+00:04:19.030 --> 00:04:21.070
+and then hope for the best.
+
+119
+00:04:21.070 --> 00:04:24.030
+- And you don't trust the colored-in Gantt chart
+
+120
+00:04:24.030 --> 00:04:26.020
+to give you that same thing?
+
+121
+00:04:26.020 --> 00:04:27.070
+Because the stages in the Gantt chart
+
+122
+00:04:27.070 --> 00:04:29.050
+don't show a fully working room,
+
+123
+00:04:29.050 --> 00:04:32.040
+they just show let's say, foundations,
+
+124
+00:04:32.040 --> 00:04:33.040
+which you can't prove.
+
+125
+00:04:33.040 --> 00:04:34.020
+Is that?
+
+126
+00:04:34.020 --> 00:04:35.050
+- Yeah, Gantt charts are great,
+
+127
+00:04:35.050 --> 00:04:39.060
+but for me, I would prefer working software.
+
+128
+00:04:39.060 --> 00:04:41.010
+It might be different if I were building
+
+129
+00:04:41.010 --> 00:04:42.070
+a house, I wouldn't use an Agile approach.
+
+130
+00:04:42.070 --> 00:04:44.040
+- Because you can physically see what they've done,
+
+131
+00:04:44.040 --> 00:04:46.000
+whereas software, who knows if somebody's tapping
+
+132
+00:04:46.000 --> 00:04:48.020
+away at the computer going, "I'm halfway through,"
+
+133
+00:04:48.020 --> 00:04:49.020
+and you just don't know.
+
+134
+00:04:49.020 --> 00:04:50.090
+- Yeah, but if you've ever seen a house being built,
+
+135
+00:04:50.090 --> 00:04:52.080
+that's also very nerve-wracking.
+
+136
+00:04:52.080 --> 00:04:55.090
+And so I worked with a school, they were building
+
+137
+00:04:55.090 --> 00:04:58.000
+a new school in Detroit, and I went out
+
+138
+00:04:58.000 --> 00:04:59.060
+a week before school was going to start
+
+139
+00:04:59.060 --> 00:05:01.040
+to do some IT stuff for them,
+
+140
+00:05:01.040 --> 00:05:03.060
+and I looked and I said, "There's no way
+
+141
+00:05:03.060 --> 00:05:05.020
+"that there's going to be kids in this school
+
+142
+00:05:05.020 --> 00:05:06.010
+"in a week."
+
+143
+00:05:06.010 --> 00:05:08.030
+It was like no walls up, or anything like that,
+
+144
+00:05:08.030 --> 00:05:11.000
+and then like 100 people came in,
+
+145
+00:05:11.000 --> 00:05:13.020
+and they finished it within a week.
+
+146
+00:05:13.020 --> 00:05:16.000
+So that for me would be anxiety provoking.
+
+147
+00:05:16.000 --> 00:05:17.070
+So I wouldn't want to do that in software.
+
+148
+00:05:17.070 --> 00:05:19.000
+- But your Gantt chart would tell you
+
+149
+00:05:19.000 --> 00:05:21.090
+it was okay in the school example.
+
+150
+00:05:21.090 --> 00:05:25.090
+So is there anything other than software
+
+151
+00:05:25.090 --> 00:05:27.000
+that Agile can work for?
+
+152
+00:05:27.000 --> 00:05:30.040
+You mentioned big data sets.
+
+153
+00:05:30.040 --> 00:05:32.080
+To me that's software.
+
+154
+00:05:32.080 --> 00:05:36.020
+Do you think you'd use Agile for anything
+
+155
+00:05:36.020 --> 00:05:39.060
+other than IT really?
+
+156
+00:05:39.060 --> 00:05:40.080
+- I think you could use it for anything
+
+157
+00:05:40.080 --> 00:05:44.070
+that's more scientific than manufacturing.
+
+158
+00:05:44.070 --> 00:05:46.030
+- Okay, yeah, so research and development
+
+159
+00:05:46.030 --> 00:05:47.070
+type stuff then?
+
+160
+00:05:47.070 --> 00:05:49.010
+- Yeah, and so anything where you're going to get
+
+161
+00:05:49.010 --> 00:05:51.050
+a lot of value from a more empirical approach.
+
+162
+00:05:51.050 --> 00:05:54.050
+You know, turning the knobs and seeing what happens.
+
+163
+00:05:54.050 --> 00:05:58.040
+But there's a lot of things that I wouldn't
+
+164
+00:05:58.040 --> 00:06:00.010
+use an Agile approach with, like I said,
+
+165
+00:06:00.010 --> 00:06:02.000
+houses, cars, boats.
+
+166
+00:06:02.000 --> 00:06:05.030
+- So my map analogy, exploring Africa,
+
+167
+00:06:05.030 --> 00:06:07.010
+when those guys were doing it in the 1800s
+
+168
+00:06:07.010 --> 00:06:09.010
+or whenever it was, that's Agile
+
+169
+00:06:09.010 --> 00:06:12.010
+because there is no map, and you don't know.
+
+170
+00:06:12.010 --> 00:06:16.030
+Whereas driving to London, there is a map
+
+171
+00:06:16.030 --> 00:06:18.050
+and it wouldn't be so appropriate.
+
+172
+00:06:18.050 --> 00:06:22.000
+So anything where you really are in the unknown.
+
+173
+00:06:22.000 --> 00:06:24.030
+- Well, not necessarily in the unknown.
+
+174
+00:06:24.030 --> 00:06:26.040
+There's always a little bit you won't know
+
+175
+00:06:26.040 --> 00:06:29.000
+with either approach, but I would say
+
+176
+00:06:29.000 --> 00:06:31.010
+anything where you get a lot of value
+
+177
+00:06:31.010 --> 00:06:35.030
+from running experiments, from getting feedback.
+
+178
+00:06:35.030 --> 00:06:39.010
+If that's valuable to you, then I would go
+
+179
+00:06:39.010 --> 00:06:40.010
+with an Agile approach.
+
+180
+00:06:40.010 --> 00:06:42.060
+If you want to see a product at the end of every
+
+181
+00:06:42.060 --> 00:06:45.040
+two weeks, like your friend, I would go with
+
+182
+00:06:45.040 --> 00:06:46.070
+an Agile approach.
+
+183
+00:06:46.070 --> 00:06:48.060
+If you want to just get a Gantt chart,
+
+184
+00:06:48.060 --> 00:06:49.060
+which I completely understand,
+
+185
+00:06:49.060 --> 00:06:52.030
+look at it, and say, "Okay, I'll see you in six months,
+
+186
+00:06:52.030 --> 00:06:54.010
+"I've worked with you before, I trust you.
+
+187
+00:06:54.010 --> 00:06:56.080
+"Here's the big cheque, I'll see ya in six months,"
+
+188
+00:06:56.080 --> 00:06:58.030
+then that makes perfect sense.
+
+189
+00:06:58.030 --> 00:07:01.040
+- And you can have meetings with a Gantt chart,
+
+190
+00:07:01.040 --> 00:07:03.040
+we've done the first stage and here it is,
+
+191
+00:07:03.040 --> 00:07:04.030
+you can see it.
+
+192
+00:07:04.030 --> 00:07:06.050
+The foundations are in, you can see them.
+
+193
+00:07:06.050 --> 00:07:07.050
+- Yeah, absolutely, but ideally you'd
+
+194
+00:07:07.050 --> 00:07:09.070
+want to just hand it off to them and go to Miami.
+
+195
+00:07:09.070 --> 00:07:10.050
+- [Chris] Yeah, if you trust them,
+
+196
+00:07:10.050 --> 00:07:11.040
+you don't need to do it, Miami.
+
+197
+00:07:11.040 --> 00:07:12.020
+- Yeah, exactly.
+
+198
+00:07:12.020 --> 00:07:13.070
+- I've never been.
+
+199
+00:07:13.070 --> 00:07:15.000
+(laughs) I need to go.
+

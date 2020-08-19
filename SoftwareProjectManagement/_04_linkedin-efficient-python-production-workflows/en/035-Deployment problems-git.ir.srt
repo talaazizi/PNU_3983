@@ -1,0 +1,160 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:02,04
+- There are many things that can go wrong
+
+2
+00:00:02,04 --> 00:00:03,08
+while deploying your code.
+
+3
+00:00:03,08 --> 00:00:06,06
+Let's go over some of the more common ones
+
+4
+00:00:06,06 --> 00:00:08,03
+and how you can avoid them.
+
+5
+00:00:08,03 --> 00:00:09,07
+You might use a new package
+
+6
+00:00:09,07 --> 00:00:12,04
+and forget to add it to the requirements file.
+
+7
+00:00:12,04 --> 00:00:14,05
+Or you might use a package in a version
+
+8
+00:00:14,05 --> 00:00:17,01
+that differs from production environment.
+
+9
+00:00:17,01 --> 00:00:20,00
+The solution is to have the CI system run tests
+
+10
+00:00:20,00 --> 00:00:23,01
+in fresh environment every time.
+
+11
+00:00:23,01 --> 00:00:25,01
+This will catch missing requirements.
+
+12
+00:00:25,01 --> 00:00:27,00
+The second part of package mismatch
+
+13
+00:00:27,00 --> 00:00:29,05
+is solved by creating a new virtual environment
+
+14
+00:00:29,05 --> 00:00:32,03
+for every new deployment.
+
+15
+00:00:32,03 --> 00:00:34,08
+Your deployment might have configuration issues.
+
+16
+00:00:34,08 --> 00:00:37,08
+For example, broke name of the database server.
+
+17
+00:00:37,08 --> 00:00:40,05
+The solution is to run a health check
+
+18
+00:00:40,05 --> 00:00:42,03
+once the application starts
+
+19
+00:00:42,03 --> 00:00:45,02
+and to add metrics to applications.
+
+20
+00:00:45,02 --> 00:00:46,09
+This way, you will know quickly
+
+21
+00:00:46,09 --> 00:00:48,08
+if something goes wrong.
+
+22
+00:00:48,08 --> 00:00:53,00
+No matter have much tests, bugs will get into production.
+
+23
+00:00:53,00 --> 00:00:54,05
+You should be able to detect bugs
+
+24
+00:00:54,05 --> 00:00:56,03
+as soon as possible.
+
+25
+00:00:56,03 --> 00:00:58,07
+The solution is to have metrics and alerts
+
+26
+00:00:58,07 --> 00:00:59,09
+on your code.
+
+27
+00:00:59,09 --> 00:01:01,07
+As a developer, you should incorporate
+
+28
+00:01:01,07 --> 00:01:04,00
+metrics in your development process.
+
+29
+00:01:04,00 --> 00:01:07,03
+Some people even run periodic health checks
+
+30
+00:01:07,03 --> 00:01:10,08
+in production, to make sure everything is okay.
+
+31
+00:01:10,08 --> 00:01:12,03
+The other thing you need to have
+
+32
+00:01:12,03 --> 00:01:15,03
+is a way to quickly roll back a bad release.
+
+33
+00:01:15,03 --> 00:01:16,07
+This is more in operation hands
+
+34
+00:01:16,07 --> 00:01:18,06
+but you need to be involved.
+
+35
+00:01:18,06 --> 00:01:21,02
+Writing deployable code will make you a good friend
+
+36
+00:01:21,02 --> 00:01:22,09
+with the operation team
+
+37
+00:01:22,09 --> 00:01:25,08
+and will let you sleep soundly at night.
+
+38
+00:01:25,08 --> 00:01:28,04
+If you like to read a bit more, I highly recommend
+
+39
+00:01:28,04 --> 00:01:32,00
+these articles by Ron Tavory.
+

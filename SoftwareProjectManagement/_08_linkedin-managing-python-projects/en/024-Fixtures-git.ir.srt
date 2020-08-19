@@ -1,0 +1,156 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:01,05
+- [Instructor] Test fixtures
+
+2
+00:00:01,05 --> 00:00:04,02
+creates a null environment for testing.
+
+3
+00:00:04,02 --> 00:00:07,08
+A server tests need a database with some data in it.
+
+4
+00:00:07,08 --> 00:00:10,06
+You can use a fixture to create such as database
+
+5
+00:00:10,06 --> 00:00:13,02
+and populate it before every test run
+
+6
+00:00:13,02 --> 00:00:15,09
+or every test file run.
+
+7
+00:00:15,09 --> 00:00:17,01
+As soon as you have a code
+
+8
+00:00:17,01 --> 00:00:19,04
+to create a table in a database.
+
+9
+00:00:19,04 --> 00:00:21,04
+We have db.py.
+
+10
+00:00:21,04 --> 00:00:24,02
+We have the definition of the sql_schema.
+
+11
+00:00:24,02 --> 00:00:26,04
+And in line 15, create_schema
+
+12
+00:00:26,04 --> 00:00:29,04
+which will populate the database with the new schema,
+
+13
+00:00:29,04 --> 00:00:31,02
+creating tables there.
+
+14
+00:00:31,02 --> 00:00:33,08
+To have the database automatically created
+
+15
+00:00:33,08 --> 00:00:36,04
+you can use a pytest fixture.
+
+16
+00:00:36,04 --> 00:00:41,09
+You should use a file length conftest in the test directory.
+
+17
+00:00:41,09 --> 00:00:44,01
+We input pytest
+
+18
+00:00:44,01 --> 00:00:47,00
+and we input sqlite3 which is an impeded database
+
+19
+00:00:47,00 --> 00:00:48,09
+that comes with the Python.
+
+20
+00:00:48,09 --> 00:00:52,05
+In line six, we define a function called database.
+
+21
+00:00:52,05 --> 00:00:56,09
+And in line five we decorate it with pytest.fixture.
+
+22
+00:00:56,09 --> 00:00:59,04
+In line seven we create the connection.
+
+23
+00:00:59,04 --> 00:01:02,03
+In line eight we yield the connection.
+
+24
+00:01:02,03 --> 00:01:03,09
+Pytest will lose this connection.
+
+25
+00:01:03,09 --> 00:01:05,07
+And once the test is done,
+
+26
+00:01:05,07 --> 00:01:08,09
+it will continue the code from line nine and 10
+
+27
+00:01:08,09 --> 00:01:10,08
+to do some clean up.
+
+28
+00:01:10,08 --> 00:01:13,06
+To use this fixture in the test,
+
+29
+00:01:13,06 --> 00:01:17,01
+we define in line four def test_create_schema,
+
+30
+00:01:17,01 --> 00:01:19,06
+which gets a parameter called database.
+
+31
+00:01:19,06 --> 00:01:20,08
+This parameter name
+
+32
+00:01:20,08 --> 00:01:25,08
+must match the name of the fixture file in conftest.py.
+
+33
+00:01:25,08 --> 00:01:27,08
+And then we create the schema,
+
+34
+00:01:27,08 --> 00:01:29,07
+we do our checks,
+
+35
+00:01:29,07 --> 00:01:32,01
+and at the end when the test will be done,
+
+36
+00:01:32,01 --> 00:01:35,06
+pytest will call the clean up code for us.
+
+37
+00:01:35,06 --> 00:01:42,06
+And now we can run python -m pytest -v tests.
+
+38
+00:01:42,06 --> 00:01:46,00
+And we see that test_create_schema has passed.
+

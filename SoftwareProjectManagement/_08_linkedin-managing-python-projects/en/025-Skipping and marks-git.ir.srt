@@ -1,0 +1,156 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,09
+- [Instructor] Developers are impatient,
+
+2
+00:00:02,09 --> 00:00:05,01
+which according to Larry Wall, the creator
+
+3
+00:00:05,01 --> 00:00:08,06
+of the Perl programming language, is a good thing.
+
+4
+00:00:08,06 --> 00:00:11,06
+Developers won't run the tests as often if they think
+
+5
+00:00:11,06 --> 00:00:13,06
+they are taking too much time.
+
+6
+00:00:13,06 --> 00:00:16,08
+Also, in some cases, tests will require
+
+7
+00:00:16,08 --> 00:00:19,04
+a complicated environment that is not available
+
+8
+00:00:19,04 --> 00:00:21,01
+on a developer machine.
+
+9
+00:00:21,01 --> 00:00:25,00
+Say a big database, special hardware, et cetera.
+
+10
+00:00:25,00 --> 00:00:28,00
+To solve this problem, we have two ways to skip tests
+
+11
+00:00:28,00 --> 00:00:31,03
+in pytest, skip and marks.
+
+12
+00:00:31,03 --> 00:00:33,08
+Here's an example of how to skip test.
+
+13
+00:00:33,08 --> 00:00:37,08
+I'm going to check if CI is found in the environment.
+
+14
+00:00:37,08 --> 00:00:40,02
+This is a common environment variable that a lot
+
+15
+00:00:40,02 --> 00:00:42,07
+of CI, continuous integration systems,
+
+16
+00:00:42,07 --> 00:00:45,03
+are setting prior to running the tests.
+
+17
+00:00:45,03 --> 00:00:50,08
+And now, I can run python -m
+
+18
+00:00:50,08 --> 00:00:56,09
+pytest -v test_skip.
+
+19
+00:00:56,09 --> 00:00:58,09
+And this test is going to get skipped,
+
+20
+00:00:58,09 --> 00:01:02,01
+because CI is not set in the environment.
+
+21
+00:01:02,01 --> 00:01:05,07
+If I'm going to set the CI environment variable,
+
+22
+00:01:05,07 --> 00:01:13,09
+CI=, let's say circle CI and now, the test is going to run.
+
+23
+00:01:13,09 --> 00:01:17,03
+The other solution pytest gives us is marks.
+
+24
+00:01:17,03 --> 00:01:19,08
+You can mark tests and run only the test
+
+25
+00:01:19,08 --> 00:01:22,01
+that are marked with a specific mark.
+
+26
+00:01:22,01 --> 00:01:26,02
+For example, here, test anytime does not have any mark.
+
+27
+00:01:26,02 --> 00:01:30,05
+But test slow has a mark called slow.
+
+28
+00:01:30,05 --> 00:01:34,01
+So now, if I'm going to run python -m pytest
+
+29
+00:01:34,01 --> 00:01:40,07
+- v test_marks, it is going to run both of them.
+
+30
+00:01:40,07 --> 00:01:46,00
+But I can tell pytest -m slow,
+
+31
+00:01:46,00 --> 00:01:48,09
+and now, it's going to run only the slow test,
+
+32
+00:01:48,09 --> 00:01:51,05
+the test that has the slow mark.
+
+33
+00:01:51,05 --> 00:01:56,04
+I can also say run not slow, meaning all the test
+
+34
+00:01:56,04 --> 00:01:58,04
+that do not have the slow mark.
+
+35
+00:01:58,04 --> 00:02:02,05
+In this case, it will run only test anytime.
+
+36
+00:02:02,05 --> 00:02:05,07
+You might see a warning about unknown marks,
+
+37
+00:02:05,07 --> 00:02:10,06
+you can just ignore it, or use pytest.ini
+
+38
+00:02:10,06 --> 00:02:13,00
+to define your own custom markers.
+

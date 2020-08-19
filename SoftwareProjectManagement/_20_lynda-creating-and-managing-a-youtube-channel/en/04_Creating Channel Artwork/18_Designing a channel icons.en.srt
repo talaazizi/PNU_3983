@@ -1,0 +1,334 @@
+1
+00:00:00.06 --> 00:00:01.04
+- [Instructor] Let's start with
+
+2
+00:00:01.04 --> 00:00:03.03
+one of the most important
+pieces of artwork
+
+3
+00:00:03.03 --> 00:00:05.03
+that you're going to
+need for your channel,
+
+4
+00:00:05.03 --> 00:00:09.08
+and that is the icon for your
+brand or you as an individual.
+
+5
+00:00:09.08 --> 00:00:13.08
+Now getting an icon that works
+at a small size is important.
+
+6
+00:00:13.08 --> 00:00:15.07
+Let's go over the specs
+and then I'll show you some
+
+7
+00:00:15.07 --> 00:00:18.09
+design strategies using a
+tool like Adobe Photoshop.
+
+8
+00:00:18.09 --> 00:00:21.04
+With your channel icon, make
+sure you choose an image
+
+9
+00:00:21.04 --> 00:00:25.05
+that's going to be recognizable
+and work at a small size.
+
+10
+00:00:25.05 --> 00:00:28.04
+You don't want too much detail.
+
+11
+00:00:28.04 --> 00:00:31.06
+Essentially, the icon
+is shown on most devices
+
+12
+00:00:31.06 --> 00:00:34.08
+at 98 pixels by 98 pixels,
+
+13
+00:00:34.08 --> 00:00:36.09
+but it's a good idea to design this
+
+14
+00:00:36.09 --> 00:00:39.09
+at an 800 by 800 square at least
+
+15
+00:00:39.09 --> 00:00:45.02
+for future-proofing, in case
+Google makes some changes.
+
+16
+00:00:45.02 --> 00:00:48.06
+Animated GIFs are not
+allowed for your profile icon
+
+17
+00:00:48.06 --> 00:00:51.03
+or your channel icon.
+
+18
+00:00:51.03 --> 00:00:53.06
+And be sure that you
+also avoid things like
+
+19
+00:00:53.06 --> 00:00:56.08
+nudity, celebrities,
+and copyrighted photos
+
+20
+00:00:56.08 --> 00:01:00.00
+that you don't have the rights to.
+
+21
+00:01:00.00 --> 00:01:02.07
+Now depending upon how you access this,
+
+22
+00:01:02.07 --> 00:01:06.02
+it might be shown as a circle or a square,
+
+23
+00:01:06.02 --> 00:01:08.00
+so it's important that you pay attention
+
+24
+00:01:08.00 --> 00:01:09.09
+to this when designing.
+
+25
+00:01:09.09 --> 00:01:12.00
+If it's a square logo,
+you're going to want to
+
+26
+00:01:12.00 --> 00:01:16.06
+shrink it down to fit
+inside of a smaller circle.
+
+27
+00:01:16.06 --> 00:01:18.05
+That's because, depending upon the device,
+
+28
+00:01:18.05 --> 00:01:20.05
+it shows up differently.
+
+29
+00:01:20.05 --> 00:01:22.08
+For example, for some odd reason,
+
+30
+00:01:22.08 --> 00:01:25.04
+Google's desktop team tends to use
+
+31
+00:01:25.04 --> 00:01:28.09
+a square icon when accessing YouTube.
+
+32
+00:01:28.09 --> 00:01:31.04
+But if you browse on any
+of their mobile devices,
+
+33
+00:01:31.04 --> 00:01:33.05
+it shows up as a circle.
+
+34
+00:01:33.05 --> 00:01:36.00
+This does mean that,
+as you design an icon,
+
+35
+00:01:36.00 --> 00:01:38.07
+it needs to work in both environments.
+
+36
+00:01:38.07 --> 00:01:42.05
+Let's switch to a tool
+like Adobe Photoshop.
+
+37
+00:01:42.05 --> 00:01:45.01
+And what you'll wanna do
+is create a new document
+
+38
+00:01:45.01 --> 00:01:47.08
+and size it to be a square.
+
+39
+00:01:47.08 --> 00:01:52.06
+Remember, the minimum
+is 800 by 800 pixels.
+
+40
+00:01:52.06 --> 00:01:54.03
+And click Create.
+
+41
+00:01:54.03 --> 00:01:58.08
+Now you can use the command
+File, Place Embedded,
+
+42
+00:01:58.08 --> 00:02:02.07
+to navigate to another file.
+
+43
+00:02:02.07 --> 00:02:04.04
+Inside of the exercise folder,
+
+44
+00:02:04.04 --> 00:02:06.02
+I put a few items together.
+
+45
+00:02:06.02 --> 00:02:08.05
+And from the logos folder here,
+
+46
+00:02:08.05 --> 00:02:13.05
+I'm just going to choose this PNG icon.
+
+47
+00:02:13.05 --> 00:02:16.03
+And click Place.
+
+48
+00:02:16.03 --> 00:02:18.06
+I can adjust the size of this very easily,
+
+49
+00:02:18.06 --> 00:02:22.03
+I'm just holding down
+Shift + Alt to control it,
+
+50
+00:02:22.03 --> 00:02:26.04
+and when I press Return,
+it redraws the file.
+
+51
+00:02:26.04 --> 00:02:31.03
+You can also do this with
+vector files or other elements.
+
+52
+00:02:31.03 --> 00:02:34.09
+You might choose to put a
+sample color back there.
+
+53
+00:02:34.09 --> 00:02:37.04
+So if I want a color, I
+can load something that's
+
+54
+00:02:37.04 --> 00:02:41.06
+complimentary and start to put it behind.
+
+55
+00:02:41.06 --> 00:02:46.08
+I find that using the Hue
+command can be quite useful.
+
+56
+00:02:46.08 --> 00:02:51.03
+This way, I can easily
+adjust the artwork behind
+
+57
+00:02:51.03 --> 00:02:56.09
+until I find something
+that's complimentary.
+
+58
+00:02:56.09 --> 00:02:59.03
+And click OK.
+
+59
+00:02:59.03 --> 00:03:02.01
+Then, simply save this.
+
+60
+00:03:02.01 --> 00:03:04.09
+I suggest if using a tool like Photoshop,
+
+61
+00:03:04.09 --> 00:03:09.04
+you use the Save for Web command,
+
+62
+00:03:09.04 --> 00:03:12.07
+which is found under the Export menu,
+
+63
+00:03:12.07 --> 00:03:16.08
+and this will allow you to
+easily create a new file.
+
+64
+00:03:16.08 --> 00:03:22.05
+For the social icon, a JPEG at
+high quality is a good idea.
+
+65
+00:03:22.05 --> 00:03:26.05
+Just click Save, and you
+can create the new file.
+
+66
+00:03:26.05 --> 00:03:28.01
+Now, I'll click Cancel because
+
+67
+00:03:28.01 --> 00:03:30.06
+I've already made this icon for upload,
+
+68
+00:03:30.06 --> 00:03:33.01
+but that's basically the workflow.
+
+69
+00:03:33.01 --> 00:03:36.04
+Make a square, drag in a logo or a photo,
+
+70
+00:03:36.04 --> 00:03:38.05
+and then save it out.
+
+71
+00:03:38.05 --> 00:03:41.02
+Do keep in mind that the
+logo might be cropped
+
+72
+00:03:41.02 --> 00:03:44.02
+to a circle when displayed on YouTube.
+
+73
+00:03:44.02 --> 00:03:46.02
+So if you place a square logo,
+
+74
+00:03:46.02 --> 00:03:49.00
+you'll need to inset it
+so it's a bit smaller
+
+75
+00:03:49.00 --> 00:03:51.03
+and fits inside an inner circle.
+

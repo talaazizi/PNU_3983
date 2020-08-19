@@ -1,0 +1,60 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:05,06
+(upbeat melody)
+
+2
+00:00:05,06 --> 00:00:07,00
+- [Instructor] Here's the solution.
+
+3
+00:00:07,00 --> 00:00:12,03
+In requirements.txt, we add gunicorn in version 19.9,
+
+4
+00:00:12,03 --> 00:00:15,05
+which is the latest one during the time we're recording.
+
+5
+00:00:15,05 --> 00:00:18,06
+Note that I've placed it between Flask and pytz
+
+6
+00:00:18,06 --> 00:00:20,03
+to make sure that the dependencies
+
+7
+00:00:20,03 --> 00:00:22,04
+are sorted alphabetically.
+
+8
+00:00:22,04 --> 00:00:24,03
+And then in the Dockerfile,
+
+9
+00:00:24,03 --> 00:00:27,04
+everything is the same except for the CMD line.
+
+10
+00:00:27,04 --> 00:00:29,08
+We break the CMD line with backslashes,
+
+11
+00:00:29,08 --> 00:00:33,00
+since it's very long, but the CMD is gunicorn,
+
+12
+00:00:33,00 --> 00:00:36,00
+workers, bind, and then the application.
+
+13
+00:00:36,00 --> 00:00:38,04
+Once you have that, you can build
+
+14
+00:00:38,04 --> 00:00:42,00
+and run the docker as we showed before.
+

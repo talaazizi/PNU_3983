@@ -1,0 +1,272 @@
+1
+00:00:00.060 --> 00:00:01.060
+- [Instructor] Continuing to think
+
+2
+00:00:01.060 --> 00:00:03.080
+about the disconnected data that we have,
+
+3
+00:00:03.080 --> 00:00:07.080
+we often lack systems, technology, or process
+
+4
+00:00:07.080 --> 00:00:10.050
+to take feedback and incorporate it
+
+5
+00:00:10.050 --> 00:00:13.030
+into the new product development process
+
+6
+00:00:13.030 --> 00:00:15.020
+or into the actual design,
+
+7
+00:00:15.020 --> 00:00:18.010
+and continuous feedback is one of the core tenets
+
+8
+00:00:18.010 --> 00:00:21.010
+of the agile new product development methodology.
+
+9
+00:00:21.010 --> 00:00:22.050
+So, for example,
+
+10
+00:00:22.050 --> 00:00:26.030
+we often find things like handwritten redlines on drawings,
+
+11
+00:00:26.030 --> 00:00:30.000
+even in this day and age where we have very good tools
+
+12
+00:00:30.000 --> 00:00:32.040
+for reviewing and annotating drawings.
+
+13
+00:00:32.040 --> 00:00:35.090
+Many professionals, especially those on the shop floor,
+
+14
+00:00:35.090 --> 00:00:39.000
+prefer to hand-write on printed drawings.
+
+15
+00:00:39.000 --> 00:00:40.020
+This creates a barrier,
+
+16
+00:00:40.020 --> 00:00:42.050
+as the handwritten information
+
+17
+00:00:42.050 --> 00:00:44.030
+needs to somehow be translated
+
+18
+00:00:44.030 --> 00:00:47.080
+back into the design information.
+
+19
+00:00:47.080 --> 00:00:51.040
+Similarly, we still very frequently see
+
+20
+00:00:51.040 --> 00:00:54.040
+handwritten sticky notes used as riders
+
+21
+00:00:54.040 --> 00:00:58.090
+or other information added on to design documentation.
+
+22
+00:00:58.090 --> 00:01:02.020
+Again, this is a body of knowledge that's created
+
+23
+00:01:02.020 --> 00:01:04.040
+that's very difficult to translate back
+
+24
+00:01:04.040 --> 00:01:07.030
+into the core information.
+
+25
+00:01:07.030 --> 00:01:10.010
+Plus, it creates decisions that need to be made
+
+26
+00:01:10.010 --> 00:01:11.060
+by the new product development team
+
+27
+00:01:11.060 --> 00:01:14.060
+about what to include or how to include it.
+
+28
+00:01:14.060 --> 00:01:18.010
+Lastly, we must consider the human factor
+
+29
+00:01:18.010 --> 00:01:21.050
+and acknowledge that many people have very bad handwriting.
+
+30
+00:01:21.050 --> 00:01:25.010
+A lot of times, illegible or unreadable information
+
+31
+00:01:25.010 --> 00:01:27.080
+is provided to the new product development team.
+
+32
+00:01:27.080 --> 00:01:30.030
+This causes them to do either a lot of searching
+
+33
+00:01:30.030 --> 00:01:33.030
+to find out what the original stakeholder actually meant,
+
+34
+00:01:33.030 --> 00:01:35.020
+or worse, to make assumptions
+
+35
+00:01:35.020 --> 00:01:37.050
+and perhaps even make bad decisions
+
+36
+00:01:37.050 --> 00:01:40.030
+based on the information that they were given.
+
+37
+00:01:40.030 --> 00:01:43.050
+These are all problems in the agile methods
+
+38
+00:01:43.050 --> 00:01:44.090
+of new product development
+
+39
+00:01:44.090 --> 00:01:48.030
+which requires that close, continuous feedback.
+
+40
+00:01:48.030 --> 00:01:52.050
+Similarly, if we were to look at the feedback
+
+41
+00:01:52.050 --> 00:01:55.040
+or the connection between pieces of information,
+
+42
+00:01:55.040 --> 00:01:56.030
+just a bit ago,
+
+43
+00:01:56.030 --> 00:01:58.060
+we discussed how different systems
+
+44
+00:01:58.060 --> 00:02:00.000
+are used to manage data.
+
+45
+00:02:00.000 --> 00:02:02.020
+But if we look at the data itself,
+
+46
+00:02:02.020 --> 00:02:03.080
+we often know that, at the core,
+
+47
+00:02:03.080 --> 00:02:05.090
+we have a project plan.
+
+48
+00:02:05.090 --> 00:02:08.000
+Before, we described that that may be managed
+
+49
+00:02:08.000 --> 00:02:09.070
+in a project management tool,
+
+50
+00:02:09.070 --> 00:02:13.060
+but that plan itself drives a lot of activities.
+
+51
+00:02:13.060 --> 00:02:15.040
+The activities describe
+
+52
+00:02:15.040 --> 00:02:17.020
+to the new product development professionals
+
+53
+00:02:17.020 --> 00:02:18.060
+what they need to do,
+
+54
+00:02:18.060 --> 00:02:21.090
+and often specifically list the deliverables.
+
+55
+00:02:21.090 --> 00:02:24.030
+The deliverables could be things like CAD models
+
+56
+00:02:24.030 --> 00:02:27.020
+and specification documents, and so forth.
+
+57
+00:02:27.020 --> 00:02:29.020
+This intellectual property,
+
+58
+00:02:29.020 --> 00:02:32.000
+when involved in the change process,
+
+59
+00:02:32.000 --> 00:02:36.020
+needs to flow back and flow upstream
+
+60
+00:02:36.020 --> 00:02:37.090
+to the other pieces of information.
+
+61
+00:02:37.090 --> 00:02:40.070
+They need to be almost intimately connected
+
+62
+00:02:40.070 --> 00:02:43.040
+so that knowledgeable decisions can be made.
+
+63
+00:02:43.040 --> 00:02:46.090
+Having different pieces of this disconnected information
+
+64
+00:02:46.090 --> 00:02:49.090
+makes the agile change process very difficult.
+
+65
+00:02:49.090 --> 00:02:53.000
+What we need to do is close some of these gaps
+
+66
+00:02:53.000 --> 00:02:56.010
+both through technology and through process,
+
+67
+00:02:56.010 --> 00:02:58.060
+as well as acknowledging the human factors,
+
+68
+00:02:58.060 --> 00:03:02.000
+such as the poor handwriting, that we need to work on.
+

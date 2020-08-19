@@ -1,0 +1,302 @@
+1
+00:00:00.05 --> 00:00:03.00
+- If your content has been
+professionally captioned
+
+2
+00:00:03.00 --> 00:00:06.00
+by an outside vendor, you can upload that.
+
+3
+00:00:06.00 --> 00:00:08.06
+There's also great
+tools like Transcriptive
+
+4
+00:00:08.06 --> 00:00:11.07
+from Digital Anarchy, that
+makes it easy to submit your
+
+5
+00:00:11.07 --> 00:00:14.04
+video editing project to an online service
+
+6
+00:00:14.04 --> 00:00:17.02
+and use computer intelligence
+to get it captioned.
+
+7
+00:00:17.02 --> 00:00:19.09
+And of course there are
+numerous captioning companies
+
+8
+00:00:19.09 --> 00:00:23.00
+out there that will use
+live people to go through
+
+9
+00:00:23.00 --> 00:00:24.04
+and caption the video.
+
+10
+00:00:24.04 --> 00:00:26.05
+So there are many ways to solve this,
+
+11
+00:00:26.05 --> 00:00:28.06
+and in fact we do have
+some additional training
+
+12
+00:00:28.06 --> 00:00:30.05
+in the online library.
+
+13
+00:00:30.05 --> 00:00:33.07
+The important thing here is
+that YouTube makes it easy
+
+14
+00:00:33.07 --> 00:00:36.00
+for you to upload captions.
+
+15
+00:00:36.00 --> 00:00:37.08
+So, if you have captions for your content,
+
+16
+00:00:37.08 --> 00:00:40.04
+whether those be the native
+language or a translation,
+
+17
+00:00:40.04 --> 00:00:41.06
+it's pretty simple.
+
+18
+00:00:41.06 --> 00:00:44.05
+Make sure that your videos are accessible
+
+19
+00:00:44.05 --> 00:00:46.05
+because of the captioning track.
+
+20
+00:00:46.05 --> 00:00:49.04
+This means that people who
+have different challenges
+
+21
+00:00:49.04 --> 00:00:52.00
+in consuming the content will
+have an easier time with it,
+
+22
+00:00:52.00 --> 00:00:55.02
+and it may even be a legal
+requirement depending upon
+
+23
+00:00:55.02 --> 00:00:56.08
+the country you're working in.
+
+24
+00:00:56.08 --> 00:00:59.07
+You can have multiple
+caption tracks as well.
+
+25
+00:00:59.07 --> 00:01:03.07
+In different languages or dialects.
+
+26
+00:01:03.07 --> 00:01:07.01
+What it comes down to
+is it's pretty simple.
+
+27
+00:01:07.01 --> 00:01:09.03
+You're going to go into the video manager
+
+28
+00:01:09.03 --> 00:01:12.01
+and select and individual
+video, then edit it.
+
+29
+00:01:12.01 --> 00:01:16.05
+Once there, choose the subtitles
+and closed captions tab,
+
+30
+00:01:16.05 --> 00:01:19.07
+and you click the add button to add more.
+
+31
+00:01:19.07 --> 00:01:21.06
+Let me show you this one more time.
+
+32
+00:01:21.06 --> 00:01:23.06
+From the video manager.
+
+33
+00:01:23.06 --> 00:01:28.01
+I'll simply click edit to open up a video,
+
+34
+00:01:28.01 --> 00:01:35.04
+and then go to the subtitles
+and closed captions tab.
+
+35
+00:01:35.04 --> 00:01:38.01
+This will show me any existing captions.
+
+36
+00:01:38.01 --> 00:01:41.02
+Remember, you can click on
+this to edit the automatic ones
+
+37
+00:01:41.02 --> 00:01:44.06
+or click the add button to add more.
+
+38
+00:01:44.06 --> 00:01:49.08
+This'll make it easy for
+you to upload content.
+
+39
+00:01:49.08 --> 00:01:54.03
+You'll see here for example,
+we can choose to upload a file.
+
+40
+00:01:54.03 --> 00:01:57.04
+We can have it do the transcriptions
+
+41
+00:01:57.04 --> 00:01:59.07
+This is generally automatically done,
+
+42
+00:01:59.07 --> 00:02:02.02
+but if for some reason
+it hasn't been done yet,
+
+43
+00:02:02.02 --> 00:02:04.03
+or you didn't specify a language,
+
+44
+00:02:04.03 --> 00:02:07.04
+you can tell it to
+transcribe and auto-sync,
+
+45
+00:02:07.04 --> 00:02:10.09
+or you can create your own from scratch.
+
+46
+00:02:10.09 --> 00:02:13.03
+And clicking this will
+take you into the editor,
+
+47
+00:02:13.03 --> 00:02:15.02
+but for the most part it's a simple
+
+48
+00:02:15.02 --> 00:02:17.02
+as choosing to upload a file.
+
+49
+00:02:17.02 --> 00:02:20.04
+Once you've done this, you
+have the ability to upload
+
+50
+00:02:20.04 --> 00:02:22.03
+one of two types.
+
+51
+00:02:22.03 --> 00:02:24.09
+You can go ahead and put a transcript in
+
+52
+00:02:24.09 --> 00:02:26.09
+or a subtitles file.
+
+53
+00:02:26.09 --> 00:02:29.04
+And the difference here is pretty subtle.
+
+54
+00:02:29.04 --> 00:02:33.02
+The transcript is going to be
+what's being said on screen,
+
+55
+00:02:33.02 --> 00:02:36.05
+while subtitles are generally
+a different language.
+
+56
+00:02:36.05 --> 00:02:39.04
+Subtitles can also be chosen to be left up
+
+57
+00:02:39.04 --> 00:02:42.04
+while transcriptions are usually going to
+
+58
+00:02:42.04 --> 00:02:44.04
+go ahead and roll on.
+
+59
+00:02:44.04 --> 00:02:46.03
+If you click learn more, you'll learn
+
+60
+00:02:46.03 --> 00:02:49.00
+about the many different
+formats that are available
+
+61
+00:02:49.00 --> 00:02:50.09
+and here you can decide if you wanted
+
+62
+00:02:50.09 --> 00:02:53.00
+to use closed captions or subtitles,
+
+63
+00:02:53.00 --> 00:02:55.01
+as well as find out what type of
+
+64
+00:02:55.01 --> 00:02:57.03
+file formats are going to work.
+
+65
+00:02:57.03 --> 00:02:59.03
+There are many different
+programs out there
+
+66
+00:02:59.03 --> 00:03:02.02
+for subtitling and transcript
+as this is technology
+
+67
+00:03:02.02 --> 00:03:05.03
+that's been used on things
+like DVDs and Blu-Rays
+
+68
+00:03:05.03 --> 00:03:06.09
+as well as broadcast television.
+

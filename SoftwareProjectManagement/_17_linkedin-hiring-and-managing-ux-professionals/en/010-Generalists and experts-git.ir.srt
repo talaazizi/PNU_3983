@@ -1,0 +1,296 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:04,05
+- We talked earlier about UX not being a single skill set
+
+2
+00:00:04,05 --> 00:00:07,07
+or a career, but rather a whole collection of skills
+
+3
+00:00:07,07 --> 00:00:10,06
+that form a variety of career pathways.
+
+4
+00:00:10,06 --> 00:00:13,08
+Of course, in an ideal world with unlimited budget,
+
+5
+00:00:13,08 --> 00:00:14,08
+you could bring in experts
+
+6
+00:00:14,08 --> 00:00:17,04
+to cover each type of skill set that you need,
+
+7
+00:00:17,04 --> 00:00:21,04
+but maybe you only have enough budget for a single hire,
+
+8
+00:00:21,04 --> 00:00:22,05
+or you don't have enough work
+
+9
+00:00:22,05 --> 00:00:24,07
+for a different unique UX skill set.
+
+10
+00:00:24,07 --> 00:00:29,00
+So you may want to find everything you need in one person,
+
+11
+00:00:29,00 --> 00:00:31,02
+the UX generalist.
+
+12
+00:00:31,02 --> 00:00:33,04
+There's nothing wrong with wanting a UX generalist
+
+13
+00:00:33,04 --> 00:00:36,05
+who can cover your business in multiple areas.
+
+14
+00:00:36,05 --> 00:00:38,05
+If you're looking for a junior staffer,
+
+15
+00:00:38,05 --> 00:00:40,06
+someone near the beginning of their career,
+
+16
+00:00:40,06 --> 00:00:42,07
+you can find a generalist.
+
+17
+00:00:42,07 --> 00:00:44,08
+There is no expectation of expertise,
+
+18
+00:00:44,08 --> 00:00:46,01
+and within the framework
+
+19
+00:00:46,01 --> 00:00:47,09
+of their interests and inclinations,
+
+20
+00:00:47,09 --> 00:00:50,06
+you will have the opportunity to shape this person
+
+21
+00:00:50,06 --> 00:00:53,08
+to exactly what your business needs.
+
+22
+00:00:53,08 --> 00:00:56,04
+If you're looking for a UX expert however,
+
+23
+00:00:56,04 --> 00:00:57,09
+someone who can lead the charge
+
+24
+00:00:57,09 --> 00:01:00,04
+to get a particular aspect of your work done,
+
+25
+00:01:00,04 --> 00:01:03,02
+be it design, research or strategy,
+
+26
+00:01:03,02 --> 00:01:05,02
+that's when your desire for a generalist
+
+27
+00:01:05,02 --> 00:01:09,07
+could be in conflict with the need for acquired expertise.
+
+28
+00:01:09,07 --> 00:01:12,05
+It takes a few years to really become an expert
+
+29
+00:01:12,05 --> 00:01:14,06
+in any given UX discipline,
+
+30
+00:01:14,06 --> 00:01:17,00
+to experience the ins and outs of methods,
+
+31
+00:01:17,00 --> 00:01:18,08
+software and approaches.
+
+32
+00:01:18,08 --> 00:01:21,03
+The more UX skill sets you need to account for
+
+33
+00:01:21,03 --> 00:01:25,01
+in a single person, the longer a period of time is needed
+
+34
+00:01:25,01 --> 00:01:27,02
+to acquire that expertise.
+
+35
+00:01:27,02 --> 00:01:29,05
+For example, someone who has been doing
+
+36
+00:01:29,05 --> 00:01:32,00
+heavy interaction design work for five years,
+
+37
+00:01:32,00 --> 00:01:35,06
+probably has a solid understanding of interaction design.
+
+38
+00:01:35,06 --> 00:01:38,03
+If someone has been split evenly between interaction design
+
+39
+00:01:38,03 --> 00:01:40,06
+and user research for the past five years,
+
+40
+00:01:40,06 --> 00:01:43,03
+then while they likely have reasonable skills in both,
+
+41
+00:01:43,03 --> 00:01:46,03
+they are not as experienced an interaction designer
+
+42
+00:01:46,03 --> 00:01:48,08
+as the person doing this exclusively.
+
+43
+00:01:48,08 --> 00:01:51,08
+Now mix in information architecture skills, visual design
+
+44
+00:01:51,08 --> 00:01:54,00
+and imagine those are split evenly.
+
+45
+00:01:54,00 --> 00:01:56,02
+How much expertise would you get?
+
+46
+00:01:56,02 --> 00:01:59,05
+Oh, to make matters worse, let's imagine that you decide
+
+47
+00:01:59,05 --> 00:02:02,09
+some front end coding experience is needed as well.
+
+48
+00:02:02,09 --> 00:02:05,04
+No, front end coding really isn't UX,
+
+49
+00:02:05,04 --> 00:02:08,03
+but it's often thrown in with UX job recs anyway.
+
+50
+00:02:08,03 --> 00:02:11,03
+So now, you have a valid generalist, fine,
+
+51
+00:02:11,03 --> 00:02:14,02
+but you don't have an expert in anything.
+
+52
+00:02:14,02 --> 00:02:16,09
+If you didn't need the expertise then okay,
+
+53
+00:02:16,09 --> 00:02:19,07
+but expertise counts for something.
+
+54
+00:02:19,07 --> 00:02:22,00
+Speaking personally, while I'm happy to tell you
+
+55
+00:02:22,00 --> 00:02:24,00
+that anyone can do user research,
+
+56
+00:02:24,00 --> 00:02:27,04
+I make my living off user research expertise.
+
+57
+00:02:27,04 --> 00:02:29,00
+Because I spent so many years
+
+58
+00:02:29,00 --> 00:02:31,04
+almost exclusively as a user researcher,
+
+59
+00:02:31,04 --> 00:02:33,03
+people hire me to propose exactly
+
+60
+00:02:33,03 --> 00:02:35,07
+the right kind of research for their needs,
+
+61
+00:02:35,07 --> 00:02:38,00
+to conduct that research in the right way,
+
+62
+00:02:38,00 --> 00:02:39,08
+to appropriately gather information
+
+63
+00:02:39,08 --> 00:02:41,03
+while dealing on the fly with varied
+
+64
+00:02:41,03 --> 00:02:43,06
+and unanticipated situations,
+
+65
+00:02:43,06 --> 00:02:45,04
+to record the critical data points
+
+66
+00:02:45,04 --> 00:02:47,04
+that answer the research questions
+
+67
+00:02:47,04 --> 00:02:49,09
+and to properly analyze that data.
+
+68
+00:02:49,09 --> 00:02:52,04
+So yes, a generalist with some research
+
+69
+00:02:52,04 --> 00:02:54,08
+among many other skill sets is a real thing,
+
+70
+00:02:54,08 --> 00:02:56,07
+but this person is not going to be anywhere near
+
+71
+00:02:56,07 --> 00:02:59,08
+the level of expertise of a research expert.
+
+72
+00:02:59,08 --> 00:03:01,06
+No matter how much you want it all,
+
+73
+00:03:01,06 --> 00:03:05,00
+just stay aware of what is realistic and what isn't.
+

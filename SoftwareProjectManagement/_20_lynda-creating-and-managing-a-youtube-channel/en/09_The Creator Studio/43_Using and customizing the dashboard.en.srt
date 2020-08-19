@@ -1,0 +1,433 @@
+1
+00:00:00.07 --> 00:00:02.07
+- When you log into Creator Studio
+
+2
+00:00:02.07 --> 00:00:05.03
+there's an initial view
+called the Dashboard
+
+3
+00:00:05.03 --> 00:00:08.03
+where you can get a good
+overview of your content.
+
+4
+00:00:08.03 --> 00:00:09.08
+Let me show you how it works.
+
+5
+00:00:09.08 --> 00:00:10.09
+With the Dashboard,
+
+6
+00:00:10.09 --> 00:00:14.05
+you can control what
+information YouTube shows you.
+
+7
+00:00:14.05 --> 00:00:16.07
+Now, you can dig deeper into any section
+
+8
+00:00:16.07 --> 00:00:18.03
+and some sections will provide
+
+9
+00:00:18.03 --> 00:00:20.05
+a certain level of customization.
+
+10
+00:00:20.05 --> 00:00:21.09
+In order to view this,
+
+11
+00:00:21.09 --> 00:00:23.08
+just go to Creator Studio
+
+12
+00:00:23.08 --> 00:00:27.05
+and visit the top tab for Dashboard.
+
+13
+00:00:27.05 --> 00:00:29.09
+Your view may look a little bit different.
+
+14
+00:00:29.09 --> 00:00:33.08
+You'll notice if you scroll
+down there's different areas.
+
+15
+00:00:33.08 --> 00:00:37.04
+And these areas can be navigated to.
+
+16
+00:00:37.04 --> 00:00:39.02
+Clicking on the settings
+icon, for example,
+
+17
+00:00:39.02 --> 00:00:46.03
+controls how many items are
+shown here for comments.
+
+18
+00:00:46.03 --> 00:00:47.08
+And it updates.
+
+19
+00:00:47.08 --> 00:00:49.07
+If I want to remove a section,
+
+20
+00:00:49.07 --> 00:00:53.02
+I can click and it goes away.
+
+21
+00:00:53.02 --> 00:00:56.03
+That's easy enough.
+
+22
+00:00:56.03 --> 00:00:58.02
+Maybe I decide that I want to
+
+23
+00:00:58.02 --> 00:01:00.03
+get rid of the What's New section.
+
+24
+00:01:00.03 --> 00:01:03.02
+Well, now it's not cluttered.
+
+25
+00:01:03.02 --> 00:01:07.03
+But, you'll see here that
+sections can be dragged,
+
+26
+00:01:07.03 --> 00:01:10.04
+and reordered.
+
+27
+00:01:10.04 --> 00:01:12.03
+Giving you a little bit of flexibility
+
+28
+00:01:12.03 --> 00:01:14.09
+on the content itself.
+
+29
+00:01:14.09 --> 00:01:16.06
+You see it reflows.
+
+30
+00:01:16.06 --> 00:01:18.08
+Now, what you have the option for here
+
+31
+00:01:18.08 --> 00:01:20.06
+is clicking the little pad here
+
+32
+00:01:20.06 --> 00:01:23.06
+will give you the ability to move that.
+
+33
+00:01:23.06 --> 00:01:25.05
+If you click View all,
+
+34
+00:01:25.05 --> 00:01:28.09
+it'll dig into the tile and
+show you more information.
+
+35
+00:01:28.09 --> 00:01:31.06
+In this case, on Analytics.
+
+36
+00:01:31.06 --> 00:01:34.01
+So this does make it pretty simple.
+
+37
+00:01:34.01 --> 00:01:36.03
+Now, when you go back you might notice
+
+38
+00:01:36.03 --> 00:01:38.02
+that some things come back here
+
+39
+00:01:38.02 --> 00:01:40.09
+and it's going to tell you
+more about other options.
+
+40
+00:01:40.09 --> 00:01:42.06
+So, for example, it tells me here
+
+41
+00:01:42.06 --> 00:01:45.00
+I can add a customized
+notification widget.
+
+42
+00:01:45.00 --> 00:01:47.00
+It's just prompting me.
+
+43
+00:01:47.00 --> 00:01:50.03
+So, if I click that there, it's
+going to give me some tips.
+
+44
+00:01:50.03 --> 00:01:53.02
+So it just suggested
+that I add that back in.
+
+45
+00:01:53.02 --> 00:01:54.09
+If I click Add widget here,
+
+46
+00:01:54.09 --> 00:01:57.03
+you'll see there are some other options.
+
+47
+00:01:57.03 --> 00:01:59.04
+So, if I want to know what's new,
+
+48
+00:01:59.04 --> 00:02:01.08
+I click and it comes back.
+
+49
+00:02:01.08 --> 00:02:06.02
+And this gives me those articles.
+
+50
+00:02:06.02 --> 00:02:09.05
+If I decide to, I can move
+that to a different location.
+
+51
+00:02:09.05 --> 00:02:12.05
+Some tiles or widgets
+actually have a gear icon
+
+52
+00:02:12.05 --> 00:02:14.02
+and you'll see that you can name it.
+
+53
+00:02:14.02 --> 00:02:16.09
+So, I made one called Published Videos
+
+54
+00:02:16.09 --> 00:02:20.02
+and told it to show the
+four videos that are public.
+
+55
+00:02:20.02 --> 00:02:23.09
+On the other hand, I also
+made another widget down here
+
+56
+00:02:23.09 --> 00:02:25.07
+that was set to show me four videos
+
+57
+00:02:25.07 --> 00:02:28.03
+that were currently set to private
+
+58
+00:02:28.03 --> 00:02:31.02
+or, perhaps, that were unlisted.
+
+59
+00:02:31.02 --> 00:02:34.07
+This makes it easy to track
+different types of content.
+
+60
+00:02:34.07 --> 00:02:37.00
+Or you can do a custom search here
+
+61
+00:02:37.00 --> 00:02:39.05
+and set a key word or other area.
+
+62
+00:02:39.05 --> 00:02:41.04
+Clicking here for advanced search
+
+63
+00:02:41.04 --> 00:02:43.02
+will give you some particular tips
+
+64
+00:02:43.02 --> 00:02:48.00
+and recipes on which
+parameters you can search for.
+
+65
+00:02:48.00 --> 00:02:49.05
+Now, this is easy enough
+
+66
+00:02:49.05 --> 00:02:51.03
+and just take a look at
+the different widgets
+
+67
+00:02:51.03 --> 00:02:52.08
+and options you have.
+
+68
+00:02:52.08 --> 00:02:54.06
+The big thing here is you can really add
+
+69
+00:02:54.06 --> 00:02:57.01
+a lot of different video widgets.
+
+70
+00:02:57.01 --> 00:02:58.06
+Clicking here on the settings
+
+71
+00:02:58.06 --> 00:03:00.04
+are going to allow you to customize that
+
+72
+00:03:00.04 --> 00:03:02.03
+and you can easily tell it to look
+
+73
+00:03:02.03 --> 00:03:04.08
+for particular types of content.
+
+74
+00:03:04.08 --> 00:03:08.00
+Remember, the Custom search
+is the most powerful way
+
+75
+00:03:08.00 --> 00:03:11.05
+to find particular videos
+that are doing well.
+
+76
+00:03:11.05 --> 00:03:14.03
+For example, if I say search for custom
+
+77
+00:03:14.03 --> 00:03:17.07
+I can search for a particular title.
+
+78
+00:03:17.07 --> 00:03:20.06
+Let's do a copy here.
+
+79
+00:03:20.06 --> 00:03:27.08
+And I'll say search for videos
+who's title contains Luminar.
+
+80
+00:03:27.08 --> 00:03:29.09
+And I'll click Save.
+
+81
+00:03:29.09 --> 00:03:32.08
+And you see that it found
+all of those videos.
+
+82
+00:03:32.08 --> 00:03:35.02
+So if I want to track
+a particular campaign
+
+83
+00:03:35.02 --> 00:03:37.03
+and see how those videos are doing,
+
+84
+00:03:37.03 --> 00:03:39.06
+well, this makes it
+easy to track a keyword
+
+85
+00:03:39.06 --> 00:03:42.04
+or engagement within my channel.
+
+86
+00:03:42.04 --> 00:03:45.05
+There are lots of different
+ways to do custom searches.
+
+87
+00:03:45.05 --> 00:03:48.08
+But customizing this
+Dashboard is a good idea.
+
+88
+00:03:48.08 --> 00:03:52.04
+Now, if you take a look at
+the newer YouTube Studio,
+
+89
+00:03:52.04 --> 00:03:54.09
+what you'll notice is that customization
+
+90
+00:03:54.09 --> 00:03:57.05
+really isn't much of an option.
+
+91
+00:03:57.05 --> 00:04:00.00
+We can go here to different
+tabs like Analytics
+
+92
+00:04:00.00 --> 00:04:01.07
+and we'll talk more about these analytics.
+
+93
+00:04:01.07 --> 00:04:03.09
+I actually think they're very well done.
+
+94
+00:04:03.09 --> 00:04:05.04
+But, under settings here,
+
+95
+00:04:05.04 --> 00:04:08.03
+you really only have one choice which is
+
+96
+00:04:08.03 --> 00:04:11.01
+show me the old one or
+show me the new one.
+
+97
+00:04:11.01 --> 00:04:13.06
+And you just don't have
+the level of control
+
+98
+00:04:13.06 --> 00:04:16.07
+that you do inside of
+Creator Studio Classic,
+
+99
+00:04:16.07 --> 00:04:19.05
+which is why YouTube is
+still making both available
+
+100
+00:04:19.05 --> 00:04:21.00
+for some time to come.
+

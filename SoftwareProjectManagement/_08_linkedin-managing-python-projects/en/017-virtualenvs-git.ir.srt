@@ -1,0 +1,156 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,00
+A python interpreter can work with
+
+2
+00:00:02,00 --> 00:00:05,00
+only one version of a package at a time.
+
+3
+00:00:05,00 --> 00:00:09,03
+If you work on two projects, one using pandas 0.22,
+
+4
+00:00:09,03 --> 00:00:12,05
+and the other using pandas 0.25, this can
+
+5
+00:00:12,05 --> 00:00:13,07
+be an issue.
+
+6
+00:00:13,07 --> 00:00:16,08
+A lot of unit distributions, and also OSX,
+
+7
+00:00:16,08 --> 00:00:19,07
+uses Python scripts to manage the system,
+
+8
+00:00:19,07 --> 00:00:22,02
+which means that if you install a non-compatible
+
+9
+00:00:22,02 --> 00:00:23,05
+version of a package,
+
+10
+00:00:23,05 --> 00:00:25,06
+you broke the system.
+
+11
+00:00:25,06 --> 00:00:29,02
+To solve these problems, we use virtual environments.
+
+12
+00:00:29,02 --> 00:00:31,06
+A virtual environment is an isolated Python
+
+13
+00:00:31,06 --> 00:00:33,01
+installation.
+
+14
+00:00:33,01 --> 00:00:35,03
+You create a virtual environment for a project
+
+15
+00:00:35,03 --> 00:00:36,01
+that you work on.
+
+16
+00:00:36,01 --> 00:00:39,04
+To create a virtual environment, you can use the
+
+17
+00:00:39,04 --> 00:00:41,01
+built-in venv model,
+
+18
+00:00:41,01 --> 00:00:44,03
+or the popular third party virtualenv.
+
+19
+00:00:44,03 --> 00:00:46,03
+I'm going to use the latter.
+
+20
+00:00:46,03 --> 00:00:48,00
+Note that if you use other package
+
+21
+00:00:48,00 --> 00:00:50,00
+managers, the following commands
+
+22
+00:00:50,00 --> 00:00:51,01
+might differ.
+
+23
+00:00:51,01 --> 00:00:53,08
+Read the documentation.
+
+24
+00:00:53,08 --> 00:00:58,05
+So, virtualenv venv will create a
+
+25
+00:00:58,05 --> 00:01:01,00
+directory called venv with an isolated
+
+26
+00:01:01,00 --> 00:01:04,05
+installation of Python.
+
+27
+00:01:04,05 --> 00:01:07,03
+Now, once I have the virtual environmenent,
+
+28
+00:01:07,03 --> 00:01:09,07
+I can install my dependencies.
+
+29
+00:01:09,07 --> 00:01:14,01
+/venv/bin/python -m pip install- r,
+
+30
+00:01:14,01 --> 00:01:19,09
+and then the requirements I have,
+
+31
+00:01:19,09 --> 00:01:21,05
+and these are going to get installed
+
+32
+00:01:21,05 --> 00:01:23,07
+into the virtual environment,
+
+33
+00:01:23,07 --> 00:01:26,05
+not into the system Python.
+
+34
+00:01:26,05 --> 00:01:27,09
+You need to use Python from a
+
+35
+00:01:27,09 --> 00:01:30,08
+virtual environment in your project.
+
+36
+00:01:30,08 --> 00:01:32,09
+Most Python IDs ,such as Pycharm,
+
+37
+00:01:32,09 --> 00:01:36,03
+know about virtual environments and how to use them.
+
+38
+00:01:36,03 --> 00:01:38,00
+Read the documentation.
+

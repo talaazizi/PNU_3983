@@ -1,0 +1,635 @@
+1
+00:00:00.06 --> 00:00:01.09
+- Here is the bad news.
+
+2
+00:00:01.09 --> 00:00:03.09
+Once you're in the partner program,
+
+3
+00:00:03.09 --> 00:00:05.03
+it doesn't mean you're guaranteed
+
+4
+00:00:05.03 --> 00:00:08.01
+to always be in the partner program.
+
+5
+00:00:08.01 --> 00:00:11.07
+You have to actively
+maintain and keep publishing
+
+6
+00:00:11.07 --> 00:00:16.04
+your account on a regular
+basis or Google may drop you.
+
+7
+00:00:16.04 --> 00:00:20.02
+You still need to maintain the
+same minimum of viewer hours
+
+8
+00:00:20.02 --> 00:00:21.09
+and total number of viewers
+
+9
+00:00:21.09 --> 00:00:25.08
+or you could find yourself
+being kicked out of the program.
+
+10
+00:00:25.08 --> 00:00:27.03
+So how do you keep an eye on this?
+
+11
+00:00:27.03 --> 00:00:30.04
+Well, first up, if you're
+using Creator Studio Classic,
+
+12
+00:00:30.04 --> 00:00:32.05
+you can just log into your account
+
+13
+00:00:32.05 --> 00:00:35.01
+and take a look at the analytics.
+
+14
+00:00:35.01 --> 00:00:36.04
+View the watch time
+
+15
+00:00:36.04 --> 00:00:39.08
+and here's where you can
+easily see what's happened.
+
+16
+00:00:39.08 --> 00:00:42.05
+You can download the report if
+you want to check it as well,
+
+17
+00:00:42.05 --> 00:00:44.01
+but this gives you a pretty good idea
+
+18
+00:00:44.01 --> 00:00:47.09
+of how much content has been consumed.
+
+19
+00:00:47.09 --> 00:00:50.03
+An easier way to access this directly
+
+20
+00:00:50.03 --> 00:00:53.01
+is to use the analytics link here.
+
+21
+00:00:53.01 --> 00:00:56.06
+This just took you right to
+the analytics and watch time
+
+22
+00:00:56.06 --> 00:00:59.08
+and you can see how many views you've had.
+
+23
+00:00:59.08 --> 00:01:01.04
+This will help give you a pretty good idea
+
+24
+00:01:01.04 --> 00:01:03.02
+on the total number of views
+
+25
+00:01:03.02 --> 00:01:06.05
+and what you can do is
+actually adjust this to see
+
+26
+00:01:06.05 --> 00:01:10.00
+for the last 12 months if you'd like
+
+27
+00:01:10.00 --> 00:01:11.03
+and it'll give you a good idea
+
+28
+00:01:11.03 --> 00:01:14.07
+if you're going to be
+eligible for the program.
+
+29
+00:01:14.07 --> 00:01:17.06
+So I see for example that
+I do have enough minutes
+
+30
+00:01:17.06 --> 00:01:20.06
+to actually qualify of total views.
+
+31
+00:01:20.06 --> 00:01:23.01
+And it gives you a pretty
+good idea of when spikes were.
+
+32
+00:01:23.01 --> 00:01:25.05
+For example, we had a
+really good period here
+
+33
+00:01:25.05 --> 00:01:27.06
+when we did a lot of
+coverage of new software
+
+34
+00:01:27.06 --> 00:01:28.09
+that just came out
+
+35
+00:01:28.09 --> 00:01:30.07
+and the company decided to promote it
+
+36
+00:01:30.07 --> 00:01:32.03
+and feature it as well.
+
+37
+00:01:32.03 --> 00:01:35.00
+That worked out nicely.
+
+38
+00:01:35.00 --> 00:01:36.05
+Now as you take a look at this,
+
+39
+00:01:36.05 --> 00:01:38.06
+this will help you track what's going on
+
+40
+00:01:38.06 --> 00:01:42.01
+so you can see the total
+number of viewing hours.
+
+41
+00:01:42.01 --> 00:01:43.07
+And remember, you can also take a look
+
+42
+00:01:43.07 --> 00:01:47.03
+at your general overview to
+see the number of subscribers.
+
+43
+00:01:47.03 --> 00:01:49.07
+Looking at these analytics,
+you can get a good idea
+
+44
+00:01:49.07 --> 00:01:52.05
+of what changes have happened over time.
+
+45
+00:01:52.05 --> 00:01:54.08
+If you're using the YouTube Studio Beta,
+
+46
+00:01:54.08 --> 00:01:57.05
+this also provides analytics.
+
+47
+00:01:57.05 --> 00:02:01.01
+Simply click on the analytics
+link in the left-hand menu
+
+48
+00:02:01.01 --> 00:02:03.06
+and you could take a
+look at the overview tab
+
+49
+00:02:03.06 --> 00:02:05.09
+to see two useful cards,
+
+50
+00:02:05.09 --> 00:02:08.07
+channel watch time and video watch
+
+51
+00:02:08.07 --> 00:02:12.06
+which gives you an idea on
+comparison between two periods.
+
+52
+00:02:12.06 --> 00:02:16.07
+If you click on these cards,
+you'll get more information.
+
+53
+00:02:16.07 --> 00:02:19.03
+Here is the watch time card for example
+
+54
+00:02:19.03 --> 00:02:21.09
+and clicking expands the report
+
+55
+00:02:21.09 --> 00:02:24.07
+and gives me additional info.
+
+56
+00:02:24.07 --> 00:02:27.04
+Notice that you can
+actually refine this as well
+
+57
+00:02:27.04 --> 00:02:29.07
+to see what's happened over time.
+
+58
+00:02:29.07 --> 00:02:30.08
+It gives you a pretty good idea
+
+59
+00:02:30.08 --> 00:02:33.01
+of what's going on with your content
+
+60
+00:02:33.01 --> 00:02:36.01
+so you can really make
+accurate judgements.
+
+61
+00:02:36.01 --> 00:02:38.09
+The ability to use analytics
+can be quite helpful
+
+62
+00:02:38.09 --> 00:02:42.00
+as you want to better
+understand what content
+
+63
+00:02:42.00 --> 00:02:46.00
+and what behaviors are connecting.
+
+64
+00:02:46.00 --> 00:02:48.05
+Now if you lose your membership,
+
+65
+00:02:48.05 --> 00:02:50.06
+it's going to be because you fell below
+
+66
+00:02:50.06 --> 00:02:53.08
+the 1,000 subscribers minimum
+
+67
+00:02:53.08 --> 00:02:56.02
+or the 4,000 watch hours.
+
+68
+00:02:56.02 --> 00:02:58.08
+You need both.
+
+69
+00:02:58.08 --> 00:03:00.07
+Channels that previously reached
+
+70
+00:03:00.07 --> 00:03:02.04
+these requirement thresholds
+
+71
+00:03:02.04 --> 00:03:04.08
+will not necessarily lose monetization
+
+72
+00:03:04.08 --> 00:03:07.09
+just because they drop
+below 4,000 watch hours
+
+73
+00:03:07.09 --> 00:03:09.06
+or 1,000 subscribers,
+
+74
+00:03:09.06 --> 00:03:11.08
+but Google does reserve the right
+
+75
+00:03:11.08 --> 00:03:13.09
+if you don't maintain these thresholds
+
+76
+00:03:13.09 --> 00:03:19.02
+to have the ability to kick
+you out of the program.
+
+77
+00:03:19.02 --> 00:03:20.08
+It comes down to this.
+
+78
+00:03:20.08 --> 00:03:23.04
+Make sure that you keep your numbers up.
+
+79
+00:03:23.04 --> 00:03:27.09
+Otherwise, Google at its
+discretion might remove you.
+
+80
+00:03:27.09 --> 00:03:30.01
+If you drop below those requirements,
+
+81
+00:03:30.01 --> 00:03:32.07
+they can strongly consider dropping you.
+
+82
+00:03:32.07 --> 00:03:34.09
+Or if your channel has been inactive
+
+83
+00:03:34.09 --> 00:03:37.02
+and you're not uploading
+or posting content
+
+84
+00:03:37.02 --> 00:03:38.08
+for six months or more.
+
+85
+00:03:38.08 --> 00:03:41.02
+You don't necessarily
+have to upload videos.
+
+86
+00:03:41.02 --> 00:03:43.09
+You can still use the
+existing videos you have,
+
+87
+00:03:43.09 --> 00:03:46.07
+but you need to be making
+posts and replying to people
+
+88
+00:03:46.07 --> 00:03:51.05
+and actively involved in
+maintaining your channel.
+
+89
+00:03:51.05 --> 00:03:55.02
+If you violate any of the
+YouTube partner program policies,
+
+90
+00:03:55.02 --> 00:03:57.04
+regardless of how successful you are
+
+91
+00:03:57.04 --> 00:03:59.07
+with watch hours and subscriber count,
+
+92
+00:03:59.07 --> 00:04:01.09
+you may find yourself kicked out
+
+93
+00:04:01.09 --> 00:04:05.01
+so make sure you take a look
+at those terms of service.
+
+94
+00:04:05.01 --> 00:04:06.00
+Now in the past,
+
+95
+00:04:06.00 --> 00:04:08.02
+I used to recommend the
+YouTube partner program
+
+96
+00:04:08.02 --> 00:04:10.09
+to just about everyone in
+order to take advantage
+
+97
+00:04:10.09 --> 00:04:13.00
+of some of the most
+useful features in YouTube
+
+98
+00:04:13.00 --> 00:04:14.08
+like links and streaming.
+
+99
+00:04:14.08 --> 00:04:17.04
+You had to join the partner program.
+
+100
+00:04:17.04 --> 00:04:21.05
+But YouTube has made it a lot
+harder to monetize with ads.
+
+101
+00:04:21.05 --> 00:04:23.09
+A big part of that, the
+official part of that,
+
+102
+00:04:23.09 --> 00:04:26.02
+is that they don't want
+people uploading content
+
+103
+00:04:26.02 --> 00:04:27.04
+they don't have the rights to
+
+104
+00:04:27.04 --> 00:04:30.08
+or abusing the system
+to monetize with ads.
+
+105
+00:04:30.08 --> 00:04:34.06
+Google wants the ad money to
+go to real content creators
+
+106
+00:04:34.06 --> 00:04:36.05
+so they've been much more stringent
+
+107
+00:04:36.05 --> 00:04:39.00
+about letting people in
+to the partner program
+
+108
+00:04:39.00 --> 00:04:41.03
+and evaluating their content
+
+109
+00:04:41.03 --> 00:04:44.03
+as well as making sure that
+people get actual subscribers.
+
+110
+00:04:44.03 --> 00:04:46.07
+It doesn't matter that
+you get a lot of views
+
+111
+00:04:46.07 --> 00:04:49.00
+because you uploaded some pirated content.
+
+112
+00:04:49.00 --> 00:04:50.09
+People aren't subscribing to your channel
+
+113
+00:04:50.09 --> 00:04:53.00
+because you're not providing good stuff.
+
+114
+00:04:53.00 --> 00:04:56.03
+Therefore, you're ineligible
+for the partner program.
+
+115
+00:04:56.03 --> 00:04:58.07
+Now fortunately, most of the cool stuff
+
+116
+00:04:58.07 --> 00:05:02.03
+that used to be requirements
+of joining the partner program
+
+117
+00:05:02.03 --> 00:05:05.04
+and dependent upon it,
+well that's changed.
+
+118
+00:05:05.04 --> 00:05:06.03
+You don't have to worry
+
+119
+00:05:06.03 --> 00:05:08.01
+about being a member
+of the partner program
+
+120
+00:05:08.01 --> 00:05:11.00
+to do live streaming or
+to take advantage of cards
+
+121
+00:05:11.00 --> 00:05:13.01
+or to have custom thumbnails.
+
+122
+00:05:13.01 --> 00:05:15.08
+So a lot of the stuff that was most useful
+
+123
+00:05:15.08 --> 00:05:19.00
+and desirable in YouTube is now decoupled
+
+124
+00:05:19.00 --> 00:05:20.08
+from the partner program.
+
+125
+00:05:20.08 --> 00:05:23.04
+But if monetization is your goal
+
+126
+00:05:23.04 --> 00:05:25.08
+or you'd like to take
+advantage of YouTube Studios
+
+127
+00:05:25.08 --> 00:05:27.09
+and other facilities for your productions
+
+128
+00:05:27.09 --> 00:05:29.06
+or meetings or training,
+
+129
+00:05:29.06 --> 00:05:32.04
+well then join the
+YouTube partner program.
+
+130
+00:05:32.04 --> 00:05:34.00
+I can tell you that personally,
+
+131
+00:05:34.00 --> 00:05:36.03
+I don't rely very heavily on it anymore
+
+132
+00:05:36.03 --> 00:05:39.05
+because I don't use YouTube's
+ad system to make money,
+
+133
+00:05:39.05 --> 00:05:42.03
+but I do love the fact
+that I could build in links
+
+134
+00:05:42.03 --> 00:05:44.04
+to products and donations
+
+135
+00:05:44.04 --> 00:05:46.00
+or to products that are for sale
+
+136
+00:05:46.00 --> 00:05:48.09
+or webpages that I run
+for other properties
+
+137
+00:05:48.09 --> 00:05:50.03
+and to connect this all together
+
+138
+00:05:50.03 --> 00:05:52.07
+in a very effective network.
+
+139
+00:05:52.07 --> 00:05:54.07
+Ultimately it comes down to this.
+
+140
+00:05:54.07 --> 00:05:57.09
+Figure out what's the
+right fit for your channel,
+
+141
+00:05:57.09 --> 00:06:00.04
+your customer or organization,
+
+142
+00:06:00.04 --> 00:06:02.09
+and the content that you're making.
+
+143
+00:06:02.09 --> 00:06:06.01
+Sometimes ads work and
+sometimes they don't,
+
+144
+00:06:06.01 --> 00:06:08.06
+but you need to determine
+what's right for you.
+

@@ -1,0 +1,48 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,07 --> 00:00:06,00
+(upbeat music)
+
+2
+00:00:06,00 --> 00:00:07,06
+- [Instructor] Create an issue to add a function
+
+3
+00:00:07,06 --> 00:00:09,06
+called sentencize that will take a text
+
+4
+00:00:09,06 --> 00:00:12,04
+and split it to sentences.
+
+5
+00:00:12,04 --> 00:00:14,08
+Once you create the issue, implement the code
+
+6
+00:00:14,08 --> 00:00:17,07
+in a feature branch and create the pull request.
+
+7
+00:00:17,07 --> 00:00:19,09
+Don't forget to write tests.
+
+8
+00:00:19,09 --> 00:00:22,08
+Once the pull review is ready, have a friend review it,
+
+9
+00:00:22,08 --> 00:00:25,08
+and once they approve, merge to master.
+
+10
+00:00:25,08 --> 00:00:28,07
+In the exercise file, you can find my implementation
+
+11
+00:00:28,07 --> 00:00:32,00
+to sentencize and the tests to run.
+

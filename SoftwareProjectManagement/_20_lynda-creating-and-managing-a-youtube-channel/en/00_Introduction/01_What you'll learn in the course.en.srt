@@ -1,0 +1,496 @@
+1
+00:00:00.06 --> 00:00:03.04
+- Hi, my name's Rich Harrington
+and welcome to this course
+
+2
+00:00:03.04 --> 00:00:06.09
+where we'll explore creating
+and managing a YouTube channel.
+
+3
+00:00:06.09 --> 00:00:09.06
+There's an awful lot to
+cover and we've got many
+
+4
+00:00:09.06 --> 00:00:11.07
+different areas we're going to look at.
+
+5
+00:00:11.07 --> 00:00:13.07
+Now, in order to succeed in this course,
+
+6
+00:00:13.07 --> 00:00:17.00
+you'll need to be able to
+master many different skills.
+
+7
+00:00:17.00 --> 00:00:19.02
+There are parts that are super easy,
+
+8
+00:00:19.02 --> 00:00:22.03
+and then there are parts that
+are a bit more difficult.
+
+9
+00:00:22.03 --> 00:00:24.06
+Adding to the complexity,
+is the fact also,
+
+10
+00:00:24.06 --> 00:00:27.09
+that YouTube is frequently in transition.
+
+11
+00:00:27.09 --> 00:00:30.05
+For example, they've been in
+the middle of a beta process
+
+12
+00:00:30.05 --> 00:00:33.00
+that's lasted almost two
+years as they're starting
+
+13
+00:00:33.00 --> 00:00:35.08
+to completely change the user interface.
+
+14
+00:00:35.08 --> 00:00:37.03
+As such, during this course,
+
+15
+00:00:37.03 --> 00:00:41.00
+I'll often show you two different
+ways to do the same thing.
+
+16
+00:00:41.00 --> 00:00:43.04
+Now the key thing to
+remember here is that change
+
+17
+00:00:43.04 --> 00:00:46.06
+is inevitable and Google
+adds and subtracts features
+
+18
+00:00:46.06 --> 00:00:48.04
+from YouTube all the time.
+
+19
+00:00:48.04 --> 00:00:51.00
+But the core skills we cover
+in this course are going to
+
+20
+00:00:51.00 --> 00:00:53.07
+be useful to you even as the software
+
+21
+00:00:53.07 --> 00:00:56.07
+and the website goes through
+many different changes.
+
+22
+00:00:56.07 --> 00:00:58.07
+So what exactly are you going to learn?
+
+23
+00:00:58.07 --> 00:01:00.07
+We'll start things off
+by making sure you have
+
+24
+00:01:00.07 --> 00:01:03.08
+a thorough understanding of
+what a YouTube channel can do.
+
+25
+00:01:03.08 --> 00:01:06.00
+What are the benefits and
+some of the potential things
+
+26
+00:01:06.00 --> 00:01:08.07
+you need to keep an eye
+on in order to succeed.
+
+27
+00:01:08.07 --> 00:01:11.09
+We'll then talk about
+Google IDs which is used
+
+28
+00:01:11.09 --> 00:01:14.03
+at the individual level
+to control your presence
+
+29
+00:01:14.03 --> 00:01:17.06
+on Google properties like
+YouTube, as well as other sites
+
+30
+00:01:17.06 --> 00:01:19.09
+such as Google Plus and Google Photos,
+
+31
+00:01:19.09 --> 00:01:21.07
+as well as Google Maps.
+
+32
+00:01:21.07 --> 00:01:24.06
+Plus we'll explore the
+use of a brand account
+
+33
+00:01:24.06 --> 00:01:27.02
+so multiple people can control a website
+
+34
+00:01:27.02 --> 00:01:29.07
+or that you can actually
+brand your YouTube channel
+
+35
+00:01:29.07 --> 00:01:33.03
+differently than you as an individual.
+
+36
+00:01:33.03 --> 00:01:34.08
+We'll then walk you through the process
+
+37
+00:01:34.08 --> 00:01:37.00
+of creating a new YouTube channel.
+
+38
+00:01:37.00 --> 00:01:39.05
+You can create one channel
+or multiple channels
+
+39
+00:01:39.05 --> 00:01:42.09
+if you take advantage
+of those brand accounts.
+
+40
+00:01:42.09 --> 00:01:45.02
+I'll then make sure you
+understand what's necessary
+
+41
+00:01:45.02 --> 00:01:47.00
+to create channel artwork.
+
+42
+00:01:47.00 --> 00:01:49.09
+This is going to be the graphics
+that you use on the page
+
+43
+00:01:49.09 --> 00:01:53.03
+and within videos to
+successfully establish your brand
+
+44
+00:01:53.03 --> 00:01:56.05
+so people can find you again,
+as well as to reinforce
+
+45
+00:01:56.05 --> 00:02:00.04
+other things about you or your channel.
+
+46
+00:02:00.04 --> 00:02:02.03
+We'll talk about uploading video content,
+
+47
+00:02:02.03 --> 00:02:04.07
+whether you want to
+upload single video files
+
+48
+00:02:04.07 --> 00:02:07.00
+or multiple video files,
+as well as some of
+
+49
+00:02:07.00 --> 00:02:09.07
+the advanced options that
+are available if you make it
+
+50
+00:02:09.07 --> 00:02:12.04
+into certain levels of the
+YouTube Partner Program
+
+51
+00:02:12.04 --> 00:02:14.06
+or you take advantage of Content ID
+
+52
+00:02:14.06 --> 00:02:18.03
+because you are a major content creator.
+
+53
+00:02:18.03 --> 00:02:20.07
+We'll also talk about
+using Playlists to help
+
+54
+00:02:20.07 --> 00:02:23.09
+with navigation, making it
+easier for people to discover
+
+55
+00:02:23.09 --> 00:02:27.02
+and watch multiple videos
+that are similarly themed.
+
+56
+00:02:27.02 --> 00:02:29.04
+And I'll walk you through
+some of the navigation options
+
+57
+00:02:29.04 --> 00:02:31.09
+you have to customize your
+page to make it easier
+
+58
+00:02:31.09 --> 00:02:34.03
+for people to browse and find the content
+
+59
+00:02:34.03 --> 00:02:36.07
+that they're interested in.
+
+60
+00:02:36.07 --> 00:02:40.06
+We'll explore how you can
+use annotations and captions.
+
+61
+00:02:40.06 --> 00:02:43.09
+Annotations, or cards, allow
+you to add interactive links
+
+62
+00:02:43.09 --> 00:02:46.05
+to a video, and these can be
+used for all sorts of things
+
+63
+00:02:46.05 --> 00:02:50.00
+from selling of products to
+taking a survey or a poll.
+
+64
+00:02:50.00 --> 00:02:52.04
+And we'll explore how captions can be used
+
+65
+00:02:52.04 --> 00:02:55.02
+to communicate videos
+in multiple languages
+
+66
+00:02:55.02 --> 00:02:58.09
+or to help people who are
+hard of hearing or deaf.
+
+67
+00:02:58.09 --> 00:03:00.03
+I'll also give you some strategies
+
+68
+00:03:00.03 --> 00:03:02.03
+on building a YouTube community.
+
+69
+00:03:02.03 --> 00:03:04.06
+A few pieces of practical
+advice that I've learned
+
+70
+00:03:04.06 --> 00:03:06.09
+through the years as well as
+how you can take advantage
+
+71
+00:03:06.09 --> 00:03:10.00
+of built in options inside
+the website to make it easier
+
+72
+00:03:10.00 --> 00:03:13.01
+to connect with your audience.
+
+73
+00:03:13.01 --> 00:03:14.08
+We'll talk about the Creator Studio,
+
+74
+00:03:14.08 --> 00:03:18.00
+as well as the new version
+that's been in beta development
+
+75
+00:03:18.00 --> 00:03:20.09
+so you know how to access
+it as well as customize it
+
+76
+00:03:20.09 --> 00:03:23.06
+to get the information
+that you need when browsing
+
+77
+00:03:23.06 --> 00:03:26.09
+and organizing your content.
+
+78
+00:03:26.09 --> 00:03:30.00
+I'll also share with you some
+strategies for live streaming.
+
+79
+00:03:30.00 --> 00:03:32.07
+Both the simple to use Google Hangouts,
+
+80
+00:03:32.07 --> 00:03:34.07
+and the more complex option
+
+81
+00:03:34.07 --> 00:03:37.00
+of setting up your own encoding hardware.
+
+82
+00:03:37.00 --> 00:03:38.08
+Now we're not going to
+go completely in depth
+
+83
+00:03:38.08 --> 00:03:41.02
+on all things streaming,
+but this will get you
+
+84
+00:03:41.02 --> 00:03:43.05
+up and running.
+
+85
+00:03:43.05 --> 00:03:45.02
+And we'll talk a bit about signing up
+
+86
+00:03:45.02 --> 00:03:47.05
+for the YouTube Partner
+Program that gives you
+
+87
+00:03:47.05 --> 00:03:49.04
+additional features on the site
+
+88
+00:03:49.04 --> 00:03:52.06
+and the option to potentially
+monetize your content.
+
+89
+00:03:52.06 --> 00:03:54.03
+Now, we've got a lot of ground to cover
+
+90
+00:03:54.03 --> 00:03:56.09
+and there are some areas that overlap.
+
+91
+00:03:56.09 --> 00:04:00.00
+So I'll frequently introduce
+concepts or technology
+
+92
+00:04:00.00 --> 00:04:02.07
+in one section that effect another.
+
+93
+00:04:02.07 --> 00:04:06.06
+As such, I would strongly
+encourage you to consider watching
+
+94
+00:04:06.06 --> 00:04:09.05
+this class in the order that I present it.
+
+95
+00:04:09.05 --> 00:04:11.03
+There's a lot of dependent information
+
+96
+00:04:11.03 --> 00:04:12.08
+and if you jump around too much,
+
+97
+00:04:12.08 --> 00:04:14.09
+you may find yourself confused.
+
+98
+00:04:14.09 --> 00:04:17.02
+Now after you understand the big picture,
+
+99
+00:04:17.02 --> 00:04:20.00
+feel free to revisit any of
+the movies from time to time
+
+100
+00:04:20.00 --> 00:04:21.05
+when you need to brush up.
+
+101
+00:04:21.05 --> 00:04:24.05
+And it's not a bad idea to
+bookmark the support page
+
+102
+00:04:24.05 --> 00:04:27.09
+for YouTube because things
+do frequently change.
+
+103
+00:04:27.09 --> 00:04:30.02
+I'm going to bring all of this
+to life for you and walk you
+
+104
+00:04:30.02 --> 00:04:33.02
+through practical advice to
+make it as easy as possible
+
+105
+00:04:33.02 --> 00:04:36.02
+but it is a pretty dense
+website with a lot of options,
+
+106
+00:04:36.02 --> 00:04:39.02
+so be sure to keep a bookmark
+saved on your computer
+
+107
+00:04:39.02 --> 00:04:41.06
+so you can always check
+the latest information.
+
+108
+00:04:41.06 --> 00:04:43.01
+Alright, let's begin.
+

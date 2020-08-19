@@ -1,0 +1,239 @@
+1
+00:00:00,599 --> 00:00:07,540
+Scope is a big collaboration point for PMs
+and BAs, I can't stress this enough, what
+
+2
+00:00:07,540 --> 00:00:11,910
+most teams don't realize is what scope actually
+means.
+
+3
+00:00:11,910 --> 00:00:17,570
+Teams often focus on the project scope and
+not enough on the product scope.
+
+4
+00:00:17,570 --> 00:00:22,310
+We have an intuitive idea from experience
+and there are also ways to think about scope
+
+5
+00:00:22,310 --> 00:00:27,940
+that can help us work together to make scope
+more clear, to manage.
+
+6
+00:00:27,940 --> 00:00:35,280
+Pat the PM and Bailey the BA think about scope
+and five ways project scope.
+
+7
+00:00:35,280 --> 00:00:36,809
+Product scope.
+
+8
+00:00:36,809 --> 00:00:43,159
+And functional scope, technical scope and
+organizational scope, they have learned that
+
+9
+00:00:43,159 --> 00:00:48,289
+a lot of teams are focused on the project
+and technical scope and mistakenly neglecting
+
+10
+00:00:48,289 --> 00:00:51,579
+the product and functional scope.
+
+11
+00:00:51,579 --> 00:00:57,859
+The project scope, which includes the work
+to be done and resources to do it, the tasks,
+
+12
+00:00:57,859 --> 00:01:03,170
+the people and organizations performing the
+activities to complete the project.
+
+13
+00:01:03,170 --> 00:01:09,070
+Pat is focused on this scope, and Bailey provides
+inputs from other scope areas that help Pat
+
+14
+00:01:09,070 --> 00:01:11,360
+with that project scope.
+
+15
+00:01:11,360 --> 00:01:17,140
+Next, the product scope, which is what the
+project builds and can be looked at from a
+
+16
+00:01:17,140 --> 00:01:21,560
+functional and technical point of view.
+
+17
+00:01:21,560 --> 00:01:27,939
+Bailey is focused on the functional scope,
+what features goals and functions the product,
+
+18
+00:01:27,939 --> 00:01:33,229
+service or system will provide by the end
+of the project, and the technical scope is
+
+19
+00:01:33,229 --> 00:01:34,880
+about what technologies are impacted.
+
+20
+00:01:34,880 --> 00:01:40,630
+Pat and Bailey work together on this with
+a technical lead.
+
+21
+00:01:40,630 --> 00:01:46,340
+The functional scope is where Bailey provides
+a leadership role as input to pat managing
+
+22
+00:01:46,340 --> 00:01:47,340
+scope.
+
+23
+00:01:47,340 --> 00:01:53,679
+Overall as a whole, the functional scope provides
+critical input to the other scope areas Pat
+
+24
+00:01:53,679 --> 00:02:01,640
+needs and Bailey analyses, defines and communicates
+this to create a shared understanding, missing
+
+25
+00:02:01,640 --> 00:02:05,630
+functional scope, impact, schedule, resources
+and budget.
+
+26
+00:02:05,630 --> 00:02:11,750
+Pat and bailey are tied together in this area
+to ensure a smooth scope, understanding and
+
+27
+00:02:11,750 --> 00:02:17,381
+decision making.The organizational scope is
+another area of scope that patent and Bailey
+
+28
+00:02:17,381 --> 00:02:24,030
+collaborate on, as it involves understanding
+what locations, units and groups of the organization
+
+29
+00:02:24,030 --> 00:02:26,260
+are impacted.
+
+30
+00:02:26,260 --> 00:02:33,250
+Another big scope concept is scope creep,
+and at times it's Pat's biggest fear.
+
+31
+00:02:33,250 --> 00:02:38,870
+Scope creep is when scope is added to the
+deliverables, plans or promise to stakeholders
+
+32
+00:02:38,870 --> 00:02:44,870
+without truly planning the impacts on resources,
+costs and schedule.
+
+33
+00:02:44,870 --> 00:02:50,840
+This can happen if the project approaches
+scope creep as being a bad thing without prioritizing
+
+34
+00:02:50,840 --> 00:02:54,900
+what can be removed to accommodate the scope
+change.
+
+35
+00:02:54,900 --> 00:03:01,510
+Scope creep can be Pat's nightmare and create
+a lot of stress if not managed.
+
+36
+00:03:01,510 --> 00:03:08,840
+Bailey, the BA can easily and unknowingly
+create scope creep in conversations with stakeholders.
+
+37
+00:03:08,840 --> 00:03:14,170
+Being aware of this dynamic and working with
+Pat in these situations is critical.
+
+38
+00:03:14,170 --> 00:03:20,110
+Scope creep can also be a positive thing if
+managed well between Pat and Bailey.
+
+39
+00:03:20,110 --> 00:03:25,680
+If a stakeholder discussion yields new features
+that were not previously planned, there needs
+
+40
+00:03:25,680 --> 00:03:32,180
+to be an understanding of the value of the
+feature in question and the priority of it.
+
+41
+00:03:32,180 --> 00:03:37,550
+If it truly will make or break the value delivered
+and it's a top priority, then it should be
+
+42
+00:03:37,550 --> 00:03:43,480
+added to scope Pat , Bailey in the business,
+leaders need to have dialoge to make a decision
+
+43
+00:03:43,480 --> 00:03:48,210
+on priorities, risk, budget and schedule.
+
+44
+00:03:48,210 --> 00:03:54,380
+It could mean scoping something else or increasing
+the cost or even increasing the time to fit
+
+45
+00:03:54,380 --> 00:03:55,540
+it in.
+
+46
+00:03:55,540 --> 00:04:01,210
+The important part is that it's managed and
+leveraged for value, not feared.
+
+47
+00:04:01,210 --> 00:04:07,480
+I've created a scoping checklist for PMs and
+BAs to use in collaboration with one another.
+
+48
+00:04:07,480 --> 00:04:11,400
+This will help your team plan and manage scope.
+
+49
+00:04:11,400 --> 00:04:17,570
+Remember, collaborate closely and don't be
+afraid of scope creep, embrace it and manage
+
+50
+00:04:17,570 --> 00:04:17,790
+it.
+

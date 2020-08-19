@@ -1,0 +1,112 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:01,09
+- [Instructor] Your services are running
+
+2
+00:00:01,09 --> 00:00:03,01
+somewhere in the cloud.
+
+3
+00:00:03,01 --> 00:00:06,07
+No screen is attached to the computer running your code.
+
+4
+00:00:06,07 --> 00:00:08,08
+You need a way to know what's going on.
+
+5
+00:00:08,08 --> 00:00:11,00
+I've consulted with a company that developed
+
+6
+00:00:11,00 --> 00:00:12,04
+a cybersecurity suite.
+
+7
+00:00:12,04 --> 00:00:13,09
+They had version one of the system
+
+8
+00:00:13,09 --> 00:00:16,04
+and wanted to build version two.
+
+9
+00:00:16,04 --> 00:00:18,06
+I asked them, "How is version one doing?"
+
+10
+00:00:18,06 --> 00:00:20,09
+And they said, "It's doing great."
+
+11
+00:00:20,09 --> 00:00:23,00
+Then I asked, "How do you know?"
+
+12
+00:00:23,00 --> 00:00:24,02
+They really didn't
+
+13
+00:00:24,02 --> 00:00:26,00
+and once we placed some logging
+
+14
+00:00:26,00 --> 00:00:28,08
+we saw many many issues in the system.
+
+15
+00:00:28,08 --> 00:00:31,07
+Logging is a way to write a piece of information somewhere
+
+16
+00:00:31,07 --> 00:00:34,08
+and there are several decisions you need to make.
+
+17
+00:00:34,08 --> 00:00:36,02
+What goes into logs?
+
+18
+00:00:36,02 --> 00:00:37,03
+What format to use?
+
+19
+00:00:37,03 --> 00:00:38,07
+How many logs do we store?
+
+20
+00:00:38,07 --> 00:00:40,07
+Where do we store the logs?
+
+21
+00:00:40,07 --> 00:00:43,01
+And several other questions.
+
+22
+00:00:43,01 --> 00:00:44,01
+Before you start logging,
+
+23
+00:00:44,01 --> 00:00:46,07
+think about these points and others.
+
+24
+00:00:46,07 --> 00:00:49,08
+What do you want the logging system to provide?
+
+25
+00:00:49,08 --> 00:00:52,05
+And then structure your logging accordingly.
+
+26
+00:00:52,05 --> 00:00:55,09
+Another part of your ISO production is metrics.
+
+27
+00:00:55,09 --> 00:00:59,00
+We'll talk about them in another episode.
+

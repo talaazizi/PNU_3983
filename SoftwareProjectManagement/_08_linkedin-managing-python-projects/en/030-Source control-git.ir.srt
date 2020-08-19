@@ -1,0 +1,220 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:01,04
+- [Instructor] Source control,
+
+2
+00:00:01,04 --> 00:00:05,04
+sometimes known as VCS, version control system
+
+3
+00:00:05,04 --> 00:00:07,05
+is what keeps the history of the code.
+
+4
+00:00:07,05 --> 00:00:11,01
+But far more important to that, it lets several developers
+
+5
+00:00:11,01 --> 00:00:13,09
+work together on the same code base.
+
+6
+00:00:13,09 --> 00:00:15,08
+There are many source control systems,
+
+7
+00:00:15,08 --> 00:00:18,02
+Git, Subversion, Mercurial, Perforce,
+
+8
+00:00:18,02 --> 00:00:21,02
+Team Foundation Service and others.
+
+9
+00:00:21,02 --> 00:00:24,03
+The one that currently have the most launcher is Git
+
+10
+00:00:24,03 --> 00:00:26,02
+and we're going to focus on it.
+
+11
+00:00:26,02 --> 00:00:29,02
+However, the principles we'll talk about apply to other
+
+12
+00:00:29,02 --> 00:00:32,02
+source control systems as well.
+
+13
+00:00:32,02 --> 00:00:35,04
+Git has a lot of tooling around it and most IDEs
+
+14
+00:00:35,04 --> 00:00:38,02
+such as PyCharm or Visual Studio Code
+
+15
+00:00:38,02 --> 00:00:40,06
+have built in integration with it.
+
+16
+00:00:40,06 --> 00:00:43,02
+I'm going to use Git from the command line.
+
+17
+00:00:43,02 --> 00:00:47,06
+With your IDE, read documentation on how to use it with Git.
+
+18
+00:00:47,06 --> 00:00:49,08
+Git is a decentralized version
+
+19
+00:00:49,08 --> 00:00:53,02
+control system, known as DVCS.
+
+20
+00:00:53,02 --> 00:00:55,08
+This means that everyone who have a Git repository
+
+21
+00:00:55,08 --> 00:00:59,02
+on their machine have all the project history there,
+
+22
+00:00:59,02 --> 00:01:02,01
+and can work without network connection.
+
+23
+00:01:02,01 --> 00:01:06,01
+We're going to use GitHub, which hosts Git repositories
+
+24
+00:01:06,01 --> 00:01:10,09
+and provides project management features and more around it.
+
+25
+00:01:10,09 --> 00:01:12,08
+Most of the time, you'll join a project
+
+26
+00:01:12,08 --> 00:01:15,00
+and then you'll clone a repository.
+
+27
+00:01:15,00 --> 00:01:18,09
+Here's our project called nlpy on GitHub.
+
+28
+00:01:18,09 --> 00:01:21,08
+You don't have write permission to this repository.
+
+29
+00:01:21,08 --> 00:01:23,08
+I recommend that you fork it, create
+
+30
+00:01:23,08 --> 00:01:26,04
+your own copy and work with it.
+
+31
+00:01:26,04 --> 00:01:29,05
+You'll need a GitHub user for that.
+
+32
+00:01:29,05 --> 00:01:31,03
+To know what we need to clone,
+
+33
+00:01:31,03 --> 00:01:36,07
+we click on the clone or download button and copy the URL.
+
+34
+00:01:36,07 --> 00:01:38,06
+If you don't have write permission,
+
+35
+00:01:38,06 --> 00:01:42,01
+you can use HTTPS instead of SSH.
+
+36
+00:01:42,01 --> 00:01:46,07
+Once we copy it over, we can go to the command line,
+
+37
+00:01:46,07 --> 00:01:49,03
+and do Git, clone,
+
+38
+00:01:49,03 --> 00:01:52,04
+and the repository.
+
+39
+00:01:52,04 --> 00:01:56,05
+And Git is going to clone it to the directory called nlpy.
+
+40
+00:01:56,05 --> 00:01:58,06
+We can move to this directory,
+
+41
+00:01:58,06 --> 00:02:01,02
+and see that we have the files there.
+
+42
+00:02:01,02 --> 00:02:03,08
+Once we have the repository on your local machine,
+
+43
+00:02:03,08 --> 00:02:05,05
+you can make code changes and then
+
+44
+00:02:05,05 --> 00:02:08,00
+push them to the main repository.
+
+45
+00:02:08,00 --> 00:02:09,07
+One thing you need to make sure
+
+46
+00:02:09,07 --> 00:02:13,03
+is not to accidentally add the wrong files to Git.
+
+47
+00:02:13,03 --> 00:02:17,04
+Python creates standard Py cache and PYC files.
+
+48
+00:02:17,04 --> 00:02:21,02
+PyTest create a .pytest cache directory, et cetera.
+
+49
+00:02:21,02 --> 00:02:23,06
+Make sure to exclude these directories
+
+50
+00:02:23,06 --> 00:02:26,08
+or files in your .gitignore file.
+
+51
+00:02:26,08 --> 00:02:29,02
+Here's the one we have in this project.
+
+52
+00:02:29,02 --> 00:02:32,08
+Cat .gitignore and we see we ignore
+
+53
+00:02:32,08 --> 00:02:35,09
+PYC, hypothesis, pytest caches,
+
+54
+00:02:35,09 --> 00:02:40,00
+dist, nlp virtual environment and more.
+

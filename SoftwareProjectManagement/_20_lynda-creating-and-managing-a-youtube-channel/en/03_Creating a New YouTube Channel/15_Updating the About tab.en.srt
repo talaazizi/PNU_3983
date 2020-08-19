@@ -1,0 +1,290 @@
+1
+00:00:00.02 --> 00:00:01.08
+- Once you have some artwork in place,
+
+2
+00:00:01.08 --> 00:00:04.01
+you probably want to
+fill in the about tab,
+
+3
+00:00:04.01 --> 00:00:06.05
+which tells people about your channel.
+
+4
+00:00:06.05 --> 00:00:08.06
+This is pretty straight forward.
+
+5
+00:00:08.06 --> 00:00:12.03
+First up, add a description
+about your site.
+
+6
+00:00:12.03 --> 00:00:15.01
+Be sure to also include
+any contact information
+
+7
+00:00:15.01 --> 00:00:17.00
+if you want people to
+get in touch with you
+
+8
+00:00:17.00 --> 00:00:19.04
+for business purposes.
+
+9
+00:00:19.04 --> 00:00:22.02
+And you can specify a
+location to make it easier
+
+10
+00:00:22.02 --> 00:00:25.07
+to find your business, if this matters.
+
+11
+00:00:25.07 --> 00:00:28.00
+Also, you can add any relevant links
+
+12
+00:00:28.00 --> 00:00:30.01
+that you want people to know about.
+
+13
+00:00:30.01 --> 00:00:34.00
+This can be easily added
+on the page itself.
+
+14
+00:00:34.00 --> 00:00:38.01
+Let's go ahead and
+modify a few things here.
+
+15
+00:00:38.01 --> 00:00:40.08
+On the page, all I need to do
+
+16
+00:00:40.08 --> 00:00:44.00
+is switch over to the about tab.
+
+17
+00:00:44.00 --> 00:00:47.09
+Now, it asks me for information.
+
+18
+00:00:47.09 --> 00:00:50.05
+Click to add a channel description.
+
+19
+00:00:50.05 --> 00:00:53.09
+I've included a text file that
+you can use to copy and paste
+
+20
+00:00:53.09 --> 00:00:55.09
+if you'd like to follow along.
+
+21
+00:00:55.09 --> 00:00:59.02
+Or, feel free to sit back and watch.
+
+22
+00:00:59.02 --> 00:01:01.00
+At the bottom is a link
+if you'd like to see
+
+23
+00:01:01.00 --> 00:01:03.03
+how this description
+appears on other websites
+
+24
+00:01:03.03 --> 00:01:05.02
+that Googles owns.
+
+25
+00:01:05.02 --> 00:01:07.08
+This'll take you to a page
+with a support article
+
+26
+00:01:07.08 --> 00:01:10.05
+that explains how the
+different things are used.
+
+27
+00:01:10.05 --> 00:01:13.03
+So, there's the channel description
+
+28
+00:01:13.03 --> 00:01:16.09
+and it gives you a little bit
+of additional information.
+
+29
+00:01:16.09 --> 00:01:19.03
+Now, let's keep going.
+
+30
+00:01:19.03 --> 00:01:22.06
+Under details here, I can
+choose to add an email
+
+31
+00:01:22.06 --> 00:01:24.05
+for business inquiries.
+
+32
+00:01:24.05 --> 00:01:30.06
+I can also specify a country for business.
+
+33
+00:01:30.06 --> 00:01:37.06
+And, let's add an external website.
+
+34
+00:01:37.06 --> 00:01:40.01
+This is the same user
+interface you saw before
+
+35
+00:01:40.01 --> 00:01:49.08
+where up to five links can
+be included on the page.
+
+36
+00:01:49.08 --> 00:01:53.02
+Let's copy the URL
+
+37
+00:01:53.02 --> 00:01:57.04
+and I'll attempt to add it in.
+
+38
+00:01:57.04 --> 00:01:59.01
+There we go.
+
+39
+00:01:59.01 --> 00:02:00.06
+And now it's added.
+
+40
+00:02:00.06 --> 00:02:03.02
+And you'll notice that it
+actually took the favicon
+
+41
+00:02:03.02 --> 00:02:05.06
+that was set at the website level.
+
+42
+00:02:05.06 --> 00:02:08.02
+So, if you take the time to add a favicon
+
+43
+00:02:08.02 --> 00:02:11.01
+using WordPress or your
+other hosting platform,
+
+44
+00:02:11.01 --> 00:02:14.02
+it will pick up the custom icon.
+
+45
+00:02:14.02 --> 00:02:18.05
+Alright, let's click done.
+
+46
+00:02:18.05 --> 00:02:20.05
+And you'll notice that I'm
+getting a warning here,
+
+47
+00:02:20.05 --> 00:02:22.09
+that there's too much information.
+
+48
+00:02:22.09 --> 00:02:25.08
+Well, you are limited to
+a thousand characters here
+
+49
+00:02:25.08 --> 00:02:30.02
+so, if needed, you might
+have to actually remove some.
+
+50
+00:02:30.02 --> 00:02:32.06
+Then it stores it.
+
+51
+00:02:32.06 --> 00:02:35.04
+Now, you'll see that the
+website has been added
+
+52
+00:02:35.04 --> 00:02:37.05
+to my top navigation.
+
+53
+00:02:37.05 --> 00:02:39.07
+Everything else is stored.
+
+54
+00:02:39.07 --> 00:02:45.06
+Now, let's go ahead and view
+the channel as a subscriber.
+
+55
+00:02:45.06 --> 00:02:48.07
+I can see how it will look to them,
+
+56
+00:02:48.07 --> 00:02:50.09
+the logo is there,
+
+57
+00:02:50.09 --> 00:02:52.08
+the artwork is loaded,
+
+58
+00:02:52.08 --> 00:02:56.09
+there's my link for the
+website and it looks good.
+
+59
+00:02:56.09 --> 00:03:00.04
+Alright, the page is populating.
+
+60
+00:03:00.04 --> 00:03:02.07
+Remember, later on I'll walk you through
+
+61
+00:03:02.07 --> 00:03:05.00
+some of the strategies
+for creating that artwork
+
+62
+00:03:05.00 --> 00:03:07.05
+using a tool like Adobe Photoshop.
+
+63
+00:03:07.05 --> 00:03:11.02
+But, as you see, once you've
+got a banner artwork uploaded
+
+64
+00:03:11.02 --> 00:03:14.05
+and a icon for you as a channel,
+
+65
+00:03:14.05 --> 00:03:16.03
+it's going to take on a whole new life
+
+66
+00:03:16.03 --> 00:03:18.08
+and that page starts to look a lot better.
+

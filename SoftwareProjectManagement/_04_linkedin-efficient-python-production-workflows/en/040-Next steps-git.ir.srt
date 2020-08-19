@@ -1,0 +1,96 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:02,00
+- [Miki] I hope you found the information
+
+2
+00:00:02,00 --> 00:00:03,04
+in this course valuable.
+
+3
+00:00:03,04 --> 00:00:06,01
+It embeds more than 20 years of my experience.
+
+4
+00:00:06,01 --> 00:00:07,04
+Now it's up to you.
+
+5
+00:00:07,04 --> 00:00:08,08
+When going back to work,
+
+6
+00:00:08,08 --> 00:00:11,04
+try to think how you can improve your team
+
+7
+00:00:11,04 --> 00:00:15,00
+and how you can make your code production ready.
+
+8
+00:00:15,00 --> 00:00:16,00
+Start little.
+
+9
+00:00:16,00 --> 00:00:18,07
+Add some logging here, some metrics there.
+
+10
+00:00:18,07 --> 00:00:19,09
+Start a code review,
+
+11
+00:00:19,09 --> 00:00:22,08
+and step by step you'll have a more efficient team
+
+12
+00:00:22,08 --> 00:00:25,08
+and new friends from the Operations team.
+
+13
+00:00:25,08 --> 00:00:27,06
+If you like to learn more about Python,
+
+14
+00:00:27,06 --> 00:00:29,08
+we have many courses at all level.
+
+15
+00:00:29,08 --> 00:00:32,06
+I tried to be platform agnostic in this course,
+
+16
+00:00:32,06 --> 00:00:36,03
+but you have a specific platform and tools you are using.
+
+17
+00:00:36,03 --> 00:00:38,01
+Go on and get familiar with them.
+
+18
+00:00:38,01 --> 00:00:42,00
+AWS, Google Cloud, Azure, Docker, ELK Stack,
+
+19
+00:00:42,00 --> 00:00:44,04
+there's so much to learn in this area.
+
+20
+00:00:44,04 --> 00:00:46,02
+And of course, we have many courses
+
+21
+00:00:46,02 --> 00:00:49,00
+in these subjects as well.
+
+22
+00:00:49,00 --> 00:00:52,08
+And always feel free to reach us out at 353solutions.
+
+23
+00:00:52,08 --> 00:00:56,00
+We'd love to hear from you and help you get better.
+

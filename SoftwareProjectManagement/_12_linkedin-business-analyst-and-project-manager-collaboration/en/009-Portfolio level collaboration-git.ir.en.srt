@@ -1,0 +1,588 @@
+1
+00:00:00,719 --> 00:00:05,839
+at the portfolio level pms
+
+2
+00:00:03,360 --> 00:00:07,759
+and bas are working to define projects
+
+3
+00:00:05,839 --> 00:00:09,040
+related to strategic goals of the
+
+4
+00:00:07,759 --> 00:00:11,120
+organization
+
+5
+00:00:09,040 --> 00:00:13,679
+and align the projects together as a
+
+6
+00:00:11,120 --> 00:00:15,759
+group of related projects
+
+7
+00:00:13,679 --> 00:00:17,920
+at times the intake of defects and
+
+8
+00:00:15,759 --> 00:00:20,560
+enhancements get integrated into these
+
+9
+00:00:17,920 --> 00:00:22,640
+portfolios as well
+
+10
+00:00:20,560 --> 00:00:25,119
+project and program managers are looking
+
+11
+00:00:22,640 --> 00:00:27,439
+at the budget and schedule linkages
+
+12
+00:00:25,119 --> 00:00:29,199
+as well as overall strategic alignment
+
+13
+00:00:27,439 --> 00:00:32,480
+of the project goals
+
+14
+00:00:29,199 --> 00:00:34,800
+bas are looking at strategic alignment
+
+15
+00:00:32,480 --> 00:00:36,880
+business architecture and the big
+
+16
+00:00:34,800 --> 00:00:39,440
+picture of who is impacted
+
+17
+00:00:36,880 --> 00:00:42,000
+and the value the groups need to get
+
+18
+00:00:39,440 --> 00:00:44,960
+from these projects
+
+19
+00:00:42,000 --> 00:00:46,160
+our team members pat the pm and bayley
+
+20
+00:00:44,960 --> 00:00:48,239
+the ba
+
+21
+00:00:46,160 --> 00:00:50,960
+may be assigned to work on the portfolio
+
+22
+00:00:48,239 --> 00:00:53,360
+level with other pms and bas
+
+23
+00:00:50,960 --> 00:00:56,640
+or as part of the intake process to
+
+24
+00:00:53,360 --> 00:00:58,800
+start up a large set of projects
+
+25
+00:00:56,640 --> 00:01:00,239
+some key tactical things that pat and
+
+26
+00:00:58,800 --> 00:01:03,760
+bailey collaborate on
+
+27
+00:01:00,239 --> 00:01:06,240
+are first defining the problem or
+
+28
+00:01:03,760 --> 00:01:08,400
+opportunity statement
+
+29
+00:01:06,240 --> 00:01:09,920
+they create a shared understanding
+
+30
+00:01:08,400 --> 00:01:12,479
+together with the leaders
+
+31
+00:01:09,920 --> 00:01:14,400
+on the problem or opportunity which
+
+32
+00:01:12,479 --> 00:01:17,439
+helps with strategic alignment
+
+33
+00:01:14,400 --> 00:01:19,759
+as they look at the portfolio of work
+
+34
+00:01:17,439 --> 00:01:22,479
+it also helps the team facilitate the
+
+35
+00:01:19,759 --> 00:01:24,560
+dialogue as to prioritizing the work
+
+36
+00:01:22,479 --> 00:01:27,040
+and defining the work into valuable
+
+37
+00:01:24,560 --> 00:01:29,600
+pieces to deliver
+
+38
+00:01:27,040 --> 00:01:31,600
+next they work together to define the
+
+39
+00:01:29,600 --> 00:01:32,880
+value proposition for the impacted
+
+40
+00:01:31,600 --> 00:01:35,680
+stakeholder groups
+
+41
+00:01:32,880 --> 00:01:36,000
+and not forgetting about the customer
+
+42
+00:01:35,680 --> 00:01:38,560
+they
+
+43
+00:01:36,000 --> 00:01:39,280
+think through each group and ask
+
+44
+00:01:38,560 --> 00:01:42,079
+research
+
+45
+00:01:39,280 --> 00:01:44,159
+and discover how the project benefits
+
+46
+00:01:42,079 --> 00:01:47,200
+the group
+
+47
+00:01:44,159 --> 00:01:48,479
+and next they determine measurable goals
+
+48
+00:01:47,200 --> 00:01:51,520
+and objectives to help
+
+49
+00:01:48,479 --> 00:01:54,240
+chart the course and keep scope tied and
+
+50
+00:01:51,520 --> 00:01:56,560
+aligned to measurable outcomes
+
+51
+00:01:54,240 --> 00:01:59,119
+it's not good enough to say we want to
+
+52
+00:01:56,560 --> 00:02:01,439
+improve the customer experience
+
+53
+00:01:59,119 --> 00:02:02,640
+we need to define more measurable
+
+54
+00:02:01,439 --> 00:02:04,719
+outcomes
+
+55
+00:02:02,640 --> 00:02:06,240
+like what part of the customer
+
+56
+00:02:04,719 --> 00:02:08,080
+experience or
+
+57
+00:02:06,240 --> 00:02:10,720
+what measurement of the customer
+
+58
+00:02:08,080 --> 00:02:13,920
+experience are we targeting to improve
+
+59
+00:02:10,720 --> 00:02:15,760
+and why also
+
+60
+00:02:13,920 --> 00:02:17,920
+they work together to define what
+
+61
+00:02:15,760 --> 00:02:19,520
+capabilities are missing to meet these
+
+62
+00:02:17,920 --> 00:02:22,319
+goals
+
+63
+00:02:19,520 --> 00:02:23,680
+this may include new innovations new
+
+64
+00:02:22,319 --> 00:02:27,200
+processes
+
+65
+00:02:23,680 --> 00:02:30,000
+new systems and new behaviors
+
+66
+00:02:27,200 --> 00:02:31,360
+it also may mean that new groups perform
+
+67
+00:02:30,000 --> 00:02:34,000
+new tasks
+
+68
+00:02:31,360 --> 00:02:36,400
+it may mean automation or the removal of
+
+69
+00:02:34,000 --> 00:02:39,200
+some capabilities
+
+70
+00:02:36,400 --> 00:02:41,200
+they focus capabilities back to how they
+
+71
+00:02:39,200 --> 00:02:41,680
+impact the customer's experience with
+
+72
+00:02:41,200 --> 00:02:44,720
+using
+
+73
+00:02:41,680 --> 00:02:46,800
+products and services and like you
+
+74
+00:02:44,720 --> 00:02:48,840
+they have seen far too many projects
+
+75
+00:02:46,800 --> 00:02:50,000
+that create strategically crafted
+
+76
+00:02:48,840 --> 00:02:52,959
+capabilities
+
+77
+00:02:50,000 --> 00:02:56,319
+at the expense of customers not happy
+
+78
+00:02:52,959 --> 00:02:58,640
+with the impact to their experience
+
+79
+00:02:56,319 --> 00:03:01,200
+another thing pat and bailey look at is
+
+80
+00:02:58,640 --> 00:03:04,000
+the feasibility of the approach
+
+81
+00:03:01,200 --> 00:03:05,040
+feasibility can be technical cost
+
+82
+00:03:04,000 --> 00:03:07,840
+related
+
+83
+00:03:05,040 --> 00:03:10,800
+schedule related and also about the
+
+84
+00:03:07,840 --> 00:03:13,519
+business design and people factors
+
+85
+00:03:10,800 --> 00:03:14,319
+truly challenging assumptions on what is
+
+86
+00:03:13,519 --> 00:03:17,760
+and is not
+
+87
+00:03:14,319 --> 00:03:20,080
+feasible really matters
+
+88
+00:03:17,760 --> 00:03:22,239
+regards to cost feasibility
+
+89
+00:03:20,080 --> 00:03:23,599
+organizations define this in various
+
+90
+00:03:22,239 --> 00:03:26,560
+ways
+
+91
+00:03:23,599 --> 00:03:28,080
+some organizations ask themselves how
+
+92
+00:03:26,560 --> 00:03:30,799
+much will it cost
+
+93
+00:03:28,080 --> 00:03:33,599
+and how much will i get in return and
+
+94
+00:03:30,799 --> 00:03:34,080
+some ask what am i willing to spend to
+
+95
+00:03:33,599 --> 00:03:36,799
+get this
+
+96
+00:03:34,080 --> 00:03:39,120
+done there are various methods
+
+97
+00:03:36,799 --> 00:03:42,239
+calculations and terms for this
+
+98
+00:03:39,120 --> 00:03:43,760
+things like return on investment net
+
+99
+00:03:42,239 --> 00:03:47,120
+present value
+
+100
+00:03:43,760 --> 00:03:50,159
+business case cost of delay
+
+101
+00:03:47,120 --> 00:03:52,879
+and weighted shortest job first
+
+102
+00:03:50,159 --> 00:03:53,680
+at a minimum i like to look at how the
+
+103
+00:03:52,879 --> 00:03:57,360
+project would
+
+104
+00:03:53,680 --> 00:03:58,319
+increase revenue reduce risk or reduce
+
+105
+00:03:57,360 --> 00:04:01,920
+cost
+
+106
+00:03:58,319 --> 00:04:05,599
+and then how much is the likely cost and
+
+107
+00:04:01,920 --> 00:04:09,120
+likely benefit a table like this can be
+
+108
+00:04:05,599 --> 00:04:12,239
+a simple way to view this
+
+109
+00:04:09,120 --> 00:04:15,519
+here we can see the range of cost
+
+110
+00:04:12,239 --> 00:04:18,639
+minimum likely and maximum
+
+111
+00:04:15,519 --> 00:04:20,160
+and the same range for benefit now how
+
+112
+00:04:18,639 --> 00:04:22,240
+much detail is behind this
+
+113
+00:04:20,160 --> 00:04:24,800
+is up to you the project manager and
+
+114
+00:04:22,240 --> 00:04:27,199
+sponsors
+
+115
+00:04:24,800 --> 00:04:29,919
+prioritizing the items in a portfolio is
+
+116
+00:04:27,199 --> 00:04:31,919
+the last piece of the equation
+
+117
+00:04:29,919 --> 00:04:33,919
+pat and bailey work together to help
+
+118
+00:04:31,919 --> 00:04:34,880
+business leaders make prioritization
+
+119
+00:04:33,919 --> 00:04:36,960
+decisions
+
+120
+00:04:34,880 --> 00:04:39,680
+by helping leaders participate in the
+
+121
+00:04:36,960 --> 00:04:42,479
+various activities we've discussed
+
+122
+00:04:39,680 --> 00:04:45,919
+the idea is to make decision making
+
+123
+00:04:42,479 --> 00:04:48,080
+easier and with higher quality decisions
+
+124
+00:04:45,919 --> 00:04:49,759
+it's about making priorities and
+
+125
+00:04:48,080 --> 00:04:52,320
+decisions flexible
+
+126
+00:04:49,759 --> 00:04:53,120
+by defining independent and valuable
+
+127
+00:04:52,320 --> 00:04:55,680
+pieces
+
+128
+00:04:53,120 --> 00:04:58,080
+that are not dependent on other projects
+
+129
+00:04:55,680 --> 00:05:00,320
+and this gives leaders the flexibility
+
+130
+00:04:58,080 --> 00:05:02,000
+to adapt as needed
+
+131
+00:05:00,320 --> 00:05:04,160
+pat and bailey are part of an
+
+132
+00:05:02,000 --> 00:05:05,840
+organization where bailey has an active
+
+133
+00:05:04,160 --> 00:05:08,080
+role in this process
+
+134
+00:05:05,840 --> 00:05:10,800
+since the intake process requires a lot
+
+135
+00:05:08,080 --> 00:05:13,759
+of analysis to make the right decisions
+
+136
+00:05:10,800 --> 00:05:14,240
+bailey's role is critical bailey helps
+
+137
+00:05:13,759 --> 00:05:16,320
+ensure
+
+138
+00:05:14,240 --> 00:05:19,280
+the organization is working on the right
+
+139
+00:05:16,320 --> 00:05:21,680
+stuff at the right time
+
+140
+00:05:19,280 --> 00:05:22,880
+working together on this with a blend of
+
+141
+00:05:21,680 --> 00:05:26,000
+skills pms
+
+142
+00:05:22,880 --> 00:05:28,639
+and bas bring to the table can benefit
+
+143
+00:05:26,000 --> 00:05:30,720
+portfolio planning in big ways
+
+144
+00:05:28,639 --> 00:05:32,880
+it can bring a powerful decision-making
+
+145
+00:05:30,720 --> 00:05:39,840
+process to strategic alignment
+
+146
+00:05:32,880 --> 00:05:41,919
+that can make all the difference
+
+147
+00:05:39,840 --> 00:05:41,919
+you
+

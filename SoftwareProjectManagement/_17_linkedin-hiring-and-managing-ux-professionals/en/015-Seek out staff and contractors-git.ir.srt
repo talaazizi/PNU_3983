@@ -1,0 +1,352 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,01 --> 00:00:03,00
+- Posting a position to job boards
+
+2
+00:00:03,00 --> 00:00:05,06
+can be great for pulling in full-time hires,
+
+3
+00:00:05,06 --> 00:00:08,03
+and can be useful for temporary work, too.
+
+4
+00:00:08,03 --> 00:00:10,06
+But there are other good ways to get visibility
+
+5
+00:00:10,06 --> 00:00:12,02
+when seeking UX contractors,
+
+6
+00:00:12,02 --> 00:00:15,00
+and especially creative agencies.
+
+7
+00:00:15,00 --> 00:00:16,03
+As we discussed earlier,
+
+8
+00:00:16,03 --> 00:00:19,00
+you should try to become a part of the UX community
+
+9
+00:00:19,00 --> 00:00:20,09
+by participating in UX events
+
+10
+00:00:20,09 --> 00:00:22,09
+and being part of social media.
+
+11
+00:00:22,09 --> 00:00:24,05
+This builds you direct access
+
+12
+00:00:24,05 --> 00:00:27,02
+to potential future job candidates.
+
+13
+00:00:27,02 --> 00:00:30,00
+In addition, having a ready pool of freelancers
+
+14
+00:00:30,00 --> 00:00:31,04
+in advance of your needs,
+
+15
+00:00:31,04 --> 00:00:33,03
+particularly those who don't usually get booked
+
+16
+00:00:33,03 --> 00:00:35,03
+on full-time, long-term engagements,
+
+17
+00:00:35,03 --> 00:00:37,04
+is very valuable.
+
+18
+00:00:37,04 --> 00:00:39,03
+How do companies find me?
+
+19
+00:00:39,03 --> 00:00:41,07
+Largely, they find me for smaller projects
+
+20
+00:00:41,07 --> 00:00:43,03
+through ad hoc methods,
+
+21
+00:00:43,03 --> 00:00:44,05
+such as being referred by those
+
+22
+00:00:44,05 --> 00:00:47,06
+that already know and have worked with me.
+
+23
+00:00:47,06 --> 00:00:49,05
+Sometimes they find me on LinkedIn,
+
+24
+00:00:49,05 --> 00:00:52,08
+presumably with a keyword search for research freelancers.
+
+25
+00:00:52,08 --> 00:00:55,04
+Sometimes I get contacted directly through LinkedIn,
+
+26
+00:00:55,04 --> 00:00:58,08
+Twitter, or Facebook by existing connections.
+
+27
+00:00:58,08 --> 00:01:00,05
+By and large as a freelancer,
+
+28
+00:01:00,05 --> 00:01:02,08
+I've found companies have a lot of success booking me
+
+29
+00:01:02,08 --> 00:01:04,02
+through these methods,
+
+30
+00:01:04,02 --> 00:01:07,00
+as well as finding other freelancer types.
+
+31
+00:01:07,00 --> 00:01:09,01
+Knowing agencies with larger talent pools
+
+32
+00:01:09,01 --> 00:01:10,09
+that they can assign to projects as needed
+
+33
+00:01:10,09 --> 00:01:13,04
+is certainly great for future planning, too,
+
+34
+00:01:13,04 --> 00:01:16,04
+especially when urgent needs present themselves.
+
+35
+00:01:16,04 --> 00:01:19,02
+For larger projects, however you want to define that,
+
+36
+00:01:19,02 --> 00:01:21,08
+you may want to consider more formal methods
+
+37
+00:01:21,08 --> 00:01:23,03
+of securing talent.
+
+38
+00:01:23,03 --> 00:01:26,06
+In these cases, you may consider seeking out UX contractors
+
+39
+00:01:26,06 --> 00:01:30,04
+with an RFP, or request for proposals.
+
+40
+00:01:30,04 --> 00:01:31,05
+Every now and again,
+
+41
+00:01:31,05 --> 00:01:32,07
+I get a request from a business
+
+42
+00:01:32,07 --> 00:01:34,05
+that goes something like this.
+
+43
+00:01:34,05 --> 00:01:37,00
+"We've heard great things about your user research efforts.
+
+44
+00:01:37,00 --> 00:01:38,08
+"We'd like to consider engaging you.
+
+45
+00:01:38,08 --> 00:01:40,07
+"Just complete a response to our proposal,
+
+46
+00:01:40,07 --> 00:01:42,06
+"and we'll consider you."
+
+47
+00:01:42,06 --> 00:01:43,09
+The problem I find is that
+
+48
+00:01:43,09 --> 00:01:46,03
+if I'm heavily involved in another project at the time,
+
+49
+00:01:46,03 --> 00:01:48,03
+such as a usability study,
+
+50
+00:01:48,03 --> 00:01:49,06
+I don't have the time needed
+
+51
+00:01:49,06 --> 00:01:52,03
+to give a proper response to the proposal.
+
+52
+00:01:52,03 --> 00:01:55,04
+I often end up declining to respond for lack of time,
+
+53
+00:01:55,04 --> 00:01:57,01
+or passing it on to a larger business
+
+54
+00:01:57,01 --> 00:01:58,04
+and letting them know I'm happy
+
+55
+00:01:58,04 --> 00:02:00,09
+to be part of the project if they'd like.
+
+56
+00:02:00,09 --> 00:02:01,09
+So on the one hand,
+
+57
+00:02:01,09 --> 00:02:04,05
+RFPs are a great way to get UX-oriented companies
+
+58
+00:02:04,05 --> 00:02:06,00
+to bid on an engagement,
+
+59
+00:02:06,00 --> 00:02:07,09
+so that you can get an apples-to-apples comparison
+
+60
+00:02:07,09 --> 00:02:11,03
+on methods, staffing, and pricing.
+
+61
+00:02:11,03 --> 00:02:12,03
+On the other hand,
+
+62
+00:02:12,03 --> 00:02:14,05
+you may be limiting yourself to bigger businesses
+
+63
+00:02:14,05 --> 00:02:16,00
+with the dedicated staff needed
+
+64
+00:02:16,00 --> 00:02:19,01
+to regularly respond to RFPs.
+
+65
+00:02:19,01 --> 00:02:21,04
+I'm not saying that you shouldn't use RFPs,
+
+66
+00:02:21,04 --> 00:02:23,00
+simply that they're better suited
+
+67
+00:02:23,00 --> 00:02:24,08
+to target larger businesses
+
+68
+00:02:24,08 --> 00:02:28,00
+that can spend time properly responding to them.
+
+69
+00:02:28,00 --> 00:02:32,00
+Finally, consider your options when you post job listings.
+
+70
+00:02:32,00 --> 00:02:33,09
+You can post for full-time jobs,
+
+71
+00:02:33,09 --> 00:02:37,06
+but you can also post short-term and contract roles.
+
+72
+00:02:37,06 --> 00:02:39,09
+LinkedIn is a great resource for these postings,
+
+73
+00:02:39,09 --> 00:02:41,02
+as well as Indeed
+
+74
+00:02:41,02 --> 00:02:44,05
+and a number of other general hiring sites.
+
+75
+00:02:44,05 --> 00:02:47,00
+There are UX-specific job boards as well.
+
+76
+00:02:47,00 --> 00:02:50,08
+Sites like UX Job Board, UX Jobs 24/7, and more.
+
+77
+00:02:50,08 --> 00:02:54,02
+You can get a longer list on my UX Careers Handbook website.
+
+78
+00:02:54,02 --> 00:02:55,06
+The advantage of these sites
+
+79
+00:02:55,06 --> 00:02:58,00
+is that they are all UX, all the time,
+
+80
+00:02:58,00 --> 00:03:00,07
+and they attract UX freelancers, too.
+
+81
+00:03:00,07 --> 00:03:02,03
+The downside is that even though
+
+82
+00:03:02,03 --> 00:03:04,01
+they get the right kind of traffic,
+
+83
+00:03:04,01 --> 00:03:06,08
+they're usually non-locally targeted.
+
+84
+00:03:06,08 --> 00:03:08,07
+The less frequent fresh job postings
+
+85
+00:03:08,07 --> 00:03:11,04
+also mean that those freelancers and contractors
+
+86
+00:03:11,04 --> 00:03:13,09
+aren't necessarily checking in too regularly
+
+87
+00:03:13,09 --> 00:03:16,00
+when they're hungry for work.
+

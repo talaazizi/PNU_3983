@@ -1,0 +1,248 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01.000 --> 00:00:03.002
+- When implementing a COTS solution,
+
+2
+00:00:03.002 --> 00:00:05.007
+one of the key challenges you're dealing with
+
+3
+00:00:05.007 --> 00:00:08.001
+is having more than one team.
+
+4
+00:00:08.001 --> 00:00:12.002
+Let's explore this using our CRM solution.
+
+5
+00:00:12.002 --> 00:00:15.000
+Let's say we've successfully selected a vendor
+
+6
+00:00:15.000 --> 00:00:17.007
+and completed all the legal documentation.
+
+7
+00:00:17.007 --> 00:00:21.001
+We're ready to kick off the implementation itself.
+
+8
+00:00:21.001 --> 00:00:23.004
+Now we're going to host a planning meeting
+
+9
+00:00:23.004 --> 00:00:27.003
+with both our internal team and the vendor's team.
+
+10
+00:00:27.003 --> 00:00:28.003
+At the beginning,
+
+11
+00:00:28.003 --> 00:00:30.003
+we start with a road map.
+
+12
+00:00:30.003 --> 00:00:34.006
+Vendors usually have a basic implementation road map
+
+13
+00:00:34.006 --> 00:00:36.009
+they follow with all of their clients.
+
+14
+00:00:36.009 --> 00:00:40.000
+This is a great place to start.
+
+15
+00:00:40.000 --> 00:00:42.003
+We'll get the vendor team in a planning session
+
+16
+00:00:42.003 --> 00:00:45.003
+with our team so we both understand
+
+17
+00:00:45.003 --> 00:00:49.003
+what all the deliverables are on the vendor road map.
+
+18
+00:00:49.003 --> 00:00:52.004
+As we decompose the road map into smaller pieces,
+
+19
+00:00:52.004 --> 00:00:56.001
+we begin to see the dependencies within it.
+
+20
+00:00:56.001 --> 00:00:57.009
+Let's assume that we've selected
+
+21
+00:00:57.009 --> 00:01:00.000
+to follow an Agile framework.
+
+22
+00:01:00.000 --> 00:01:02.005
+Each of the deliverables on the road map
+
+23
+00:01:02.005 --> 00:01:04.009
+can be decomposed into stories
+
+24
+00:01:04.009 --> 00:01:07.006
+and assigned to one of the teams.
+
+25
+00:01:07.006 --> 00:01:10.002
+There will be items only the vendor team can tackle
+
+26
+00:01:10.002 --> 00:01:13.007
+and items only our internal team can handle.
+
+27
+00:01:13.007 --> 00:01:15.009
+As we go through this planning session,
+
+28
+00:01:15.009 --> 00:01:19.000
+we'll see how the team need to pass work back
+
+29
+00:01:19.000 --> 00:01:20.008
+and forth to each other.
+
+30
+00:01:20.008 --> 00:01:23.001
+Coming out of this initial planning,
+
+31
+00:01:23.001 --> 00:01:26.000
+we also need to establish our future processes
+
+32
+00:01:26.000 --> 00:01:28.000
+to stay in sync.
+
+33
+00:01:28.000 --> 00:01:30.006
+First, establish a scrum of scrums
+
+34
+00:01:30.006 --> 00:01:33.008
+where the teams can come together at least once a week
+
+35
+00:01:33.008 --> 00:01:37.007
+to share their progress, challenges, and ask for help.
+
+36
+00:01:37.007 --> 00:01:41.000
+Next, set up a way to share work.
+
+37
+00:01:41.000 --> 00:01:43.006
+Usually we'll need a task or Kanban board
+
+38
+00:01:43.006 --> 00:01:47.005
+that both teams can access, see, and update.
+
+39
+00:01:47.005 --> 00:01:51.001
+Then we'll define how we'll continue to plan jointly
+
+40
+00:01:51.001 --> 00:01:53.008
+for the duration of the project.
+
+41
+00:01:53.008 --> 00:01:57.001
+Oh, and it's a great idea to complete sprint planning
+
+42
+00:01:57.001 --> 00:02:00.001
+at the same time every two weeks.
+
+43
+00:02:00.001 --> 00:02:03.007
+A successful method for this that I've used in the past
+
+44
+00:02:03.007 --> 00:02:07.003
+is to hold joint planning every other Wednesday.
+
+45
+00:02:07.003 --> 00:02:10.005
+That means we get on a teleconference where we can see
+
+46
+00:02:10.005 --> 00:02:14.009
+and speak to each other and see our shared task board.
+
+47
+00:02:14.009 --> 00:02:16.009
+This joint planning takes care
+
+48
+00:02:16.009 --> 00:02:20.004
+of the tactical aspect of implementation.
+
+49
+00:02:20.004 --> 00:02:24.008
+It's also a great idea to have a slightly longer session
+
+50
+00:02:24.008 --> 00:02:26.006
+every four to six weeks
+
+51
+00:02:26.006 --> 00:02:28.004
+or two to three sprints
+
+52
+00:02:28.004 --> 00:02:31.009
+to take a step back and compare the team's progress
+
+53
+00:02:31.009 --> 00:02:34.005
+against the road map we started with.
+
+54
+00:02:34.005 --> 00:02:36.001
+When we do this,
+
+55
+00:02:36.001 --> 00:02:38.001
+we're making sure that we're on track both
+
+56
+00:02:38.001 --> 00:02:42.006
+at the ground level and at the strategic level.
+
+57
+00:02:42.006 --> 00:02:44.006
+A COTS application will require you
+
+58
+00:02:44.006 --> 00:02:47.007
+to balance your normal internal practices
+
+59
+00:02:47.007 --> 00:02:49.008
+with the vendor team's needs.
+
+60
+00:02:49.008 --> 00:02:52.002
+With just a little bit of planning,
+
+61
+00:02:52.002 --> 00:02:57.000
+you can do this and keep your COTS implementation on track.
+

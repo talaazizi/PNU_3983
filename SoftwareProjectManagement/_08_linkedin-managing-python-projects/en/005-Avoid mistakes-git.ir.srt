@@ -1,0 +1,104 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,00 --> 00:00:03,07
+- [Instructor] A good process can help you avoid mistakes.
+
+2
+00:00:03,07 --> 00:00:06,03
+By following a process we take steps that are meant
+
+3
+00:00:06,03 --> 00:00:07,08
+to prevent errors.
+
+4
+00:00:07,08 --> 00:00:11,01
+Some of these steps are automation.
+
+5
+00:00:11,01 --> 00:00:14,06
+Automating tasks is a great way to avoid mistakes.
+
+6
+00:00:14,06 --> 00:00:17,01
+Machines are less prone to make mistakes
+
+7
+00:00:17,01 --> 00:00:18,08
+than us humans.
+
+8
+00:00:18,08 --> 00:00:20,00
+Checklists.
+
+9
+00:00:20,00 --> 00:00:21,05
+Checklists are great.
+
+10
+00:00:21,05 --> 00:00:23,07
+Use them when you can't automate.
+
+11
+00:00:23,07 --> 00:00:25,09
+Checklists embed best practices
+
+12
+00:00:25,09 --> 00:00:29,04
+and eliminates error that comes from forgetting things.
+
+13
+00:00:29,04 --> 00:00:31,06
+If you're skeptical about checklists
+
+14
+00:00:31,06 --> 00:00:34,01
+you can read "The Checklist Manifesto"
+
+15
+00:00:34,01 --> 00:00:36,01
+or search for checklists in our offerings
+
+16
+00:00:36,01 --> 00:00:38,07
+and see how much it's mentioned.
+
+17
+00:00:38,07 --> 00:00:40,03
+Knowledge transfer.
+
+18
+00:00:40,03 --> 00:00:43,01
+A good process embeds knowledge acquired over time.
+
+19
+00:00:43,01 --> 00:00:47,07
+For example, require a new test for every new piece of code
+
+20
+00:00:47,07 --> 00:00:51,00
+because a mistake will heavily affect your process.
+
+21
+00:00:51,00 --> 00:00:53,00
+If you're writing a small API server
+
+22
+00:00:53,00 --> 00:00:55,09
+used internally by your team, the cost of error
+
+23
+00:00:55,09 --> 00:00:57,08
+is not that big.
+
+24
+00:00:57,08 --> 00:01:01,02
+However if you're writing software for the mouse rover
+
+25
+00:01:01,02 --> 00:01:04,00
+a bug can mean billions of dollars going to waste.
+

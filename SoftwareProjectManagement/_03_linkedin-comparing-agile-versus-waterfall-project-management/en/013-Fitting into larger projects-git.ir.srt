@@ -1,0 +1,548 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.000 --> 00:00:05.010
+- Well, that brings me to something
+
+2
+00:00:05.010 --> 00:00:06.030
+else I wanted to ask actually.
+
+3
+00:00:06.030 --> 00:00:10.090
+Which is, what if Agile is part of a bigger project?
+
+4
+00:00:10.090 --> 00:00:12.040
+So, suppose I'm doing a Waterfall project
+
+5
+00:00:12.040 --> 00:00:15.070
+and I'm going to build a massive skyscraper or something,
+
+6
+00:00:15.070 --> 00:00:23.010
+and the software is being done by an Agile team.
+
+7
+00:00:23.010 --> 00:00:26.030
+So, I need to know when certain bits will be working,
+
+8
+00:00:26.030 --> 00:00:28.060
+because that's when the rest of the building
+
+9
+00:00:28.060 --> 00:00:31.030
+has to be plugged in or something.
+
+10
+00:00:31.030 --> 00:00:36.010
+Is that little bit of flexibility and variableness
+
+11
+00:00:36.010 --> 00:00:39.050
+that's coming into my project via the Agile component
+
+12
+00:00:39.050 --> 00:00:41.010
+going to ruin my whole project?
+
+13
+00:00:41.010 --> 00:00:43.050
+The whole control of my project.
+
+14
+00:00:43.050 --> 00:00:47.030
+Because I'm thinking of the answer as I ask this.
+
+15
+00:00:47.030 --> 00:00:48.050
+Because I guess,
+
+16
+00:00:48.050 --> 00:00:50.090
+if it's the most valuable thing you could guarantee it.
+
+17
+00:00:50.090 --> 00:00:52.040
+But if I need you to have the whole
+
+18
+00:00:52.040 --> 00:00:54.010
+motorbike ready by a certain day,
+
+19
+00:00:54.010 --> 00:00:56.010
+'cause that's the time when The Queen comes from London
+
+20
+00:00:56.010 --> 00:00:58.060
+and she wants to go riding on a motorbike with you,
+
+21
+00:00:58.060 --> 00:00:59.070
+- That would be fun. (chuckles)
+
+22
+00:00:59.070 --> 00:01:01.010
+- Yeah. (chuckles)
+
+23
+00:01:01.010 --> 00:01:03.040
+How is that going to work?
+
+24
+00:01:03.040 --> 00:01:05.050
+Or, going back to my house example,
+
+25
+00:01:05.050 --> 00:01:06.090
+if you're building a house using Agile,
+
+26
+00:01:06.090 --> 00:01:08.010
+you have to hire a crane,
+
+27
+00:01:08.010 --> 00:01:12.020
+and you have to book it, you know, six months ahead,
+
+28
+00:01:12.020 --> 00:01:14.030
+with a Gantt chart you know, hopefully,
+
+29
+00:01:14.030 --> 00:01:15.080
+where you're going to be by that time.
+
+30
+00:01:15.080 --> 00:01:17.030
+You have a bit of contingency.
+
+31
+00:01:17.030 --> 00:01:19.020
+So, you're pretty certain you're going to be ready
+
+32
+00:01:19.020 --> 00:01:21.090
+for that crane to arrive on that day.
+
+33
+00:01:21.090 --> 00:01:24.040
+So, if there's any external dates coming in,
+
+34
+00:01:24.040 --> 00:01:27.030
+either from cranes or from the rest of the project,
+
+35
+00:01:27.030 --> 00:01:29.050
+how does Agile make sure that it fits
+
+36
+00:01:29.050 --> 00:01:31.010
+in with the rest of the world?
+
+37
+00:01:31.010 --> 00:01:32.030
+Or, does it just not do that?
+
+38
+00:01:32.030 --> 00:01:36.010
+Is it just a self contained world of fun sort of thing?
+
+39
+00:01:36.010 --> 00:01:38.050
+- In my opinion, it's a little bit of a mess.
+
+40
+00:01:38.050 --> 00:01:40.040
+It's a little bit of a mess.
+
+41
+00:01:40.040 --> 00:01:43.010
+The SAFe framework, Dean Leffingwell's framework.
+
+42
+00:01:43.010 --> 00:01:44.070
+They use that with Lockheed Martin,
+
+43
+00:01:44.070 --> 00:01:47.040
+which builds, you know, essentially--
+
+44
+00:01:47.040 --> 00:01:48.090
+- (Chris) Yeah, serious great big aircraft.
+
+45
+00:01:48.090 --> 00:01:50.070
+- Right, so you're building a fighter jet.
+
+46
+00:01:50.070 --> 00:01:53.030
+So, there's a component of it, which is hardware.
+
+47
+00:01:53.030 --> 00:01:55.060
+You know, they're not just floating in the sky in software.
+
+48
+00:01:55.060 --> 00:01:57.060
+And then there's a component of it that's software.
+
+49
+00:01:57.060 --> 00:02:00.020
+And so, they use a scaled framework,
+
+50
+00:02:00.020 --> 00:02:02.070
+The SAFe, or a variation of it.
+
+51
+00:02:02.070 --> 00:02:05.090
+And so, they have to deal with
+
+52
+00:02:05.090 --> 00:02:08.080
+delivering software on certain dates,
+
+53
+00:02:08.080 --> 00:02:10.040
+and they don't have a lot of flexibility.
+
+54
+00:02:10.040 --> 00:02:12.090
+They're just like, okay, you can't decide,
+
+55
+00:02:12.090 --> 00:02:15.010
+"Well, I'm going to change where the panel is."
+
+56
+00:02:15.010 --> 00:02:16.030
+Or something like that.
+
+57
+00:02:16.030 --> 00:02:18.030
+Or instead of fighting, I'm going to go,
+
+58
+00:02:18.030 --> 00:02:20.010
+I'll spray candy, or whatever.
+
+59
+00:02:20.010 --> 00:02:22.080
+And so, the team doesn't have sort of
+
+60
+00:02:22.080 --> 00:02:26.000
+the flexibility to pivot, really.
+
+61
+00:02:26.000 --> 00:02:29.010
+But they try to get something that gives you some value
+
+62
+00:02:29.010 --> 00:02:31.030
+from Agile by allowing the team to innovate
+
+63
+00:02:31.030 --> 00:02:34.020
+on very small pieces of the product.
+
+64
+00:02:34.020 --> 00:02:41.010
+And so, I don't know that that's much more valuable
+
+65
+00:02:41.010 --> 00:02:43.080
+than just running it as sort of a strict waterfall.
+
+66
+00:02:43.080 --> 00:02:46.020
+They say they have metrics, that it's a lot more valuable,
+
+67
+00:02:46.020 --> 00:02:47.050
+sort of these scaling frameworks.
+
+68
+00:02:47.050 --> 00:02:50.040
+- I think SAFe sounds almost like Waterfall.
+
+69
+00:02:50.040 --> 00:02:54.000
+'Cause it almost sounds like you've got a sequence
+
+70
+00:02:54.000 --> 00:02:56.040
+and then you're almost into Gantt chart, aren't you?
+
+71
+00:02:56.040 --> 00:02:57.020
+I would have thought.
+
+72
+00:02:57.020 --> 00:02:59.000
+- Well, the Agile release trains are based
+
+73
+00:02:59.000 --> 00:03:00.090
+on value and not necessarily based on time,
+
+74
+00:03:00.090 --> 00:03:01.070
+like Gantt charts.
+
+75
+00:03:01.070 --> 00:03:04.070
+But it is, I mean,
+
+76
+00:03:04.070 --> 00:03:06.040
+Dean Leffingwell, who came up with SAFe,
+
+77
+00:03:06.040 --> 00:03:09.010
+came up with the rational unified process.
+
+78
+00:03:09.010 --> 00:03:11.040
+He's the same person who used to work for Rational Software.
+
+79
+00:03:11.040 --> 00:03:15.090
+And so, it's not coincidence that it's kind of
+
+80
+00:03:15.090 --> 00:03:19.000
+got that same kind of RUP approach.
+
+81
+00:03:19.000 --> 00:03:21.060
+- Yeah, that release train,
+
+82
+00:03:21.060 --> 00:03:24.050
+they're in order of value, but they are in order.
+
+83
+00:03:24.050 --> 00:03:27.000
+So, you do have, we're going to do this, then this, then this.
+
+84
+00:03:27.000 --> 00:03:30.020
+And you do have it planned out at the start?
+
+85
+00:03:30.020 --> 00:03:32.070
+- Well, the way that the release trains work
+
+86
+00:03:32.070 --> 00:03:34.080
+is that you basically sort of, you know,
+
+87
+00:03:34.080 --> 00:03:37.080
+they are predictable, like sprint delivery.
+
+88
+00:03:37.080 --> 00:03:40.000
+But they have more increments in them.
+
+89
+00:03:40.000 --> 00:03:41.040
+So, instead of,
+
+90
+00:03:41.040 --> 00:03:43.020
+like typically if you're working a Scrum team,
+
+91
+00:03:43.020 --> 00:03:45.040
+you'll deliver something each sprint.
+
+92
+00:03:45.040 --> 00:03:48.040
+And that will be a potential issuable product increment.
+
+93
+00:03:48.040 --> 00:03:51.000
+With a release train, you have basically a train,
+
+94
+00:03:51.000 --> 00:03:55.060
+which is a series of iterations or sprints.
+
+95
+00:03:55.060 --> 00:03:56.070
+They don't call 'em sprints there,
+
+96
+00:03:56.070 --> 00:03:58.050
+but a series of iterations.
+
+97
+00:03:58.050 --> 00:04:00.030
+And then you are kind of dumping
+
+98
+00:04:00.030 --> 00:04:01.080
+a bunch of work into the train.
+
+99
+00:04:01.080 --> 00:04:04.070
+And the train works kind of like it does here in London,
+
+100
+00:04:04.070 --> 00:04:06.060
+where they're very predictable
+
+101
+00:04:06.060 --> 00:04:08.010
+in terms of when they show up.
+
+102
+00:04:08.010 --> 00:04:09.040
+Well, at least today.
+
+103
+00:04:09.040 --> 00:04:11.030
+And so, they're very predictable
+
+104
+00:04:11.030 --> 00:04:12.020
+in terms of when they show up,
+
+105
+00:04:12.020 --> 00:04:14.090
+and then all of the value pours out of them.
+
+106
+00:04:14.090 --> 00:04:18.000
+And so, it's kind of trying to use a phased approach.
+
+107
+00:04:18.000 --> 00:04:20.070
+- It's that just fancy words for a Gantt chart?
+
+108
+00:04:20.070 --> 00:04:22.000
+Because I know that the Gantt chart
+
+109
+00:04:22.000 --> 00:04:23.030
+doesn't move along like a train,
+
+110
+00:04:23.030 --> 00:04:24.090
+but time moves along the Gantt chart.
+
+111
+00:04:24.090 --> 00:04:27.030
+So, you've got a sequence of things
+
+112
+00:04:27.030 --> 00:04:28.090
+you're going to do by certain dates.
+
+113
+00:04:28.090 --> 00:04:30.040
+Is the release train really a
+
+114
+00:04:30.040 --> 00:04:32.040
+Gantt chart under a different name?
+
+115
+00:04:32.040 --> 00:04:34.070
+- That would be funny, but no.
+
+116
+00:04:34.070 --> 00:04:38.040
+Gantt charts are about sort of putting
+
+117
+00:04:38.040 --> 00:04:40.010
+a bunch of dependencies in and making sure
+
+118
+00:04:40.010 --> 00:04:41.090
+that you know what goes into the chart.
+
+119
+00:04:41.090 --> 00:04:42.080
+I mean, you're charting it out,
+
+120
+00:04:42.080 --> 00:04:44.010
+and everything is-- - Yeah.
+
+121
+00:04:44.010 --> 00:04:47.000
+- And so, a release train has the flexibility
+
+122
+00:04:47.000 --> 00:04:49.050
+to put whatever you want in the train.
+
+123
+00:04:49.050 --> 00:04:52.040
+And so, instead of focusing on what's going to be in the train,
+
+124
+00:04:52.040 --> 00:04:53.090
+like you would with a Gantt chart,
+
+125
+00:04:53.090 --> 00:04:55.040
+you're just focusing on the fact that
+
+126
+00:04:55.040 --> 00:04:57.010
+the train will deliver at a certain time.
+
+127
+00:04:57.010 --> 00:04:59.060
+- So, the train is what you're going to have when,
+
+128
+00:04:59.060 --> 00:05:02.050
+and the Gantt chart is more how you do a job?
+
+129
+00:05:02.050 --> 00:05:03.050
+- Right. - (Chris) Okay.
+
+130
+00:05:03.050 --> 00:05:05.000
+- The Gantt chart's got everything in it,
+
+131
+00:05:05.000 --> 00:05:07.050
+the release train just says, you know,
+
+132
+00:05:07.050 --> 00:05:08.070
+it would be like a Gantt chart
+
+133
+00:05:08.070 --> 00:05:10.010
+without any deliverables in it.
+
+134
+00:05:10.010 --> 00:05:11.060
+'Cause you don't know what it's going to be,
+
+135
+00:05:11.060 --> 00:05:12.060
+you're just kind of throwing this stuff in.
+
+136
+00:05:12.060 --> 00:05:13.000
+- (Chris) Yeah.
+

@@ -1,0 +1,176 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,08
+- [Narrator] Linus, the creator of Linux,
+
+2
+00:00:02,08 --> 00:00:04,06
+has a law named after him,
+
+3
+00:00:04,06 --> 00:00:08,04
+"Given enough eyeballs, all bugs are shallow."
+
+4
+00:00:08,04 --> 00:00:10,08
+It means that the more people view the code,
+
+5
+00:00:10,08 --> 00:00:13,02
+the more chances are they'll find bug
+
+6
+00:00:13,02 --> 00:00:16,02
+and they'll find a solution for these bugs.
+
+7
+00:00:16,02 --> 00:00:19,04
+The Linux system is a living proof of this law.
+
+8
+00:00:19,04 --> 00:00:22,02
+In every team I work, we do code reviews.
+
+9
+00:00:22,02 --> 00:00:26,03
+They are highly effective and a lot of times we find bugs.
+
+10
+00:00:26,03 --> 00:00:28,07
+It's also a great way to share knowledge.
+
+11
+00:00:28,07 --> 00:00:30,08
+You can see what other people are working on
+
+12
+00:00:30,08 --> 00:00:32,09
+and learn cool new tricks.
+
+13
+00:00:32,09 --> 00:00:35,06
+In GitHub, once you push a branch,
+
+14
+00:00:35,06 --> 00:00:37,06
+you have a notification and a button
+
+15
+00:00:37,06 --> 00:00:40,00
+to compare and pull request.
+
+16
+00:00:40,00 --> 00:00:42,02
+The other thing you can do is you can do
+
+17
+00:00:42,02 --> 00:00:45,05
+to the Pull request page and then, click
+
+18
+00:00:45,05 --> 00:00:47,04
+on New pull request.
+
+19
+00:00:47,04 --> 00:00:50,03
+And then, we say that you want to merge to the master,
+
+20
+00:00:50,03 --> 00:00:52,06
+some teams use a development branch.
+
+21
+00:00:52,06 --> 00:00:56,09
+And then, we want our issue to be there.
+
+22
+00:00:56,09 --> 00:00:59,08
+And GitHub will show us the change that it whirl
+
+23
+00:00:59,08 --> 00:01:04,03
+to the code and we can create the pull request.
+
+24
+00:01:04,03 --> 00:01:05,09
+The pull request now is open.
+
+25
+00:01:05,09 --> 00:01:06,09
+We have a title.
+
+26
+00:01:06,09 --> 00:01:11,06
+We can change it to uppercase, D for Document tokenize.
+
+27
+00:01:11,06 --> 00:01:15,01
+We can add a comment that this fixes
+
+28
+00:01:15,01 --> 00:01:20,08
+and we can add a link to the number one issue.
+
+29
+00:01:20,08 --> 00:01:22,09
+We can ask for people to review
+
+30
+00:01:22,09 --> 00:01:25,05
+and we can assign it to people.
+
+31
+00:01:25,05 --> 00:01:29,05
+And then, we can do a Create pull request.
+
+32
+00:01:29,05 --> 00:01:31,06
+Once the pull request is created,
+
+33
+00:01:31,06 --> 00:01:35,04
+people can go to the Files change and add comments
+
+34
+00:01:35,04 --> 00:01:40,03
+so we can hit on the plus button here and write a comment.
+
+35
+00:01:40,03 --> 00:01:44,00
+And we do a back and fourth conversation until the reviewers
+
+36
+00:01:44,00 --> 00:01:46,00
+approve the review.
+
+37
+00:01:46,00 --> 00:01:51,09
+Once the PR is approved, you can merge the pull request.
+
+38
+00:01:51,09 --> 00:01:54,04
+There are several ways to merge a pull request.
+
+39
+00:01:54,04 --> 00:01:57,06
+I usually use the Squash and merge option.
+
+40
+00:01:57,06 --> 00:02:00,05
+And I click Squash and merge.
+
+41
+00:02:00,05 --> 00:02:07,00
+I can add some optional comments and then, I confirm.
+
+42
+00:02:07,00 --> 00:02:10,00
+And now, the code review process is done and our code
+
+43
+00:02:10,00 --> 00:02:12,00
+is merged to master.
+

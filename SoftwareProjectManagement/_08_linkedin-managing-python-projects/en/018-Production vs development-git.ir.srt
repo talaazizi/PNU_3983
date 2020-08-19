@@ -1,0 +1,160 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:01,09
+- [Instructor] You might have dependencies
+
+2
+00:00:01,09 --> 00:00:03,09
+that are used only in development.
+
+3
+00:00:03,09 --> 00:00:06,00
+Test with Splinter is another.
+
+4
+00:00:06,00 --> 00:00:09,08
+For example, our project might rely on pandas 0.25
+
+5
+00:00:09,08 --> 00:00:13,00
+and requests 2.22.0.
+
+6
+00:00:13,00 --> 00:00:15,03
+However, in development, we need all of these,
+
+7
+00:00:15,03 --> 00:00:18,05
+plus flake8 and pytest.
+
+8
+00:00:18,05 --> 00:00:21,04
+The common practice is to have separate requirements file.
+
+9
+00:00:21,04 --> 00:00:24,05
+One for production and another one for development.
+
+10
+00:00:24,05 --> 00:00:27,09
+So requirements.txt is the one for production
+
+11
+00:00:27,09 --> 00:00:31,08
+and dev-requirements.txt will be the one for development.
+
+12
+00:00:31,08 --> 00:00:35,01
+Another issue is that depending on the operating system,
+
+13
+00:00:35,01 --> 00:00:37,01
+you might need different packages.
+
+14
+00:00:37,01 --> 00:00:39,08
+The common practice here is to specify only top-level
+
+15
+00:00:39,08 --> 00:00:43,04
+dependencies and let the people decide what you need.
+
+16
+00:00:43,04 --> 00:00:45,06
+For example, when installed pandas,
+
+17
+00:00:45,06 --> 00:00:48,02
+people install pandas dependencies as well.
+
+18
+00:00:48,02 --> 00:00:50,09
+Some people like to have the sub-dependencies
+
+19
+00:00:50,09 --> 00:00:53,01
+in the requirements file as well.
+
+20
+00:00:53,01 --> 00:00:56,01
+I prefer to have only top-level ones.
+
+21
+00:00:56,01 --> 00:00:59,09
+Some package managers, such as Poetry and Pipenv,
+
+22
+00:00:59,09 --> 00:01:02,08
+have different sections in the configuration file
+
+23
+00:01:02,08 --> 00:01:05,09
+for specifying development requirements.
+
+24
+00:01:05,09 --> 00:01:07,04
+Let's have a look.
+
+25
+00:01:07,04 --> 00:01:09,01
+Here's our requirements file,
+
+26
+00:01:09,01 --> 00:01:11,04
+which says we have pandas and requests.
+
+27
+00:01:11,04 --> 00:01:13,06
+And now, we have our dev requirements,
+
+28
+00:01:13,06 --> 00:01:16,08
+which specify only the development requirements.
+
+29
+00:01:16,08 --> 00:01:18,08
+You should have an automated way
+
+30
+00:01:18,08 --> 00:01:20,09
+of creating virtual environments.
+
+31
+00:01:20,09 --> 00:01:23,09
+I am going to use Makefile.
+
+32
+00:01:23,09 --> 00:01:26,08
+The venv rule says to create a virtual environment
+
+33
+00:01:26,08 --> 00:01:30,04
+and to install only the requirements needed from production.
+
+34
+00:01:30,04 --> 00:01:34,06
+The dev-venv rule relies on the venv,
+
+35
+00:01:34,06 --> 00:01:37,02
+meaning it's going to execute first the venv rule
+
+36
+00:01:37,02 --> 00:01:41,07
+and then add the development requirements.
+
+37
+00:01:41,07 --> 00:01:45,04
+And now we can run make dev-venv.
+
+38
+00:01:45,04 --> 00:01:47,05
+It's going to create the virtual environment,
+
+39
+00:01:47,05 --> 00:01:52,00
+with both dependencies for production and for development.
+

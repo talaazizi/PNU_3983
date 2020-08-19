@@ -1,0 +1,108 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:04.030 --> 00:00:05.060
+- Welcome to this course
+
+2
+00:00:05.060 --> 00:00:09.050
+where we're going to explore Agile versus Waterfall.
+
+3
+00:00:09.050 --> 00:00:12.060
+And I'm personally going to be fascinated to record this.
+
+4
+00:00:12.060 --> 00:00:14.010
+We're going to record it live.
+
+5
+00:00:14.010 --> 00:00:16.020
+I'm going to interview Doug Rose.
+
+6
+00:00:16.020 --> 00:00:18.080
+He's an expert on Agile and I'm really pleased I've got him
+
+7
+00:00:18.080 --> 00:00:20.090
+because not only is he very knowledgeable
+
+8
+00:00:20.090 --> 00:00:23.000
+he's made a whole load of courses on Agile
+
+9
+00:00:23.000 --> 00:00:25.070
+but also, he's really intelligent.
+
+10
+00:00:25.070 --> 00:00:28.040
+And I have found that some people who like Agile
+
+11
+00:00:28.040 --> 00:00:29.080
+I guess like anything else
+
+12
+00:00:29.080 --> 00:00:32.000
+are just regurgitating stuff they've learned.
+
+13
+00:00:32.000 --> 00:00:35.060
+But what's great about Doug is he really understands it.
+
+14
+00:00:35.060 --> 00:00:36.060
+The other thing I like about him
+
+15
+00:00:36.060 --> 00:00:37.080
+is he's got a sense of humor.
+
+16
+00:00:37.080 --> 00:00:40.070
+So I'm going to tease him a bit, he's going to tease me.
+
+17
+00:00:40.070 --> 00:00:42.020
+And hopefully between us
+
+18
+00:00:42.020 --> 00:00:44.000
+we're going to really get to the bottom
+
+19
+00:00:44.000 --> 00:00:47.010
+of the pros and cons of Agile.
+
+20
+00:00:47.010 --> 00:00:48.090
+I don't even know what answer he's going to give.
+
+21
+00:00:48.090 --> 00:00:51.030
+He's much more of an expert on Agile than I am.
+
+22
+00:00:51.030 --> 00:00:52.030
+But I've got a load of questions.
+
+23
+00:00:52.030 --> 00:00:54.040
+A load of things that worry me about Agile.
+
+24
+00:00:54.040 --> 00:00:57.010
+So I'm going to ask him about 25 things
+
+25
+00:00:57.010 --> 00:01:01.070
+and during that time we will get to the bottom of Agile.
+
+26
+00:01:01.070 --> 00:01:03.000
+So, let's get started.
+

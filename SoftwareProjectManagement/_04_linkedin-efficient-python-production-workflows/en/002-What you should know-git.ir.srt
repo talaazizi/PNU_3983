@@ -1,0 +1,36 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:01,03
+- [Instructor] This course
+
+2
+00:00:01,03 --> 00:00:03,08
+uses the Python programming language.
+
+3
+00:00:03,08 --> 00:00:06,08
+You should be familiar with it at the basic level.
+
+4
+00:00:06,08 --> 00:00:08,08
+If you're not familiar with Python,
+
+5
+00:00:08,08 --> 00:00:11,00
+check out our courses on it.
+
+6
+00:00:11,00 --> 00:00:12,07
+You should also be familiar with concepts
+
+7
+00:00:12,07 --> 00:00:15,08
+such as docker, production environment,
+
+8
+00:00:15,08 --> 00:00:18,00
+and know how to use the terminal.
+

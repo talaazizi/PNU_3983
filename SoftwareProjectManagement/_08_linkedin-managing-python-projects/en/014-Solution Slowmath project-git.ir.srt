@@ -1,0 +1,48 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,01 --> 00:00:06,00
+(upbeat techno music)
+
+2
+00:00:06,00 --> 00:00:08,08
+- [Instructor] Here's my solution to the challenge.
+
+3
+00:00:08,08 --> 00:00:11,00
+I've created a slowmath directory,
+
+4
+00:00:11,00 --> 00:00:13,07
+and copied code to down right beneath there.
+
+5
+00:00:13,07 --> 00:00:16,09
+I added the doc string and a version.
+
+6
+00:00:16,09 --> 00:00:20,07
+Then I added an empty test, a license file,
+
+7
+00:00:20,07 --> 00:00:24,00
+a Makefile for automation, a README,
+
+8
+00:00:24,00 --> 00:00:26,02
+development requirements, since you don't have
+
+9
+00:00:26,02 --> 00:00:29,08
+any requirements for production, and a setup.py.
+
+10
+00:00:29,08 --> 00:00:33,03
+And, as you can see, now I can run make test
+
+11
+00:00:33,03 --> 00:00:35,00
+and the test will run.
+

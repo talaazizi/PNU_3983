@@ -1,0 +1,247 @@
+1
+00:00:00.05 --> 00:00:01.08
+- Now that you understand the difference
+
+2
+00:00:01.08 --> 00:00:04.06
+between your Google ID
+and your brand account,
+
+3
+00:00:04.06 --> 00:00:06.01
+let's go through some of the essential
+
+4
+00:00:06.01 --> 00:00:11.04
+strategies you need when
+creating a new channel.
+
+5
+00:00:11.04 --> 00:00:13.01
+Remember, with Channel Creation,
+
+6
+00:00:13.01 --> 00:00:14.07
+it's pretty simple.
+
+7
+00:00:14.07 --> 00:00:17.01
+Start by making sure you're logged-in
+
+8
+00:00:17.01 --> 00:00:20.04
+to the correct account you want to use.
+
+9
+00:00:20.04 --> 00:00:24.01
+Then, click your profile icon.
+
+10
+00:00:24.01 --> 00:00:27.02
+Click Switch Account.
+
+11
+00:00:27.02 --> 00:00:29.05
+And check if there's an existing account,
+
+12
+00:00:29.05 --> 00:00:32.07
+if you want to add it.
+
+13
+00:00:32.07 --> 00:00:36.04
+Or, check more accounts if you want to add
+
+14
+00:00:36.04 --> 00:00:40.01
+a new one, or choose
+from an existing brand.
+
+15
+00:00:40.01 --> 00:00:41.07
+This'll be quite useful.
+
+16
+00:00:41.07 --> 00:00:43.09
+Add Account will allow you to add
+
+17
+00:00:43.09 --> 00:00:46.09
+a Google Channel based
+on an existing brand
+
+18
+00:00:46.09 --> 00:00:48.04
+that you're logged in to.
+
+19
+00:00:48.04 --> 00:00:50.01
+And you might see this if you've never
+
+20
+00:00:50.01 --> 00:00:52.00
+created a channel before.
+
+21
+00:00:52.00 --> 00:00:55.00
+Otherwise, you can use
+the More Accounts option
+
+22
+00:00:55.00 --> 00:00:56.09
+to set up a custom account
+
+23
+00:00:56.09 --> 00:01:01.09
+or a Google channel for a brand account.
+
+24
+00:01:01.09 --> 00:01:04.06
+Remember, you'll see a screen like this
+
+25
+00:01:04.06 --> 00:01:07.01
+where you can choose from existing brands
+
+26
+00:01:07.01 --> 00:01:09.03
+or brand accounts that don't yet have
+
+27
+00:01:09.03 --> 00:01:11.09
+a YouTube channel associated with them.
+
+28
+00:01:11.09 --> 00:01:14.01
+Or, click the Plus button to create
+
+29
+00:01:14.01 --> 00:01:17.07
+an all-new brand account.
+
+30
+00:01:17.07 --> 00:01:21.04
+You'll be prompted to enter the name.
+
+31
+00:01:21.04 --> 00:01:24.00
+And then the page is created.
+
+32
+00:01:24.00 --> 00:01:25.03
+So, let's do this.
+
+33
+00:01:25.03 --> 00:01:28.06
+To start, click on the
+icon in the upper corner.
+
+34
+00:01:28.06 --> 00:01:32.00
+You may see different accounts there.
+
+35
+00:01:32.00 --> 00:01:33.02
+If you want to use the existing channel
+
+36
+00:01:33.02 --> 00:01:34.09
+that was automatically created,
+
+37
+00:01:34.09 --> 00:01:37.01
+just click Creator Studio.
+
+38
+00:01:37.01 --> 00:01:40.03
+Or choose More Accounts.
+
+39
+00:01:40.03 --> 00:01:42.06
+This'll take you to a page.
+
+40
+00:01:42.06 --> 00:01:45.05
+Now I'm going to make a new account here,
+
+41
+00:01:45.05 --> 00:01:53.04
+this time called Presets.photography.
+
+42
+00:01:53.04 --> 00:01:54.04
+It's a new account where I'm going to be
+
+43
+00:01:54.04 --> 00:01:56.02
+promoting photography presets
+
+44
+00:01:56.02 --> 00:01:58.08
+for different software packages.
+
+45
+00:01:58.08 --> 00:02:01.08
+And I'll click Create.
+
+46
+00:02:01.08 --> 00:02:03.09
+It takes a moment, but then the new page
+
+47
+00:02:03.09 --> 00:02:07.02
+is created and you land on it.
+
+48
+00:02:07.02 --> 00:02:09.02
+You'll see a very generic page right now
+
+49
+00:02:09.02 --> 00:02:12.01
+because there is no content uploaded yet,
+
+50
+00:02:12.01 --> 00:02:14.07
+and no artwork whatsoever.
+
+51
+00:02:14.07 --> 00:02:17.04
+However, we'll fix this in just a moment.
+
+52
+00:02:17.04 --> 00:02:20.02
+Remember, you can have multiple channels
+
+53
+00:02:20.02 --> 00:02:22.04
+tied to each brand account.
+
+54
+00:02:22.04 --> 00:02:24.00
+So, if you don't want to use your
+
+55
+00:02:24.00 --> 00:02:26.04
+personal presence on YouTube,
+
+56
+00:02:26.04 --> 00:02:28.07
+make sure you set up a new brand account
+
+57
+00:02:28.07 --> 00:02:31.06
+affiliated with your Google ID.
+
+58
+00:02:31.06 --> 00:02:34.02
+If you skipped that section
+earlier in the course,
+
+59
+00:02:34.02 --> 00:02:35.08
+be sure to go back and watch it.
+
+60
+00:02:35.08 --> 00:02:37.09
+Because there are a lot of subtle details.
+

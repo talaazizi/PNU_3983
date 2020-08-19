@@ -1,0 +1,811 @@
+1
+00:00:01.00 --> 00:00:03.03
+- Earlier, we talked about brand accounts
+
+2
+00:00:03.03 --> 00:00:05.09
+but something comes
+before the brand account
+
+3
+00:00:05.09 --> 00:00:08.00
+and that's the Google ID.
+
+4
+00:00:08.00 --> 00:00:09.08
+This is the individual ID
+
+5
+00:00:09.08 --> 00:00:12.09
+that's associated with you, the person,
+
+6
+00:00:12.09 --> 00:00:15.03
+and most commonly, this is first created
+
+7
+00:00:15.03 --> 00:00:17.08
+when someone sets up a Gmail account.
+
+8
+00:00:17.08 --> 00:00:19.05
+Now, these are the types of IDs
+
+9
+00:00:19.05 --> 00:00:21.07
+that move across all Google services
+
+10
+00:00:21.07 --> 00:00:23.06
+and you can use them for logging in
+
+11
+00:00:23.06 --> 00:00:25.05
+on your tablet or mobile phones,
+
+12
+00:00:25.05 --> 00:00:29.02
+for remote payments or
+accessing other Google services
+
+13
+00:00:29.02 --> 00:00:32.01
+or perhaps you use it when
+you log into your email.
+
+14
+00:00:32.01 --> 00:00:34.04
+But, chances are, you have an ID
+
+15
+00:00:34.04 --> 00:00:36.00
+that ties back to you
+
+16
+00:00:36.00 --> 00:00:37.08
+and you probably established it
+
+17
+00:00:37.08 --> 00:00:39.06
+with a phone number that you verified
+
+18
+00:00:39.06 --> 00:00:42.07
+and the ability to provide
+an additional email
+
+19
+00:00:42.07 --> 00:00:46.02
+that Google can use to contact
+you if there's a problem.
+
+20
+00:00:46.02 --> 00:00:48.06
+Well, let's explore how this
+all ties back into YouTube.
+
+21
+00:00:48.06 --> 00:00:52.06
+With your Google ID, it's
+going to serve many purposes.
+
+22
+00:00:52.06 --> 00:00:54.08
+Essentially, it's an account
+that you're going to use
+
+23
+00:00:54.08 --> 00:00:57.01
+for access and authentication
+
+24
+00:00:57.01 --> 00:00:59.08
+to many different Google properties.
+
+25
+00:00:59.08 --> 00:01:02.04
+So, if you're using Gmail or Google+
+
+26
+00:01:02.04 --> 00:01:04.06
+to email folks or connect socially,
+
+27
+00:01:04.06 --> 00:01:06.05
+you're going to use a Google ID.
+
+28
+00:01:06.05 --> 00:01:08.02
+When you participate in Google Hangouts
+
+29
+00:01:08.02 --> 00:01:10.09
+for online meetings or
+you upload to YouTube
+
+30
+00:01:10.09 --> 00:01:13.07
+or you go to edit a map on Google,
+
+31
+00:01:13.07 --> 00:01:16.05
+well, you're going to need a Google ID.
+
+32
+00:01:16.05 --> 00:01:18.01
+Now, keep in mind that when people go
+
+33
+00:01:18.01 --> 00:01:19.06
+to access Google properties,
+
+34
+00:01:19.06 --> 00:01:21.09
+they might not need a Google ID.
+
+35
+00:01:21.09 --> 00:01:24.05
+For example, if you're just going
+to watch content on YouTube,
+
+36
+00:01:24.05 --> 00:01:25.04
+no big deal.
+
+37
+00:01:25.04 --> 00:01:27.07
+You can watch as much
+as you want, in general
+
+38
+00:01:27.07 --> 00:01:30.05
+and if you're going to go
+ahead and browse Google Maps,
+
+39
+00:01:30.05 --> 00:01:32.03
+you don't need a Google ID.
+
+40
+00:01:32.03 --> 00:01:34.08
+But if you want to edit that
+Google Map and make a change,
+
+41
+00:01:34.08 --> 00:01:36.03
+you need a Google ID.
+
+42
+00:01:36.03 --> 00:01:39.08
+If you want to upload to
+YouTube, you need a Google ID.
+
+43
+00:01:39.08 --> 00:01:41.09
+If you want to watch content on YouTube
+
+44
+00:01:41.09 --> 00:01:45.01
+that's been rated for adults 18 and over,
+
+45
+00:01:45.01 --> 00:01:47.02
+well, you need a Google ID.
+
+46
+00:01:47.02 --> 00:01:49.07
+So, in the case of my 14-year-old son,
+
+47
+00:01:49.07 --> 00:01:51.04
+he can watch YouTube all he wants
+
+48
+00:01:51.04 --> 00:01:53.05
+but when he tries to watch a video
+
+49
+00:01:53.05 --> 00:01:57.02
+that's not appropriate for
+a child in high school,
+
+50
+00:01:57.02 --> 00:01:59.01
+well, it's going to flag it and require
+
+51
+00:01:59.01 --> 00:02:01.04
+that he logs in with a Google ID
+
+52
+00:02:01.04 --> 00:02:04.06
+which knows his age because
+we, as his parents, set it up.
+
+53
+00:02:04.06 --> 00:02:06.04
+So he's unable to watch that content
+
+54
+00:02:06.04 --> 00:02:08.05
+that's been flagged as only
+
+55
+00:02:08.05 --> 00:02:11.01
+for those adults over the age of 18.
+
+56
+00:02:11.01 --> 00:02:12.08
+Now, there are all sorts of other things
+
+57
+00:02:12.08 --> 00:02:15.03
+about Google's community
+standards and other things
+
+58
+00:02:15.03 --> 00:02:18.07
+but do keep in mind that YouTube
+does try to protect youth
+
+59
+00:02:18.07 --> 00:02:21.06
+by making certain videos hard to find
+
+60
+00:02:21.06 --> 00:02:23.05
+or making it more difficult.
+
+61
+00:02:23.05 --> 00:02:25.08
+However, of course, this
+doesn't counteract for the fact
+
+62
+00:02:25.08 --> 00:02:27.04
+that people have to self select
+
+63
+00:02:27.04 --> 00:02:30.02
+that their videos are supposed
+to be for this audience
+
+64
+00:02:30.02 --> 00:02:32.03
+unless enough complaints come in.
+
+65
+00:02:32.03 --> 00:02:36.04
+So as you get it, the Google
+ID is you, the individual.
+
+66
+00:02:36.04 --> 00:02:37.08
+So if you're going to
+have a YouTube channel,
+
+67
+00:02:37.08 --> 00:02:39.07
+you need a Google ID.
+
+68
+00:02:39.07 --> 00:02:41.05
+If you're going to be
+uploading to YouTube,
+
+69
+00:02:41.05 --> 00:02:44.09
+to your channel or someone
+else's, you need a Google ID.
+
+70
+00:02:44.09 --> 00:02:46.09
+Now, I probably have upwards of 20
+
+71
+00:02:46.09 --> 00:02:47.07
+of these through the years
+
+72
+00:02:47.07 --> 00:02:49.06
+of all of the different
+Gmail accounts we've had
+
+73
+00:02:49.06 --> 00:02:50.08
+to set up for things,
+
+74
+00:02:50.08 --> 00:02:53.07
+but through the use of Google
+ID's and brand accounts,
+
+75
+00:02:53.07 --> 00:02:56.07
+you can actually narrow down
+how many Google ID's you have.
+
+76
+00:02:56.07 --> 00:03:00.03
+One Google ID can be connected
+to many brand accounts
+
+77
+00:03:00.03 --> 00:03:02.08
+and this will make it a lot
+easier for you to manage
+
+78
+00:03:02.08 --> 00:03:05.05
+without constantly having
+to log in and out of apps.
+
+79
+00:03:05.05 --> 00:03:08.04
+Other things to keep in
+mind is that the Google ID
+
+80
+00:03:08.04 --> 00:03:11.03
+can provide a publicly accessible profile.
+
+81
+00:03:11.03 --> 00:03:13.00
+This allows other Google users
+
+82
+00:03:13.00 --> 00:03:15.04
+to learn about you or your business.
+
+83
+00:03:15.04 --> 00:03:16.07
+Now, generally speaking,
+
+84
+00:03:16.07 --> 00:03:18.09
+this is going to be you as an individual
+
+85
+00:03:18.09 --> 00:03:21.02
+so it can include things
+about your website,
+
+86
+00:03:21.02 --> 00:03:22.08
+for your personal website,
+
+87
+00:03:22.08 --> 00:03:25.03
+contact information that
+you choose to share,
+
+88
+00:03:25.03 --> 00:03:27.06
+some of your favorite photos, et cetera.
+
+89
+00:03:27.06 --> 00:03:30.08
+But the business or brand can
+have it's own profile page
+
+90
+00:03:30.08 --> 00:03:32.05
+and that's generally different.
+
+91
+00:03:32.05 --> 00:03:34.04
+A Google profile can also be linked
+
+92
+00:03:34.04 --> 00:03:37.03
+to other profiles on other
+social networking sites.
+
+93
+00:03:37.03 --> 00:03:39.03
+So Google allows you to connect to things
+
+94
+00:03:39.03 --> 00:03:42.09
+like Facebook, Tumblr,
+other blogging platforms.
+
+95
+00:03:42.09 --> 00:03:44.07
+And many third-party services
+
+96
+00:03:44.07 --> 00:03:47.07
+can actually use the Google
+ID for authentication.
+
+97
+00:03:47.07 --> 00:03:50.04
+This can be useful when
+people want to sign up
+
+98
+00:03:50.04 --> 00:03:52.09
+for other websites or login.
+
+99
+00:03:52.09 --> 00:03:56.01
+For example, I use Basecamp
+as a project management tool
+
+100
+00:03:56.01 --> 00:03:59.03
+and I'm able to simply
+login with my Google ID,
+
+101
+00:03:59.03 --> 00:04:00.08
+making it simpler so I don't have
+
+102
+00:04:00.08 --> 00:04:02.07
+to set up yet another account,
+
+103
+00:04:02.07 --> 00:04:05.07
+instead of managing
+another set of passwords.
+
+104
+00:04:05.07 --> 00:04:09.00
+If I can access my Google
+device and I'm logged in,
+
+105
+00:04:09.00 --> 00:04:11.04
+well, that gives me
+access to many websites
+
+106
+00:04:11.04 --> 00:04:14.00
+and not just those owned by Google.
+
+107
+00:04:14.00 --> 00:04:18.08
+Now, in this case, what you
+are seeing is a brand page.
+
+108
+00:04:18.08 --> 00:04:21.07
+This would be not a Google
+ID for an individual
+
+109
+00:04:21.07 --> 00:04:24.02
+but rather for a company.
+
+110
+00:04:24.02 --> 00:04:27.09
+In this case, here's an example
+of a brand account page.
+
+111
+00:04:27.09 --> 00:04:30.03
+But let me show you an individual page.
+
+112
+00:04:30.03 --> 00:04:33.08
+If I'm logged into Google,
+any of their websites,
+
+113
+00:04:33.08 --> 00:04:37.05
+I can click on my profile here.
+
+114
+00:04:37.05 --> 00:04:41.05
+And you see that I've
+got my Google+ profile
+
+115
+00:04:41.05 --> 00:04:43.09
+which is one way to connect and share
+
+116
+00:04:43.09 --> 00:04:46.07
+and people can learn about me
+
+117
+00:04:46.07 --> 00:04:50.01
+and this is where I
+control what people see.
+
+118
+00:04:50.01 --> 00:04:53.08
+So here is my About Me page for Google
+
+119
+00:04:53.08 --> 00:04:57.06
+and this allows you to
+actually see about someone.
+
+120
+00:04:57.06 --> 00:05:00.07
+Here you can decide what
+information is available,
+
+121
+00:05:00.07 --> 00:05:02.08
+which contact information you share
+
+122
+00:05:02.08 --> 00:05:05.01
+and, as you can see, you
+can also include things
+
+123
+00:05:05.01 --> 00:05:09.08
+like education and work history.
+
+124
+00:05:09.08 --> 00:05:12.07
+You can also see where
+you've been a contributor to
+
+125
+00:05:12.07 --> 00:05:15.06
+or custom URLs that you want to share
+
+126
+00:05:15.06 --> 00:05:18.02
+and other things such
+as Google photo albums
+
+127
+00:05:18.02 --> 00:05:20.07
+that you want to share or archive.
+
+128
+00:05:20.07 --> 00:05:22.03
+So, this makes it pretty easy
+
+129
+00:05:22.03 --> 00:05:25.05
+for that content to be distributed.
+
+130
+00:05:25.05 --> 00:05:27.03
+For example, you can also
+let other people know
+
+131
+00:05:27.03 --> 00:05:30.07
+other cities that you've lived in.
+
+132
+00:05:30.07 --> 00:05:33.06
+This is currently set to public.
+
+133
+00:05:33.06 --> 00:05:36.00
+Now that same Google
+ID will come into play
+
+134
+00:05:36.00 --> 00:05:38.06
+when you access other applications.
+
+135
+00:05:38.06 --> 00:05:41.00
+For example, here I'm
+accessing Google Sheets
+
+136
+00:05:41.00 --> 00:05:42.05
+on my mobile device
+
+137
+00:05:42.05 --> 00:05:45.03
+and you'll see that several
+different spreadsheets here
+
+138
+00:05:45.03 --> 00:05:49.05
+are available to me, tied
+to this particular account.
+
+139
+00:05:49.05 --> 00:05:51.07
+If I tap the button here, you can see
+
+140
+00:05:51.07 --> 00:05:55.07
+that I can have access to
+multiple accounts on my device.
+
+141
+00:05:55.07 --> 00:05:58.03
+So the same Google ID
+that you use on YouTube
+
+142
+00:05:58.03 --> 00:06:01.08
+is also used on many other services.
+
+143
+00:06:01.08 --> 00:06:04.09
+Now, if somebody were to
+visit your Google+ page
+
+144
+00:06:04.09 --> 00:06:06.09
+or any other Google property
+
+145
+00:06:06.09 --> 00:06:09.02
+and they click the About button,
+
+146
+00:06:09.02 --> 00:06:12.00
+this is a similar thing
+to what they'd see.
+
+147
+00:06:12.00 --> 00:06:15.01
+Now, this looks a lot like
+that page I showed you earlier
+
+148
+00:06:15.01 --> 00:06:19.02
+for LinkedIn, but you see this
+is about me as an individual
+
+149
+00:06:19.02 --> 00:06:21.02
+and they can choose to invoke things
+
+150
+00:06:21.02 --> 00:06:23.07
+like contacting me, for a hangout,
+
+151
+00:06:23.07 --> 00:06:25.07
+calling my cellphone or calendar,
+
+152
+00:06:25.07 --> 00:06:29.00
+but you see in my case,
+I've blocked those out.
+
+153
+00:06:29.00 --> 00:06:31.03
+While I like getting phone
+calls from people I know,
+
+154
+00:06:31.03 --> 00:06:34.00
+I choose not to let
+people call me directly
+
+155
+00:06:34.00 --> 00:06:35.05
+from Google's website.
+
+156
+00:06:35.05 --> 00:06:37.04
+But if you don't turn that option off,
+
+157
+00:06:37.04 --> 00:06:39.00
+and you fill in your phone number,
+
+158
+00:06:39.00 --> 00:06:41.04
+you're putting that out
+there for the world to see.
+
+159
+00:06:41.04 --> 00:06:44.09
+So it's important that you
+take control over that page,
+
+160
+00:06:44.09 --> 00:06:47.05
+deciding what information is available.
+
+161
+00:06:47.05 --> 00:06:51.05
+You can have a nice bio,
+see additional information,
+
+162
+00:06:51.05 --> 00:06:54.05
+and in this case, you
+can see additional photos
+
+163
+00:06:54.05 --> 00:06:58.02
+that I've shown and posts
+that I've made on Google+.
+
+164
+00:06:58.02 --> 00:07:00.00
+Here it's tying back to my blog,
+
+165
+00:07:00.00 --> 00:07:01.06
+some of the content that I've re-shared
+
+166
+00:07:01.06 --> 00:07:03.08
+on Google+ for people to enjoy.
+
+167
+00:07:03.08 --> 00:07:05.08
+So, you can see, for
+example, that it connects
+
+168
+00:07:05.08 --> 00:07:10.04
+and starts to let you see
+different types of imagery.
+
+169
+00:07:10.04 --> 00:07:12.06
+All right, this is quite useful
+
+170
+00:07:12.06 --> 00:07:15.05
+and having that account
+profile is important.
+
+171
+00:07:15.05 --> 00:07:19.04
+This is the Google ID
+for you as an individual.
+
+172
+00:07:19.04 --> 00:07:21.02
+I strongly suggest that you take the time
+
+173
+00:07:21.02 --> 00:07:22.08
+to clean up your Google ID.
+
+174
+00:07:22.08 --> 00:07:25.05
+Now, this is a little bit
+beyond the focus of this class,
+
+175
+00:07:25.05 --> 00:07:28.08
+but as you can see, it
+contains a lot of information
+
+176
+00:07:28.08 --> 00:07:32.02
+about you, the individual
+and you should decide
+
+177
+00:07:32.02 --> 00:07:34.07
+what you're comfortable
+sharing and showing.
+
+178
+00:07:34.07 --> 00:07:37.08
+But, fortunately, once you
+create a YouTube channel,
+
+179
+00:07:37.08 --> 00:07:41.02
+this Google ID isn't really
+tied to the YouTube channel
+
+180
+00:07:41.02 --> 00:07:42.08
+so it's ultimately up to you
+
+181
+00:07:42.08 --> 00:07:45.02
+how present you are as an individual
+
+182
+00:07:45.02 --> 00:07:47.00
+and how much visibility you take on.
+

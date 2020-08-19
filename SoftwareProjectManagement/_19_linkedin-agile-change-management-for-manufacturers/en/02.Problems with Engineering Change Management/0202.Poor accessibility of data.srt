@@ -1,0 +1,172 @@
+1
+00:00:00.060 --> 00:00:01.080
+- [Instructor] So given all the guidance
+
+2
+00:00:01.080 --> 00:00:04.000
+we have from the international standards
+
+3
+00:00:04.000 --> 00:00:06.080
+and the guidance we have from academic sources
+
+4
+00:00:06.080 --> 00:00:08.020
+and other thought leaders
+
+5
+00:00:08.020 --> 00:00:12.020
+why do so many project management professionals
+
+6
+00:00:12.020 --> 00:00:14.000
+and new product development teams
+
+7
+00:00:14.000 --> 00:00:15.030
+say that they're biggest problem
+
+8
+00:00:15.030 --> 00:00:17.050
+is access to data?
+
+9
+00:00:17.050 --> 00:00:19.040
+Well part of it is because of the way
+
+10
+00:00:19.040 --> 00:00:21.040
+we've chosen to implement systems
+
+11
+00:00:21.040 --> 00:00:24.000
+and tools and processes to manage that data.
+
+12
+00:00:24.000 --> 00:00:25.070
+For example
+
+13
+00:00:25.070 --> 00:00:28.050
+many new product development organizations
+
+14
+00:00:28.050 --> 00:00:31.070
+put their product data in a central repository
+
+15
+00:00:31.070 --> 00:00:34.000
+like a PLM or PDM system.
+
+16
+00:00:34.000 --> 00:00:36.000
+And that certainly is a good start.
+
+17
+00:00:36.000 --> 00:00:37.050
+But what they do then
+
+18
+00:00:37.050 --> 00:00:42.080
+is they link or manage related process data,
+
+19
+00:00:42.080 --> 00:00:44.070
+for example project plans
+
+20
+00:00:44.070 --> 00:00:46.090
+or the actual process they will use
+
+21
+00:00:46.090 --> 00:00:49.010
+to create the engineering designs
+
+22
+00:00:49.010 --> 00:00:50.080
+in something like Microsoft Project
+
+23
+00:00:50.080 --> 00:00:52.070
+or another project management tool.
+
+24
+00:00:52.070 --> 00:00:55.080
+This creates barrier because the two systems
+
+25
+00:00:55.080 --> 00:00:57.050
+are different and people need to go
+
+26
+00:00:57.050 --> 00:00:59.020
+to two different repositories
+
+27
+00:00:59.020 --> 00:01:02.010
+to make knowledgeable design decisions.
+
+28
+00:01:02.010 --> 00:01:06.040
+Similarly they may also manage bills of materials
+
+29
+00:01:06.040 --> 00:01:10.050
+or other tabular data in systems like Excel or Access
+
+30
+00:01:10.050 --> 00:01:13.000
+or other database tools.
+
+31
+00:01:13.000 --> 00:01:16.050
+And lastly they may route process information
+
+32
+00:01:16.050 --> 00:01:20.010
+or approvals in a email system like Outlook.
+
+33
+00:01:20.010 --> 00:01:22.070
+In each case these are standard tools
+
+34
+00:01:22.070 --> 00:01:23.090
+that can be used
+
+35
+00:01:23.090 --> 00:01:26.080
+but they are used in a very disconnected manner.
+
+36
+00:01:26.080 --> 00:01:28.020
+That creates many barriers
+
+37
+00:01:28.020 --> 00:01:29.060
+for the engineering professionals
+
+38
+00:01:29.060 --> 00:01:31.040
+that need to make knowledgeable decisions
+
+39
+00:01:31.040 --> 00:01:33.070
+about the changes that are proposed.
+
+40
+00:01:33.070 --> 00:01:35.050
+In order to become truly agile
+
+41
+00:01:35.050 --> 00:01:38.060
+one must have access to all the information
+
+42
+00:01:38.060 --> 00:01:40.050
+that's needed for a decision
+
+43
+00:01:40.050 --> 00:01:43.000
+at the time the decision needs to be made.
+

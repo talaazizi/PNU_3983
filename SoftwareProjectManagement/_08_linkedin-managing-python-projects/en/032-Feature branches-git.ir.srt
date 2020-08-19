@@ -1,0 +1,176 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:02,02
+- [Instructor] There are many ways to work together
+
+2
+00:00:02,02 --> 00:00:04,01
+on the same code base.
+
+3
+00:00:04,01 --> 00:00:08,02
+One of the common ones is to use feature branches.
+
+4
+00:00:08,02 --> 00:00:10,03
+A branch is a part of development path
+
+5
+00:00:10,03 --> 00:00:11,09
+on the same code base.
+
+6
+00:00:11,09 --> 00:00:14,05
+A feature branch is a part development path
+
+7
+00:00:14,05 --> 00:00:18,08
+that is dedicated to a specific feature or an issue.
+
+8
+00:00:18,08 --> 00:00:20,07
+Once you start work on an issue,
+
+9
+00:00:20,07 --> 00:00:22,05
+create a feature branch for it
+
+10
+00:00:22,05 --> 00:00:24,08
+and work on this branch.
+
+11
+00:00:24,08 --> 00:00:26,09
+A nice convention is to call the branch
+
+12
+00:00:26,09 --> 00:00:29,03
+with the name of the feature.
+
+13
+00:00:29,03 --> 00:00:33,00
+We have our issue to document the tokenize function.
+
+14
+00:00:33,00 --> 00:00:36,06
+So we'll do git checkout -b,
+
+15
+00:00:36,06 --> 00:00:38,04
+meaning create a new branch,
+
+16
+00:00:38,04 --> 00:00:43,06
+and then call it issue/1-document-tokenize.
+
+17
+00:00:43,06 --> 00:00:47,02
+And now we're working in the document tokenize branch.
+
+18
+00:00:47,02 --> 00:00:50,06
+Now we can go to our code,
+
+19
+00:00:50,06 --> 00:00:52,01
+and add a commentation string
+
+20
+00:00:52,01 --> 00:00:54,07
+to the tokenize function.
+
+21
+00:00:54,07 --> 00:00:56,04
+Once we save our code,
+
+22
+00:00:56,04 --> 00:00:59,03
+we're ready to go.
+
+23
+00:00:59,03 --> 00:01:00,08
+We can do git status
+
+24
+00:01:00,08 --> 00:01:02,01
+to see what has changed.
+
+25
+00:01:02,01 --> 00:01:05,00
+And we see that we have one modified files.
+
+26
+00:01:05,00 --> 00:01:10,07
+Then do git add nlp/_init_.py.
+
+27
+00:01:10,07 --> 00:01:13,02
+And then we do git commit,
+
+28
+00:01:13,02 --> 00:01:18,07
+and we'll give it the message document tokenize.
+
+29
+00:01:18,07 --> 00:01:22,03
+Now the branch is still local to our developer machine.
+
+30
+00:01:22,03 --> 00:01:24,09
+We need to push it to the server.
+
+31
+00:01:24,09 --> 00:01:29,00
+So we do git push -u, meaning track.
+
+32
+00:01:29,00 --> 00:01:34,01
+And then origin, which is where the repository came from.
+
+33
+00:01:34,01 --> 00:01:36,00
+And the name of the branch,
+
+34
+00:01:36,00 --> 00:01:41,05
+which is issue/1-document-tokenize.
+
+35
+00:01:41,05 --> 00:01:47,04
+And now this branch is being sent to github.
+
+36
+00:01:47,04 --> 00:01:49,05
+If you go to the code now,
+
+37
+00:01:49,05 --> 00:01:53,08
+we can see now that we have a new document tokenize branch.
+
+38
+00:01:53,08 --> 00:01:55,06
+The main branch might get updates
+
+39
+00:01:55,06 --> 00:01:58,03
+before you merge your feature branch into it.
+
+40
+00:01:58,03 --> 00:02:01,01
+Make sure to merge early and often.
+
+41
+00:02:01,01 --> 00:02:03,00
+And once the branch is approved,
+
+42
+00:02:03,00 --> 00:02:04,06
+you should be in a code review.
+
+43
+00:02:04,06 --> 00:02:08,00
+Merge and squash it to the main development branch.
+

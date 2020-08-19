@@ -1,0 +1,56 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:03,01
+- [Miki] Russ Cox said, "Software engineering
+
+2
+00:00:03,01 --> 00:00:05,00
+"is what happens to programming
+
+3
+00:00:05,00 --> 00:00:08,03
+"when you add time and other programmers."
+
+4
+00:00:08,03 --> 00:00:11,06
+As software developers, we rarely work alone.
+
+5
+00:00:11,06 --> 00:00:14,05
+This means that apart from writing code,
+
+6
+00:00:14,05 --> 00:00:18,04
+we spend our days coordinating with other developers.
+
+7
+00:00:18,04 --> 00:00:21,07
+Hi, I'm Miki Tebeka and I'm going to share with you
+
+8
+00:00:21,07 --> 00:00:23,08
+some recipes I've learned throughout more
+
+9
+00:00:23,08 --> 00:00:27,07
+than 20 years of developing products with Python.
+
+10
+00:00:27,07 --> 00:00:30,04
+Most of these methods are lightweight.
+
+11
+00:00:30,04 --> 00:00:32,08
+They will help your team stay coordinated
+
+12
+00:00:32,08 --> 00:00:34,06
+while allowing you to spend more time
+
+13
+00:00:34,06 --> 00:00:37,00
+on what you love, writing Python.
+

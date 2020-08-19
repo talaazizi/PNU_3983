@@ -1,0 +1,431 @@
+1
+00:00:00.05 --> 00:00:01.07
+- When you upload a movie,
+
+2
+00:00:01.07 --> 00:00:04.08
+it's important that you give
+it some basic information.
+
+3
+00:00:04.08 --> 00:00:06.09
+This makes the file discoverable
+
+4
+00:00:06.09 --> 00:00:10.04
+so people can actually
+learn and find your content.
+
+5
+00:00:10.04 --> 00:00:12.05
+This makes the video
+discoverable so people
+
+6
+00:00:12.05 --> 00:00:14.09
+can actually find your content.
+
+7
+00:00:14.09 --> 00:00:16.03
+While the video's uploading,
+
+8
+00:00:16.03 --> 00:00:18.06
+you can actually load this information in.
+
+9
+00:00:18.06 --> 00:00:21.00
+You don't have to wait for it to complete.
+
+10
+00:00:21.00 --> 00:00:22.09
+The basic info's pretty simple.
+
+11
+00:00:22.09 --> 00:00:26.00
+What you're looking for
+is to fill in a title.
+
+12
+00:00:26.00 --> 00:00:29.00
+So make sure you think about
+search engine optimization,
+
+13
+00:00:29.00 --> 00:00:30.06
+giving it a descriptive title,
+
+14
+00:00:30.06 --> 00:00:34.02
+and that you keep this
+title below 100 characters.
+
+15
+00:00:34.02 --> 00:00:39.03
+Also, in the description area,
+enter a detailed description.
+
+16
+00:00:39.03 --> 00:00:42.00
+You can also put a website or a URL here
+
+17
+00:00:42.00 --> 00:00:44.09
+so people can go and
+find more information.
+
+18
+00:00:44.09 --> 00:00:48.01
+But this is a great opportunity
+to include key information.
+
+19
+00:00:48.01 --> 00:00:50.04
+And remember that it's not just the title
+
+20
+00:00:50.04 --> 00:00:52.09
+and the description that
+helps people find it.
+
+21
+00:00:52.09 --> 00:00:55.03
+They're gonna rely on
+both of those properties
+
+22
+00:00:55.03 --> 00:00:58.08
+and another one called keywords or tags.
+
+23
+00:00:58.08 --> 00:01:01.09
+These tags can be put below the video.
+
+24
+00:01:01.09 --> 00:01:05.04
+And what you're looking for
+are topics that are similar.
+
+25
+00:01:05.04 --> 00:01:08.04
+So you can tag a video with keywords
+
+26
+00:01:08.04 --> 00:01:10.01
+and this is gonna be helpful.
+
+27
+00:01:10.01 --> 00:01:12.00
+Additionally, what you'll find is that
+
+28
+00:01:12.00 --> 00:01:15.08
+the system may suggest these
+tags as you start to type.
+
+29
+00:01:15.08 --> 00:01:18.04
+So consider using the auto-suggested tags
+
+30
+00:01:18.04 --> 00:01:20.03
+as they're more common.
+
+31
+00:01:20.03 --> 00:01:23.07
+Additionally, thumbnails are
+going to be presented to you.
+
+32
+00:01:23.07 --> 00:01:26.00
+You'll have the ability
+to choose from three
+
+33
+00:01:26.00 --> 00:01:28.01
+randomly selected thumbnails
+
+34
+00:01:28.01 --> 00:01:30.00
+or if you have a verified account,
+
+35
+00:01:30.00 --> 00:01:33.06
+you'll be able to upload
+a custom thumbnail.
+
+36
+00:01:33.06 --> 00:01:36.01
+Let's go ahead and upload
+a video here for a moment.
+
+37
+00:01:36.01 --> 00:01:39.00
+So you can see the general process
+
+38
+00:01:39.00 --> 00:01:41.02
+of tagging the information.
+
+39
+00:01:41.02 --> 00:01:44.01
+I'll choose this Aurora video here,
+
+40
+00:01:44.01 --> 00:01:46.04
+and you see it begins to upload.
+
+41
+00:01:46.04 --> 00:01:49.04
+The name has been pulled out of the file,
+
+42
+00:01:49.04 --> 00:01:53.02
+but I can actually go ahead
+and modify that if needed.
+
+43
+00:01:53.02 --> 00:01:56.06
+Or enter a description here below.
+
+44
+00:01:56.06 --> 00:02:16.02
+Let's go ahead and describe this video.
+
+45
+00:02:16.02 --> 00:02:18.00
+Now you'll notice in that description
+
+46
+00:02:18.00 --> 00:02:21.00
+I've mentioned the name of the software;
+
+47
+00:02:21.00 --> 00:02:24.03
+I'll actually specify
+the version here as well,
+
+48
+00:02:24.03 --> 00:02:26.08
+the 2018 version of the software.
+
+49
+00:02:26.08 --> 00:02:29.09
+I've included the name of
+the company that makes it.
+
+50
+00:02:29.09 --> 00:02:32.03
+I've also taken advantage here and put in
+
+51
+00:02:32.03 --> 00:02:35.06
+my name and worked in the word photography
+
+52
+00:02:35.06 --> 00:02:38.05
+and photographer into the description.
+
+53
+00:02:38.05 --> 00:02:40.06
+Now, I'm using a service called Grammarly
+
+54
+00:02:40.06 --> 00:02:43.00
+that makes it easy to
+click and check the grammar
+
+55
+00:02:43.00 --> 00:02:44.05
+if there is any issues.
+
+56
+00:02:44.05 --> 00:02:45.09
+That's a third-party add-on,
+
+57
+00:02:45.09 --> 00:02:48.07
+but not a bad idea as you're writing.
+
+58
+00:02:48.07 --> 00:02:52.03
+Now below, I have the
+ability to enter tags.
+
+59
+00:02:52.03 --> 00:02:57.05
+Let's go ahead here and
+set some information.
+
+60
+00:02:57.05 --> 00:03:13.01
+And I place a comma between each tag.
+
+61
+00:03:13.01 --> 00:03:23.00
+If you want to remove a tag,
+just click the X box there.
+
+62
+00:03:23.00 --> 00:03:25.07
+Now, I can choose the
+status for the video here
+
+63
+00:03:25.07 --> 00:03:29.06
+and I'll click on the pop-up
+list and set this to Public.
+
+64
+00:03:29.06 --> 00:03:31.08
+And if I wanted to share on Twitter,
+
+65
+00:03:31.08 --> 00:03:35.00
+with a single click here,
+I can go ahead and connect.
+
+66
+00:03:35.00 --> 00:03:36.09
+And you'll see that
+it'll give me the ability
+
+67
+00:03:36.09 --> 00:03:39.03
+to authorize and connect the account.
+
+68
+00:03:39.03 --> 00:03:40.09
+Now I'm gonna uncheck that for now,
+
+69
+00:03:40.09 --> 00:03:43.01
+but remember this does
+give you the ability
+
+70
+00:03:43.01 --> 00:03:45.03
+to generate a tweet if you've connected
+
+71
+00:03:45.03 --> 00:03:49.03
+your social network to
+your YouTube account.
+
+72
+00:03:49.03 --> 00:03:52.01
+Additionally if I want
+to, I can make a playlist.
+
+73
+00:03:52.01 --> 00:03:54.02
+Now I'll click this for right now,
+
+74
+00:03:54.02 --> 00:04:00.01
+and make a new playlist
+called Skylum Software.
+
+75
+00:04:00.01 --> 00:04:03.07
+And click Create.
+
+76
+00:04:03.07 --> 00:04:07.01
+Now what you'll notice is that
+it's almost done uploading
+
+77
+00:04:07.01 --> 00:04:09.05
+and I can see information here.
+
+78
+00:04:09.05 --> 00:04:13.05
+The upload has finished,
+that's what the first bar is,
+
+79
+00:04:13.05 --> 00:04:16.09
+but the processing is the
+evaluating of the file
+
+80
+00:04:16.09 --> 00:04:19.05
+and getting it ready for compression.
+
+81
+00:04:19.05 --> 00:04:23.03
+Now I have the ability here if
+I'd like, to check the link.
+
+82
+00:04:23.03 --> 00:04:24.05
+So if you're in a hurry
+
+83
+00:04:24.05 --> 00:04:26.02
+or you need to share
+the link with someone,
+
+84
+00:04:26.02 --> 00:04:28.06
+you can actually put
+this link onto a website
+
+85
+00:04:28.06 --> 00:04:30.02
+or email it to someone,
+
+86
+00:04:30.02 --> 00:04:33.05
+and when it's all done processing,
+the video will be there.
+
+87
+00:04:33.05 --> 00:04:35.06
+If I go to that page early,
+
+88
+00:04:35.06 --> 00:04:38.02
+you'll see that it might
+not have the video yet.
+
+89
+00:04:38.02 --> 00:04:40.01
+It says that it's being processed,
+
+90
+00:04:40.01 --> 00:04:44.03
+but the description and the
+general information is there.
+
+91
+00:04:44.03 --> 00:04:45.09
+If we go back to that page,
+
+92
+00:04:45.09 --> 00:04:48.01
+you can see that it's almost done,
+
+93
+00:04:48.01 --> 00:04:51.04
+and you can track the
+status of the processing.
+
+94
+00:04:51.04 --> 00:04:53.01
+Once this processing is done,
+
+95
+00:04:53.01 --> 00:04:56.02
+video thumbnails will
+appear at the bottom.
+
+96
+00:04:56.02 --> 00:04:57.05
+And speaking of thumbnails,
+
+97
+00:04:57.05 --> 00:04:59.03
+let's talk about those for a moment.
+

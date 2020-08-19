@@ -1,0 +1,120 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,09 --> 00:00:02,05
+- [Instructor] Continuous delivery means that
+
+2
+00:00:02,05 --> 00:00:06,00
+if tests are passing in your continuous integration system
+
+3
+00:00:06,00 --> 00:00:08,06
+your code is automatically deployed production.
+
+4
+00:00:08,06 --> 00:00:11,01
+Continuous delivery is a hard goal
+
+5
+00:00:11,01 --> 00:00:12,09
+and it will take time to get to.
+
+6
+00:00:12,09 --> 00:00:15,05
+I'd start without it, and only when you have a good
+
+7
+00:00:15,05 --> 00:00:18,08
+grasp of how manual deployment works and also a good
+
+8
+00:00:18,08 --> 00:00:21,09
+trust in your testing, move to continuous delivery.
+
+9
+00:00:21,09 --> 00:00:23,01
+Here are some points to consider
+
+10
+00:00:23,01 --> 00:00:25,04
+on the way to continuous delivery.
+
+11
+00:00:25,04 --> 00:00:26,04
+Testing.
+
+12
+00:00:26,04 --> 00:00:28,02
+How can I have a test rate that will be
+
+13
+00:00:28,02 --> 00:00:30,06
+good enough for automatic deployment?
+
+14
+00:00:30,06 --> 00:00:33,05
+How can I mimic production in testing?
+
+15
+00:00:33,05 --> 00:00:34,06
+Monitoring.
+
+16
+00:00:34,06 --> 00:00:37,04
+What are the metrics I need to monitor?
+
+17
+00:00:37,04 --> 00:00:39,04
+How can I run self-checks?
+
+18
+00:00:39,04 --> 00:00:41,08
+And how should I roll back a bad release?
+
+19
+00:00:41,08 --> 00:00:43,03
+Who should be alerted?
+
+20
+00:00:43,03 --> 00:00:44,08
+Automation.
+
+21
+00:00:44,08 --> 00:00:46,06
+How can I automate the process?
+
+22
+00:00:46,06 --> 00:00:48,09
+How do I version my code?
+
+23
+00:00:48,09 --> 00:00:51,03
+How can I update load balancers
+
+24
+00:00:51,03 --> 00:00:53,05
+to direct traffic to new code?
+
+25
+00:00:53,05 --> 00:00:56,00
+The benefits of continuous delivery are great.
+
+26
+00:00:56,00 --> 00:00:58,06
+New features are deployed quickly
+
+27
+00:00:58,06 --> 00:01:01,05
+and you get feedback from actual customers.
+
+28
+00:01:01,05 --> 00:01:04,00
+Also, your team will be happier,
+
+29
+00:01:04,00 --> 00:01:07,00
+since code they write goes quickly to production.
+

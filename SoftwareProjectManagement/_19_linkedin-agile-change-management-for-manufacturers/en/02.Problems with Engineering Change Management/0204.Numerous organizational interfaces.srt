@@ -1,0 +1,132 @@
+1
+00:00:00.060 --> 00:00:01.070
+- [Instructor] Just as we discussed
+
+2
+00:00:01.070 --> 00:00:04.040
+how accessed information is a challenge
+
+3
+00:00:04.040 --> 00:00:07.000
+that many organizations struggle to overcome,
+
+4
+00:00:07.000 --> 00:00:09.060
+we ought to look at the organization itself
+
+5
+00:00:09.060 --> 00:00:13.030
+and its structure and determine how well it matches up with
+
+6
+00:00:13.030 --> 00:00:16.020
+the Agile methodology for new product development.
+
+7
+00:00:16.020 --> 00:00:18.040
+As you should recall from your knowledge
+
+8
+00:00:18.040 --> 00:00:21.040
+of Agile project management methodologies in general,
+
+9
+00:00:21.040 --> 00:00:25.010
+there's usually a number of teams that work together
+
+10
+00:00:25.010 --> 00:00:28.020
+on various components or subsystems of a design.
+
+11
+00:00:28.020 --> 00:00:29.040
+And the new product development process
+
+12
+00:00:29.040 --> 00:00:31.020
+is no different from that.
+
+13
+00:00:31.020 --> 00:00:37.040
+Each of these teams must have very good interfaces
+
+14
+00:00:37.040 --> 00:00:40.060
+so that information flows quickly and accurately
+
+15
+00:00:40.060 --> 00:00:43.010
+between the various stakeholders.
+
+16
+00:00:43.010 --> 00:00:48.020
+This is critical for the Agile process to work.
+
+17
+00:00:48.020 --> 00:00:50.060
+Similarly, as you should recall from your knowledge
+
+18
+00:00:50.060 --> 00:00:54.010
+of Agile new product development methodologies,
+
+19
+00:00:54.010 --> 00:00:55.080
+decisions are made as close
+
+20
+00:00:55.080 --> 00:00:58.080
+to the design owner's point as possible.
+
+21
+00:00:58.080 --> 00:01:01.040
+As such, the decisions that are made
+
+22
+00:01:01.040 --> 00:01:04.050
+must be flowed freely throughout the organization.
+
+23
+00:01:04.050 --> 00:01:08.050
+This is a very different mindset from a lot of companies
+
+24
+00:01:08.050 --> 00:01:10.040
+or a lot of organizations that have
+
+25
+00:01:10.040 --> 00:01:12.030
+a very structured bureaucracy
+
+26
+00:01:12.030 --> 00:01:15.030
+or a very structured hierarchy.
+
+27
+00:01:15.030 --> 00:01:20.030
+In such cases, you often need to consciously overlay
+
+28
+00:01:20.030 --> 00:01:23.040
+the Agile project management teams
+
+29
+00:01:23.040 --> 00:01:26.030
+on the corporate structure
+
+30
+00:01:26.030 --> 00:01:29.090
+for the new product development process to work efficiently.
+
+31
+00:01:29.090 --> 00:01:30.090
+This is something that will take
+
+32
+00:01:30.090 --> 00:01:33.090
+some organizational change on your part,
+
+33
+00:01:33.090 --> 00:01:39.000
+as the new product development professional, to fully enact.
+

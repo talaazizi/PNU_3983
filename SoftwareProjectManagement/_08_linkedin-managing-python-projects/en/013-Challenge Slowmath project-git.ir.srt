@@ -1,0 +1,40 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,02 --> 00:00:05,07
+(upbeat music)
+
+2
+00:00:05,07 --> 00:00:07,02
+- [Instructor] In the challenge directory,
+
+3
+00:00:07,02 --> 00:00:09,05
+you'll find a file called code.py
+
+4
+00:00:09,05 --> 00:00:12,01
+that has two functions, add and sub.
+
+5
+00:00:12,01 --> 00:00:15,00
+You need to create a slowmath package
+
+6
+00:00:15,00 --> 00:00:17,00
+that provides these functions.
+
+7
+00:00:17,00 --> 00:00:19,09
+Create a project structure for it.
+
+8
+00:00:19,09 --> 00:00:21,03
+Don't worry about tests.
+
+9
+00:00:21,03 --> 00:00:24,00
+Just create an empty test file.
+

@@ -1,0 +1,687 @@
+1
+00:00:00.07 --> 00:00:03.00
+- Now that you have a
+destination ready to receive it,
+
+2
+00:00:03.00 --> 00:00:05.05
+let's talk about uploading video files.
+
+3
+00:00:05.05 --> 00:00:08.04
+There are many different
+video formats out there,
+
+4
+00:00:08.04 --> 00:00:10.03
+and it's important that
+you know which ones
+
+5
+00:00:10.03 --> 00:00:13.02
+work with YouTube, and
+which ones work well.
+
+6
+00:00:13.02 --> 00:00:15.02
+A couple things to keep in mind.
+
+7
+00:00:15.02 --> 00:00:17.03
+That there are many different formats
+
+8
+00:00:17.03 --> 00:00:19.04
+that YouTube will support.
+
+9
+00:00:19.04 --> 00:00:22.05
+That's because many different
+applications create videos
+
+10
+00:00:22.05 --> 00:00:23.06
+in different ways.
+
+11
+00:00:23.06 --> 00:00:27.08
+You have formats like MOV and
+MPEG4 that are very common,
+
+12
+00:00:27.08 --> 00:00:31.02
+and MP4 is just another variation of that.
+
+13
+00:00:31.02 --> 00:00:34.07
+Or the newer HEVC, the
+high-efficiency video codec
+
+14
+00:00:34.07 --> 00:00:40.01
+which is h.265, which the
+next generation of MPEG4.
+
+15
+00:00:40.01 --> 00:00:43.05
+There are older formats,
+like AVI and Windows Media,
+
+16
+00:00:43.05 --> 00:00:45.05
+as well as the Flash video format.
+
+17
+00:00:45.05 --> 00:00:48.06
+And these are formats
+that are not very popular.
+
+18
+00:00:48.06 --> 00:00:50.03
+You've also got professional formats
+
+19
+00:00:50.03 --> 00:00:53.09
+like DNxHR from Avid and ProRes from Apple
+
+20
+00:00:53.09 --> 00:00:57.05
+and CineForm from GoPro,
+also used by Adobe.
+
+21
+00:00:57.05 --> 00:01:00.04
+But at the end of the day, what
+you really need to consider
+
+22
+00:01:00.04 --> 00:01:07.02
+is that uploading a high-quality
+MPEG4, MP4, or h.265 file
+
+23
+00:01:07.02 --> 00:01:09.04
+will give you some of the best results.
+
+24
+00:01:09.04 --> 00:01:12.01
+That's because these are
+the files that are optimized
+
+25
+00:01:12.01 --> 00:01:13.08
+and ready for upload.
+
+26
+00:01:13.08 --> 00:01:15.01
+So you want to make sure
+
+27
+00:01:15.01 --> 00:01:18.02
+that you're having to do a
+whole lot of recompression
+
+28
+00:01:18.02 --> 00:01:20.05
+or extra thought about the file.
+
+29
+00:01:20.05 --> 00:01:22.01
+Now if you have the bandwidth,
+
+30
+00:01:22.01 --> 00:01:24.08
+and you want to upload
+the ultimate-quality file,
+
+31
+00:01:24.08 --> 00:01:28.09
+things like a ProRes
+movie or a CineForm movie
+
+32
+00:01:28.09 --> 00:01:30.05
+will go a long way
+
+33
+00:01:30.05 --> 00:01:32.09
+and you can actually use
+those professional assets
+
+34
+00:01:32.09 --> 00:01:36.00
+and let YouTube make all
+of the encoding versions
+
+35
+00:01:36.00 --> 00:01:37.08
+for the different bandwidths and streams.
+
+36
+00:01:37.08 --> 00:01:40.01
+Other things to think about
+is that it needs to be
+
+37
+00:01:40.01 --> 00:01:41.06
+progressive scan.
+
+38
+00:01:41.06 --> 00:01:43.08
+This means no interlaced video.
+
+39
+00:01:43.08 --> 00:01:45.08
+If you do have interlaced content,
+
+40
+00:01:45.08 --> 00:01:50.02
+the content should be deinterlaced
+when you do the encode.
+
+41
+00:01:50.02 --> 00:01:52.08
+Ideally, if you're shooting
+video specifically for the web
+
+42
+00:01:52.08 --> 00:01:55.02
+or YouTube, you would
+turn interlacing off.
+
+43
+00:01:55.02 --> 00:01:57.04
+Other things to think about
+is that if that material
+
+44
+00:01:57.04 --> 00:02:01.02
+starts off as interlaced, such as 1081i60,
+
+45
+00:02:01.02 --> 00:02:03.04
+well, you're going to end
+up deinterlacing that,
+
+46
+00:02:03.04 --> 00:02:06.07
+taking it to 1080p, 30 frames per second.
+
+47
+00:02:06.07 --> 00:02:09.05
+Now this is not mandatory,
+
+48
+00:02:09.05 --> 00:02:12.01
+but you will get
+substantially better results
+
+49
+00:02:12.01 --> 00:02:15.01
+if you do this conversion
+on your local machine
+
+50
+00:02:15.01 --> 00:02:18.04
+before you upload to YouTube.
+
+51
+00:02:18.04 --> 00:02:21.05
+Other things to think about
+are the general aspect ratio.
+
+52
+00:02:21.05 --> 00:02:25.01
+Most versions of YouTube are
+going to use a 16 by nine
+
+53
+00:02:25.01 --> 00:02:27.00
+aspect ratio player.
+
+54
+00:02:27.00 --> 00:02:28.08
+This means that if you put up a video
+
+55
+00:02:28.08 --> 00:02:32.02
+that's not 16 by nine, it's
+going to get processed,
+
+56
+00:02:32.02 --> 00:02:34.02
+and there'll typically be black bars
+
+57
+00:02:34.02 --> 00:02:35.09
+either on the left or right.
+
+58
+00:02:35.09 --> 00:02:37.09
+This is referred to as pillarboxing
+
+59
+00:02:37.09 --> 00:02:39.07
+because of the vertical bars,
+
+60
+00:02:39.07 --> 00:02:43.02
+or if it has an aspect
+ratio that's widescreen,
+
+61
+00:02:43.02 --> 00:02:46.03
+but maybe more cinematic, well,
+then it'll be letterboxed,
+
+62
+00:02:46.03 --> 00:02:49.02
+with black bars on the top and bottom.
+
+63
+00:02:49.02 --> 00:02:52.08
+Now if you are on a mobile
+device, such as iOS devices,
+
+64
+00:02:52.08 --> 00:02:56.03
+it is possible that
+vertical video can work.
+
+65
+00:02:56.03 --> 00:02:58.02
+That's because a lot of folks are shooting
+
+66
+00:02:58.02 --> 00:03:00.01
+and streaming vertical video,
+
+67
+00:03:00.01 --> 00:03:03.05
+and they're experimenting with
+this on the mobile platform.
+
+68
+00:03:03.05 --> 00:03:05.06
+So if you do have mobile content
+
+69
+00:03:05.06 --> 00:03:08.03
+or you're doing a mobile
+stream vertically,
+
+70
+00:03:08.03 --> 00:03:10.07
+it is possible that that can show up,
+
+71
+00:03:10.07 --> 00:03:12.03
+but this is really being targeted
+
+72
+00:03:12.03 --> 00:03:14.04
+to mobile devices this way.
+
+73
+00:03:14.04 --> 00:03:17.01
+Now, as far as the overall quality,
+
+74
+00:03:17.01 --> 00:03:20.02
+YouTube supports pretty
+much every known recognized
+
+75
+00:03:20.02 --> 00:03:21.06
+video resolution.
+
+76
+00:03:21.06 --> 00:03:23.09
+And as you can see here,
+there's a whole bunch.
+
+77
+00:03:23.09 --> 00:03:27.04
+You can go all the way up to
+4K or Ultra High Definition,
+
+78
+00:03:27.04 --> 00:03:30.01
+which is the 2160p.
+
+79
+00:03:30.01 --> 00:03:33.04
+Below that, 1440p tends
+to be a common resolution
+
+80
+00:03:33.04 --> 00:03:35.04
+used for screencasting.
+
+81
+00:03:35.04 --> 00:03:38.05
+And you'll see the very
+standard high-definition sizes
+
+82
+00:03:38.05 --> 00:03:41.03
+of 1080p and 720p.
+
+83
+00:03:41.03 --> 00:03:44.05
+The other sizes you see there
+are standard definition,
+
+84
+00:03:44.05 --> 00:03:46.03
+generally not a good idea.
+
+85
+00:03:46.03 --> 00:03:50.01
+Now YouTube will make lower-res
+versions for mobile devices
+
+86
+00:03:50.01 --> 00:03:53.05
+and low bandwidth situations,
+but for the most part,
+
+87
+00:03:53.05 --> 00:03:55.00
+it's an extremely good idea
+
+88
+00:03:55.00 --> 00:03:58.09
+to upload high-definition
+content or higher to YouTube
+
+89
+00:03:58.09 --> 00:04:02.08
+so that people can enjoy
+it on most modern devices.
+
+90
+00:04:02.08 --> 00:04:05.06
+Now if you take a look,
+there are not bitrates,
+
+91
+00:04:05.06 --> 00:04:07.07
+and bitrate is a little bit confusing,
+
+92
+00:04:07.07 --> 00:04:10.09
+but this deals with the
+quality of the file.
+
+93
+00:04:10.09 --> 00:04:13.04
+So you'll see here the ability to set this
+
+94
+00:04:13.04 --> 00:04:16.04
+in megabits per second,
+and what it comes down to
+
+95
+00:04:16.04 --> 00:04:19.05
+is that the higher the frame size,
+
+96
+00:04:19.05 --> 00:04:21.04
+the higher the data rate size.
+
+97
+00:04:21.04 --> 00:04:25.07
+So 4K video really starts to
+get pretty high data rate,
+
+98
+00:04:25.07 --> 00:04:28.05
+and so it's important
+that you put this up here.
+
+99
+00:04:28.05 --> 00:04:31.04
+And what you see is for
+your standard framerates,
+
+100
+00:04:31.04 --> 00:04:32.08
+you're looking at anywhere
+
+101
+00:04:32.08 --> 00:04:36.02
+from about 35 to 45 megabits a second,
+
+102
+00:04:36.02 --> 00:04:39.08
+if you're dealing with 4K,
+but that number almost doubles
+
+103
+00:04:39.08 --> 00:04:42.04
+if you're gonna be delivering
+with higher framerates.
+
+104
+00:04:42.04 --> 00:04:46.01
+That's because more frames
+per second is going to need
+
+105
+00:04:46.01 --> 00:04:47.04
+more information.
+
+106
+00:04:47.04 --> 00:04:49.08
+Now that's for standard dynamic range.
+
+107
+00:04:49.08 --> 00:04:52.05
+YouTube does also support the newer,
+
+108
+00:04:52.05 --> 00:04:54.07
+high-dynamic range video.
+
+109
+00:04:54.07 --> 00:04:56.04
+This is more for delivery to things
+
+110
+00:04:56.04 --> 00:04:58.07
+like high-dynamic range television sets,
+
+111
+00:04:58.07 --> 00:05:01.04
+although we are starting
+to see mobile devices
+
+112
+00:05:01.04 --> 00:05:03.05
+having a wider gamut than traditionally,
+
+113
+00:05:03.05 --> 00:05:06.09
+and more screens will move
+towards this standard.
+
+114
+00:05:06.09 --> 00:05:09.08
+If you have produced video
+in high dynamic range color,
+
+115
+00:05:09.08 --> 00:05:13.02
+very few of you will have,
+but this is something that,
+
+116
+00:05:13.02 --> 00:05:17.01
+content that's aired for
+television or for produced films
+
+117
+00:05:17.01 --> 00:05:18.05
+are starting to do, well,
+
+118
+00:05:18.05 --> 00:05:20.07
+then the data rate requirements go up.
+
+119
+00:05:20.07 --> 00:05:23.01
+As you can see here, it's
+important that you have
+
+120
+00:05:23.01 --> 00:05:25.02
+a little bit more extra information
+
+121
+00:05:25.02 --> 00:05:28.04
+to accommodate the high
+dynamic range video.
+
+122
+00:05:28.04 --> 00:05:31.09
+So in this case, the
+overall data rate does go up
+
+123
+00:05:31.09 --> 00:05:34.00
+a little bit, by about 20 or 30%
+
+124
+00:05:34.00 --> 00:05:36.05
+on each of these common sizes.
+
+125
+00:05:36.05 --> 00:05:38.06
+Now that's a lot of specs,
+
+126
+00:05:38.06 --> 00:05:40.05
+and I expect that you might
+want to go back through
+
+127
+00:05:40.05 --> 00:05:42.08
+and watch that video again to pause.
+
+128
+00:05:42.08 --> 00:05:46.01
+If you upload video that
+is below these specs,
+
+129
+00:05:46.01 --> 00:05:49.02
+what you'll generally find
+is that the quality suffers,
+
+130
+00:05:49.02 --> 00:05:51.00
+particularly for the consumer.
+
+131
+00:05:51.00 --> 00:05:53.03
+One of the things that
+YouTube likes you to do
+
+132
+00:05:53.03 --> 00:05:56.02
+is to upload a higher-quality file.
+
+133
+00:05:56.02 --> 00:05:59.01
+This way, it can make
+additional compressions
+
+134
+00:05:59.01 --> 00:06:02.07
+for the smaller sizes
+and lower-quality streams
+
+135
+00:06:02.07 --> 00:06:04.09
+that it will serve up to mobile users
+
+136
+00:06:04.09 --> 00:06:07.05
+or people on slower internet connections.
+
+137
+00:06:07.05 --> 00:06:09.00
+If you don't start high,
+
+138
+00:06:09.00 --> 00:06:11.07
+it's hard to make all of
+those other sizes available,
+
+139
+00:06:11.07 --> 00:06:14.00
+and it really drops in quality.
+
+140
+00:06:14.00 --> 00:06:16.03
+And do keep in mind that
+if you upload a video
+
+141
+00:06:16.03 --> 00:06:20.03
+that's only HD, YouTube
+won't upres the video to 4K.
+
+142
+00:06:20.03 --> 00:06:24.00
+So if you want to take advantage
+of those larger frame sizes
+
+143
+00:06:24.00 --> 00:06:26.08
+and higher-quality delivery
+methods, you need to start
+
+144
+00:06:26.08 --> 00:06:28.07
+with a high-quality source.
+
+145
+00:06:28.07 --> 00:06:30.03
+So go with the best you have,
+
+146
+00:06:30.03 --> 00:06:37.06
+optimize it as a high-quality
+h.264, h.265, or MPEG4 file,
+
+147
+00:06:37.06 --> 00:06:40.05
+and you should be able to
+upload this pretty easily.
+
+148
+00:06:40.05 --> 00:06:43.06
+Most video-editing tools and
+their compression software
+
+149
+00:06:43.06 --> 00:06:45.04
+will also have presets built in
+
+150
+00:06:45.04 --> 00:06:47.09
+to make this significantly easier.
+
+151
+00:06:47.09 --> 00:06:49.08
+And if you need to learn
+more about compression,
+
+152
+00:06:49.08 --> 00:06:53.00
+we do have several courses
+available in the online library.
+

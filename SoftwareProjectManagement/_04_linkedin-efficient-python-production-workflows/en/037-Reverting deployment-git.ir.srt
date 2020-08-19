@@ -1,0 +1,160 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,06 --> 00:00:02,03
+- [Instructor] No matter how much you test,
+
+2
+00:00:02,03 --> 00:00:04,08
+some bugs will get into production.
+
+3
+00:00:04,08 --> 00:00:06,02
+If they are not that bad,
+
+4
+00:00:06,02 --> 00:00:07,05
+you might want to fix them
+
+5
+00:00:07,05 --> 00:00:08,07
+and deploy the fix.
+
+6
+00:00:08,07 --> 00:00:12,05
+However, sometimes your best option is to revert back
+
+7
+00:00:12,05 --> 00:00:14,07
+to an earlier good version.
+
+8
+00:00:14,07 --> 00:00:16,03
+To support running back,
+
+9
+00:00:16,03 --> 00:00:18,07
+you need to have a system in place.
+
+10
+00:00:18,07 --> 00:00:20,03
+And if you think about it,
+
+11
+00:00:20,03 --> 00:00:21,07
+running back bad code
+
+12
+00:00:21,07 --> 00:00:24,03
+is just like deploying a new version.
+
+13
+00:00:24,03 --> 00:00:26,04
+You have code counting production,
+
+14
+00:00:26,04 --> 00:00:29,00
+and you want to replace it with another version.
+
+15
+00:00:29,00 --> 00:00:31,04
+This means you need to version your code,
+
+16
+00:00:31,04 --> 00:00:33,08
+which means you need to use a version control system
+
+17
+00:00:33,08 --> 00:00:35,02
+such as GET.
+
+18
+00:00:35,02 --> 00:00:38,04
+The typical way of versioning is by using tags.
+
+19
+00:00:38,04 --> 00:00:39,09
+Once your code is in a state
+
+20
+00:00:39,09 --> 00:00:41,07
+where it's ready for a release,
+
+21
+00:00:41,07 --> 00:00:43,06
+you add a version type.
+
+22
+00:00:43,06 --> 00:00:47,07
+It's recommended to use what's known as semantic versioning,
+
+23
+00:00:47,07 --> 00:00:50,04
+major, minor, and patch level.
+
+24
+00:00:50,04 --> 00:00:53,01
+The patch is reserved for bug fixes only.
+
+25
+00:00:53,01 --> 00:00:55,07
+Minor versions are mostly for new features
+
+26
+00:00:55,07 --> 00:00:57,07
+and should be backward compatible.
+
+27
+00:00:57,07 --> 00:01:01,01
+Major version means you're doing a breaking change,
+
+28
+00:01:01,01 --> 00:01:03,05
+and these releases are usually more risky
+
+29
+00:01:03,05 --> 00:01:06,01
+and involve more work.
+
+30
+00:01:06,01 --> 00:01:07,04
+Back to reverting.
+
+31
+00:01:07,04 --> 00:01:08,09
+Once you have tagged your code,
+
+32
+00:01:08,09 --> 00:01:11,02
+you can always get that version of the code
+
+33
+00:01:11,02 --> 00:01:12,05
+and deploy it.
+
+34
+00:01:12,05 --> 00:01:15,05
+Make sure to version your dependencies as well.
+
+35
+00:01:15,05 --> 00:01:18,05
+They are part of that application as much as your code.
+
+36
+00:01:18,05 --> 00:01:20,03
+Make sure you can roll back your code
+
+37
+00:01:20,03 --> 00:01:22,08
+and even do a practice run once in a while.
+
+38
+00:01:22,08 --> 00:01:25,00
+I can guarantee you'll revert a version
+
+39
+00:01:25,00 --> 00:01:27,00
+at one point or another.
+

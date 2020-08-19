@@ -1,0 +1,774 @@
+1
+00:00:00.05 --> 00:00:01.09
+- Earlier in the course, we talked
+
+2
+00:00:01.09 --> 00:00:04.03
+about the limitations on replacing a movie
+
+3
+00:00:04.03 --> 00:00:06.09
+and I mentioned cards or annotations.
+
+4
+00:00:06.09 --> 00:00:09.00
+Even if you're not looking
+to replace a movie,
+
+5
+00:00:09.00 --> 00:00:11.00
+cards and annotations give a great way
+
+6
+00:00:11.00 --> 00:00:14.01
+to add interactivity
+to your YouTube content
+
+7
+00:00:14.01 --> 00:00:15.08
+and use it as a lead generator
+
+8
+00:00:15.08 --> 00:00:19.09
+or to give people additional
+ways that they can interact.
+
+9
+00:00:19.09 --> 00:00:21.06
+What exactly is a card?
+
+10
+00:00:21.06 --> 00:00:24.05
+Well, cards are
+pre-formatted notifications
+
+11
+00:00:24.05 --> 00:00:26.06
+that appear on desktop and mobile
+
+12
+00:00:26.06 --> 00:00:28.07
+and they can popup over your video.
+
+13
+00:00:28.07 --> 00:00:30.06
+They can be used to promote a brand
+
+14
+00:00:30.06 --> 00:00:34.02
+or other videos that you
+have on your channel.
+
+15
+00:00:34.02 --> 00:00:37.01
+Once they're set up, a
+small rectangular box,
+
+16
+00:00:37.01 --> 00:00:40.00
+or a teaser, will appear
+in the top right corner
+
+17
+00:00:40.00 --> 00:00:42.05
+of the video.
+
+18
+00:00:42.05 --> 00:00:45.02
+If the viewers click on
+this, well, then the card
+
+19
+00:00:45.02 --> 00:00:47.03
+will actually trigger an interaction
+
+20
+00:00:47.03 --> 00:00:50.07
+and content can load to the
+side of the video or below it,
+
+21
+00:00:50.07 --> 00:00:54.01
+depending upon where you're accessing it.
+
+22
+00:00:54.01 --> 00:00:56.09
+Now you might be wondering
+how could you use these links?
+
+23
+00:00:56.09 --> 00:00:58.08
+Well, these cards can actually serve
+
+24
+00:00:58.08 --> 00:01:00.08
+several different purposes.
+
+25
+00:01:00.08 --> 00:01:03.02
+First up, a lot of folks
+will use it to link
+
+26
+00:01:03.02 --> 00:01:05.07
+to an individual video or a playlist.
+
+27
+00:01:05.07 --> 00:01:07.01
+Maybe this is a newer version
+
+28
+00:01:07.01 --> 00:01:10.05
+of the video or related content.
+
+29
+00:01:10.05 --> 00:01:13.07
+Also, you can link back to
+your individual channel,
+
+30
+00:01:13.07 --> 00:01:15.07
+promoting your channel or another channel
+
+31
+00:01:15.07 --> 00:01:19.07
+where people can get a lot more
+content similar to this one.
+
+32
+00:01:19.07 --> 00:01:22.09
+You can use it as a call for donations.
+
+33
+00:01:22.09 --> 00:01:26.00
+This allows you to feature
+a nonprofit of your choice
+
+34
+00:01:26.00 --> 00:01:29.05
+or if you are a nonprofit
+and YouTube recognizes you,
+
+35
+00:01:29.05 --> 00:01:32.04
+then you can link to yourself.
+
+36
+00:01:32.04 --> 00:01:34.05
+You can have a poll where people can vote
+
+37
+00:01:34.05 --> 00:01:36.04
+or engage in the content,
+
+38
+00:01:36.04 --> 00:01:38.02
+maybe commenting on what type of videos
+
+39
+00:01:38.02 --> 00:01:40.09
+they'd like you to record next.
+
+40
+00:01:40.09 --> 00:01:43.09
+And you can link to a
+pre-approved website.
+
+41
+00:01:43.09 --> 00:01:47.05
+Generally speaking, you will
+be limited to one website
+
+42
+00:01:47.05 --> 00:01:49.09
+so you'll have to affiliate a website
+
+43
+00:01:49.09 --> 00:01:52.04
+with your YouTube channel
+under the brand account
+
+44
+00:01:52.04 --> 00:01:55.01
+and then you might have to
+actually do something to prove
+
+45
+00:01:55.01 --> 00:01:57.05
+that that's the official website.
+
+46
+00:01:57.05 --> 00:01:58.06
+Usually it's pretty simple.
+
+47
+00:01:58.06 --> 00:02:00.03
+Sometimes they'll give you a code to embed
+
+48
+00:02:00.03 --> 00:02:02.06
+or they may see that you've connected
+
+49
+00:02:02.06 --> 00:02:04.02
+an authorized social media account
+
+50
+00:02:04.02 --> 00:02:07.04
+but you are going to need
+to validate that website.
+
+51
+00:02:07.04 --> 00:02:09.01
+Once you've done this, the user interface
+
+52
+00:02:09.01 --> 00:02:10.02
+is pretty straight forward
+
+53
+00:02:10.02 --> 00:02:14.04
+and it allows you to add
+a card for interactivity.
+
+54
+00:02:14.04 --> 00:02:16.05
+Then, that card can contain a link
+
+55
+00:02:16.05 --> 00:02:21.08
+and a call to action as well as a graphic.
+
+56
+00:02:21.08 --> 00:02:23.09
+Then, when the video is playing,
+
+57
+00:02:23.09 --> 00:02:25.04
+this will have an overlay.
+
+58
+00:02:25.04 --> 00:02:26.09
+Now, it might be closed initially,
+
+59
+00:02:26.09 --> 00:02:30.04
+but with a click, it
+can open up and reveal.
+
+60
+00:02:30.04 --> 00:02:32.00
+Let me show you how this works.
+
+61
+00:02:32.00 --> 00:02:35.09
+I'll go to creator studio and
+then go to my video manager.
+
+62
+00:02:35.09 --> 00:02:38.01
+Now it's just a matter of finding a video
+
+63
+00:02:38.01 --> 00:02:40.04
+that I want to tag.
+
+64
+00:02:40.04 --> 00:02:45.09
+Let's go ahead here and edit
+this first one on Luminar.
+
+65
+00:02:45.09 --> 00:02:49.06
+Now, I'll just switch
+over to the cards screen.
+
+66
+00:02:49.06 --> 00:02:53.01
+It's the fifth tab in.
+
+67
+00:02:53.01 --> 00:02:56.08
+And you'll see a simple editor.
+
+68
+00:02:56.08 --> 00:03:00.08
+Now as the video plays, the
+timeline will move down below
+
+69
+00:03:00.08 --> 00:03:04.04
+and cards can be placed at
+specific points in time.
+
+70
+00:03:04.04 --> 00:03:07.05
+Let's go ahead and add a card here
+
+71
+00:03:07.05 --> 00:03:12.04
+and put a link in.
+
+72
+00:03:12.04 --> 00:03:14.08
+Now it asks me where I want to link.
+
+73
+00:03:14.08 --> 00:03:17.03
+Now, I can choose from other websites
+
+74
+00:03:17.03 --> 00:03:19.05
+that have been affiliated and validated
+
+75
+00:03:19.05 --> 00:03:22.04
+or I can link to particular
+merchandise sites
+
+76
+00:03:22.04 --> 00:03:26.02
+or crowdfunding sites if I'm
+using this for fundraising.
+
+77
+00:03:26.02 --> 00:03:28.02
+You'll see, for example,
+if you click on these,
+
+78
+00:03:28.02 --> 00:03:30.05
+it gives you a list of all
+of the different websites
+
+79
+00:03:30.05 --> 00:03:32.05
+that YouTube has approved
+
+80
+00:03:32.05 --> 00:03:35.03
+for either merchandise or crowdfunding.
+
+81
+00:03:35.03 --> 00:03:37.06
+And there's quite a few.
+
+82
+00:03:37.06 --> 00:03:41.01
+Now, I'm going to go ahead
+and enter a specific link here
+
+83
+00:03:41.01 --> 00:03:42.09
+so I'll choose photo focus,
+
+84
+00:03:42.09 --> 00:03:45.07
+but you'll see the link
+URL is pre-populated.
+
+85
+00:03:45.07 --> 00:03:48.02
+I can also customize that.
+
+86
+00:03:48.02 --> 00:03:50.08
+So, if I have a particular
+article on Photo Focus
+
+87
+00:03:50.08 --> 00:03:53.08
+that I want to link
+people to, I can do that.
+
+88
+00:03:53.08 --> 00:03:57.01
+Let's go and visit photofocus.com
+
+89
+00:03:57.01 --> 00:04:01.09
+and I'll do a search for Luminar.
+
+90
+00:04:01.09 --> 00:04:04.05
+And maybe I want to link to
+this particular article here
+
+91
+00:04:04.05 --> 00:04:06.08
+to get free presets.
+
+92
+00:04:06.08 --> 00:04:11.00
+So I'll just right
+click and copy the link.
+
+93
+00:04:11.00 --> 00:04:14.07
+Now, back in YouTube, what
+I can do is say let's link
+
+94
+00:04:14.07 --> 00:04:17.04
+to that specific URL
+
+95
+00:04:17.04 --> 00:04:18.07
+and I'll click next.
+
+96
+00:04:18.07 --> 00:04:20.06
+It's going to validate that URL
+
+97
+00:04:20.06 --> 00:04:23.05
+and should show me some more
+information in a moment.
+
+98
+00:04:23.05 --> 00:04:33.05
+I'll label this here.
+
+99
+00:04:33.05 --> 00:04:36.02
+Now, you'll notice that
+there's a limit here
+
+100
+00:04:36.02 --> 00:04:42.01
+so let's shorten this
+and I'll add teaser text.
+
+101
+00:04:42.01 --> 00:04:46.09
+You'll notice there is a
+limit on the character count.
+
+102
+00:04:46.09 --> 00:04:50.03
+And I can click to change the image.
+
+103
+00:04:50.03 --> 00:04:52.02
+Now, it needs to be a square.
+
+104
+00:04:52.02 --> 00:04:55.09
+And let's just navigate
+to a .png file here,
+
+105
+00:04:55.09 --> 00:04:59.04
+in this case, the application icon.
+
+106
+00:04:59.04 --> 00:05:02.08
+So I've got the URL, I've
+got a title for the card
+
+107
+00:05:02.08 --> 00:05:06.01
+and a little bit of a call to
+action and some teaser text.
+
+108
+00:05:06.01 --> 00:05:09.07
+So I can click create card.
+
+109
+00:05:09.07 --> 00:05:12.08
+And you'll see that
+it's added to the list.
+
+110
+00:05:12.08 --> 00:05:15.07
+Now, it's currently set
+to come in at six seconds
+
+111
+00:05:15.07 --> 00:05:20.03
+'cause that's were I put this
+but that can be easily moved.
+
+112
+00:05:20.03 --> 00:05:23.01
+Just grab it and position it in time
+
+113
+00:05:23.01 --> 00:05:25.09
+where you want it to appear.
+
+114
+00:05:25.09 --> 00:05:29.08
+Now, once it hits that point
+the information will pop up
+
+115
+00:05:29.08 --> 00:05:32.02
+and it will display.
+
+116
+00:05:32.02 --> 00:05:33.05
+There we go.
+
+117
+00:05:33.05 --> 00:05:35.09
+Now if I wanted to, I
+could add additional cards
+
+118
+00:05:35.09 --> 00:05:38.04
+for interactivity, such as a poll.
+
+119
+00:05:38.04 --> 00:05:41.02
+If I create here, you see I
+can actually add a question
+
+120
+00:05:41.02 --> 00:05:44.00
+and give people choices
+so they can answer it.
+
+121
+00:05:44.00 --> 00:05:47.07
+Works very well, allowing here
+for a multiple choice poll.
+
+122
+00:05:47.07 --> 00:05:49.01
+Let's click cancel though.
+
+123
+00:05:49.01 --> 00:05:51.06
+And in this case, all the
+changes have been saved
+
+124
+00:05:51.06 --> 00:05:55.05
+so I'm just going to go ahead
+and take a look at that video.
+
+125
+00:05:55.05 --> 00:05:58.05
+Let's go back here
+
+126
+00:05:58.05 --> 00:06:00.01
+and we'll visit that video
+
+127
+00:06:00.01 --> 00:06:06.00
+and take a look at it full screen.
+
+128
+00:06:06.00 --> 00:06:10.03
+And around 19 seconds or so,
+
+129
+00:06:10.03 --> 00:06:15.07
+that ad's going to pop up.
+
+130
+00:06:15.07 --> 00:06:17.03
+You see the call to action there.
+
+131
+00:06:17.03 --> 00:06:20.02
+Get 15 free Luminar Presets.
+
+132
+00:06:20.02 --> 00:06:21.08
+Oh, that's interesting.
+
+133
+00:06:21.08 --> 00:06:24.07
+And if I don't take
+action, it just disappears,
+
+134
+00:06:24.07 --> 00:06:27.05
+not interfering with
+the viewer's enjoyment.
+
+135
+00:06:27.05 --> 00:06:29.01
+But if that does catch their eye
+
+136
+00:06:29.01 --> 00:06:31.07
+and it pops back on screen here,
+
+137
+00:06:31.07 --> 00:06:34.04
+if I mouse over it here and click,
+
+138
+00:06:34.04 --> 00:06:36.08
+you see that is shows me a great little ad
+
+139
+00:06:36.08 --> 00:06:38.03
+telling me what's possible.
+
+140
+00:06:38.03 --> 00:06:41.04
+So now with a click, it's
+going to trigger a visit
+
+141
+00:06:41.04 --> 00:06:44.06
+to that webpage and as you see,
+
+142
+00:06:44.06 --> 00:06:48.00
+I pulled somebody from
+YouTube back to my website
+
+143
+00:06:48.00 --> 00:06:51.01
+where they can engage
+and download free presets
+
+144
+00:06:51.01 --> 00:06:52.09
+and I can use this as a method
+
+145
+00:06:52.09 --> 00:06:56.00
+to actually capture their email as a lead.
+
+146
+00:06:56.00 --> 00:06:58.08
+The use of cards are a really good idea
+
+147
+00:06:58.08 --> 00:07:00.03
+and it's something that I, myself,
+
+148
+00:07:00.03 --> 00:07:02.02
+need to take better advantage of.
+
+149
+00:07:02.02 --> 00:07:05.04
+YouTube frequently pulls
+people from your website
+
+150
+00:07:05.04 --> 00:07:07.06
+or other websites back to YouTube
+
+151
+00:07:07.06 --> 00:07:09.05
+but this is YouTube giving back,
+
+152
+00:07:09.05 --> 00:07:11.08
+allowing you to take your own content
+
+153
+00:07:11.08 --> 00:07:14.06
+and drive people to a crowdfunding site
+
+154
+00:07:14.06 --> 00:07:18.03
+or to a merchandise site or
+to your own validated website
+
+155
+00:07:18.03 --> 00:07:21.07
+and I highly recommend you
+take advantage of this.
+
+156
+00:07:21.07 --> 00:07:24.01
+If you're looking for some best practices,
+
+157
+00:07:24.01 --> 00:07:26.03
+remember, that cards will work best
+
+158
+00:07:26.03 --> 00:07:28.06
+when there's a scripted call to action
+
+159
+00:07:28.06 --> 00:07:31.00
+or it's highly relevant.
+
+160
+00:07:31.00 --> 00:07:32.09
+So, in the case of those presets,
+
+161
+00:07:32.09 --> 00:07:35.01
+if I used a preset in the video
+
+162
+00:07:35.01 --> 00:07:37.07
+and then say, "oh, if you'd
+like to download the presets,
+
+163
+00:07:37.07 --> 00:07:39.08
+"just click the link on the screen,"
+
+164
+00:07:39.08 --> 00:07:43.01
+people would notice that.
+
+165
+00:07:43.01 --> 00:07:45.05
+Do keep in mind that
+cards are quite convenient
+
+166
+00:07:45.05 --> 00:07:48.02
+because they give the
+viewer the option to click
+
+167
+00:07:48.02 --> 00:07:50.07
+and if they don't click,
+it simply disappears
+
+168
+00:07:50.07 --> 00:07:52.01
+and doesn't annoy them.
+
+169
+00:07:52.01 --> 00:07:53.08
+Now, you can of course put links
+
+170
+00:07:53.08 --> 00:07:55.09
+into the bottom of the
+video's description,
+
+171
+00:07:55.09 --> 00:07:58.07
+but this is right there
+on the content itself
+
+172
+00:07:58.07 --> 00:08:00.05
+and if someone is watching full screen
+
+173
+00:08:00.05 --> 00:08:03.04
+or on a device that is
+really just taking them
+
+174
+00:08:03.04 --> 00:08:04.06
+into the content,
+
+175
+00:08:04.06 --> 00:08:06.03
+this will make it that much easier
+
+176
+00:08:06.03 --> 00:08:07.08
+to click and visit.
+

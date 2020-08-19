@@ -1,0 +1,372 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:01,00 --> 00:00:04,08
+- Almost by definition, UX professionals are people centric.
+
+2
+00:00:04,08 --> 00:00:06,07
+A trait that carries over into the formation
+
+3
+00:00:06,07 --> 00:00:09,00
+of strong UX meetups and communities
+
+4
+00:00:09,00 --> 00:00:11,01
+and cities across the globe.
+
+5
+00:00:11,01 --> 00:00:13,05
+These communities are connected via national
+
+6
+00:00:13,05 --> 00:00:16,02
+and international UX organizations.
+
+7
+00:00:16,02 --> 00:00:18,08
+I would encourage you as an employer or recruiter
+
+8
+00:00:18,08 --> 00:00:21,06
+to become a part of these communities.
+
+9
+00:00:21,06 --> 00:00:23,09
+Go to meetups in your area and really get
+
+10
+00:00:23,09 --> 00:00:26,07
+to know those who do UX work.
+
+11
+00:00:26,07 --> 00:00:28,06
+It should make sense that one of the best ways
+
+12
+00:00:28,06 --> 00:00:30,04
+to network with people who like people
+
+13
+00:00:30,04 --> 00:00:32,05
+is to meet them in person.
+
+14
+00:00:32,05 --> 00:00:36,03
+If possible, do this before you have a need.
+
+15
+00:00:36,03 --> 00:00:39,03
+Use the opportunity to simply expand your network
+
+16
+00:00:39,03 --> 00:00:41,04
+as you meet others.
+
+17
+00:00:41,04 --> 00:00:43,09
+Listen to UX-oriented speakers who
+
+18
+00:00:43,09 --> 00:00:46,04
+are often featured at in-person events.
+
+19
+00:00:46,04 --> 00:00:49,05
+And just as important, use these in-person events
+
+20
+00:00:49,05 --> 00:00:52,04
+to learn the language of UX.
+
+21
+00:00:52,04 --> 00:00:56,01
+Understand what UX is and what it is not.
+
+22
+00:00:56,01 --> 00:00:57,07
+Even if you are already acquainted
+
+23
+00:00:57,07 --> 00:00:59,07
+with the scope of user experience,
+
+24
+00:00:59,07 --> 00:01:02,05
+there is always something new to learn.
+
+25
+00:01:02,05 --> 00:01:04,09
+And that something is what is going
+
+26
+00:01:04,09 --> 00:01:07,04
+to help you not just appear to be an informed
+
+27
+00:01:07,04 --> 00:01:10,07
+employer or recruiter, but really be one.
+
+28
+00:01:10,07 --> 00:01:13,01
+As an informed employer or recruiter,
+
+29
+00:01:13,01 --> 00:01:15,03
+you'll earn respect.
+
+30
+00:01:15,03 --> 00:01:17,07
+That respect will translate into people coming
+
+31
+00:01:17,07 --> 00:01:20,00
+to work for you.
+
+32
+00:01:20,00 --> 00:01:23,05
+Recently, a client asked me to sit in on some interviews.
+
+33
+00:01:23,05 --> 00:01:26,04
+To help assess the UX research job candidates
+
+34
+00:01:26,04 --> 00:01:29,08
+who would also be a part of a project I was working on.
+
+35
+00:01:29,08 --> 00:01:32,03
+One candidate walked in, recognized my name
+
+36
+00:01:32,03 --> 00:01:34,06
+from my involvement in the wider UX community.
+
+37
+00:01:34,06 --> 00:01:37,02
+He then accepted the position, saying
+
+38
+00:01:37,02 --> 00:01:39,01
+that my visibility in the field
+
+39
+00:01:39,01 --> 00:01:40,07
+and my participation in the interview
+
+40
+00:01:40,07 --> 00:01:42,08
+as a knowledgeable researcher led
+
+41
+00:01:42,08 --> 00:01:46,04
+to his trust that this would be a good place to work.
+
+42
+00:01:46,04 --> 00:01:48,07
+While that was certainly not my nor my client's
+
+43
+00:01:48,07 --> 00:01:50,06
+reason for my involvement in the interviews,
+
+44
+00:01:50,06 --> 00:01:53,06
+it does bring home the value of demonstrate-able UX
+
+45
+00:01:53,06 --> 00:01:57,06
+knowledge and community involvement for hiring success.
+
+46
+00:01:57,06 --> 00:01:58,08
+That's not to say that meetups
+
+47
+00:01:58,08 --> 00:01:59,09
+are the only way that you should
+
+48
+00:01:59,09 --> 00:02:03,04
+become knowledgeable about UX if you aren't already.
+
+49
+00:02:03,04 --> 00:02:05,09
+I'd encourage you to take some practitioner-oriented
+
+50
+00:02:05,09 --> 00:02:10,01
+LinkedIn Learning courses to become a little more familiar.
+
+51
+00:02:10,01 --> 00:02:12,06
+Read UX books and really make sure
+
+52
+00:02:12,06 --> 00:02:13,08
+that you have a clear
+
+53
+00:02:13,08 --> 00:02:17,01
+and solid vocabulary and understanding.
+
+54
+00:02:17,01 --> 00:02:19,03
+This will allow you to construct job recs
+
+55
+00:02:19,03 --> 00:02:21,07
+that make sense to UX-ers.
+
+56
+00:02:21,07 --> 00:02:23,06
+You will be more than just a talent seeker
+
+57
+00:02:23,06 --> 00:02:25,03
+who comes across lacking knowledge
+
+58
+00:02:25,03 --> 00:02:27,09
+or risks looking uninformed.
+
+59
+00:02:27,09 --> 00:02:30,04
+You can also go to national UX conferences
+
+60
+00:02:30,04 --> 00:02:34,07
+that might extend your draw beyond your local geography.
+
+61
+00:02:34,07 --> 00:02:38,02
+In many cities, UX professionals are in short supply.
+
+62
+00:02:38,02 --> 00:02:40,03
+These larger conferences will allow you
+
+63
+00:02:40,03 --> 00:02:41,06
+to expand your reach
+
+64
+00:02:41,06 --> 00:02:44,05
+to an even wider pool of UX professionals,
+
+65
+00:02:44,05 --> 00:02:46,06
+while also having the opportunity to attend
+
+66
+00:02:46,06 --> 00:02:49,09
+a variety of interesting knowledge-expanding sessions.
+
+67
+00:02:49,09 --> 00:02:51,04
+Want to turn it up a notch?
+
+68
+00:02:51,04 --> 00:02:53,02
+Be a sponsor.
+
+69
+00:02:53,02 --> 00:02:55,03
+If you have access to a nice space,
+
+70
+00:02:55,03 --> 00:02:56,09
+offer to host a meetup.
+
+71
+00:02:56,09 --> 00:02:59,04
+You can even create a meetup of your own
+
+72
+00:02:59,04 --> 00:03:00,09
+or sponsor some food.
+
+73
+00:03:00,09 --> 00:03:03,02
+Offer to supply pizza and drinks.
+
+74
+00:03:03,02 --> 00:03:05,09
+As a sponsor, you not only get lots
+
+75
+00:03:05,09 --> 00:03:07,09
+of visibility for your sponsorship,
+
+76
+00:03:07,09 --> 00:03:09,09
+but meetup organizers will likely give you
+
+77
+00:03:09,09 --> 00:03:13,06
+the opportunity to talk about upcoming staffing needs too.
+
+78
+00:03:13,06 --> 00:03:16,04
+At conferences, whether local or not,
+
+79
+00:03:16,04 --> 00:03:19,04
+you can often rent a booth in the exhibit area.
+
+80
+00:03:19,04 --> 00:03:21,06
+Add a few intriguing goodies, and you'll find
+
+81
+00:03:21,06 --> 00:03:24,01
+your talent coming to you.
+
+82
+00:03:24,01 --> 00:03:26,08
+Additionally, seek to build your UX network
+
+83
+00:03:26,08 --> 00:03:29,01
+by engaging with people on social media.
+
+84
+00:03:29,01 --> 00:03:31,06
+Connect with UX professionals and be interesting,
+
+85
+00:03:31,06 --> 00:03:33,03
+engaging and authentic.
+
+86
+00:03:33,03 --> 00:03:35,05
+Build your follower base so that when you need
+
+87
+00:03:35,05 --> 00:03:38,09
+to get the word out about your job offerings, you can.
+
+88
+00:03:38,09 --> 00:03:40,09
+Sure, you can advertise on social media
+
+89
+00:03:40,09 --> 00:03:44,03
+as well and certainly do this to whatever level you want.
+
+90
+00:03:44,03 --> 00:03:46,03
+But also know that having the respect
+
+91
+00:03:46,03 --> 00:03:48,07
+of a large number of relevant followers
+
+92
+00:03:48,07 --> 00:03:51,00
+is an advantage in its own right.
+

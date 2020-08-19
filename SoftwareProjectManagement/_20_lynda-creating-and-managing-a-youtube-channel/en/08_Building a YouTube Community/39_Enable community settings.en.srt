@@ -1,0 +1,443 @@
+1
+00:00:00.06 --> 00:00:02.08
+- Once you've uploaded content to YouTube,
+
+2
+00:00:02.08 --> 00:00:06.00
+chances are you want
+an audience to engage.
+
+3
+00:00:06.00 --> 00:00:08.01
+Not just to watch, but to comment
+
+4
+00:00:08.01 --> 00:00:09.04
+to share with others.
+
+5
+00:00:09.04 --> 00:00:11.01
+And to do this, you need to work
+
+6
+00:00:11.01 --> 00:00:13.02
+on building a community.
+
+7
+00:00:13.02 --> 00:00:15.01
+Now, lets share some practical tips
+
+8
+00:00:15.01 --> 00:00:16.06
+and some technical advice.
+
+9
+00:00:16.06 --> 00:00:18.02
+One of the first things
+you're going to need to do
+
+10
+00:00:18.02 --> 00:00:20.08
+in able to have community interaction
+
+11
+00:00:20.08 --> 00:00:23.09
+is to enable some of
+the community settings.
+
+12
+00:00:23.09 --> 00:00:25.06
+This'll make it easier for people
+
+13
+00:00:25.06 --> 00:00:27.08
+to engage in your content.
+
+14
+00:00:27.08 --> 00:00:30.00
+You'll do this from the Community tab
+
+15
+00:00:30.00 --> 00:00:33.00
+inside of your control panel.
+
+16
+00:00:33.00 --> 00:00:40.06
+Remember, simply click
+and visit Creator Studio.
+
+17
+00:00:40.06 --> 00:00:44.00
+Then, go to the Community tab
+
+18
+00:00:44.00 --> 00:00:47.07
+and expand it, and you'll
+see a lot of options.
+
+19
+00:00:47.07 --> 00:00:49.06
+Now, later on we'll talk about seeing
+
+20
+00:00:49.06 --> 00:00:51.00
+some of the particular things here
+
+21
+00:00:51.00 --> 00:00:53.02
+for comments and messages.
+
+22
+00:00:53.02 --> 00:00:56.07
+But, I'll go to Community settings.
+
+23
+00:00:56.07 --> 00:00:59.02
+This is where you can
+control what happens.
+
+24
+00:00:59.02 --> 00:01:02.02
+So, if you want to have
+additional moderators
+
+25
+00:01:02.02 --> 00:01:04.08
+you can paste their channel URL in here
+
+26
+00:01:04.08 --> 00:01:07.01
+so more people can be a moderator
+
+27
+00:01:07.01 --> 00:01:09.03
+without having to necessarily be
+
+28
+00:01:09.03 --> 00:01:11.06
+added as a manager.
+
+29
+00:01:11.06 --> 00:01:13.07
+You can also go here and take a look
+
+30
+00:01:13.07 --> 00:01:16.01
+if there's a need to approve certain
+
+31
+00:01:16.01 --> 00:01:18.08
+users so that they are going to be
+
+32
+00:01:18.08 --> 00:01:22.01
+automatically approved
+to comment and post.
+
+33
+00:01:22.01 --> 00:01:25.00
+This way, even if something is being held
+
+34
+00:01:25.00 --> 00:01:27.00
+these folks can get through without
+
+35
+00:01:27.00 --> 00:01:29.04
+being hemmed up needing to wait for
+
+36
+00:01:29.04 --> 00:01:33.04
+their comments to be
+approved before posting.
+
+37
+00:01:33.04 --> 00:01:35.02
+If there's somebody that you decide
+
+38
+00:01:35.02 --> 00:01:37.03
+that you don't want to see from because
+
+39
+00:01:37.03 --> 00:01:39.09
+they routinely misbehave, you actually
+
+40
+00:01:39.09 --> 00:01:42.04
+have the ability here to hide them
+
+41
+00:01:42.04 --> 00:01:48.07
+so that they're commenting
+but folks won't see them.
+
+42
+00:01:48.07 --> 00:01:50.09
+And, you can also go in and block
+
+43
+00:01:50.09 --> 00:01:54.06
+particular words or particular links.
+
+44
+00:01:54.06 --> 00:01:58.00
+Now, down below are a couple
+of important settings.
+
+45
+00:01:58.00 --> 00:02:01.07
+This is where you decide
+what happens with comments.
+
+46
+00:02:01.07 --> 00:02:04.01
+Do you want to Allow all comments?
+
+47
+00:02:04.01 --> 00:02:05.05
+Well, this is fine and you'll get
+
+48
+00:02:05.05 --> 00:02:07.04
+a lot more engagement on your posts,
+
+49
+00:02:07.04 --> 00:02:10.08
+but it means that negative
+things might get through.
+
+50
+00:02:10.08 --> 00:02:14.04
+Do you want to Hold potentially
+inappropriate comments?
+
+51
+00:02:14.04 --> 00:02:16.03
+Well, this is going to scan the content
+
+52
+00:02:16.03 --> 00:02:18.02
+and try to make sure that if it thinks
+
+53
+00:02:18.02 --> 00:02:19.07
+there's something offensive in it
+
+54
+00:02:19.07 --> 00:02:21.09
+it's held for moderation.
+
+55
+00:02:21.09 --> 00:02:24.03
+Or, turn off comments all together.
+
+56
+00:02:24.03 --> 00:02:27.09
+Or, make sure that they
+have to be reviewed first.
+
+57
+00:02:27.09 --> 00:02:31.00
+Now, the commenting on
+videos is one thing,
+
+58
+00:02:31.00 --> 00:02:33.01
+but personally I disable comments
+
+59
+00:02:33.01 --> 00:02:34.07
+on the channel as a whole.
+
+60
+00:02:34.07 --> 00:02:36.08
+But that's up to you.
+
+61
+00:02:36.08 --> 00:02:38.04
+You can also decide that you want
+
+62
+00:02:38.04 --> 00:02:40.02
+to be able to create.
+
+63
+00:02:40.02 --> 00:02:42.02
+You can also decide to tag people
+
+64
+00:02:42.02 --> 00:02:43.09
+who have created videos.
+
+65
+00:02:43.09 --> 00:02:46.08
+So, if people decide to tag you in a post
+
+66
+00:02:46.08 --> 00:02:50.05
+as being a contributor or
+creator you can do that.
+
+67
+00:02:50.05 --> 00:02:53.03
+And you'll see by default, that messages
+
+68
+00:02:53.03 --> 00:02:55.07
+in live chat are also going to be held.
+
+69
+00:02:55.07 --> 00:02:58.01
+And this is currently enabled.
+
+70
+00:02:58.01 --> 00:03:00.03
+But, you can turn that
+off if you don't want
+
+71
+00:03:00.03 --> 00:03:01.07
+them to be filtered.
+
+72
+00:03:01.07 --> 00:03:05.04
+And this way, anything
+that's said will go through.
+
+73
+00:03:05.04 --> 00:03:07.04
+Personally, I'm a little more cautious.
+
+74
+00:03:07.04 --> 00:03:09.04
+So I'm going to leave that checked.
+
+75
+00:03:09.04 --> 00:03:11.03
+These settings are worth reviewing
+
+76
+00:03:11.03 --> 00:03:12.07
+and you'll need to customize them
+
+77
+00:03:12.07 --> 00:03:15.08
+based upon your particular needs.
+
+78
+00:03:15.08 --> 00:03:17.09
+Now, if you decide to use the newer
+
+79
+00:03:17.09 --> 00:03:19.07
+version of the YouTube control panel,
+
+80
+00:03:19.07 --> 00:03:21.09
+there are some of these
+settings over there as well.
+
+81
+00:03:21.09 --> 00:03:24.02
+You'll see that there's a Comments section
+
+82
+00:03:24.02 --> 00:03:26.04
+where you're able to
+actually view comments.
+
+83
+00:03:26.04 --> 00:03:29.04
+And this is where you can
+see what's come through.
+
+84
+00:03:29.04 --> 00:03:34.02
+If we go down to Settings here.
+
+85
+00:03:34.02 --> 00:03:36.02
+Now, within this you'll notice that
+
+86
+00:03:36.02 --> 00:03:38.05
+from the three dot menu, this is where
+
+87
+00:03:38.05 --> 00:03:41.09
+you can actually decide to take individual
+
+88
+00:03:41.09 --> 00:03:43.05
+people to come through.
+
+89
+00:03:43.05 --> 00:03:46.00
+This is where you can say,
+always approve a person
+
+90
+00:03:46.00 --> 00:03:49.08
+or block a person, or mark
+something for moderation.
+
+91
+00:03:49.08 --> 00:03:52.02
+You'll notice though that
+some of the global settings
+
+92
+00:03:52.02 --> 00:03:54.00
+aren't available here.
+
+93
+00:03:54.00 --> 00:03:57.04
+If you need those, that's
+currently a missing feature
+
+94
+00:03:57.04 --> 00:03:59.02
+and you'll need to jump on over
+
+95
+00:03:59.02 --> 00:04:01.02
+back to the classic view where you can
+
+96
+00:04:01.02 --> 00:04:03.03
+see all of those settings and make those
+
+97
+00:04:03.03 --> 00:04:05.06
+adjustments from the Community tab.
+
+98
+00:04:05.06 --> 00:04:08.00
+But if you find it easier to actually view
+
+99
+00:04:08.00 --> 00:04:09.09
+your comments and interact with them,
+
+100
+00:04:09.09 --> 00:04:11.06
+I do think the new users interface
+
+101
+00:04:11.06 --> 00:04:14.03
+is a bit more friendly, you can do that.
+
+102
+00:04:14.03 --> 00:04:15.09
+But for those greater controls
+
+103
+00:04:15.09 --> 00:04:17.08
+under Community settings, you will
+
+104
+00:04:17.08 --> 00:04:20.06
+need to return to the
+classic user interface.
+

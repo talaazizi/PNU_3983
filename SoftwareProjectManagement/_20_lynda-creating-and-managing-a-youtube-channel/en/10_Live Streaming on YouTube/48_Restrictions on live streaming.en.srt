@@ -1,0 +1,279 @@
+1
+00:00:00.00 --> 00:00:03.01
+- Now, just because you have
+access to live streaming
+
+2
+00:00:03.01 --> 00:00:06.04
+doesn't mean you can live
+stream every piece of content.
+
+3
+00:00:06.04 --> 00:00:08.04
+This is a relatively expensive service
+
+4
+00:00:08.04 --> 00:00:10.02
+for Google to offer for free,
+
+5
+00:00:10.02 --> 00:00:12.04
+so they do place some limitations.
+
+6
+00:00:12.04 --> 00:00:13.09
+If you want to live stream,
+
+7
+00:00:13.09 --> 00:00:16.03
+you have to make sure that your account
+
+8
+00:00:16.03 --> 00:00:18.07
+is in good standing,
+and it will be disabled
+
+9
+00:00:18.07 --> 00:00:21.05
+if you do any of the following things.
+
+10
+00:00:21.05 --> 00:00:23.06
+If you get a Community Guideline strike
+
+11
+00:00:23.06 --> 00:00:25.08
+for offensive content,
+you're going to lose
+
+12
+00:00:25.08 --> 00:00:29.01
+the ability to stream,
+at least for a while.
+
+13
+00:00:29.01 --> 00:00:32.04
+If your live stream is blocked globally
+
+14
+00:00:32.04 --> 00:00:34.08
+because of offensive
+content after the fact,
+
+15
+00:00:34.08 --> 00:00:37.01
+and they discover a video
+that you live streamed
+
+16
+00:00:37.01 --> 00:00:40.00
+that they feel violates
+the Community Guidelines,
+
+17
+00:00:40.00 --> 00:00:42.09
+well, then you're going to be blocked.
+
+18
+00:00:42.09 --> 00:00:46.06
+And if your live stream
+or an archive live stream
+
+19
+00:00:46.06 --> 00:00:50.01
+receives a copyright takedown
+notice for a violation,
+
+20
+00:00:50.01 --> 00:00:52.03
+well, you're going to be blocked.
+
+21
+00:00:52.03 --> 00:00:54.01
+And if your live stream matches
+
+22
+00:00:54.01 --> 00:00:55.08
+a copyrighted live broadcast,
+
+23
+00:00:55.08 --> 00:00:57.07
+like you point your live camera
+
+24
+00:00:57.07 --> 00:00:59.03
+at the big Pay-Per-View fight
+
+25
+00:00:59.03 --> 00:01:00.08
+and start live streaming it,
+
+26
+00:01:00.08 --> 00:01:02.03
+you're going to be blocked.
+
+27
+00:01:02.03 --> 00:01:04.09
+What this comes down to
+is YouTube doesn't want
+
+28
+00:01:04.09 --> 00:01:06.09
+to give live streaming ability to people
+
+29
+00:01:06.09 --> 00:01:09.00
+that are going to use
+it for hateful things
+
+30
+00:01:09.00 --> 00:01:11.02
+or to steal other people's work.
+
+31
+00:01:11.02 --> 00:01:14.08
+Now, if you are violating
+copyright accidentally,
+
+32
+00:01:14.08 --> 00:01:17.04
+they pick up something that's
+registered with content ID
+
+33
+00:01:17.04 --> 00:01:20.00
+like background music that's copyrighted,
+
+34
+00:01:20.00 --> 00:01:22.07
+YouTube will pop up a warning
+during your live stream
+
+35
+00:01:22.07 --> 00:01:25.05
+to let you know that
+you're violating copyright.
+
+36
+00:01:25.05 --> 00:01:26.08
+But if you keep doing this,
+
+37
+00:01:26.08 --> 00:01:29.04
+particularly for things
+like live sporting events
+
+38
+00:01:29.04 --> 00:01:31.06
+or rebroadcasting television,
+
+39
+00:01:31.06 --> 00:01:35.03
+you're going to have problems
+with your live stream.
+
+40
+00:01:35.03 --> 00:01:38.02
+Now, the restrictions are
+going to last for 90 days
+
+41
+00:01:38.02 --> 00:01:43.01
+or until you fix the issues
+that were in violation.
+
+42
+00:01:43.01 --> 00:01:46.02
+You can check your status by
+going under the Channel menu
+
+43
+00:01:46.02 --> 00:01:48.03
+and look at Status, and
+you'll be able to see
+
+44
+00:01:48.03 --> 00:01:51.08
+if a feature is enabled or disabled.
+
+45
+00:01:51.08 --> 00:01:55.01
+If you are deemed to be broadcasting live
+
+46
+00:01:55.01 --> 00:01:57.00
+something that is copyrighted,
+
+47
+00:01:57.00 --> 00:01:59.03
+that cannot be appealed.
+
+48
+00:01:59.03 --> 00:02:02.02
+They will just simply
+block you automatically
+
+49
+00:02:02.02 --> 00:02:05.03
+as a copyright violator.
+
+50
+00:02:05.03 --> 00:02:07.05
+Remember, it is against
+the Terms of Service
+
+51
+00:02:07.05 --> 00:02:10.01
+to use third-party ads in a live stream,
+
+52
+00:02:10.01 --> 00:02:12.05
+including burned-in commercials.
+
+53
+00:02:12.05 --> 00:02:13.09
+So if you're doing an event
+
+54
+00:02:13.09 --> 00:02:16.09
+and you've got your own
+commercials you want to play back,
+
+55
+00:02:16.09 --> 00:02:19.02
+maybe it's a local sporting
+event for a high school
+
+56
+00:02:19.02 --> 00:02:22.08
+and you've sold commercials
+to the local businesses,
+
+57
+00:02:22.08 --> 00:02:25.03
+well, you can't play those back.
+
+58
+00:02:25.03 --> 00:02:28.00
+This means that YouTube wants control
+
+59
+00:02:28.00 --> 00:02:29.02
+over the advertisements.
+
+60
+00:02:29.02 --> 00:02:31.02
+They don't want you selling your own ads
+
+61
+00:02:31.02 --> 00:02:32.07
+and putting 'em on YouTube.
+
+62
+00:02:32.07 --> 00:02:35.08
+Rather, you have to use their ad engine
+
+63
+00:02:35.08 --> 00:02:37.07
+and play by their rules.
+
