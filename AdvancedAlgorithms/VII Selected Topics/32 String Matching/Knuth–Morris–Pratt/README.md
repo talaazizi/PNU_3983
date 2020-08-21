@@ -1,19 +1,3 @@
-# salibhdr.github.io
-پروژه درس الگوریتم های پیشرفته . سالار بهادر .
-
-# فصل 32 تطبیق رشته ها
-الگوریتم تطبیق رشته :
-Knuth-Morris-Pratt
-
-# آدرس مخزن الگوریتم:
-https://github.com/SaliBhdr
-
-## آدرس رزومه:
-https://salibhdr.github.io/resume/
-
-# Videos
-[Knuth-Morris-Pratt KMP String Matching Algorithm](https://www.youtube.com/watch?v=V5-7GzOfADQ)
-
 # KMP_Algorithm
 The Knuth-Morris-Pratt algorithm implemented in JavaScript
 
@@ -56,3 +40,23 @@ else if j > 0
         i ← i +1
 ````
 
+# salarbahador.github.io
+پروژه درس الگوریتم های پیشرفته . سالار بهادر .
+
+# فصل 32 تطبیق رشته ها
+الگوریتم تطبیق رشته :
+Knuth-Morris-Pratt
+
+# آدرس مخزن الگوریتم:
+https://github.com/SaliBhdr/KMP_Algorithm
+
+## آدرس رزومه:
+https://salibhdr.github.io/resume/
+
+# منابع
+https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+https://www.computing.dcu.ie/~humphrys/Notes/String/kmp.html
+https://stackoverflow.com/questions/13271856/understanding-knuth-morris-pratt-algorithm
+
+# Videos
+[Knuth-Morris-Pratt KMP String Matching Algorithm](https://www.youtube.com/watch?v=V5-7GzOfADQ)
