@@ -1,0 +1,78 @@
+﻿<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		
+		<title>
+			 Data Structures for Disjoint_Sets
+		</title>
+		
+		<!-- css sheet for how the page is laid out -->
+		
+		<link rel="stylesheet" href="Disjoint_Sets/visualizationPageStyle.css">
+			
+			
+		<!-- jqueury stuff.  Only used for the animation speed slider. -->
+		<link rel="stylesheet" href="Disjoint_Sets/jquery-ui-1.css">
+				
+		<script src="Disjoint_Sets/jquery-1.js"></script>
+		<script src="Disjoint_Sets/jquery-ui-1.js"></script>
+				
+		<!-- Javascript for the actual visualization code -->
+		<script type="application/javascript" src="Disjoint_Sets/CustomEvents.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/UndoFunctions.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/AnimatedObject.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/AnimatedLabel.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/AnimatedCircle.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/AnimatedRectangle.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/AnimatedLinkedList.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/HighlightCircle.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/Line.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/ObjectManager.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/AnimationMain.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/Algorithm.js"> </script>
+		<script type="application/javascript" src="Disjoint_Sets/DisjointSet.js"> </script> 
+				
+			
+	 </head> 
+	
+	<body onload="init();" class="VisualizationMainPage">
+		
+		<div id="container">
+			
+			<div id="header">  
+				<h1> Data Structures for Disjoint Sets</h1>
+			</div>
+			
+			<div =="" id="mainContent"> 
+				
+				<div id="algoControlSection">
+					<!-- Table for buttons to control specific animation (insert/find/etc) -->
+					<!-- (filled in by javascript code specific to the animtion) -->
+					<table id="AlgorithmSpecificControls">
+<td><table><tr><td>
+</table>
+</td></table> 
+<p align="right"><img src="Disjoint_Sets/help.jpg" alt="راهنما">
+
+				</div>
+				
+					<!-- Drawing canvas where all animation is done.  Note:  can be resized in code -->
+									
+				<canvas id="canvas" width="1000" height="300"></canvas>
+				
+				<div id="generalAnimationControlSection">
+					<!-- Table for buttons to control general animation (play/pause/undo/etc) ->
+					<!-- (filled in by javascript code, specifically AnimationMain.js)  -->
+
+					<table id="GeneralAnimationControls">
+                                            </td></table>		
+				</div>
+				
+			</div> <!-- mainContent -->
+			
+			<div id="footer">  
+				<p><a href="https://arjmand08.github.io/resume/">Programer & Designer : Ali Arjmand</a></p>
+			</div>
+
+		</div>
+	
+</body></html>
