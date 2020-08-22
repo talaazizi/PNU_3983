@@ -17,7 +17,7 @@
 - [لینک دانلود PDF ارائه بخش اول](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/FM-98160085-Chapter8-part1.pdf)
 
 لینک های دانلود ویدئو ارائه 
-1. - [انشعاب و تحدید چیست و چه تفاوت و شباهتی با عقبگرد دارد؟] ](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/FM-98160085-Chapter8-part1-what-is-branch-and-bound.mp4)
+1. - [انشعاب و تحدید چیست و چه تفاوت و شباهتی با عقبگرد دارد؟](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/FM-98160085-Chapter8-part1-what-is-branch-and-bound.mp4)
 2. - [حل مساله فروشنده دوره گرد با انشعاب و تحدید](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/FM-98160085-Chapter8-part1-Traveling-Salesman-Problem.mp4)
 3. - [مثالی دیگر از حل مساله با انشعاب و تحدید](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/)
 
