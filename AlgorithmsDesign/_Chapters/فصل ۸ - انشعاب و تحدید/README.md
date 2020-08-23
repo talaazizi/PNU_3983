@@ -18,5 +18,10 @@
   
 + [سحر رجبی](https://Saharrajabi.github.io/)  
   - [@Saharrajabi](http://github.com/Saharrajabi)
+  
+- [لینک دانلود پاورپوینت ارائه](http://dl1.abrim.ir)
+- [لینک دانلود ویدئو ارائه](http://dl1.abrim.ir)
+
+
 
 
