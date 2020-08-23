@@ -1,5 +1,6 @@
 #  Naive algorithm for Pattern Searching
-The Knuth-Morris-Pratt algorithm implemented in JavaScript
+
+An example:
 
 
 ````
