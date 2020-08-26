@@ -23,9 +23,17 @@
 
 # منابع و مراجع
 
+منابع فارسی
 - [فصل هشتم کتاب طراحی الگوریتم دکتر فراهی](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/branch-and-bound-farahi.pdf)
 - [جزوه ی انشعاب و تحدید پارسه ](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/branch-and-bound-parse.pdf)
+- [تدریس دکتر قدسی در شریف](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/qodsi-algorithm_1_15.mp4)
+- [تدریس دکتر تابش در شریف بخش اول](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/tabesh_algorithmdesign_1_12.mp4)
+- [تدریس دکتر تابش در شریف بخش دوم](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/tabesh_algorithmdesign_1_13.mp4)
+
+منابع انګلیسی
 - [Wikipedia](https://en.wikipedia.org/wiki/Branch_and_bound)
 - [MIT Search Optimal Branch and Bound](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/MIT-Search-Optimal-Branch-and-Bound-A)
 - [Branch and Bound introduction](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/Branch-and-Bound-introduction.mp4)
 - [Branch and Bound with visual example](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/Branch-and-Bound-with-visual-example.mp4)
+- [Traveling Salesman Problem Branch and Bound](http://dl1.abrim.ir/Videos/FMP/Algorithm-Design/Traveling-Salesman-Problem-Branch-and-Bound.mp4)
+
