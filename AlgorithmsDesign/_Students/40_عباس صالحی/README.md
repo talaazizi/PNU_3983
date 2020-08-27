@@ -1,7 +1,7 @@
 Chapter 1: Algorithm Analysis Methods
 
 
-+ [Sequential algorithms]
++ Sequential algorithms
   - [@Bubble sort]()
   - [@Sequential search]()
   - [@MatrixMult]()
