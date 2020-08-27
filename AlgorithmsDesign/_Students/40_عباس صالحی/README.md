@@ -1,8 +1,13 @@
 فصل 1: روشهای تحلیل الگوریتم
 
 
-+ [الگوریتم های ترتیبی]( )
++ []( )
+  - [@Bubble sort]()
+  - [@Sequential search]()
+  - [@MatrixMult]()
+  - [@Maximum]()
 
-
-
-+ [الگوریتم های بازگشتی]()
++ [Recursive Algorithms]()
+  - [@Factorial]()
+  - [@Tower of Hanoi]()
+  - [@Merge sort]()
