@@ -1,13 +1,13 @@
 Chapter 1: Algorithm Analysis Methods
 
 
-+ [Sequential algorithms]( )
++ [Sequential algorithms]
   - [@Bubble sort]()
   - [@Sequential search]()
   - [@MatrixMult]()
   - [@Maximum]()
 
-+ [Recursive Algorithms]()
++ [Recursive Algorithms]
   - [@Factorial]()
   - [@Tower of Hanoi]()
   - [@Merge sort]()
