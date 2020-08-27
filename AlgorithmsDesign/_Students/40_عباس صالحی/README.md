@@ -7,7 +7,7 @@ Chapter 1: Algorithm Analysis Methods
   - [@MatrixMult]()
   - [@Maximum]()
 
-+ [Recursive Algorithms]
++ Recursive Algorithms
   - [@Factorial]()
   - [@Tower of Hanoi]()
   - [@Merge sort]()
