@@ -1,0 +1,164 @@
+<html>
+<head>
+<title>Sweeping Alghorithm</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="./Utility.js"></script>
+
+</head>
+<style>
+    .vl {
+      border-left: 6px solid green;
+      height: 500px;
+      position: absolute;
+      margin-left: 120px;
+ 
+    }
+    </style>
+<body>
+<div style="margin-left: 50px;">
+
+    <h1>Sweeping Alghorithm</h1>
+    <p>
+        
+
+I am  implemented line sweep algorithm by using  Javascript  that basically scans through the screen and looks all the elements<br> (including overlapped elements) that share the same div coordinate.
+        I have 6 div elements with black border, and they all layout randomly on the screen.<br> for illustration purposes I am using a vertical dotted blue line to scan through across the plane from left to right.<br>
+  The goal is that report all the elements that the line passed over . For the example like this Picture</p>
+    <img src="Pitures/25.png" style="width: 50%;height: 250px;"/>
+    
+</div>
+<h1 style="width: 100%;">///////////////////////////////////////////////////////////////////////////////////////</h1>
+<div class="row">
+
+    <p style="margin-left: 20px;">
+        By Click On Every Block , You Can Get Posation Information
+    </p>
+    <button class="btn btn-success btn-sm" style="margin-left: 20px;" data-toggle="modal" data-target="#myModal">Set Your Own Line !</button>
+    <button class="btn btn-primary" onclick="Result()" style="margin-left: 20px;">ShowResult</button>
+    <button class="btn btn-danger" onclick="ClResult()" style="margin-left: 20px;margin-right: 10px;">Reset&ClearResult</button>
+
+<input id="finalresult" style="width: 380px;" disabled placeholder="result will display here">
+</div>
+<div class="row" style="margin-left: 100px;margin-top: 10px;width: auto;">
+
+    <div class="T"  id="BlueDiv" style="background-color: blue;width: 150px;height: 100px;" onclick="ShowPosation('BlueDiv')" >
+        A
+ 
+        <div class="T" id="RedDiv" style="background-color: red;width: 150px;height: 100px;margin-top: 30px;margin-left: 40px;" onclick="ShowPosation('RedDiv')">
+            B
+            
+        </div>
+        <div class="T" id="YellowDiv" style="background-color: yellow;width: 150px;height: 100px;margin-top: 30px;margin-left: 110px;" onclick="ShowPosation('YellowDiv')">
+            C
+            </div>
+</div>
+
+   
+        <div class="T" id="GreenDiv" style="background-color: green;width: 150px;height: 100px;margin-left: 100px;" onclick="ShowPosation('GreenDiv')">
+            D
+            <div class="T" id="khakiDiv"  style="background-color: khaki;width: 150px;height: 100px;margin-left: 130px;" onclick="ShowPosation('khakiDiv')">
+                E
+            </div>
+            <div class="T" id="OrangeDiv"  style="background-color:darkorange;width: 150px;height: 100px;margin-left: 130px;" onclick="ShowPosation('khakiDiv')">
+               F
+            </div>
+        </div>
+
+            <div class="vl " id="arrow"></div>
+       
+    </div>
+    </body>
+    </html>
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog modal-sm">
+          <div class="modal-content">
+            <div class="modal-header">
+             
+              <h4 class="modal-title">Give The Location</h4>
+            </div>
+            <div class="modal-body">
+              <input  placeholder="distance from left" id="leftDistance">
+              <input  placeholder="distance from top" id="topDistance">
+              <input placeholder="line height" id="heightline">
+
+
+            </div>
+            <div class="modal-footer">
+              <button onclick="Draw($('#leftDistance').val() ,$('#topDistance').val(),$('#heightline').val() );" type="button" class="btn btn-success" data-dismiss="modal">Draw</button>
+
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+<script>
+function ShowPosation(id){
+    var div = document.getElementById(id);
+  var rect = div.getBoundingClientRect();
+  x = rect.left;
+  y = rect.top;
+  w = rect.width;
+  h = rect.height;
+  alert ("Left: " + x + ", Top: " + y + ", Width: " + w + ", Height: " + h);
+}
+function Result(){
+    var all = document.body.getElementsByClassName("T");
+    var el = document.getElementById("arrow");
+var x = el.getBoundingClientRect();
+
+var match = [];
+for (var i=0; i<all.length; i++) {
+    var rect = all[i].getBoundingClientRect();
+    if (rect.bottom <= x.bottom && rect.top >= x.top && rect.left <= x.left && rect.right >= x.right){
+
+        match.push(all[i].id); 
+      
+    }
+};
+if(match !=""){
+
+$("#finalresult").val(match + "  Are Found !");
+}
+else{
+$("#finalresult").val( "No result Found !");
+
+}
+}
+function ClResult(){
+    $("#finalresult").val('');   
+    location.reload();
+}
+function Draw(x,y,z){
+ if(x !=""){
+    $("#arrow").css("margin-left", x);
+ }
+ if(y !=""){
+    $("#arrow").css("margin-top", y);
+ }
+ if(z !=""){
+    $("#arrow").css("height", z);
+ }
+ $('#leftDistance').val('')
+ $('#topDistance').val('')
+ $('#heightline').val('')
+
+}
+
+
+
+
+window.onload = Load;
+function Load(){
+    setInputFilter(document.getElementById("leftDistance"), function(value) {
+  return /^\d*\.?\d*$/.test(value); 
+});
+setInputFilter(document.getElementById("topDistance"), function(value) {
+  return /^\d*\.?\d*$/.test(value); 
+});    setInputFilter(document.getElementById("heightline"), function(value) {
+  return /^\d*\.?\d*$/.test(value); 
+});
+}
+</script>
