@@ -1,4 +1,4 @@
-فصل 1: روشهای تحلیل الگوریتم
+Chapter 1: Algorithm Analysis Methods
 
 
 + [Sequential algorithms]( )
