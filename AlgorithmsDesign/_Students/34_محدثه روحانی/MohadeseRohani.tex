@@ -1,0 +1,725 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{multicol,etoolbox}
+\usepackage{amsthm,amssymb,amsmath,mathrsfs,amscd,mathtools,dsfont,nccmath}
+\usepackage{tikz}
+\usepackage{roundbox}
+\usepackage{float}
+\usepackage[framemethod=tikz]{mdframed}
+\usepackage{lipsum}
+\usepackage{enumitem}
+\usepackage{tcolorbox}
+\usepackage{xcolor,fancybox}
+\usetikzlibrary{calc,shapes,snakes}
+\usepackage[top=2cm,right=1cm,bottom=2cm,left=1cm]{geometry} 
+\usepackage{hyperref,fontspec}
+\usepackage{setspace}
+\usepackage{pdfpages}
+%\usepackage[fleqn]{amsmath}
+%\usepackage{tocbibind}
+\usepackage{subfigure}
+\usepackage{color,graphicx}
+\usepackage{listings}
+\usepackage{framed}
+\usepackage{tkz-tab, graphicx, fancyhdr, verbatim, amscd, multicol}
+\usepackage{xepersian}
+\settextfont[Scale=1]{XB Niloofar}
+\setlatintextfont{Times New Roman}
+\newfontfamily{\digits}[Scale=.9]{Times New Roman}
+\doublespacing
+%\makeatletter
+%\appto{\endmulticols}{\@doendpe}
+%\makeatletter
+%\fancypage{}{\setlength{\fboxrule}{0.01cm}\ovalbox}
+%\setlength\parindent{0pt}
+\title{نمونه سوالات فرد 3-98-97 و\\ زوج 2-94-93}
+\author{محدثه روحانی\\ \\970148049}
+\date{ تابستان 99}
+\begin{document}
+\settextfont[Scale=2]{XB Niloofar}
+\maketitle 
+\newpage
+\settextfont[Scale=1]{XB Niloofar}
+\bf{تستی}
+\begin{enumerate}
+	\item [1.] {
+تعداد گره ها در درخت فضای حالت برای الگوریتم عقبگرد برای مساله رنگ آمیزی m کدام است؟ ( m تعداد رنگ ها و n تعداد رئوس گراف می باشد.)
+	\begin{multicols}{4}
+		\begin{enumerate}
+		\item [1.] $ \dfrac{m^{n+1}}{m}  $
+		\item [2.] $ \dfrac{m^{n+1}+1}{m+1} $
+		\item [3.] $ \dfrac{n^{m+1}-1}{n-1} $
+		\item [4.] $ \dfrac{m^{n+1}-1}{m-1} $
+		\end{enumerate}
+	\end{multicols}
+}
+	\item [2.]
+در الگوریتم زیر در صورتی که $n=m$ باشد مرتبه اجرایی برابر است با:
+\begin{flalign*}
+&For i:=1 to n do&\\
+&\qquad For j:=1 to m do&\\
+&\qquad \qquad For k:=1 to j do&\\
+&\qquad \qquad \qquad X:=x+1;&
+\end{flalign*}
+	\begin{multicols}{4}
+		\begin{enumerate}
+		\item [1.] $ o \Bigg(\dfrac{m+1}{2}\Bigg) $
+		\item [2.] $ o(n^2) $
+		\item [3.] $ o\Bigg(\dfrac{m(m+1)}{2}\Bigg)  $
+		\item [4.] $ o(n^3) $
+	\end{enumerate}
+	\end{multicols}
+	\item [3.]
+پیچیدگی زمانی حاصل ضرب دو ماتریس $n \times n$ کدام است؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+			\item [1.] $ \theta(n) $
+			\item [2.] $ \theta(n^2) $
+			\item [3.] $ \theta(\log n) $
+			\item [4.] $ \theta(n^3) $
+		\end{enumerate}
+	\end{multicols}
+	\item [4.]
+در ضرب سه آرایه $A(3,4),B(4,6),C(6,2)$ به ترتیب $A*B*C$ چند عمل ضرب انجام می شود؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+		\item [1.] $ 25 $
+		\item [2.] $ 108 $
+		\item [3.] $ 2592 $
+		\item [4.] $ 3456 $	
+	\end{enumerate}
+	\end{multicols}
+	\item [5.]
+دو مرحله روش حدس و استقرا کدام است؟
+		\begin{enumerate}
+		\item [1.]
+حدس جواب، به کار گیری استقرا ریاضی برای یافتن متغیر ها
+		\item [2.]
+حدس جواب، به کار گیری استقرا ریاضی برای یافتن ثابت ها
+		\item [3.]
+یافتن قطعی جواب، به کار گیری استقرا ریاضی برای یافتن متغیر ها
+		\item [4.]
+یافتن قطعی جواب،به کار گیری استقرا ریاضی برای یافتن ثابت ها
+		\end{enumerate}
+\newpage
+	\item [6.]
+مرتبه زمانی رابطه بازگشتی مقابل برابر است با:
+\[T(n)=9T(n/3)+n\]
+	\begin{multicols}{4}
+		\begin{enumerate}
+		\item [1.] $ o(n^2) $
+		\item [2.] $ o(n^{\log n}) $
+		\item [3.] $ o(logn) $
+		\item [4.] $ o(n) $
+	\end{enumerate}
+	\end{multicols}
+	\item [7.]
+یکی از روش های خوب برای حل یا حدس روابط بازگشتی از طریق تکرار، استفاده از کدام روش است؟
+	\begin{multicols}{2}
+		\begin{enumerate}
+			\item [1.]
+روش مرتب سازی ادغامی
+			\item [3.]
+روش درخت بازگشت
+			\item [2.]
+روش مرتب سازی سریع
+			\item [4.]
+روش بهینه سازی
+		\end{enumerate}	
+	\end{multicols}	
+	\item [8.]
+چند مورد از عبارات زیر صحیح می باشد؟ \\
+- الگوی جستجو برای روش عقبگرد به صورت جستجو در پهنا می باشد.\\
+- در روش انشعاب و تحدید روش جستجوی درخت به ترتیب عمق می باشد.\\
+- در هر دو روش بازگشت به عقب و انشعاب و تحدید شاخه هایی از درخت هرس می شود.
+	\begin{multicols}{2}
+		\begin{enumerate}
+		\item [1.] $ 3 $
+		\item [2.] $ 2 $
+		\item [3.] $ 1 $
+		\item [4.] $ 0 $
+	\end{enumerate}
+	\end{multicols}
+	\item [9.]
+زمان جستجوی موفق در بدترین حالت در درخت تصمیم دودوئی کدام است؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+			\item [1.] $ O(n) $
+			\item [2.] $ O(n^2) $
+			\item [3.] $ O(n\log n) $
+			\item [4.] $ O(\log n) $
+		\end{enumerate}
+	\end{multicols}
+	\item [10.]
+کدام یک از مرتبه زمانی های زیر جزو مسائل رام نشدنی نمی باشد؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+		\item [1.] $ 2^n $
+		\item [2.] $ 3^n $
+		\item [3.] $ n^4 $
+		\item [4.] $ n! $
+	\end{enumerate}
+	\end{multicols}
+	\item [11.]
+پیچیدگی زمانی الگوریتم مرتب سازی سریع در بدترین حالت و حالت متوسط به ترتیب از راست به چپ کدام است؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+			\item [1.] $ \theta (n\ln n), \theta (n^2) $
+			\item [2.] $ \theta(n^2),\theta(n^2) $
+			\item [3.] $ \theta(n^2),\theta(n\ln n) $
+			\item [4.] $ \theta(n\ln n),\theta(n\ln n) $
+		\end{enumerate}
+	\end{multicols} 
+	\item [12.]
+تعداد درخت های جستجو با عمق $n-1 $ برابر است با:
+	\begin{multicols}{4}
+		\begin{enumerate}
+			\item [1.] $ 2^n $
+			\item [2.] $ 2^{n-1} $
+			\item [3.] $ 2^{n+1} $
+			\item [4.] $ 3^{n+1} $
+		\end{enumerate}
+	\end{multicols}
+\newpage
+	\item [13.]
+در کدام الگوریتم زیر ، برای یافتن کلیه کوتاهترین مسیرها از مبدا واحد به مقصد های متفاوت به کار می رود و همچنین طول یک مسیر را برابر مجموع وزن یال های آن مسیر در نظر می گیرد؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+		\item [1.]
+الگوریتم پریم
+		\item [2.]
+الگوریتم دیکسترا
+		\item [3.]
+الگوریتم کروسکال
+		\item [4.]
+الگوریتم فلوید
+		\end{enumerate}
+	\end{multicols}
+	\item [14.]
+الگوریتم تولید کننده کد هافمن ، ...................... .
+	\begin{multicols}{2}
+		\begin{enumerate}
+			\item [1.]
+همیشه درخت بهینه تولید می کند.
+			\item [3.]
+هیچوقت درخت بهینه تولید نمی کند.
+			\item [2.]
+گاهی اوقات درخت بهینه تولید می کند.
+			\item [4.]
+اغلب اوقات درخت بهینه تولید می کند.
+		\end{enumerate}	
+	\end{multicols}	
+	\item [15.]
+کدام ویژگی در خصوص مسائلی که به روش برنامه نویسی پویا حل می شود، به درستی بیان شده است؟
+	\begin{enumerate}
+		\item [1.]
+در همه الگوریتم های برنامه نویسی پویا ، مساله بهینه سازی موضوعی کلیدی است.
+		\item [2.]
+مسائل را از بالاترین سطح به طرف پایین ترین سطح حل می کند.
+		\item [3.]
+در هر سطح، بعضی از مسائل آن سطح حل می گردند و بقیه به سطح بعد منتقل می شود.
+		\item [4.]
+برای حل هر مساله سطح $L$ می توانیم از کلیه مسائل سطوح پایین تر که لازم باشد، استفاده کنیم.
+	\end{enumerate}
+	\item [16.]
+کدام الگوریتم یالی را (از بین رئوس همسایه) در هر مرحله انتخاب می کند که منجر به حداقل افزایش در مجموع هزینه ها می گردد؟
+ 	\begin{multicols}{4}
+ 		\begin{enumerate}
+ 			\item [1.]
+کروسکال
+ 			\item [2.]
+پریم
+ 			\item [3.]
+سولین
+ 			\item [4.]
+دیکسترا
+ 		\end{enumerate}
+ 	\end{multicols}
+	\item [17.]
+پیچیدگی زمان مساله فروشنده دوره گرد، با استفاده از روش برنامه نویسی پویا کدام است؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+			\item [1.] $ \theta(2^n) $
+			\item [2.] $ \theta(n2^n) $
+			\item [3.] $ \theta(n^22^n) $
+			\item [4.] $ \theta(n^2) $
+		\end{enumerate}
+	\end{multicols}
+	\item [18.]
+کدام روش پیشنهاد می کند که می توان الگوریتمی نوشت که ، مرحله به مرحله اجرا شود و در هر زمان یک ورودی را بررسی نماید و بررسی انجام شده در مورد شدنی بودن یا نبودن جواب ها می باشد؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+			\item [1.]
+روش تقسیم و حل
+			\item [2.]
+حریصانه
+			\item [3.]
+برنامه نویسی پویا
+			\item [4.]
+عقبگرد
+		\end{enumerate}
+	\end{multicols}
+	\item [19.]
+الگوریتم های عقبگرد برای حل مسائلی از قبیل کوله پشتی صفر و یک ، کدام پیچیدگی زمانی را دارد؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+			\item [1.]
+خطی
+			\item [2.]
+نمایی
+			\item [3.]
+بدتر از نمایی
+			\item [4.]
+بهتر از نمایی
+		\end{enumerate}
+	\end{multicols}
+\newpage
+	\item [20.]
+بکارگیری روش تقسیم و حل برای کدامیک از مسئله های زیر مناسب \underline{نمی باشد}؟
+	
+	\begin{multicols}{2}
+		\begin{enumerate}
+		\item [1.]
+سری فیبوناچی
+		\item [3.]
+مرتب سازی سریع
+		\item [2.]
+مرتب سازی ادغام
+		\item [4.]
+ضرب ماتریس ها به روش استراسن
+		\end{enumerate}
+	\end{multicols}
+	\item [21.]
+فضای مساله ای که با استفاده از روش انشعاب و تحدید حل می شود باید چگونه نمایش داده شود؟
+	\begin{multicols}{2}
+		\begin{enumerate}
+			\item [1.]
+باید با یک درخت قابل نمایش باشد.
+			\item [3.]
+باید با یک گراف قابل نمایش باشد.
+			\item [2.]
+باید با یک پشته قابل نمایش باشد.	
+			\item [4.]
+باید با یک لیست پیوندی قابل نمایش باشد.
+		\end{enumerate}
+	\end{multicols}
+	\item [22.]
+بدترین حالت الگوریتم sort Quick  چه زمانی رخ می دهد؟
+	\begin{multicols}{2}
+		\begin{enumerate}
+			\item [1.]
+داده ها از قبل به صورت صعودی مرتب شده باشند.
+			\item [3.]
+داده ها از قبل مرتب شده باشند.
+			\item [2.]
+داده ها از قبل به صورت نزولی مرتب شده باشند.
+			\item [4.]
+به وضعیت ورودی داده ها بستگی ندارد.
+		\end{enumerate}
+	\end{multicols}
+	\item [23.]
+مسائلی که الگوریتم کارا (چندجمله ای) برای آنها ابداع نشده است ولی غیرممکن بودن آن نیز هنوز به اثبات نرسیده ، کدام مسائل هستند؟
+	\begin{multicols}{4}
+		\begin{enumerate}
+		\item [1.] $ P $
+		\item [2.] $ Np $
+		\item [3.] $ Np-hard $
+		\item [4.] $ Np کامل $
+	\end{enumerate}
+	\end{multicols}
+	\item [24.]
+زمان جستجوی موفق در بدترین حالت در درخت تصمیم دودوئی برابر است با :
+	\begin{multicols}{4}
+		\begin{enumerate}
+		\item [1.] $ O(\log n) $
+		\item [2.] $ O(n \log n) $
+		\item [3.] $ \theta(n \log n) $
+		\item [4.] $ \theta(\log n) $
+	\end{enumerate}
+	\end{multicols}	
+	\item [25.]
+الگوریتم رام نشدنی کدام است؟
+		\begin{enumerate}
+		\item [1.]
+الگوریتم هایی که با مرتبه زمانی $n$ ، $n2 $ و $n3 $ را مسائل رام نشدنی می نامند.
+		\item [2.]
+مسائلی که نوشتن یک الگوریتم کارآمد برای آنها غیرممکن است مسائل رام نشدنی می گویند.
+		\item [3.]
+الگوریتم هایی که مرتبه زمانی آنها چندجمله ای باشد را مسائل رام نشدنی می نامند.
+		\item [4.]
+الگوریتم هایی که مرتبه زمانی آنها $\log n $ ، $n\log n $ باشد را مسائل رام نشدنی می گویند.
+		\end{enumerate}
+\newpage
+\bf{تشریحی}
+	\item [1.]
+الگوریتم بازگشتی برای محاسبه فاکتوریل یک عدد نوشته و زمان اجرای الگوریتم را تحلیل کنید؟\\
+	\item [2.]
+فرض کنید لیستی حاوی عناصر زیر باشد:\\
+17,20,10,25,11,8,18\\
+با استفاده از مرتب سازی سریع این لیست را مرتب نمائید.\\
+	\item [3.]
+رابطه ذکر شده را با روش حدس و استقرا حل نمایید؟
+\[T(n)=T( \Bigg\lceil\frac{n}{2}\Bigg\rceil)+1 \]
+\\
+	\item [4.]
+الگوریتم فلوید را نوشته و پیچیدگی زمانی این الگوریتم را بدست آورید.\\
+	\item [5.]
+اجزای تشکیل دهنده یک الگوریتم حریصانه را نام برده و شرح دهید؟
+\end{enumerate}
+\newpage
+\begin{multicols}{3}
+	\begin{enumerate}
+	\item []
+	\begin{tabular}[c]{||p{1cm}|p{2cm}|}
+		\hline
+		\hline
+		1&د\\ & \\
+		\hline
+		2&د\\ & \\
+		\hline
+		3&د\\ & \\
+		\hline
+		4&ب\\ & \\
+		\hline
+		5&ب\\ & \\
+		\hline
+		6&الف\\ & \\
+		\hline
+		7&ج\\ & \\
+		\hline
+		8&ج\\ & \\
+		\hline
+		9&د\\ &  \\
+		\hline
+		10&ج\\ & \\
+		\hline
+	\end{tabular}
+	\item []
+	\begin{tabular}[c]{||p{1cm}|p{2cm}|}
+		\hline
+		\hline
+		11&الف\\ & \\ 
+		\hline
+		12&ب\\ & \\
+		\hline
+		13&ب\\ & \\
+		\hline
+		14&الف\\ & \\
+		\hline
+		15&د\\ & \\
+		\hline
+		16&ب\\ & \\
+		\hline
+		17&ج\\ & \\
+		\hline
+		18&ب\\ & \\
+		\hline
+		19&ب\\ & \\
+		\hline
+		20&الف\\ & \\
+		\hline
+	\end{tabular}
+	\item []
+	\begin{tabular}[c]{||p{1cm}|p{2cm}|}
+		\hline
+		\hline
+		21&ج\\ & \\
+		\hline
+		22&ج\\ & \\
+		\hline
+		23&د\\ & \\
+		\hline
+		24&الف\\ & \\
+		\hline
+		25&ب\\ & \\
+		\hline
+		26&\\ & \\
+		\hline
+		27&\\ & \\
+		\hline
+		28&\\ & \\
+		\hline
+		29&\\ & \\
+		\hline
+		30&\\ & \\
+		\hline
+	\end{tabular}
+	\end{enumerate}
+\end{multicols}
+\newpage
+\bf{پاسخ نامه تستی}
+\begin{enumerate}
+	\item [ج1.]
+تعداد گره ها در درخت فضای حالت برای این الگوریتم برابر است با:
+\begin{flalign*}
+&1+m+m^2+ \dots +m^n=\frac{m^{n+1}-1}{m-1}&
+\end{flalign*}
+	\item [ج2.]
+\begin{flalign*}
+&For i:=1tondo \rightarrow \text{بار} n \rightarrow O(n)&\\
+&\qquad For j:=1tomdo \rightarrow \text{بار} m=n \rightarrow O(n) \rightarrow O(n^2)&\\
+&\qquad \qquad For k:= 1tojdo \rightarrow \text{بار } j=m=n \rightarrow O(n) \rightarrow O(n^3)&\\
+&\qquad \qquad \qquad (x:=x+1)\rightarrow O(n^3)&
+\end{flalign*}
+	\item [ج3.] 
+\begin{flalign*}
+&for(i=0;i<n;i++)&\\
+&\qquad for(j=0;j<n;j++)&\\
+&\qquad \{&\\
+&\qquad \qquad c[i][j]=0;&\\
+&\qquad \qquad \qquad for (k=0 ; k <n;k++)&\\
+&\qquad \qquad\qquad \qquad c[i][j]=c[i][j]+A[i][k]\times B[k][j]&\\
+&\qquad \}&
+\end{flalign*}
+بنابراین $ O(n^3) $
+	\item [ج4.]
+\begin{flalign*}
+&A_{3\times 4}\times B_{4\times 6}\times C_{6 \times 2}&
+\end{flalign*}
+ابتدا ضرب ها
+\begin{flalign}
+&\left.\begin{array}{l}
+A_{3\times 4}\times B_{4\times 6}=3\times 4 \times 6 =72 \Rightarrow D_{3 \times 6}\\
+\qquad \qquad \Rightarrow A_{3\times 4}\times D_{4 \times 2} \\
+D_{3 \times 6} \times C_{6 \times 2}=3 \times 6 \times 2=36 \Rightarrow E_{3 \times 2}
+\end{array}\right\}=72+36=108&
+\end{flalign}
+	\item [ج5.]
+حدس جواب، به کار گیری استقرا ریاضی برای یافتن ثابت ها
+\newpage
+	\item [ج6.]
+از قضیه اصلی استفاده می نماییم:
+\begin{flalign*}
+&T(n)=aT(\frac{n}{b})+n^k&
+&T(n)=9T(\frac{n}{3})+n \rightarrow a=9,b=3,k=1&
+\end{flalign*}
+$ a $ با $b^k$ مقایسه می شود\\
+اگر $a>b^k$ باشد مرتبه زمانی $n^{\log^a_b}$ خواهد بود.\\
+اگر $a<b^k$ باشد مرتبه زمانی $n^k$ خواهد بود.\\
+اگر $a=b^k$ باشد مرتبه زمانی $n^k\log n$ خواهد بود.
+\begin{flalign*}
+&a>b^k \rightarrow T(n)=O(n^{\log^{a}_{b}})=O(n^{\log^{9}_{3}})=O(n^2)&
+\end{flalign*}
+	\item [ج7.]
+یکی از روش های خوب برای حل یا حدس روش های بازگشتی روش درخت بازگشت است
+	\item [ج8.]
+روش انشعاب و تحدید ، بسیار مشابه روش عقبگرد است که از درخت فضای حالت برای حل مسائل استفاده می کند، 2 تفاوت بین این 2 روش وجود دارد. در یک روش انشعاب و تحدید:\\
+1.محدودیتی برای استفاده از روش خاصی برای پیمایش درخت فضای حالت وجود ندارد.\\
+2.فقط برای مسائل بهینه سازی به کار می رود.\\
+فضای حالت مسئله به روش انشعاب و تحدید باید با یک گراف قابل نمایش باشد.\\
+اصولا 2 روش جستجوی اصلی برای پیمایش گراف ها در حالت کلی وجود دارد:\\
+1. DFS - جستجوی عمقی - مربوط به روش عقبگرد می باشد\\
+2. BFS - جستجوی ردیفی - مربوط به روش انشعاب و تحدید می باشد.\\
+در روش انتخاب و تحدید برخلاف روش عقبگرد، امکان تغییر ترتیب بررسی گره ها وجود دارد.\\
+مسئله ای که به روش عقبگرد حل می شود، می تواند بیش از یک جواب داشته باشد و هیچ جوابی بر جواب دیگر امتیازی ندارد، ولی در روش انشعاب و تحدید مهم یافتن جواب بهینه است.\\
+در یک الگوریتم انشعاب و تحدید، برای هر گره،عددی (کرانه ای) برای تعیین امیدبخش بودن آن محاسبه می شود . عدد مزبور، کرانه برای جوابی است که در صورت گسترش گره مربوطه می توان به آن رسید. اگر این کرانه، بهتر از مقدار بهترین جواب حاصل تاکنون نباشد، در این صورت ، گره غیرامیدبخش و در غیر این صورت، امید بخش است.
+	\item [ج9.]
+فرض کنید $n$ عنصر $ A_N , \dots , A_2 , A_1$ داده شده است و می خواهیم در یک درخت جستجوی دودوئی اضافه شوند . برای $n$ عنصر تعداد $n!$ جایگشت وجود دارد. هر یک از چنین جایگشتی باعث به وجود امدن درخت مربوط به خود می شود. می توان نشان داد که عمق میانگین $n!$ درخت تقریبا برابر با $ c \log_2n $ است که در آن $c=1.4$ می باشد . بنابراین زمان اجرای میانگین جتسجو یک عنصر در درخت دودوئی $T$ با $n$ عنصر متناسب با $\log_2n$ است یعنی  $f(n) \in O(\log_2n)$
+\newpage
+	\item [ج10.]
+زیرا $ n^4 $ چند جمله ای است.\\
+مسائلی که نتوان برای آنها الگوریتمی با مرتبه زمانی چند جمله ای پیدا کرد مسائل رام نشدنی نامیده می شود. الگوریتم هایی با مرتبه زمانی $n! , 3^n ,2^n$ یا هر الگوریتمی که مرتبه زمانی آن غیر چند جمله ای باشد را مسائل رام نشدنی می نامند. مسئله تعیین کلیه مدارهای هامیلتونی جزو مسائلی هستند که رام نشدنی بودن آنها اثبات شده است. در این مسائل با توجه به عبارت محاسبه تعداد مدارها می توان دریافت که پیچیدگی زمانی این مسائل n! می باشد.
+	\item [ج11.]
+بدترین حالت زمانی است که آرایه به صورت صعودی یا نزولی مرتب شده باشد. برای آرایه صعودی داریم:
+	\begin{flalign*}
+\left.\begin{array}{cccc}
+T(n)=&\underbrace{T(0)}&+\underbrace{T(n-1)}&+\underbrace{n-1}\\
+\quad&\text{زمان لازم برای مرتب سازی زیرآرایه سمت چپ}&\text{زمان لازم برای مرتب سازی}&\text{زمان لازم برای افراز}\\
+\quad&\text{ چون هیچ عنصری در سمت چپ آرایه نیست}&\text{ زیرآرایه سمت راست}&\quad
+\end{array}
+\right.	
+\end{flalign*}
+\begin{flalign*}
+T(n)=\left\{\begin{array}{ll}
+0 & if n < 1 \\ T(n-1)+n-1 & if n \ge 1
+\end{array}\right.
+\end{flalign*}
+درنتیجه تعداد مقایسه ها در بدترین حالت : 
+$\leftarrow \theta(n^2)\leftarrow\frac{n(n-1)}{2}$ مرتبه ی زمانی
+حالت متوسط :
+\begin{flalign*}
+\left.\begin{array}{cccc}
+T(n)=&\underbrace{T(\frac{n}{2})}&+\underbrace{T(\frac{n}{2})}&+\underbrace{cn}\\
+\quad&\text{زمان لازم برای مرتب سازی زیرآرایه سمت چپ}&\text{زمان لازم برای مرتب سازی}&\text{زمان لازم برای افراز}\\
+\quad&\quad&\text{ زیرآرایه سمت راست}&\quad
+\end{array}
+\right.	
+\end{flalign*}
+\begin{flalign*}
+T(n)=\left\{\begin{array}{ll}
+0 & if n < 1 \\ 2T(\frac{n}{2})+cn & if n \ge 1
+\end{array}\right.
+\end{flalign*}
+در نتیجه درحالت متوسط : 
+$ \leftarrow \theta(n\log n) \leftarrow $ مرتبه ی زمانی  
+	\item [ج12.]
+با $n$ گره ، عمق $n-1$ یعنی در هر سطح فقط یک گره داشته باشیم یا فرزند چپ باشد یا فرزند راست. \\
+با $n$ گره می توان ابتدا یک گره را به عنوان ریشه در نظر گرفت سپس در عمق 1 برای گره بعدی دو حالت داریم (فرزند چپ یا راست).در عمق 2 هم برای گره بعدی دو حالت داریم و...
+لذا تعداد کل حالت ها برابر است با:
+\begin{flalign*}
+&\stackrel{(2\times2\times\dots\times2)}{\text{$ n-1 $ بار}} =2^{n-1}&
+\end{flalign*}
+چون گره ریشه فقط یک حالت دارد در نظر نمیگیریم لذا $n-1 $ گره دیگر می توانند دو حالت داشته باشند.
+\newpage
+	\item [ج13.]
+الگوریتم دیکسترا برای یافتن کلیه کوتاهترین مسیرها از مبدا واحد به مقصد های متفاوت به کار می رود. این الگوریتم همچنین طول یک مسیر را برابر مجموع وزن یال های آن مسیر در نظر می گیرد.
+	\item [ج14.]
+در کد گذاری هافمن حروف با تکرار بیشتر در گره های نزدیک ریشه قرار می گیرد لذا با طول کمتر خواهد بود و حروف با تکرار کمتر در فاصله بیشتری از ریشه قرار می گیرد و طول کد آنها بیشتر خواهد بود.
+	\item [ج15.]
+در روش برنامه نویسی پویا کلیه مسائل موجود که در آن سطج حل می گردند نتایجش نگهداری می شود که اگر در سطوح بعد از آنها استفاده شد نیاز به محاسبه مجدد نباشد لذا برنامه نویسی پویا ممکن است نسبت به روش تقسیم و حل در زمان کمتری حل شود.
+	\item [ج16.]
+مرتبه زمانی الگوریتم پریم $O(n^2)$ و الگوریتم کروسکال $O(eloge)$ می باشد پس زمان اجرای آنها روی گراف های یکسان نمی تواند مساوی باشد. (n راس و e یال)\\
+در گراف متراکم (تعداد یال کمتر) چون تعداد رئوس بیشتر از یال ها است الگوریتم کروسکال سریعتر است و در گراف کامل چون تعداد یال ها بیشتر است، پریم سریعتر عمل می کند. ولی خروجی هردو الگوریتم درخت پوشا با حداقل هزینه و یکسان می باشد.\\
+با توجه به سوال مشخص می شود که تعداد یال های گراف کم می باشد لذا از الگوریتم کروسکال استفاده می شود.
+	\item [ج17.]
+حل مسئله فروشنده دوره گرد به روش پویا دارای مرتبه زمانی $n^22^n$ می باشد و میزان حافظه مورد نیاز $n2^n$ است.
+	\item [ج18.]
+روش حریصانه برای حل الگوریتم های زیر کاربرد دارد:\\
+الگوریتم بقیه دادن پول\\
+الگوریتم دیکسترا\\
+الگوریتم هافمن\\
+الگوریتم prim\\
+الگوریتم کوله پشتی\\
+الگوریتم های ادغام بهینه\\
+الگوریتم کروسکال\\
+الگوریتم زمان بندی
+	\item [ج19.]
+نمایی\\
+روش عقبگرد برای حل مسائل زیر کاربرد دارد:\\
+مسئله $n$ وزیر\\
+مسئله رنگ آمیزی گراف ها\\
+مسئله کوله پشتی صفر و یک\\
+مسئله حاصل جمع زیرمجموعه ها\\
+مسئله مدارهای هامیلتونی
+\newpage
+	\item [ج20.]
+برای مسائلی که با تقسیم مسئله اصلی ، مسئله کوچکتر دوباره به اندازه تقریبا $n$ باشد و مسائلی که به تعداد زیادی زیر مسئله با طول $\frac{n}{C}$ تقسیم می شوند، روش تقسیم و حل مناسب نیست. \\
+استراسن از روش تقسیم و حل استفاده می کند و پیچیدگی آن از $n^3$ بهتر است و پیچیدگی مسئله ضرب ماتریس ها را کاهش می دهد و کاربرد فراوانی دارد.
+	\item [ج21.]
+روش انشعاب و تحدید ، بسیار مشابه روش عقبگرد است که از درخت فضای حالت برای حل مسائل استفاده می کند، 2 تفاوت بین این 2 روش وجود دارد. در یک روش انشعاب و تحدید:\\
+1.محدودیتی برای استفاده از روش خاصی برای پیمایش درخت فضای حالت وجود ندارد.\\
+2.فقط برای مسائل بهینه سازی به کار می رود.\\
+فضای حالت مسئله به روش انشعاب و تحدید باید با یک گراف قابل نمایش باشد.\\
+اصولا 2 روش جستجوی اصلی برای پیمایش گراف ها در حالت کلی وجود دارد:\\
+1. DFS - جستجوی عمقی - مربوط به روش عقبگرد می باشد\\
+2. BFS - جستجوی ردیفی - مربوط به روش انشعاب و تحدید می باشد.\\
+
+	\item [ج22.]
+بدترین حالت زمانی است که آرایه به صورت صعودی یا نزولی مرتب شده باشد. برای آرایه صعودی داریم:
+	\begin{flalign*}
+\left.\begin{array}{cccc}
+T(n)=&\underbrace{T(0)}&+\underbrace{T(n-1)}&+\underbrace{n-1}\\
+\quad&\text{زمان لازم برای مرتب سازی زیرآرایه سمت چپ}&\text{زمان لازم برای مرتب سازی}&\text{زمان لازم برای افراز}\\
+\quad&\text{ چون هیچ عنصری در سمت چپ آرایه نیست}&\text{ زیرآرایه سمت راست}&\quad
+\end{array}
+\right.	
+\end{flalign*}
+\begin{flalign*}
+T(n)=\left\{\begin{array}{ll}
+0 & if n < 1 \\ T(n-1)+n-1 & if n \ge 1
+\end{array}\right.
+\end{flalign*}
+درنتیجه تعداد مقایسه ها در بدترین حالت : 
+$\leftarrow \theta(n^2)\leftarrow\frac{n(n-1)}{2}$ مرتبه ی زمانی
+حالت متوسط :
+\begin{flalign*}
+\left.\begin{array}{cccc}
+T(n)=&\underbrace{T(\frac{n}{2})}&+\underbrace{T(\frac{n}{2})}&+\underbrace{cn}\\
+\quad&\text{زمان لازم برای مرتب سازی زیرآرایه سمت چپ}&\text{زمان لازم برای مرتب سازی}&\text{زمان لازم برای افراز}\\
+\quad&\quad&\text{ زیرآرایه سمت راست}&\quad
+\end{array}
+\right.	
+\end{flalign*}
+\begin{flalign*}
+T(n)=\left\{\begin{array}{ll}
+0 & if n < 1 \\ 2T(\frac{n}{2})+cn & if n \ge 1
+\end{array}\right.
+\end{flalign*}
+در نتیجه درحالت متوسط : 
+$ \leftarrow \theta(n\log n) \leftarrow $ مرتبه ی زمانی  
+	\item [ج23.]
+مسائلی که الگوریتم کارا برای آنها ابداع نشده ولی غیرممکن بودن آن نیز به اثبات نرسیده مسائل $NP$ کامل هستند.
+	\item [ج24.]
+پیچیدگی الگوریتم جستجوی دودوئی به وسیله تعداد مقایسه های مورد نیاز برای تعیین مکان item در آرایه مشخص می شود. از طرفی میدانیم که، آرایه دارای $n$ عنصر می باشد . با توجه به الگوریتم ملاحظه می شود هر مقایسه در الگوریتم باعث می شود که، اندازه ورودی نصف شود از این رو حداکثر $T(n)$ مقایسه لازم است تا مکان عنصر item پیدا شود، بنابراین تعداد مقایسه ها برابر خواهد بود با:
+\[2^{T(n)-1}>n \text{یا} T(n)=[Log_2n]+1\]
+یعنی زمان اجرا در بدترین حالت برابر $O(Log_2^n)$ می باشد.
+	\item [ج25.]
+درحالت کلی ، در برخورد با مسائل به 3 گروه از راه حل ها با مرتبه های زمانی زیر می رسیم:\\
+1.مسائلی که الگوریتم های زمانی چند جمله ای برای آنها پیدا شده است مثل مرتب سازی ، ضرب ماتریس ها ، ضرب زنجیری ماتریس ها ، جستجو در یک آرایه ، پیمایش گراف ها، درخت پوشای کمینه، کوتاه ترین مسیر بین دو گره، جستجوی دودویی و ... که حل آن ها ساده است.\\
+2.مسائلی که رام نشدنی بودن آنها ثابت شده است . مثل مسئله مشخص کردن تمام دور های هامیلتونی یک گراف. رام نشدنی بودن تعداد نسبتا کمی از مسائل اثبات شده است.\\
+3.مسائلی که رام نشدنی بودن آنها اثبات نشده است، ولی هیچ الگوریتم زمانی چند جمله ای هم برای آنها پیدا نشده است. مثل مسئله کوله پشتی صفر و یک، مسئله ی فروشنده ی دوره گرد، مسئله ی حاصل جمع زیر مجموعه ها ، مسئله ی رنگ آمیزی$m$ گراف به ازای $m \ge 3$ و مسئله ی مدار های هامیلتونی
+\newpage
+\bf{پاسخ نامه تشریحی}
+	\item [ج1.]
+\begin{flalign*}
+& int fact int(n)&\\
+&\{&\\
+&\qquad if \; (n==0)&\\
+&\qquad \qquad return (1);&\\
+&\qquad else&\\
+&\qquad \qquad return(n* fact(n-1));&\\
+&\}&\\ \\ 
+&\text{ نکته 1}&\\
+&\left\{\begin{array}{l}
+T(0)=1\\
+T(n)=T(n)+c
+\end{array}
+\right.\quad\Rightarrow(aT(n-k)+c)\; , \; a=1 \Rightarrow O(n)&
+\end{flalign*}
+	\item [ج2.]
+\begin{flalign*}
+&\stackrel{17}{(pivot)}\quad \underline{20}\quad 10 \quad 25 \quad 11 \quad \underline{8} \quad 18&\\
+\Rightarrow&\stackrel{17}{(pivot)} \quad 8 \quad 10 \quad \underline{25} \quad \underline{11} \quad 20 \quad 18&\\
+\Rightarrow&\stackrel{17}{(pivot)} \quad 8 \quad 10  \quad \underline{11} \quad 25 \quad 20 \quad 18&\\
+\Rightarrow&\underbrace{\stackrel{11}{(pivot)} \quad 8 \quad \underline{10}} \quad 17 \quad \underbrace{\stackrel{25}{(pivot)} \quad 20 \quad \underline{18}}&\\
+\Rightarrow&\underbrace{\stackrel{10}{(pivot)} \quad \underline{8}} \quad 11 \quad 17 \quad \underbrace{\stackrel{18}{(pivot)} \quad \underline{20}} \quad 25&\\
+&8 \quad 10 \quad 11 \quad 17 \quad 18 \quad 20 \quad 25 &
+\end{flalign*}	
+	\item [ج3.]
+\begin{flalign*}
+&T(n)=aT(\frac{n}{b})+f(n) \; , \; f(n)\notin n^k&\\
+&T(n)=\left\{ \begin{array}{ll}
+O(n^{\log_{b}^{a}}) & if \quad n^{\log_{b}^{a}} > O(f(n)) \\
+O(O(f(n)))* \log n & if \quad n^{\log_{b}^{a}} = O(f(n)) \\
+O(f(n)) & if \quad n^{\log_{b}^{a}} < O(f(n))
+\end{array}
+\right.&\\
+&T(n)=T(\frac{n}{2})+n\log n&\\
+&a=1 , b=2 , f(n)=n\log n&\\
+&n^{\log_{2}^{1}}< O(n\log n)\Rightarrow T(n)=\theta(n \log n)&
+\end{flalign*}	
+	\item [ج4.]
+الگوریتم فلوید برای محاسبه کوتاه ترین مسیر از هر راس در یک گراف موزون به رئوس دیگر به کار می رود.\\
+در این روش ماتریس های $D^0$ تا $D^n$ را به ترتیب به دست می آوریم، جواب مسئله ماتریس $D_n$ خواهد بود و در آن کوتاه ترین مسیرها برای 2 گره مشخص شده است.\\
+ماتریس $D^0$ همان ماتریس مجاورت گراف می باشد که در آن:
+\begin{flalign*}
+D^0=w(i,j) = \left\{
+\begin{array}{ll}
+\text{وزن یال} & if \text{اگر یالی بین} v_i , v_j \text{باشد} \\
+\infty & \text{اگر یالی بین} v_i , v_j \text{نباشد} \\
+0 & \text{اگر} j=i \text{باشد}
+\end{array}\right.
+\end{flalign*}
+
+فرمول کلی زیر برای الگوریتم فلوید به کار می رود:
+\begin{flalign*}
+&D^k(i,j) =\left\{
+\begin{array}{ll}
+	0 & if \quad i=j \\
+	\min\Bigg( D^{k-1}(i,k)+D^{k-1}(k,j),D^{k-1}(i,j)\Bigg) & if \quad i \ne j\\
+	\quad & i\le k \le j
+\end{array}\right.&
+\end{flalign*}
+مرتبه زمانی الگوریتم فلوید$ O(n^3)$ می باشد.
+\newpage
+	\item [ج5.]
+در روش حریصانه تصمیم گیری به سرعت و با توجه به اطلاعات موجود انجام می گیرد و توجه زیادی به اثرات و عوارض این تصمیم نمی شود به همین خاطر الگوریتم های حاصل صریح و ساده اند. \\
+خصوصیات کلی یک الگوریتم حریصانه عبارتند از: \\
+نتیجه نهایی یک الگوریتم حریصانه مجموعه ای از داده هاست که ممکن است ترتیب آنها نیز اهمیت داشته باشد. این مجموعه از داده ها اکثرا زیر مجموعه داده های ورودی هستند.\\
+مجموعه جواب به صورت مرحله ای بود و در هر مرحله یک مولفه از جواب حاصل می شود.\\
+جواب نهایی باید تابع هدف را بهینه کند.\\
+S مجموعه جواب که در ابتدا تهی است.\\
+Solution بررسی می کند که آیا جواب نهایی حاصل شده است یا نه\\ 
+select یک عنصر از مجموعه C انتخاب می کند.
+\end{enumerate}
+
+\end{document}

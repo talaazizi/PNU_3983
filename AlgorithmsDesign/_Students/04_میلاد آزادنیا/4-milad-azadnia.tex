@@ -1,0 +1,700 @@
+ \documentclass[12pt,a4paper]{exam}
+\usepackage{amsmath,amsthm,amsfonts,amssymb,dsfont}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\doublespacing
+%\usepackage{amsthm,amssymb,amsmath}
+\usepackage{marvosym}
+\usepackage{listings}
+\usepackage{MnSymbol,wasysym,boldline}
+\usepackage{roundbox,graphicx,framed}
+\usepackage{fancybox}
+\usepackage[top=10mm, bottom=30mm, left=15mm, right=15mm,nohead]{geometry}
+\usepackage{tikz}
+
+\usetikzlibrary{shapes,snakes}
+\graphicspath{ {./} }
+\usepackage{xepersian}
+\DeclareMathSizes{14}{10}{9}{7}
+\settextfont[Scale=1]{XB Niloofar}
+%\settextfont[Scale=1.1]{B Nazanin}
+\setdigitfont[Scale=1]{XB Niloofar}
+\defpersianfont\titr[Scale=1]{XB Titre}
+    \setlength\parindent{0pt}
+        %usage \choice{ }{ }{ }{ }
+        %(A)(B)(C)(D)
+        \newcommand{\fourch}[4]{
+        \par
+                \begin{tabular}{*{4}{@{}p{0.23\textwidth}}}
+                (1)~#1 & (2)~#2 & (3)~#3 & (4)~#4
+                \end{tabular}
+        }
+
+        %(A)(B)
+        %(C)(D)
+        \newcommand{\twoch}[4]{
+
+                \begin{tabular}{*{2}{@{}p{0.46\textwidth}}}
+                (1)~#1 & (2)~#2
+                \end{tabular}
+        \par
+                \begin{tabular}{*{2}{@{}p{0.46\textwidth}}}
+                (3)~#3 & (4)~#4
+                \end{tabular}
+        }
+
+        %(A)
+        %(B)
+        %(C)
+        %(D)
+        \newcommand{\onech}[4]{
+        \par
+              (1)~#1 \par (2)~#2 \par (3)~#3 \par (4)~#4
+        }
+
+        \newlength\widthcha
+        \newlength\widthchb
+        \newlength\widthchc
+        \newlength\widthchd
+        \newlength\widthch
+        \newlength\tabmaxwidth
+
+        \setlength\tabmaxwidth{0.96\textwidth}
+        \newlength\fourthtabwidth
+        \setlength\fourthtabwidth{0.25\textwidth}
+        \newlength\halftabwidth
+        \setlength\halftabwidth{0.5\textwidth}
+
+      \newcommand{\choice}[4]{%
+      \settowidth\widthcha{AM.#1}\setlength{\widthch}{\widthcha}%
+      \settowidth\widthchb{BM.#2}%
+      \ifdim\widthch<\widthchb\relax\setlength{\widthch}{\widthchb}\fi%
+      \settowidth\widthchb{CM.#3}%
+      \ifdim\widthch<\widthchb\relax\setlength{\widthch}{\widthchb}\fi%
+      \settowidth\widthchb{DM.#4}%
+      \ifdim\widthch<\widthchb\relax\setlength{\widthch}{\widthchb}\fi%
+      \ifdim\widthch<\fourthtabwidth
+        \fourch{#1}{#2}{#3}{#4}
+      \else\ifdim\widthch<\halftabwidth
+        \ifdim\widthch>\fourthtabwidth
+          \twoch{#1}{#2}{#3}{#4}
+\fi
+        \else
+          \onech{#1}{#2}{#3}{#4}
+
+      \fi\fi
+    }
+
+   % \NumberOfVersions{3}
+
+    \begin{document}
+\begin{titlepage}
+   \vspace*{\stretch{1.0}}
+   \begin{center}
+      \Large\textbf{سوالات فرد نیمسال اول 97-98 و سوالات زوج اول 94-95}\\
+      \large\textit{میلاد آزادنیا 900125625}
+   \end{center}
+   \vspace*{\stretch{2.0}}
+\end{titlepage}
+     \begin{questions}
+    \question
+بهترین حالت زمان اجرای الگوریتم مرتب سازی درجی ( Insertion Sort ) زمانی رخ می دهد که: ......
+    \choice{داده های ورودی مساله، خود از قبل مرتب شده باشند}{داده های ورودی مساله، برعکس مرتب شده باشند}{داده های ورودی مساله، به صورت یک در میان مرتب شده باشند}{در الگوریتم مرتب سازی درجی هیچ حالت بهترینی وجود ندارد}
+\par
+جواب:  به ازای هر$ i \geq j $اگر$ a_{i} <a_{j} $این را یک نابه‌جایی تعریف می‌کنیم. زمان اجرای الگوریتم از مرتبه‌ی بیشینه‌ی تعداد نابه‌جایی های دنباله‌ی ورودی و اندازه‌ی ورودی می‌باشد و از آن جایی که تعداد نابه‌جایی‌ها از $O(n^2)$ می‌باشد پس الگوریتم در بدترین حالت $O(n^2)$ می‌باشد. اگر یک دنباله‌ی ورودی به ترتیب صعودی باشد الگوریتم از $O(n)$ زمان مصرف می‌کند چون هر حلقه یک واحد زمانی طول می‌کشد و اگر هم دنباله به ترتیب نزولی باشد تعداد نابه‌جایی‌ها برابر است با $1+2+3+...+n=\frac{n(n-1)}{2}$ که از مرتبه‌ی $O(n^2)$ می‌باشد و در این حالت الگوریتم از مرتبه‌ی $O(n^2)$  زمان می‌برد. \\در نتیجه گزینه 1 صحیح است.
+    \question
+کدام گزینه مقایسه ای صحیح بین پیچیدگی زمانی الگوریتم ها را نشان می دهد؟
+\choice{$O(\sqrt{n})<O(n)<O(n\log n)$}{$O(3^n)<O(n!)>O(n^n)$}{$O(n)<O(n\log n)<O(\sqrt{n})$}{$O(n\log n)<O(n^3)<O(n^2 \log n)$}
+\\
+جواب:\\
+گزینه یک صحیح است.\\
+زمانی که نمودار سه تابع را رسم می کنیم رشد نمودار $n\log n$ از نمودار $n$ و نمودار $n$ از $\sqrt{n}$.
+
+    \question
+ فرض کنید $T_{1}(n)$ و $T_{2}(n)$ ، زمان اجرای دو قطعه برنامه $P_{1}$ و $P_{2}$ باشد و داریم:\\
+$T_{1}(n) \in O(f(n))$\\
+$T_{2}(n) \in O(g(n))$\\
+
+مقدار $T_{1}(n) + T_{2}(n)$ ، زمانی که قطعه برنامه $P_{2}$ در راستای قطعه برنامه $P_{1}$ اجرا می شود، برابر است با:
+\choice{$O(min\{f(n),g(n)\})$}{$O(max\{f(n),g(n)\})$}{$O(f(n)+g(n))$}{$O(f(n).g(n))$}
+\\
+جواب:\\
+می دانیم که $T_{1}(n)\in O(F(n))$ بنابراین $C_{1}$ و $n_{1}$ وجود دارد که برای:\\
+$$\forall n\geq n_{1}\qquad T_{1}(n)\leq C_{1}F(n)$$
+\\و همچنین $T_{2}(n)\in O(g(n))$  بنابراین $C_{2}$ و $n_{2}$ وجود دارد که برای:\\
+$$\forall n\geq n_{1}\qquad T_{2}(n)\leq C_{2}g(n)$$
+\\
+$$\Rightarrow T_{1}(n)+T_{2}(n)\leq C_{1}F(n)+C_{2}g(n)$$
+$$\leq (C_{1}+C_{2})max\{F(n),g(n)\}$$
+\\
+که در آن با انتخاب $n_{0}=max\{n_{1},n_{2}\}$ خواهیم داشت:
+$$ T_{1}(n)+T_{2}(n) \in O(max\{f(n),g(n)\})$$
+
+ \question
+در رشد توابع زیر کدام ترتیب صحیح می باشد؟
+
+\choice{$O(n\log n)\ \ ,\ \ O(1+\varepsilon)^n \ \ ,\ \ O(\frac{n^2}{\log n})$}
+{$O(1+\varepsilon)^n \ \ ,\ \  O(n\log n) \ \ ,\ \  O(\frac{n^2}{\log n})$}
+{$O(\frac{n^2}{\log n}) \ \ ,\ \ O(n\log n) \ \ ,\ \ O(1+\varepsilon)^n $}
+{$O(n\log n) \ \ ,\ \ O(\frac{n^2}{\log n}) \ \ ,\ \ O(1+\varepsilon)^n$}\\
+جواب:\\
+گزینه 4 صحیح است.\\
+با توجه به نمودار توابع $O(n\log n)$ از دیگر توابع رشد بیشتری دارد پس یا گزینه 1 صحیح است یا گزینه 4. از انجایی که رشد تابع $O(1+\varepsilon)^n$  نیز تقریبا با رشد تابع $O(1)^n$ برابر است پس از دیگر تاوابع رشد کمتری دارد. پس گزینه 4 صحیح است.
+    \question
+کدام گزینه، رابطه بازگشتی محاسبه زمان اجرای الگوریتم ضرب ماتریس ها به روش استراسن را نشان می دهد؟
+      \choice{$\begin{cases} T(1) = 1 \\ T(n) = 7T(\frac{n}{2}) + 18T(\frac{n}{2})^2 \end{cases}$}{$\begin{cases} T(1) = 1 \\ T(n) = 8T(\frac{n}{2}) + 14(\frac{n}{2})^2 \end{cases}$}{$\begin{cases} T(1) = 1 \\ T(n) = 7T(\frac{n}{2}) + 18(\frac{n}{2})^2 \end{cases}$}{$\begin{cases} T(1) = 1 \\ T(n) = 8T(\frac{n}{2}) + 17(\frac{n}{2})^2 \end{cases}$} 
+\\
+جواب:\\
+گزینه 3 صحیح است.
+هنگامی که دو ماتریس $n\times n$ با $n$ بزرگتر از یک داشته باشیم، الگوریتم هفت بار فراخوانی میشود و در هر بار که $\frac{n}{2}\times \frac{n}{2}$ ارسال می شود هیچ ضربی در بالاترین سطح انجام نمی شود. با فرض این که $n$ توانی از 2 باشد:\\
+$$T_{n}=\begin{cases} 7T(\frac{n}{2}) \qquad \qquad if n > 1 \\ 1 \qquad \qquad if n \leq 1\end{cases}$$
+\\
+دوباره فرض کنیم که تقسیم ماتریس آنقدر ادامه یابد که دو ماتریس $2\times2$ حاصل شود زمانیکه $n=1$ باشد هیچ جمع و تفریقی رخ نمیدهد ولی به ازای دو ماتریس $n\times n$ که $n>1$ باشد 18 عمل جمع و تفریق روی ماتریس های با ابعاد $\frac{n}{2}\times \frac{n} {2}$ انجام می گیرد و هنگامی که دو ماتریس $\frac{n}{2}\times \frac{n} {2}$ جمع یا تفریق شوند $(\frac{n}{2})^2$ عمل جمع یا تفریق روی عناصر ماتریس انجام می پذیرد. بنابراین رابطه فوق به صورت زیر تکمیل می شود.\\
+
+$$T_{n}=\begin{cases} 1 \qquad \qquad if n \leq 1 \\ 7T(\frac{n}{2})+18(\frac{n}{2})^2 \qquad \qquad if n>1\end{cases}$$
+
+ \question
+جواب رابطه بازگشتی زیر کدام است؟\\
+$T(n)=T(\frac{n}{3})+T(\frac{2n}{3})+O(n)$\\
+\choice{$O(n)$}{$O(n \log n)$}{$O(n^2 \log n)$}{$O(n^2 \sqrt{n})$}\\
+جواب:\\
+گزینه 2 صحیح است.\\
+
+با استفاده از روش بازگشت درخت و رابطه:\\
+$$T(n)=T(\frac{n}{a})+T(\frac{n}{b})+cn\Rightarrow n\sum_{i=0}^{h}(\frac{1}{a}+\frac{1}{b})^i$$
+و چون جمع ضریب ها برابر با یک است. آنگاه $T(n)=O(n \log n)$
+    \question
+در جستجوی دودویی لیست زیر، در صورتی که به دنبال یافتن عدد 71 در لیست باشیم، پس از چند مقایسه ، به نتیجه Found NOT ( پیدا نشد ) خواهیم رسید؟
+
+
+
+
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+       \hline
+       % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+       اندیس & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 \\
+       مقدار & 3 & 9 & 12 & 27 & 32 & 39 & 48 & 49 & 54 & 60 & 81 & 98 & 120 \\
+       \hline
+     \end{tabular}
+
+\end{table}
+\\
+\choice{2 مقایسه}{3 مقایسه}{4 مقایسه}{5 مقایسه}
+\\
+جواب:\\
+برای جستجو یک عنصر در لیست (موفق یا ناموفق) بیش از 4 مقایسه نیاز نداریم. برای جستجوی ناموفق که عنصر x خارج از محدوده اعداد باشد با سه مقایسه و در بقیه حالات با 4 مقایسه جستجو خاتمه می یابد.
+    \question
+بدترین حالت زمانی الگوریتم جستجوی دودویی (BinSrch) برای جستجوی موفق و ناموفق به ترتیب از راست به چپ کدام است؟
+\choice{$O(\log n)\ \ ,\ \ O(\log n)$}{$\theta(\log n)\ \ , \ \  O(\log n)$}{$O(\log n)\ \ , \ \ \theta(\log n) $}{$\theta(\log n)\ \ , \ \ \theta(\log n) $}\\
+جواب:\\
+گزینه 2 صحیح است.\\
+با توجه به اینکه  $k-1 \leq \log n < k$ و اینکه حداکثر k مقایسه عنصر برای یک جستجوی موفق و k-1 یا k مقایسه برای یک جستجوی نا موفق انجام می دهد. بنابراین بدترین حالت زمانی برای جستجوی موفق $O(\log n )$ و برای جستجوی ناموفق $\theta (\log n)$ می باشد.
+    \question
+با در نظر گرفتن گراف مقابل و با استفاده از الگوریتم کروسال،هشتمین یالی که به درخت پوشای مینیمم حاصل افزوده می شود، کدام یال است؟
+
+
+\begin{tikzpicture}
+    \node[shape=circle,draw=black] (1) at (0,0) {$V_{1}$};
+    \node[shape=circle,draw=black] (0) at (0,3) {$V_{0}$};
+    \node[shape=circle,draw=black] (3) at (5,3) {$V_{3}$};
+    \node[shape=circle,draw=black] (2) at (2.5,1) {$V_{2}$};
+    \node[shape=circle,draw=black] (9) at (3,-3) {$V_{9}$};
+    \node[shape=circle,draw=black] (8) at (5,-1) {$V_{8}$} ;
+    \node[shape=circle,draw=black] (4) at (8,3) {$V_{4}$} ;
+    \node[shape=circle,draw=black] (7) at (8,-1) {$V_{7}$} ;
+    \node[shape=circle,draw=black] (6) at (9,0.8) {$V_{6}$} ;
+    \node[shape=circle,draw=black] (5) at (12,3) {$V_{5}$} ;
+
+    \path [->] (1) edge node[left] {$1$} (0);
+    \path [->](0) edge node[left] {$5$} (3);
+    \path [->](1) edge node[left] {$3$} (2);
+    \path [->](2) edge node[left] {$3$} (0);
+    \path [->](1) edge node[right] {$3$} (9);
+    \path [->](2) edge node[left] {$14$} (9);
+    \path [->](2) edge node[top] {$9$} (8);
+    \path [->](3) edge node[top] {$6$} (8);
+    \path [->](3) edge node[top] {$2$} (4);
+    \path [->](8) edge node[top] {$4$} (4);
+    \path [->](9) edge node[right] {$5$} (8);
+    \path [->](9) edge node[right] {$5$} (8);      
+    \path [->](7) edge node[right] {$3$} (8);    
+    \path [->](7) edge node[right] {$7$} (4);    
+    \path [->](6) edge node[right] {$1$} (4);   
+    \path [->](6) edge node[right] {$6$} (7);  
+    \path [->](5) edge[bend left] node[right] {$3$} (9);  
+    \path [->](5) edge node[right] {$3$} (6);        
+\end{tikzpicture}
+\choice{یال $V_{2} - V_{9}$}{یال $V_{8} - V_{9}$}{یال $V_{4} - V_{8}$}{یال $V_{0} - V_{2}$}
+\\
+جواب:\\
+ابتدا باید یال ها را به ترتیب وزنشان مرتب کنیم سپس آنها را به ترتیب به درخت مینیمم اضافه می کنیم به طوری که تشکیل حلقه ندهد. با این توضیح یال ها به ترتیب $V_{0}-V_{1}$ ، $V_{4}-V_{6}$  تا ... ادامه میدهیم که یال هشتم گزینه 3 می باشد.
+
+    \question
+در ضرب ماتریس ها به روش استراسن اگر مساله کوچک ضرب ماتریس $2\times2$ باشد، برای ضرب دو ماتریس $8 \times 8$ چند ضرب عددی صورت می پذیرد؟
+\choice{$392$}{$343$}{$512$}{$256$}
+\\
+جواب:\\
+گزینه 1 صحیح است.\\
+نعداد ضرب ها $T(n)=7T(\frac{n}{2})$ و $T(1)=1$ می باشد ولی در اینجا با رسیدن به ماتریس 1*1 به جواب می رسیم\\
+$$T(8) = 7T(4)=7(7T(2)) = 7 \times 7 \times 8 = 392 $$
+    \question
+با در نظر گرفتن اشیاء زیر و همچنین کوله پشتی به ظرفیت 40 کیلوگرم، حداکثر ارزش حاصل برای مساله کوله پشتی ( غیرصفر و یک - حریصانه ) با استفاده از اشیاء موجود در جدول برابر خواهد بود با:
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|c|c|c|c|c|c|}
+       \hline
+       % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+       شماره کالا & 1 & 2 & 3 & 4 & 5\\
+       ارزش & 8 & 5 & 15 & 10 & 20\\
+ وزن & 16 & 15 & 25 & 8 & 15\\
+       \hline
+     \end{tabular}
+
+\end{table}
+\choice{44}{3.38}{1.40}{9.40}
+\\
+جواب:\\
+برای این اجناس می خواهیم P[n][w]=P[5][40] را محاسبه کنیم.برای محاسبه سطر 5 باید عناصر سطح 4 را محاسبه کنیم و همین طور تا سطر یک پیش برویم. و در آخر از طریق فرمول \\{$P[i][w] = \begin{cases} max\ imum (P[i-1][w] , P_{i}+P[i-1][w-w_{i}]) \ \ \ \ \ \ if w_{i} \leq w \\ P[i-1][w] \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  if w_{i} > w\end{cases}$}\\
+سطر اول را محاسبه کرده و تا سطر پنجم می آییم . که در آخر گزینه 3 صحیح است.
+    \question
+در گراف زیر، با اجرای الگوریتم پریم و شروع از راس $a$، درخت پوشای مینیمم دارای کدام هزینه خواهد بود؟\\
+\begin{tikzpicture}
+    \node[shape=circle,draw=black] (a) at (0,0) {$a$};
+    \node[shape=circle,draw=black] (b) at (-2,-1.5) {$b$};
+    \node[shape=circle,draw=black] (c) at (-2,-3) {$c$};
+    \node[shape=circle,draw=black] (d) at (0,-4.5) {$d$};
+    \node[shape=circle,draw=black] (f) at (2,-1.5) {$f$};
+    \node[shape=circle,draw=black] (e) at (2,-3) {$e$} ;
+
+
+    \path [->] (a) edge node[left] {$1$} (b);
+    \path [->](a) edge node[left] {$7$} (f);
+    \path [->](b) edge node[left] {$2$} (f);
+    \path [->](b) edge node[right] {$5$} (e);
+    \path [->](b) edge node[right] {$4$} (c);
+    \path [->](c) edge node[left] {$3$} (f);
+    \path [->](c) edge node[top] {$6$} (e);
+    \path [->](c) edge node[top] {$9$} (d);
+    \path [->](d) edge node[top] {$10$} (e);
+    \path [->](e) edge node[top] {$8$} (f);
+
+
+
+     
+\end{tikzpicture}
+
+
+
+\choice{11}{15}{20}{22}\\
+جواب:\\
+گزینه 3 صحیح است.\\
+ابتدا راس اول را در نظر می گیریم و داخل مجموعه مثلا با نام Y قرار می دهیم سپس تا حل مساله اعمال زیر را انجام میدهیم\\
+از مجموعه V-Y رئوس مجاور را انتخاب می کنیم ( V کل رئوس) سپس نزدیکترین راس را Y اضافه می کنیم یال مربوطه را به F که مجموعه یال انتخاب شده است اضافه می کنیم هرگاه Y با V برابر شد مساله تمام است. با توجه به این روند به گراف زیر میرسیم و مقدار هزینه 20 می باشد.\\
+\begin{tikzpicture}
+    \node[shape=circle,draw=black] (a) at (0,0) {$a$};
+    \node[shape=circle,draw=black] (b) at (-2,-1.5) {$b$};
+    \node[shape=circle,draw=black] (c) at (-2,-3) {$c$};
+    \node[shape=circle,draw=black] (d) at (0,-4.5) {$d$};
+    \node[shape=circle,draw=black] (f) at (2,-1.5) {$f$};
+    \node[shape=circle,draw=black] (e) at (2,-3) {$e$} ;
+
+
+    \path [->] (a) edge node[left] {$1$} (b);
+    \path [->](b) edge node[left] {$2$} (f);
+    \path [->](b) edge node[right] {$5$} (e);
+    \path [->](c) edge node[left] {$3$} (f);
+    \path [->](c) edge node[top] {$9$} (d);
+
+
+
+     
+\end{tikzpicture}
+    \question
+در الگوریتم محاسبه حداقل ضرب ها در زنجیره ضرب ماتریس ها، برای محاسبه $m_{1,4}$ نیاز به داشتن کدام مقادیر در ماتریس محاسبات داریم. ( به بیانی دیگر: برای محاسبه $m_{1,4}$ از کدام مقادیر ماتریس استفاده خواهیم کرد)
+\choice{$m_{1,3} \ ,  m_{2,3}  \ , m_{2,2}  \ ,  m_{1,2}$}{$m_{1,1}  \ ,   m_{2,4}  \ ,   m_{1,2}  \ ,   m_{3,4}  \ ,   m_{1,3}  \ ,   m_{4,4}$}{$m_{1,1}  \ ,   m_{2,4}  \ ,   m_{2,2}  \ ,   m_{3,4}  \ ,   m_{3,3}  \ ,   m_{4,4}$}{$m_{1,2}  \ ,   m_{2,3}  \ ,   m_{2,2}  \ ,   m_{3,4}  \ ,   m_{3,3}  \ ,   m_{4,4}$}
+\\
+جواب: \\
+گزینه 2 صحیح است.\\
+با توجه به فرمول $m_{i,j} = min(m_{i,k}+m_{k+1,j}+r_{i-1}\times r_{k} \times r_{j})$ که رابطه بازگشتی برای محاسبه می باشد. داریم:\\
+$m_{1,4} = min(m_{1,1}+m_{2,4}+...,m_{1,2}+m_{3,4}+...,m_{1,3}+m_{4,4}+...)$
+
+    \question
+ در صورتیکه یک گراف خلوت (متراکم) باشد، الگوریتم ......... سریعتر از الگوریتم .......... عمل می کند. در این حالت پیچیدگی زمانی الگوریتم کروسال ........... است.(بترتیب از راست به چپ)
+\choice{کروسکال ، پریم ، $\theta(n \log n)$}{کروسکال ، پریم ، $\theta(n)$}{پریم ، کروسکال ، $\theta(n)$}{پریم ، کروسکال ، $\theta(n \log n)$}\\
+جواب:\\
+گزینه صحیح 1 می باشد.\\
+در صورتی که گراف متراکم باشد الگوریتم کروسکال زمان $\theta(n \log n)$ را صرف می کند که سریعتر از الگوریتم پریم می باشد.
+    \question
+مرتبه زمانی الگوریتم یافتن تور بهینه در یک گراف ( مساله فروشنده دوره گرد ) برابر با گدام گزینه است؟
+\choice{$\theta(n2^{n})$}{$\theta(n^{2}2^{n})$}{$\theta(2^{n})$}{$\theta(n^{2}\log n)$}\\
+جواب:\\
+گزینه 2 صحیح است.\\
+با توجه به دو رابطه زیر:\\
+$$T(n)=\sum_{k=1}^{n-2}(n-1-k)k\binom{n-1}{k}$$
+$$(n-1-k)\binom{n-1}{k}=n-1\binom{n-2}{k}$$
+\\
+ عبارت زیر حاصل می شود:\\
+$$T(n)=(n-1)(n-2)2^{n-3} \in \theta(n^2 2^n)$$
+
+    \question
+فرض کنید برای $n=7$ کارها، مهلت و بهره های مربوط به کارها را به صورت زیر داریم، جواب بهینه با الگوریتم زمانبندی با مهلت کدام است؟\\
+\begin{table}[h]
+  \centering
+\begin{tabular}{|c|c|c|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  کار & مهلت & بهره \\
+  1 & 3 & 60 \\
+  2 & 1 & 50 \\
+  3 & 1 & 30 \\
+  4 & 2 & 20 \\
+  5 & 3 & 15 \\
+  6 & 1 & 10 \\
+  \hline
+\end{tabular}
+\end{table}
+
+\choice{جواب بهینه $\{1,2,6,4\}$ با سود 130 خواهد بود}
+{جواب بهینه $\{2,4,1,5\}$ با سود 130 خواهد بود}
+{جواب بهینه $\{2,4,1\}$ با سود 130 خواهد بود}
+{جواب بهینه $\{2,4,7,1\}$ با سود 130 خواهد بود}\\
+جواب:\\
+گزینه 3 صحیح است.\\
+نخست مقدار j را برابر صفر قرار می دهیم در الگوریتم زمانبندی با مهلت به جدول زیر میرسیم\\
+\begin{table}[h]
+  \centering
+\begin{tabular}{|c|c|c|c|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+J &  سود & مرحله & مجموعه امکان پذیر \\
+  0 & 0 & 0 & هست\\
+ {1} & 60 & 1 & هست\\
+ {2,1} & 110 & 2 & هست\\
+ {2,3,1} & 110 & 3 & نیست\\
+{2,4,1} & 130 & 4 & هست\\
+{2,4,1,5} & 130 & 5 & نیست\\
+{1,2,6,4} & 130 & 6 & نیست\\
+
+  \hline
+\end{tabular}
+\end{table}
+\\
+جواب بهینه J=\{2,4,1\} با سود 130 خواهد بود.
+    \question
+کدام گزینه، سود بهینه حاصل از انتخاب $i$ شیء (قطعه) اول به شرطی که وزن کل از $w$ بیشتر نشود، را به روش برنامه نویسی پویا (برای حل مساله کوله پشتی) نشان می دهد.
+      \choice{$P[i][w] = \begin{cases} max\ imum (P[i][w-1] , P[i-1][w-w_{i}]) \ \ \ \ \ \ if w_{i} \leq w \\ P[i-1][w] \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  if w_{i} > w\end{cases}$}
+{$P[i][w] = \begin{cases} max\ imum (P[i-1][w] , P_{i}+P[i-1][w-w_{i}]) \ \ \ \ \ \ if w_{i} \leq w \\ P[i-1][w] \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  if w_{i} > w\end{cases}$}
+{$P[i][w] = \begin{cases} max\ imum (P[i][w-1] , P_{i}+P[i-1][w-w_{i}]) \ \ \ \ \ \ if w_{i} > w \\ P[i-1][w] \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  if w_{i} \leq w\end{cases}$}
+{$P[i][w] = \begin{cases} max\ imum (P[i-1][w] , P_{i}+P[i-1][w-w_{i}]) \ \ \ \ \ \ if w_{i} > w \\ P[i-1][w] \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  if w_{i} \leq w\end{cases}$} 
+\\
+جواب:\\
+گزینه 2 صحیح است.\\
+اگر $W_{i}>W$ آنگاه $P[i][W]=P[i-1][W]$ خواهد بود. یعنی اگر وزن قطعه i ام بیشتر از وزن کل قابل تحمل کوله پشتی باشد آن قطعه را برای قرار دادن در کوله پشتی انتخاب نمی کنیم و سود بهینه حاصل از انتخاب i قطعه اول برابر سود بهینه حاصل از انتخاب i-1 قطعه اول خواهد بود.\\
+اگر $W_{i} \leq W$ $max\ imum (P[i-1][w] , P_{i}+P[i-1][w-w_{i}])$ خواهد بود یعنی اگر وزن قطعه iام کمتر از وزن کل قابل تحمل کوله پشتی باشد با اضافه کردن آن به کوله پشتی ممکن است کوله پشتی پاره شود.
+    \question
+تعداد اعمال جمع برای الگوریتم ضریب دو جمله ای $\binom{5}{3}$ با استفاده از برنامه نویسی پویا کدام است؟
+\choice{6}{9}{12}{19}
+\\
+جواب:\\
+گزینه 2 صحیح است.\\
+از فرمول $\binom{5}{3}-1$  استفاده می کنیم که برابر است با عدد 9.
+    \question
+کدام یک از موارد زیر، صحیح است.
+\\
+مورد اول: مساله ای که به روش بازگشت به عقب حل می گردد، می تواند بیش از یک جواب داشته باشد و هیچ جوابی بر جواب دیگر، امتیازی دارد.\\
+مورد دوم: در اغلب مسائلی که به روش انشعاب و تحدید حل می شوند، مهم یافتن جواب بهینه است.\\
+مورد سوم: الگوی جستجو در درخت برای روش انشعاب و تحدید، جستجوی عمقی است.
+    \choice{فقط موارد اول و دوم}{فقط موارد دوم و سوم}{فقط موارد اول وسوم}{موارد اول و دوم و سوم}
+\\
+جواب: \\
+گزینه 1 صحیح است.\\
+گزینه 3 غلط است زیرا الگوی جستجو در درخت برای روش بازگشت به عقب روش جستجوی عمقی است.
+    \question
+ پیچیدگی محاسباتی در هر حالت برای الگوریتم حداقل ضرب ها ....... می باشد.
+\choice{$\theta(n^2 2^n)$}{$\theta(n \log n)$}{$\theta(n^2)$}{$\theta(n^3)$}\\
+جواب:\\
+گزینه چهار صحیح است.\\
+به ازای مقادیر معلومی از L تعداد گذرها از حلقه for با اندیس i برابر n-L است. چون L از یک تا n-1 تغییر می کند تعداد کل دفعاتی که عمل اصلی انجام می شود عبارت است از: $\frac{n(n-1)(n+1)}{6}\in\theta(n^3)$
+    \question
+برای مجموعه کارهای زیر، با سود و مهلت داده شده، بیشترین سودی که می توان کسب نمود، برابر است با: ................. ( مسئله زمانبندی با مهلت)
+    \begin{table}[h]
+  \centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  8 & 7 & 6 & 5 & 4 & 3 & 2 & 1 & کار \\
+  12 & 19 & 16 & 59 & 42 & 69 & 74 & 89 & سود \\
+  4 & 3 & 2 & 3 & 2 & 4 & 1 & 3 & مهلت \\
+  \hline
+\end{tabular}
+\end{table}
+\choice{128}{135}{291}{274}\\
+جواب:\\
+گزینه 3 صحیح است.\\
+
+    \question
+تعداد فراخوانی ها برای محاسبه P(3,3) در تابع series world زیر کدام است؟\\
+\includegraphics{code}\\
+\choice{20}{18}{40}{38}
+\\
+جواب:\\
+گزینه 4 صحیح است.\\
+
+    \question
+کدام گزینه، رابطه بازگشتی مربوط به الگوریتم حاصلضرب دو عدد بزرگ $n$ رقمی را به درستی بیان می کند؟
+\choice{$T(n) = 2T(\frac{n}{4})+Cn$}{$T(n) = 4T(\frac{n}{2})+Cn^2$}{$T(n) = 2T(\frac{n}{4})+Cn^2$}{$T(n) = 4T(\frac{n}{2})+Cn$}\\
+جواب:\\
+گزینه 4 صحیح است.
+فرض کنید n توانی از 2 باشد یعنی $n=2^k$ باشد در این صورت x,y,z,w همگی دقیقا $\frac{n}{2}$ رقم خواهند داشت.\\
+$C_{n}$ را زمان لازم برای جمع تفریق و انتقال در نظر می گیریم بنابراین خواهیم داشت:
+$$T(n)=4T(\frac{n}{2})+Cn$$
+    \question
+تعداد درخت های جستجوی دودویی که با 3 کلید متمایز می توان ساخت کدام است؟
+\choice{15}{8}{5}{3}\\
+جواب:\\
+گزینه 3 صحیح است.\\
+ از فرمول $\frac{1}{n+1}\binom{2n}{n}$ برای محاسبه استفاده می کنیم.\\
+ $\frac{1}{3+1}\binom{6}{3}$ \\
+که برابر عدد 5 می شود.
+    \question
+کدام یک از موارد، در خصوص مسائل تصمیم گیری درست است؟\\
+مورد اول: مسائل NP زیرمجموعه مسائل P هستند.\\
+مورد دوم: مسائل P زیر مجموعه مسائل NP هستند.\\
+مورد سوم: مسائل تصمیم گیری ای وجود دارند که نه NP هستند و نه P.\\
+مورد چهارم: همه مسائل تصمیم گیری یا از نوع P هستند یا از نوع NP.
+ \choice{فقط موارد اول و دوم   }{         فقط موارد دوم و سوم}{   فقط موارد سوم و چهارم}{  فقط موارد اول و چهارم }
+\\
+جواب:\\
+گزینه 2 صحیح است.\\
+گزینه یک غلط است زیرا P زیر مجموعه NP است.
+\\
+گزینه چهار غلط است زیرا مسائلی هستند که هیچ کدام نیستند. 
+\end{questions}
+\begin{center}
+  \bfseries\large
+  سوالات تشریحی
+  \bigskip
+
+
+\end{center}
+   \begin{questions}
+    \question
+رابطه بازگشتی زیر را حل نمایید.\\
+\begin{flushleft}
+$ T(n) = 3T(n-1)+4T(n-2)$  \\$T(0) = 0  \ \ \ ,\ \ \ T(1)=1$
+\end{flushleft}
+\\
+جواب:\\
+ابتدا $T(n)=X^n$ قرار می دهیم پس داریم:\\
+$$X^n=3X^{n-1}+4X^{n-2}$$
+$$\Rightarrow X^2-3X+4=0$$
+جوابهای معادله مشخصه عبارتند از: \\
+$$X_{1}=-1 \quad X_{2}=4$$
+حال با توجه به شروط سوال داریم:\\
+$$\begin{cases} C_{1}+C_{2}=0 \\ -C_{1}+4C_{2}=1 \end{cases}$$
+که از آن $C_{1}=-\frac{1}{5}$ و  $C_{2}=\frac{1}{5}$  بدست می ابد. در نتیجه\\
+$$T(n)=\frac{1}{5}(4^n-(-1)^n)$$
+و در آخر$T(n) \in O(4^n)$
+
+    \question
+
+الگوریتم کروسکال را بر روی گراف زیر اجرا کنید، درخت پوشای مینیمم را مرحله به مرحله رسم کرده و هزینه نهایی درخت حاصل را بدست آورید؟\\
+\begin{tikzpicture}
+    \node[shape=circle,draw=black] (1) at (0,0) {$V_{1}$};
+    \node[shape=circle,draw=black] (2) at (2,0) {$V_{2}$};
+    \node[shape=circle,draw=black] (3) at (0,-2) {$V_{3}$};
+    \node[shape=circle,draw=black] (4) at (2,-2) {$V_{4}$};
+    \node[shape=circle,draw=black] (5) at (1,-3.5) {$V_{5}$};
+
+    \path [->] (1) edge node[top] {$1$} (2);
+    \path [->](1) edge node[left] {$3$} (3);
+    \path [->](2) edge node[left] {$3$} (3);
+    \path [->](2) edge node[right] {$6$} (4);
+    \path [->](3) edge node[right] {$4$} (4);
+    \path [->](3) edge node[left] {$2$} (5);
+    \path [->](4) edge node[top] {$5$} (5);
+
+     
+\end{tikzpicture}
+\\
+جواب:\\
+نخست درخت heap برای مرتب کردن یالها برحسب وزن یالها تشکیل میشود که در ریشه این درخت $e_{1\ 2}$  دارد و F تهی و Y مجموعه مجزا از هم تشکیل میشود.\\
+مرحله اول:\\
+$F=\{e_{1\ 2}\}$ \\
+\begin{tikzpicture}
+    \node[shape=circle,draw=black] (1) at (0,0) {$V_{1}$};
+    \node[shape=circle,draw=black] (2) at (2,0) {$V_{2}$};
+    \node[shape=circle,draw=black] (3) at (0,-2) {$V_{3}$};
+    \node[shape=circle,draw=black] (4) at (2,-2) {$V_{4}$};
+    \node[shape=circle,draw=black] (5) at (1,-3.5) {$V_{5}$};
+
+    \path [->] (1) edge node[top] {$1$} (2);
+
+
+     
+\end{tikzpicture}
+\\
+در ادامه همین طور ادامه می دهیم تا در آخر به گراف زیر میرسیم\\
+
+\begin{tikzpicture}
+    \node[shape=circle,draw=black] (1) at (0,0) {$V_{1}$};
+    \node[shape=circle,draw=black] (2) at (2,0) {$V_{2}$};
+    \node[shape=circle,draw=black] (3) at (0,-2) {$V_{3}$};
+    \node[shape=circle,draw=black] (4) at (2,-2) {$V_{4}$};
+    \node[shape=circle,draw=black] (5) at (1,-3.5) {$V_{5}$};
+
+    \path [->] (1) edge node[top] {$1$} (2);
+    \path [->] (1) edge node[top] {$3$} (3);
+    \path [->] (3) edge node[top] {$2$} (5);
+    \path [->] (3) edge node[top] {$4$} (4);
+
+     
+\end{tikzpicture}\\
+هزینه نهایی درخت 10 می باشد.\\
+    \question
+فرض کنید متنی شامل حروف a, b, c, d, e, f, g, h باشد. تعداد کاراکترهای این متن برابر 519 کاراکتر است که در آن تعداد تکرارها به صورت ذیل می باشد.\\
+    \begin{table}[h]
+  \centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  h & g & f & e & d & c & b & a & حرف \\
+  158 & 103 & 26 & 124 & 42 & 29 & 31 & 6 & تکرار \\
+   &  &  &  &  &  &  &  & کد \\
+  \hline
+\end{tabular}
+    \end{table}
+الگوریتم کدگذاری هافمن را بر روی این کاراکترها اعمال نموده و درخت کدگذاری را مرحله به مرحله رسم نموده و در نهایت کدهای مربوط به حروف را استخراج نمایید.\\
+جواب:\\
+ابتدا هر کدام از تکرار ها را در یک گروه قرار می دهیم و ان ها را به صورت صعودی مرتب می کنیم. در هر مرحله دو درخت که کمترین مقدار دو ریشه دارند با هم ادغام می کنیم.\\
+a:6 f:26 c:29 b:31 d:42 g:103 e:124 h:158\\
+ 
+\begin{tikzpicture}
+    \node[shape=circle,draw=black] (1) at (0,0) {$a:6}$};
+    \node[shape=circle,draw=black] (2) at (2,0) {$f:26$};
+
+    \node[shape=circle,draw=black] (3) at (1,1) {$32$};
+
+    \node[shape=circle,draw=black] (4) at (-6,0) {$c:29}$};
+    \node[shape=circle,draw=black] (5) at (-4,0) {$b:31$};
+    \node[shape=circle,draw=black] (6) at (-5,1) {$60$};
+    \node[shape=circle,draw=black] (7) at (3,1) {$d:42$};
+    \node[shape=circle,draw=black] (8) at (2,2) {$74$};
+    \node[shape=circle,draw=black] (9) at (-2,3) {$134$};
+    \node[shape=circle,draw=black] (10) at (-8,2) {$g:103$};
+    \node[shape=circle,draw=black] (11) at (-5,2.5) {$e:124$};
+    \node[shape=circle,draw=black] (12) at (-6,4) {$227$};
+    \node[shape=circle,draw=black] (13) at (5,3) {$h:158$};
+    \node[shape=circle,draw=black] (14) at (3,4) {$292$};
+    \node[shape=circle,draw=black] (15) at (-2,5) {$519$};
+
+
+    \path [->] (3) edge node[left] {$0$} (1);
+    \path [->] (3) edge node[right] {$1$} (2);
+    \path [->] (6) edge node[left] {$0$} (4);
+    \path [->] (6) edge node[right] {$1$} (5);
+    \path [->] (8) edge node[left] {$0$} (3);
+    \path [->] (8) edge node[right] {$1$} (7);
+    \path [->] (9) edge node[left] {$0$} (6);
+    \path [->] (9) edge node[right] {$1$} (8);
+    \path [->] (12) edge node[left] {$0$} (10);
+    \path [->] (12) edge node[right] {$1$} (11);
+    \path [->] (14) edge node[left] {$0$} (9);
+    \path [->] (14) edge node[right] {$1$} (13);
+    \path [->] (15) edge node[left] {$0$} (12);
+    \path [->] (15) edge node[right] {$1$} (14);
+
+
+     
+\end{tikzpicture}
+
+
+    \begin{table}[h]
+  \centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  h & g & f & e & d & c & b & a & حرف \\
+  158 & 103 & 26 & 124 & 42 & 29 & 31 & 6 & تکرار \\
+  11 & 00 & 10101 & 01 & 1011 & 1000 &  1001& 10100 & کد \\
+  \hline
+\end{tabular}
+    \end{table}
+
+    \question
+برنامه مربوط، به طولانی ترین زیررشته مشترک دو رشته ی X و Y را با برنامه نویسی پویا بنویسید؟
+\\
+جواب:\\
+\includegraphics{2}\\
+
+    \question
+فرض کنید کالاهای زیر را داریم:\\
+    \begin{table}[h]
+  \centering
+\begin{tabular}{|c|c|c|c|c|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+   4 & 3 & 2 & 1 & شماره کالا \\
+ 40 & 10 & 30 & 50 & ارزش \\
+  2 &  5&  5&  10& وزن \\
+  \hline
+\end{tabular}
+    \end{table}
+اگر ظرفیت کوله پشتی برابر 16 کیلوگرم باشد. مساله کوله پشتی صفر و یک بالا را به روش تکنیک عقبگرد حل نمایید. درخت فضای جستجو را به طور کامل رسم نمایید و در نهایت حداکثر سود ممکن را محاسبه نمایید.\\
+جواب:\\
+در ابتدای کار قطعه های فوق را بر اساس  $\frac{P_{i}}{W_{i}}$  به صورت غیر نزولی مرتب می کنیم:\\
+  \begin{table}[h]
+  \centering
+\begin{tabular}{|c|c|c|c|c|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+   4 & 3 & 2 & 1 & i \\
+10 & 50 & 30 & 40 & $P_{i}$ \\
+  5 &  10&  5&  2& $W_{i}$ \\
+  2 &  5& 6&  20&  $\frac{P_{i}}{W_{i}}$  \\
+  \hline
+\end{tabular}
+    \end{table}
+\\
+درخت زیر فضای حالت هرس شده را نشان می دهد و جواب در گره (3,3) پیدا شده است.\\
+ارزش کل وزن کل و حد در هر گره از چپ به راست مشخص است\\
+\begin{tikzpicture}
+    \node[shape=circle,draw=black] (1) at (0,0) {$0, 0,115$};
+    \node[shape=circle,draw=black] (2) at (-4,-2) {$40, 2,115$};
+    \node[shape=circle,draw=black] (3) at (4,-2) {$0, 0,82$};
+    \node[shape=circle,draw=black] (4) at (-6,-6) {$70, 7,115$};
+    \node[shape=circle,draw=black] (5) at (1,-6) {$40, 2,98$};
+    \node[shape=circle,draw=black] (6) at (-8,-8) {$120, 17$};
+  \node[shape=circle,draw=black] (7) at (-4,-8) {$40, 7,80$};
+  \node[shape=circle,draw=black] (8) at (0,-8) {$90, 12,98(3,3)$};
+  \node[shape=circle,draw=black] (9) at (3,-8) {$40, 2,50$};
+  \node[shape=circle,draw=black] (10) at (-6,-10) {$90, 12,90$};
+  \node[shape=circle,draw=black] (11) at (-4,-10) {$70, 7,70$};
+  \node[shape=circle,draw=black] (12) at (0,-10) {$100,17$};
+  \node[shape=circle,draw=black] (13) at (-2,-10) {$90,12,90$};
+
+    \path [->] (1) edge node[top] {$$} (2);
+    \path [->] (1) edge node[top] {$$} (3);
+    \path [->] (4) edge node[top] {$$} (2);
+    \path [->] (5) edge node[top] {$$} (2);
+    \path [->] (6) edge node[top] {$$} (4);
+    \path [->] (7) edge node[top] {$$} (4);
+    \path [->] (8) edge node[top] {$$} (5);
+    \path [->] (9) edge node[top] {$$} (5);
+   \path [->] (10) edge node[top] {$$} (7);
+   \path [->] (11) edge node[top] {$$} (7);
+   \path [->] (12) edge node[top] {$$} (8);
+   \path [->] (13) edge node[top] {$$} (8);
+
+
+     
+\end{tikzpicture}
+
+\end{questions}
+    \end{document}
+
+    \end{document} 

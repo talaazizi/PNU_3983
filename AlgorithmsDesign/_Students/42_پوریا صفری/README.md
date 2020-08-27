@@ -7,14 +7,20 @@
 
 فصل ۳ - حل روابط بازگشتی
 
+<br>
 
-آدرس رزومه: 
-   [پوریا صفری]( https://pooriasafari.github.io) 
-..
-   [آدرس گیت هاب] (https://github.com/pooriasafari)
+آدرس رزومه 
+(https://pooriasafari.github.io)
+   
+<br>
 
+آدرس گیت هاب 
+   
+(https://github.com/pooriasafari)
 
-لینک فایل 
+<br>
+
+لینک فایل ارائه
 http://dl1.abrim.ir/Videos/FMP/Algorithm/PS-980173642-Algorithm.mp4
 
     1. بررسی مفهوم روابط بازگشتی
