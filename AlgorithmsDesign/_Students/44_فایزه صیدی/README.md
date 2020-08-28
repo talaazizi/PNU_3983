@@ -1,4 +1,3 @@
 
 
-+ [علیرضا آذرخش](https://azarakhsh2552.github.io/ )  
-  - [@azarakhsh2552](https://github.com/azarakhsh2552)
++ [فایزه صیدی](   https://970164219.github.io  )
