@@ -130,7 +130,7 @@
 + [احمد نعمتی کزنقی](https://ahmad943.github.io/personal)  
   - [@ahmad943](https://github.com/ahmad943)
  
-+ [داودنصری](https://ahmad943.github.io/personal)  
++ [داودنصری](https://github.com/davoodnasri33/test2)  
   - [@davoodnasri33](https://github.com/davoodnasri33)
 
       
