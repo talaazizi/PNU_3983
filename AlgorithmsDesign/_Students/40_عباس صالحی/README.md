@@ -7,9 +7,9 @@ Chapter 1: Algorithm Analysis Methods
   - [@MatrixMult]()
   - [@Maximum]()
 
-+ [Recursive Algorithms]()
++ [Recursive Algorithms](http://dl1.abrim.ir/Videos/fmp/algorithm/RecursiveAlgorithms.mp4)
   - [@Factorial](http://dl1.abrim.ir/Videos/fmp/algorithm/Factorial.mp4)
-  - [@Tower of Hanoi]()
+  - [@Tower of Hanoi](http://dl1.abrim.ir/Videos/fmp/algorithm/TowerofHanoi.mp4)
   - [@Merge sort]()
   
   
