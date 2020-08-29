@@ -1,7 +1,7 @@
 Chapter 1: Algorithm Analysis Methods
 
 
-+ [Sequential algorithms]()
++ [Sequential algorithms](http://dl1.abrim.ir/Videos/fmp/algorithm/Sequential-algorithms.mp4)
   - [@Bubble sort]()
   - [@Sequential search]()
   - [@MatrixMult]()
