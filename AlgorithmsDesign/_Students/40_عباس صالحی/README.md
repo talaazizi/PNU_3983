@@ -8,7 +8,7 @@ Chapter 1: Algorithm Analysis Methods
   - [@Maximum]()
 
 + [Recursive Algorithms]()
-  - [@Factorial]()
+  - [@Factorial](http://dl1.abrim.ir/Videos/fmp/algorithm/Factorial.mp4)
   - [@Tower of Hanoi]()
   - [@Merge sort]()
   
