@@ -1,0 +1,18 @@
+0:00:05.670 --> 0:00:10.710
+For this challenge, I'd like you to consider
+a challenging situation that has come up in
+
+0:00:10.710 --> 0:00:16.240
+the hospital scheduling project. You decide
+to hold a face to face meeting with your team
+
+0:00:16.240 --> 0:00:22.820
+to brainstorm alternative solutions. Using
+the background provided in the exercise files
+
+0:00:22.820 --> 0:00:29.420
+take about 10 to 15 minutes to draft the agenda
+for this meeting. After you put your agenda
+
+0:00:29.420 --> 0:00:31.960
+together, take a look at the agenda I built.

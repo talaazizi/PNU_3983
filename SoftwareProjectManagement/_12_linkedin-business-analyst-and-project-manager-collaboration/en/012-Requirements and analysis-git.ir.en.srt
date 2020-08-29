@@ -1,0 +1,201 @@
+1
+00:00:01,449 --> 00:00:02,909
+Requirements and analysis.
+
+2
+00:00:02,909 --> 00:00:05,700
+This is all on the BA. right.
+
+3
+00:00:05,700 --> 00:00:12,179
+Well while Bailey does own the requirements
+process Pat the PM needs to be informed and
+
+4
+00:00:12,179 --> 00:00:14,400
+consulted on the plan.
+
+5
+00:00:14,400 --> 00:00:20,190
+The progress stakeholder interactions and
+both need a collaborative understanding of
+
+6
+00:00:20,190 --> 00:00:23,750
+what the highest value requirements are.
+
+7
+00:00:23,750 --> 00:00:30,020
+Much of this is driven by prioritization knowing
+which requirements are of the highest priority
+
+8
+00:00:30,020 --> 00:00:34,370
+brings Pat and Bailey's collaboration into
+focus.
+
+9
+00:00:34,370 --> 00:00:40,430
+Pat is managing vendors planning resources
+and facilitating the work activities of the
+
+10
+00:00:40,430 --> 00:00:41,430
+team.
+
+11
+00:00:41,430 --> 00:00:46,890
+If the highest priority requirements are not
+clear the team is likely spending time on
+
+12
+00:00:46,890 --> 00:00:52,829
+things that may not matter during the requirements
+and analysis activities.
+
+13
+00:00:52,829 --> 00:00:59,320
+It's important to bring Pat up to speed and
+into the activities the important times Bailey
+
+14
+00:00:59,320 --> 00:01:06,229
+brings Pat in are the plan for requirements
+and when it's changing and when new stakeholders
+
+15
+00:01:06,229 --> 00:01:07,909
+are needed.
+
+16
+00:01:07,909 --> 00:01:15,590
+Also when the analysis shows complexities
+and risks to delivering the intended value
+
+17
+00:01:15,590 --> 00:01:21,130
+it's also important for Pat to understand
+and weigh in on what will be documented for
+
+18
+00:01:21,130 --> 00:01:22,200
+requirements.
+
+19
+00:01:22,200 --> 00:01:28,360
+Some projects and teams use little documentation
+due to a small work in progress and a small
+
+20
+00:01:28,360 --> 00:01:29,679
+team.
+
+21
+00:01:29,679 --> 00:01:35,319
+Other Teams require large amounts of documentation
+and requirements due to various factors in
+
+22
+00:01:35,319 --> 00:01:38,999
+how the project is set up.
+
+23
+00:01:38,999 --> 00:01:44,149
+Bailey is as transparent as possible on the
+status of the requirements activities as they
+
+24
+00:01:44,149 --> 00:01:47,459
+progress to keep patent formed.
+
+25
+00:01:47,459 --> 00:01:52,869
+They have learned through the years working
+together to report status on activities and
+
+26
+00:01:52,869 --> 00:02:00,130
+towards completion of the milestones not completion
+of a document Bailey has also learned to be
+
+27
+00:02:00,130 --> 00:02:06,319
+transparent about what requirements activities
+are and has found this to be a critical thing
+
+28
+00:02:06,319 --> 00:02:12,160
+in building a trusting relationship with Pat
+another area.
+
+29
+00:02:12,160 --> 00:02:17,520
+During the requirements and analysis activities
+Pat and Bailey collaborate on is the approval
+
+30
+00:02:17,520 --> 00:02:20,670
+of requirements for some teams.
+
+31
+00:02:20,670 --> 00:02:26,610
+This happens with a decision maker and a verbal
+approval and for other teams there is a lengthy
+
+32
+00:02:26,610 --> 00:02:32,670
+signoff process with multiple parties signing
+off and formal approval processes.
+
+33
+00:02:32,670 --> 00:02:38,319
+Either way it's important for Pat and Bailey
+to have a shared understanding of the process
+
+34
+00:02:38,319 --> 00:02:43,519
+and progress when analyzing requirements.
+
+35
+00:02:43,519 --> 00:02:50,170
+Bailey communicates to Pat what the highest
+value requirements are this continues dialogue
+
+36
+00:02:50,170 --> 00:02:57,709
+between Pat and Bailey which ensures the right
+focus areas are in view for both roles.
+
+37
+00:02:57,709 --> 00:03:03,010
+And when working on collaborating on requirements
+it helps hugely when requirements are phrased
+
+38
+00:03:03,010 --> 00:03:09,819
+in business terminology and phrased in increments
+of value they should be understandable from
+
+39
+00:03:09,819 --> 00:03:16,590
+a customer point of view and easy to understand
+for the project manager and business leader.
+
+40
+00:03:16,590 --> 00:03:24,260
+This allows Pat Bailey and the business leaders
+to discuss key requirements and decisions
+
+41
+00:03:24,260 --> 00:03:31,400
+requirements analysis is so important to projects
+and bringing the PM into it at the appropriate
+
+42
+00:03:31,400 --> 00:03:32,540
+places.
+
+43
+00:03:32,540 --> 00:03:33,459
+Makes it even better.
+

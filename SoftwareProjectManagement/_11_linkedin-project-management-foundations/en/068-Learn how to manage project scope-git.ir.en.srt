@@ -1,0 +1,276 @@
+1
+00:00:00,719 --> 00:00:04,480
+stakeholders might push to add things to
+
+2
+00:00:03,120 --> 00:00:06,720
+your project's scope
+
+3
+00:00:04,480 --> 00:00:08,080
+that's natural as everyone learns more
+
+4
+00:00:06,720 --> 00:00:11,120
+about the project
+
+5
+00:00:08,080 --> 00:00:13,679
+problem is stakeholders aren't so keen
+
+6
+00:00:11,120 --> 00:00:16,240
+to increase the budget or lengthen the
+
+7
+00:00:13,679 --> 00:00:17,920
+schedule to include those things that's
+
+8
+00:00:16,240 --> 00:00:20,880
+why you need to manage
+
+9
+00:00:17,920 --> 00:00:21,680
+scope that tendency for scope to
+
+10
+00:00:20,880 --> 00:00:25,439
+increase
+
+11
+00:00:21,680 --> 00:00:26,960
+is called scope creep and it's as nasty
+
+12
+00:00:25,439 --> 00:00:29,679
+as it sounds
+
+13
+00:00:26,960 --> 00:00:31,279
+someone catches you in the hall says hey
+
+14
+00:00:29,679 --> 00:00:34,399
+can you add this to the project
+
+15
+00:00:31,279 --> 00:00:37,280
+and scurry's off to a meeting guaranteed
+
+16
+00:00:34,399 --> 00:00:39,200
+that person expects or at least hopes
+
+17
+00:00:37,280 --> 00:00:41,680
+you'll add the request to the project
+
+18
+00:00:39,200 --> 00:00:43,280
+without adjusting the schedule or budget
+
+19
+00:00:41,680 --> 00:00:46,800
+if you do
+
+20
+00:00:43,280 --> 00:00:48,079
+that's scope creep scope can change for
+
+21
+00:00:46,800 --> 00:00:50,000
+other reasons
+
+22
+00:00:48,079 --> 00:00:52,480
+for example the scope might not have
+
+23
+00:00:50,000 --> 00:00:54,160
+been clearly defined up front
+
+24
+00:00:52,480 --> 00:00:55,600
+suppose the customer assumes you're
+
+25
+00:00:54,160 --> 00:00:57,520
+familiar with their industry
+
+26
+00:00:55,600 --> 00:00:59,120
+and doesn't think they have to tell you
+
+27
+00:00:57,520 --> 00:01:00,879
+everything they need while you're
+
+28
+00:00:59,120 --> 00:01:03,280
+identifying requirements
+
+29
+00:01:00,879 --> 00:01:06,080
+then again maybe the customer doesn't
+
+30
+00:01:03,280 --> 00:01:08,799
+know exactly what they want
+
+31
+00:01:06,080 --> 00:01:10,240
+the best way to prevent scope creep is
+
+32
+00:01:08,799 --> 00:01:13,200
+to identify scope
+
+33
+00:01:10,240 --> 00:01:14,640
+clearly during planning but what can you
+
+34
+00:01:13,200 --> 00:01:16,880
+do if planning is over
+
+35
+00:01:14,640 --> 00:01:18,640
+and the scope is spreading like weeds in
+
+36
+00:01:16,880 --> 00:01:21,680
+your flowerbed
+
+37
+00:01:18,640 --> 00:01:24,640
+first reset unrealistic
+
+38
+00:01:21,680 --> 00:01:25,439
+expectations if the customer is asking
+
+39
+00:01:24,640 --> 00:01:28,159
+for features
+
+40
+00:01:25,439 --> 00:01:30,479
+that are clearly out of scope point out
+
+41
+00:01:28,159 --> 00:01:32,240
+that they aren't in the scope statement
+
+42
+00:01:30,479 --> 00:01:34,560
+you can talk to the customer about the
+
+43
+00:01:32,240 --> 00:01:37,759
+schedule and budget changes needed to
+
+44
+00:01:34,560 --> 00:01:39,520
+add to the project scope also
+
+45
+00:01:37,759 --> 00:01:41,600
+make sure the customer and your team
+
+46
+00:01:39,520 --> 00:01:44,880
+understand that undocumented
+
+47
+00:01:41,600 --> 00:01:47,840
+informal changes aren't acceptable
+
+48
+00:01:44,880 --> 00:01:49,119
+explain that in the future requests must
+
+49
+00:01:47,840 --> 00:01:51,920
+go through the change
+
+50
+00:01:49,119 --> 00:01:53,439
+management process that way you're in
+
+51
+00:01:51,920 --> 00:01:56,719
+control of the scope
+
+52
+00:01:53,439 --> 00:01:58,960
+even if it's changing if scope wasn't
+
+53
+00:01:56,719 --> 00:02:01,439
+clearly defined in the first place
+
+54
+00:01:58,960 --> 00:02:02,159
+work with the customer to renegotiate
+
+55
+00:02:01,439 --> 00:02:05,759
+the scope
+
+56
+00:02:02,159 --> 00:02:06,880
+so it is clear if the customer doesn't
+
+57
+00:02:05,759 --> 00:02:09,440
+know what they want
+
+58
+00:02:06,880 --> 00:02:09,920
+consider switching to an agile approach
+
+59
+00:02:09,440 --> 00:02:11,360
+that way
+
+60
+00:02:09,920 --> 00:02:13,360
+you and the customer will have
+
+61
+00:02:11,360 --> 00:02:16,720
+opportunities to hone the scope
+
+62
+00:02:13,360 --> 00:02:18,160
+over time keeping scope under control
+
+63
+00:02:16,720 --> 00:02:21,200
+throughout your project is
+
+64
+00:02:18,160 --> 00:02:23,120
+key to making projects successful i've
+
+65
+00:02:21,200 --> 00:02:24,879
+given you a list of scope change
+
+66
+00:02:23,120 --> 00:02:25,760
+requests for the hospital scheduling
+
+67
+00:02:24,879 --> 00:02:29,040
+project
+
+68
+00:02:25,760 --> 00:02:32,800
+for practice identify which requests are
+
+69
+00:02:29,040 --> 00:02:32,800
+out of scope
+

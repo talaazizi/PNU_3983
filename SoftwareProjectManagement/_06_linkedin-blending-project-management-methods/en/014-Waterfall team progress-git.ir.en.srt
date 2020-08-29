@@ -1,0 +1,544 @@
+1
+
+00:00:00,07 --> 00:00:02,05
+- Once your project is up and running,
+
+
+
+2
+
+00:00:02,05 --> 00:00:04,04
+
+it's expected that the project manager
+
+
+
+3
+
+00:00:04,04 --> 00:00:06,08
+
+will track how the team is performing.
+
+
+
+4
+
+00:00:06,08 --> 00:00:10,01
+
+Remember, in Waterfall, the requirements are gathered
+
+
+
+5
+
+00:00:10,01 --> 00:00:13,02
+
+and the plan is defined at the beginning of the effort,
+
+
+
+6
+
+00:00:13,02 --> 00:00:15,02
+
+during the planning phase.
+
+
+
+7
+
+00:00:15,02 --> 00:00:17,04
+
+So what are the levels of reporting?
+
+
+
+8
+
+00:00:17,04 --> 00:00:19,01
+
+Well, there are actually three of them.
+
+
+
+9
+
+00:00:19,01 --> 00:00:22,07
+
+First, is tracking progress by phase.
+
+
+
+10
+
+00:00:22,07 --> 00:00:25,07
+
+Remember, each phase has an estimated time frame
+
+
+
+11
+
+00:00:25,07 --> 00:00:27,06
+
+for duration and completion that's
+
+
+
+12
+
+00:00:27,06 --> 00:00:29,08
+
+established in the beginning.
+
+
+
+13
+
+00:00:29,08 --> 00:00:31,07
+
+Remember your phases that you're tracking
+
+
+
+14
+
+00:00:31,07 --> 00:00:36,00
+
+are initiating, planning, executing and closing.
+
+
+
+15
+
+00:00:36,00 --> 00:00:39,03
+
+Then you're also going to track within each phase.
+
+
+
+16
+
+00:00:39,03 --> 00:00:42,07
+
+Each phase then, will have predefined milestones
+
+
+
+17
+
+00:00:42,07 --> 00:00:45,01
+
+that will tell you whether or not
+
+
+
+18
+
+00:00:45,01 --> 00:00:48,03
+
+that phase is on track to be completed
+
+
+
+19
+
+00:00:48,03 --> 00:00:51,05
+
+within its estimated timeframe.
+
+
+
+20
+
+00:00:51,05 --> 00:00:54,02
+
+So how are those milestones tracked?
+
+
+
+21
+
+00:00:54,02 --> 00:00:56,02
+
+Well, it's actually pretty simple.
+
+
+
+22
+
+00:00:56,02 --> 00:00:58,05
+
+You're going to identify all the tasks
+
+
+
+23
+
+00:00:58,05 --> 00:01:01,03
+
+within each milestone that are needed to be done
+
+
+
+24
+
+00:01:01,03 --> 00:01:03,08
+
+in order to complete the milestone.
+
+
+
+25
+
+00:01:03,08 --> 00:01:06,08
+
+In the planning phase, you may have milestones within it,
+
+
+
+26
+
+00:01:06,08 --> 00:01:10,06
+
+like signed statement of work, SOW for short,
+
+
+
+27
+
+00:01:10,06 --> 00:01:14,09
+
+requirements review and estimates completed.
+
+
+
+28
+
+00:01:14,09 --> 00:01:19,02
+
+For example, let's talk about breaking down a milestone.
+
+
+
+29
+
+00:01:19,02 --> 00:01:21,02
+
+Let's use the signed statement of work,
+
+
+
+30
+
+00:01:21,02 --> 00:01:23,08
+
+signed, the SOW, and the tasks
+
+
+
+31
+
+00:01:23,08 --> 00:01:25,08
+
+that might be a part of that.
+
+
+
+32
+
+00:01:25,08 --> 00:01:27,08
+
+Some of the tasks you might tackle here
+
+
+
+33
+
+00:01:27,08 --> 00:01:30,09
+
+are receiving the statement of work from your vendor,
+
+
+
+34
+
+00:01:30,09 --> 00:01:33,05
+
+doing a legal review with your in-house legal
+
+
+
+35
+
+00:01:33,05 --> 00:01:35,07
+
+and then signing that statement of work.
+
+
+
+36
+
+00:01:35,07 --> 00:01:39,03
+
+So you will track progress against each one of those tasks
+
+
+
+37
+
+00:01:39,03 --> 00:01:44,02
+
+because each task is given a time estimate for completion.
+
+
+
+38
+
+00:01:44,02 --> 00:01:46,06
+
+For example, the legal review task
+
+
+
+39
+
+00:01:46,06 --> 00:01:50,02
+
+may have a four hour effort estimate for the work,
+
+
+
+40
+
+00:01:50,02 --> 00:01:54,01
+
+and a five day window to complete those four hours.
+
+
+
+41
+
+00:01:54,01 --> 00:01:58,09
+
+As the PM tracks the progress of these signed SOW milestone,
+
+
+
+42
+
+00:01:58,09 --> 00:02:01,07
+
+she'll look at the targeted window for the work.
+
+
+
+43
+
+00:02:01,07 --> 00:02:04,05
+
+Let's say July fifth through the ninth.
+
+
+
+44
+
+00:02:04,05 --> 00:02:06,05
+
+Then she'll check on progress
+
+
+
+45
+
+00:02:06,05 --> 00:02:09,02
+
+with the person assigned to the task.
+
+
+
+46
+
+00:02:09,02 --> 00:02:12,00
+
+If it's Monday, and the task has started,
+
+
+
+47
+
+00:02:12,00 --> 00:02:15,06
+
+she'll know the task is on target based on the plan.
+
+
+
+48
+
+00:02:15,06 --> 00:02:17,08
+
+She'll also be confident that it will be complete
+
+
+
+49
+
+00:02:17,08 --> 00:02:20,03
+
+by the ninth, so the task will be marked
+
+
+
+50
+
+00:02:20,03 --> 00:02:22,09
+
+as being in good shape for the deadline.
+
+
+
+51
+
+00:02:22,09 --> 00:02:27,03
+
+However, if it's the eighth and the task hasn't started
+
+
+
+52
+
+00:02:27,03 --> 00:02:30,06
+
+the PM will know to take some corrective measures
+
+
+
+53
+
+00:02:30,06 --> 00:02:33,05
+
+to get that task right back on track.
+
+
+
+54
+
+00:02:33,05 --> 00:02:36,08
+
+At the same time, if the work has started,
+
+
+
+55
+
+00:02:36,08 --> 00:02:39,03
+
+but more than four hours have been used,
+
+
+
+56
+
+00:02:39,03 --> 00:02:40,09
+
+she'll know there's a problem,
+
+
+
+57
+
+00:02:40,09 --> 00:02:44,08
+
+and we'll, again, take steps to fix things.
+
+
+
+58
+
+00:02:44,08 --> 00:02:47,03
+
+That's how time and scope are managed.
+
+
+
+59
+
+00:02:47,03 --> 00:02:50,03
+
+For budget, the PM will track the hours
+
+
+
+60
+
+00:02:50,03 --> 00:02:53,04
+
+applied to each task against the estimates.
+
+
+
+61
+
+00:02:53,04 --> 00:02:55,04
+
+All the work hours will be calculated
+
+
+
+62
+
+00:02:55,04 --> 00:02:58,07
+
+and reduced from the project's total budget.
+
+
+
+63
+
+00:02:58,07 --> 00:03:01,01
+
+Tracking team progress in Waterfall
+
+
+
+64
+
+00:03:01,01 --> 00:03:03,09
+
+is a very detailed exercise of
+
+
+
+65
+
+00:03:03,09 --> 00:03:08,01
+
+following the progress and cost of each task.
+
+
+
+66
+
+00:03:08,01 --> 00:03:11,00
+
+Now that you know how Waterfall tracks progress,
+
+
+
+67
+
+00:03:11,00 --> 00:03:13,01
+
+you can easily share this information
+
+
+
+68
+
+00:03:13,01 --> 00:03:14,08
+
+with your stakeholders.
+
+
+
+

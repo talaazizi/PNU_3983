@@ -1,0 +1,162 @@
+1
+00:00:00,750 --> 00:00:04,270
+project managers and business analysts are
+like a dynamic duo.
+
+2
+00:00:04,270 --> 00:00:11,240
+A great relationship between the pm and ba
+makes for promising project results.
+
+3
+00:00:11,240 --> 00:00:14,090
+But there's confusing overlap at times.
+
+4
+00:00:14,090 --> 00:00:22,910
+So what are the areas where these roles overlap
+the most scoping and planning, communications,
+
+5
+00:00:22,910 --> 00:00:26,910
+stakeholder relationships and management,
+and risk management?
+
+6
+00:00:26,910 --> 00:00:28,930
+Let's look at each area.
+
+7
+00:00:28,930 --> 00:00:31,730
+First scoping and planning.
+
+8
+00:00:31,730 --> 00:00:36,750
+Many PMS do some of this before a BA is assigned
+on the project.
+
+9
+00:00:36,750 --> 00:00:42,190
+And since the BAs focus is the product in
+defining what the product is in varying levels
+
+10
+00:00:42,190 --> 00:00:49,140
+of detail, it's imperative that the BA either
+do the scoping, or clarify the scope of the
+
+11
+00:00:49,140 --> 00:00:53,540
+product from a functional and user point of
+view.
+
+12
+00:00:53,540 --> 00:00:59,120
+Scope clarification leads to better planning
+for the whole project team which results in
+
+13
+00:00:59,120 --> 00:01:05,379
+better detail requirements, better estimates
+and involving the right stakeholders.
+
+14
+00:01:05,379 --> 00:01:07,380
+And this benefits everyone.
+
+15
+00:01:07,380 --> 00:01:09,930
+Next communications.
+
+16
+00:01:09,930 --> 00:01:15,460
+many team members and stakeholders get communications
+from so many on the team.
+
+17
+00:01:15,460 --> 00:01:19,140
+And the pm and ba may be the most common offenders.
+
+18
+00:01:19,140 --> 00:01:26,000
+No really, communications are good, but great
+communications are coordinated, collaborated
+
+19
+00:01:26,000 --> 00:01:27,580
+and make sense to the audience.
+
+20
+00:01:27,580 --> 00:01:35,200
+PMs and BAs work together to strategize key
+messages for various team members and stakeholders
+
+21
+00:01:35,200 --> 00:01:42,640
+and work to communicate a consistent message
+that uses the team and stakeholders time effectively.
+
+22
+00:01:42,640 --> 00:01:45,680
+Next to stakeholder relationships and management.
+
+23
+00:01:45,680 --> 00:01:53,530
+Together, PMs and BAs can create trusting
+and engaging relationships with project stakeholders
+
+24
+00:01:53,530 --> 00:01:59,979
+when not collaborating on the relationships
+often trust issues build and engagement drops
+
+25
+00:01:59,979 --> 00:02:03,200
+Creating a high risk for project failure.
+
+26
+00:02:03,200 --> 00:02:05,850
+And last is risk management.
+
+27
+00:02:05,850 --> 00:02:12,000
+Risk can come from many areas, and the pm
+and ba typically have many of them covered.
+
+28
+00:02:12,000 --> 00:02:17,950
+What's important is that PMs and BAs work
+together to discuss the risks and work through
+
+29
+00:02:17,950 --> 00:02:21,129
+the mitigation and response plans together.
+
+30
+00:02:21,129 --> 00:02:27,330
+BAs need to pay careful attention to the risks
+to the user, and the customer experience and
+
+31
+00:02:27,330 --> 00:02:32,930
+processes, scope, stakeholders communication
+and risk.
+
+32
+00:02:32,930 --> 00:02:35,019
+These are the key areas of overlap.
+
+33
+00:02:35,019 --> 00:02:40,730
+If you're thinking, wow, this means I spend
+a lot of time with the pm or ba.
+
+34
+00:02:40,730 --> 00:02:42,330
+You're right on.
+
+35
+00:02:42,330 --> 00:02:48,930
+Yes, collaboration between these roles is
+intense and all for good reason.
+

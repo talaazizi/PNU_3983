@@ -1,0 +1,179 @@
+1
+00:00:00,560 --> 00:00:06,569
+Now that you have the project goal objectives
+and strategy identified, it's time to describe
+
+2
+00:00:06,569 --> 00:00:14,400
+specifically what the project must deliver,
+known as requirements. Getting requirements
+
+3
+00:00:14,400 --> 00:00:21,509
+right is crucial if you don't identify a project's
+true requirements, the stakeholders won't
+
+4
+00:00:21,509 --> 00:00:27,849
+be satisfied with the project results. And
+if you include requirements that aren't necessary,
+
+5
+00:00:27,849 --> 00:00:33,290
+the project will probably take longer and
+cost more than it should. For the hospital
+
+6
+00:00:33,290 --> 00:00:41,550
+scheduling project, one objective is rescheduling
+procedures decreased by 75 percent. One requirement
+
+7
+00:00:41,550 --> 00:00:49,500
+for the scheduling system might be simultaneously
+schedule staff, equipment and facilities required
+
+8
+00:00:49,500 --> 00:00:56,150
+for a procedure. Another requirement could
+be searched for next time slot that all selected
+
+9
+00:00:56,150 --> 00:01:03,570
+items are available. These requirements are
+both necessary and specific, you can expand
+
+10
+00:01:03,570 --> 00:01:11,280
+them to provide even more detail. Gathering
+requirements can be challenging, stakeholders
+
+11
+00:01:11,280 --> 00:01:19,119
+might describe their requirements incorrectly
+or provide inconsistent or contradictory requirements,
+
+12
+00:01:19,119 --> 00:01:25,499
+they might leave out requirements they need
+or include nice to haves. Sometimes people
+
+13
+00:01:25,499 --> 00:01:32,320
+who aren't stakeholders try to squeeze their
+requirements into your project. In addition,
+
+14
+00:01:32,320 --> 00:01:38,250
+stakeholders often balk at committing the
+time it takes to define requirements. There
+
+15
+00:01:38,250 --> 00:01:45,799
+are several techniques for gathering requirements.
+Interviews are one approach. The key is to
+
+16
+00:01:45,799 --> 00:01:51,540
+interview the right people and come with the
+list of questions. If your project involves
+
+17
+00:01:51,540 --> 00:01:57,880
+several groups, try brainstorming sessions
+or focus groups with representatives from
+
+18
+00:01:57,880 --> 00:02:03,630
+each group to discuss their requirements for
+the project. These meetings may help you obtain
+
+19
+00:02:03,630 --> 00:02:09,500
+Buy-In from the departments that attend.
+Another approach is to observe how people
+
+20
+00:02:09,500 --> 00:02:15,390
+work. In other words, watch what people do
+in their day to day activities to validate
+
+21
+00:02:15,390 --> 00:02:20,540
+the requirements. Write them up and review
+them with the workers. Questionnaires and
+
+22
+00:02:20,540 --> 00:02:26,459
+surveys are another way to get requirements
+from stakeholders, build these documents carefully
+
+23
+00:02:26,459 --> 00:02:32,939
+so the questions don't influence the answers
+people provide. If documentation or results
+
+24
+00:02:32,939 --> 00:02:40,250
+already exist, you can identify requirements
+by analyzing documents or reverse engineering
+
+25
+00:02:40,250 --> 00:02:47,450
+products. Next, you need to analyze the initial
+requirements to make sure they make sense,
+
+26
+00:02:47,450 --> 00:02:52,591
+you might discover that you don't have all
+the information you need or that requirements
+
+27
+00:02:52,591 --> 00:02:59,810
+are inconsistent or duplicated. After you
+do some analysis, go back to your stakeholders
+
+28
+00:02:59,810 --> 00:03:06,659
+to ask more questions and clarify their answers,
+don't worry, it can take several rounds to
+
+29
+00:03:06,659 --> 00:03:14,409
+get a project's real requirements. Eventually,
+the requirements will start to make sense
+
+30
+00:03:14,409 --> 00:03:20,080
+when that happens, it's time to document those
+requirements to ensure that the requirements
+
+31
+00:03:20,080 --> 00:03:25,480
+are correct and everyone understands them,
+it's important to write them in a clear, easy
+
+32
+00:03:25,480 --> 00:03:31,909
+to understand language organizing requirements
+into related categories can help you eliminate
+
+33
+00:03:31,909 --> 00:03:38,799
+duplication and conflicts. Requirements provide
+detailed descriptions of what a project is
+
+34
+00:03:38,799 --> 00:03:45,299
+supposed to deliver. So it's important to
+get them right for practice, identify the
+
+35
+00:03:45,299 --> 00:03:51,219
+techniques you might choose to gather requirements
+for the hospital scheduling project and how
+
+36
+00:03:51,219 --> 00:03:53,410
+you would address any challenges.
+

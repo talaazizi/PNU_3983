@@ -1,0 +1,34 @@
+1
+00:00:05,730 --> 00:00:11,130
+For this challenge, review the hospital organization
+chart and the scope statement from the chapter
+
+2
+00:00:11,130 --> 00:00:16,560
+to exercise files, remember that the project
+charter should include information about the
+
+3
+00:00:16,560 --> 00:00:22,750
+project managers authority and the support
+that the project's sponsor provides. The exercise
+
+4
+00:00:22,750 --> 00:00:28,010
+files include a challenge that poses several
+questions about the project charter for the
+
+5
+00:00:28,010 --> 00:00:35,020
+Brisbane Hospital Scheduling Project. Take
+20 to 30 minutes to answer those questions.
+
+6
+00:00:35,020 --> 00:00:39,440
+After you've completed the challenge, take
+a look at the solution to see what I came
+
+7
+00:00:39,440 --> 00:00:39,860
+up with.
+

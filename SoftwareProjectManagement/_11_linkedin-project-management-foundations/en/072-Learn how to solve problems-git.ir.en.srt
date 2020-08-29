@@ -1,0 +1,212 @@
+1
+00:00:01,040 --> 00:00:05,520
+solving problems and making decisions
+
+2
+00:00:03,600 --> 00:00:08,000
+have a lot in common
+
+3
+00:00:05,520 --> 00:00:09,519
+if you think about it most decisions you
+
+4
+00:00:08,000 --> 00:00:11,519
+make as a project manager
+
+5
+00:00:09,519 --> 00:00:13,599
+are about how you're going to solve or
+
+6
+00:00:11,519 --> 00:00:15,920
+prevent a problem
+
+7
+00:00:13,599 --> 00:00:18,080
+here are a few tips for making problem
+
+8
+00:00:15,920 --> 00:00:21,840
+solving easier
+
+9
+00:00:18,080 --> 00:00:24,160
+first focus on what's important
+
+10
+00:00:21,840 --> 00:00:25,039
+decisions and problem solving can take
+
+11
+00:00:24,160 --> 00:00:27,439
+time and
+
+12
+00:00:25,039 --> 00:00:28,800
+information which are usually in short
+
+13
+00:00:27,439 --> 00:00:31,359
+supply
+
+14
+00:00:28,800 --> 00:00:32,880
+so be sure to tackle the important
+
+15
+00:00:31,359 --> 00:00:36,480
+decisions and problems
+
+16
+00:00:32,880 --> 00:00:39,520
+first you have to learn to ignore
+
+17
+00:00:36,480 --> 00:00:41,840
+what isn't important no matter how
+
+18
+00:00:39,520 --> 00:00:45,200
+urgent it appears
+
+19
+00:00:41,840 --> 00:00:48,559
+when a problem arises ask yourself
+
+20
+00:00:45,200 --> 00:00:51,760
+is it important if the answer is no
+
+21
+00:00:48,559 --> 00:00:54,480
+ignore it next
+
+22
+00:00:51,760 --> 00:00:56,320
+make sure you understand what the
+
+23
+00:00:54,480 --> 00:00:58,079
+problem is
+
+24
+00:00:56,320 --> 00:00:59,920
+just like when you develop a problem
+
+25
+00:00:58,079 --> 00:01:02,960
+statement for the project
+
+26
+00:00:59,920 --> 00:01:05,199
+third evaluate the impact of problems
+
+27
+00:01:02,960 --> 00:01:08,479
+and prioritize the ones with the
+
+28
+00:01:05,199 --> 00:01:10,400
+greatest effect on your project with
+
+29
+00:01:08,479 --> 00:01:13,040
+problems that have significant
+
+30
+00:01:10,400 --> 00:01:13,439
+and long-lasting effects on your project
+
+31
+00:01:13,040 --> 00:01:15,360
+it's
+
+32
+00:01:13,439 --> 00:01:17,360
+really important to pick the best
+
+33
+00:01:15,360 --> 00:01:19,759
+solution
+
+34
+00:01:17,360 --> 00:01:21,280
+for issues like these evaluate your
+
+35
+00:01:19,759 --> 00:01:24,840
+options like you do with
+
+36
+00:01:21,280 --> 00:01:28,320
+project strategy on the other hand
+
+37
+00:01:24,840 --> 00:01:32,560
+sometimes doing nothing at all
+
+38
+00:01:28,320 --> 00:01:33,520
+is the answer taking no action on
+
+39
+00:01:32,560 --> 00:01:36,799
+purpose
+
+40
+00:01:33,520 --> 00:01:39,200
+is an action and it might be an
+
+41
+00:01:36,799 --> 00:01:42,240
+acceptable alternative
+
+42
+00:01:39,200 --> 00:01:44,240
+finally ask for help if you need it
+
+43
+00:01:42,240 --> 00:01:46,240
+others might identify solutions you
+
+44
+00:01:44,240 --> 00:01:49,360
+wouldn't think of and can help you
+
+45
+00:01:46,240 --> 00:01:51,840
+choose the best alternative
+
+46
+00:01:49,360 --> 00:01:52,799
+problem solving is something you get to
+
+47
+00:01:51,840 --> 00:01:56,560
+practice
+
+48
+00:01:52,799 --> 00:01:58,640
+every day there's a list of problems for
+
+49
+00:01:56,560 --> 00:02:00,240
+the scheduling project in the exercise
+
+50
+00:01:58,640 --> 00:02:02,640
+files
+
+51
+00:02:00,240 --> 00:02:03,840
+identify which ones you're going to work
+
+52
+00:02:02,640 --> 00:02:08,240
+on and why
+
+53
+00:02:03,840 --> 00:02:08,240
+you consider them important
+

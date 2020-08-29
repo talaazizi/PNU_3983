@@ -1,0 +1,976 @@
+1
+
+00:00:00,08 --> 00:00:04,07
+- Time, cost, scope; all these constraints
+
+
+
+2
+
+00:00:04,07 --> 00:00:07,09
+
+can feel overwhelming, but don't despair,
+
+
+
+3
+
+00:00:07,09 --> 00:00:10,01
+
+the Waterfall Project Methodology
+
+
+
+4
+
+00:00:10,01 --> 00:00:12,03
+
+has to manage all three constraints
+
+
+
+5
+
+00:00:12,03 --> 00:00:14,05
+
+throughout the whole project.
+
+
+
+6
+
+00:00:14,05 --> 00:00:16,07
+
+Since Waterfall is a methodology
+
+
+
+7
+
+00:00:16,07 --> 00:00:19,01
+
+based on defined processes,
+
+
+
+8
+
+00:00:19,01 --> 00:00:21,00
+
+the steps to manage those constraints
+
+
+
+9
+
+00:00:21,00 --> 00:00:25,04
+
+are laid out for you across each phase of the lifecycle.
+
+
+
+10
+
+00:00:25,04 --> 00:00:27,03
+
+So let's look at each constraint,
+
+
+
+11
+
+00:00:27,03 --> 00:00:31,07
+
+and the tools at your disposal to effectively manage it.
+
+
+
+12
+
+00:00:31,07 --> 00:00:35,02
+
+Let's start with time management in Waterfall.
+
+
+
+13
+
+00:00:35,02 --> 00:00:37,03
+
+There are tools for this and the first tool
+
+
+
+14
+
+00:00:37,03 --> 00:00:39,02
+
+that you should look at and implement
+
+
+
+15
+
+00:00:39,02 --> 00:00:42,03
+
+is the work breakdown structure or WBS.
+
+
+
+16
+
+00:00:42,03 --> 00:00:44,01
+
+The work breakdown structure is simply
+
+
+
+17
+
+00:00:44,01 --> 00:00:46,07
+
+you defining with your team members
+
+
+
+18
+
+00:00:46,07 --> 00:00:50,09
+
+all of the major pieces of work that need to be completed,
+
+
+
+19
+
+00:00:50,09 --> 00:00:53,00
+
+to get to your end goal.
+
+
+
+20
+
+00:00:53,00 --> 00:00:55,06
+
+Next, you'll take this work breakdown structure
+
+
+
+21
+
+00:00:55,06 --> 00:00:59,08
+
+and you will estimate the tasks and define those tasks,
+
+
+
+22
+
+00:00:59,08 --> 00:01:01,04
+
+and make sure that everybody knows
+
+
+
+23
+
+00:01:01,04 --> 00:01:03,04
+
+exactly what has to happen
+
+
+
+24
+
+00:01:03,04 --> 00:01:07,07
+
+to get that particular item of work completed.
+
+
+
+25
+
+00:01:07,07 --> 00:01:10,09
+
+Next, you'll start by sequencing those tasks.
+
+
+
+26
+
+00:01:10,09 --> 00:01:13,06
+
+There's a logical order to doing everything.
+
+
+
+27
+
+00:01:13,06 --> 00:01:16,04
+
+For example, if you're painting a room in your house,
+
+
+
+28
+
+00:01:16,04 --> 00:01:19,05
+
+it makes sense to tape the edges of the wall
+
+
+
+29
+
+00:01:19,05 --> 00:01:21,04
+
+before applying paint.
+
+
+
+30
+
+00:01:21,04 --> 00:01:23,06
+
+Appropriate sequencing can help you stay
+
+
+
+31
+
+00:01:23,06 --> 00:01:25,03
+
+within your schedule boundaries
+
+
+
+32
+
+00:01:25,03 --> 00:01:28,02
+
+and within your work breakdown structure.
+
+
+
+33
+
+00:01:28,02 --> 00:01:30,05
+
+Finally, build a project plan.
+
+
+
+34
+
+00:01:30,05 --> 00:01:31,07
+
+Gantt Chart is the way
+
+
+
+35
+
+00:01:31,07 --> 00:01:34,00
+
+you normally see project plans layout,
+
+
+
+36
+
+00:01:34,00 --> 00:01:37,05
+
+what that does is it takes each large item
+
+
+
+37
+
+00:01:37,05 --> 00:01:39,06
+
+and all the subsequent tasks in it,
+
+
+
+38
+
+00:01:39,06 --> 00:01:43,03
+
+and then it connects them over what has to happen
+
+
+
+39
+
+00:01:43,03 --> 00:01:45,09
+
+first, second and third, and so forth.
+
+
+
+40
+
+00:01:45,09 --> 00:01:48,03
+
+What that does then it give you an overall view
+
+
+
+41
+
+00:01:48,03 --> 00:01:50,09
+
+to the schedule of your project.
+
+
+
+42
+
+00:01:50,09 --> 00:01:54,01
+
+And you're managing those tasks each day
+
+
+
+43
+
+00:01:54,01 --> 00:01:56,09
+
+to keep your project on schedule, on track,
+
+
+
+44
+
+00:01:56,09 --> 00:01:59,00
+
+and making sure that you're getting all of the work
+
+
+
+45
+
+00:01:59,00 --> 00:02:01,04
+
+in your work breakdown structure done.
+
+
+
+46
+
+00:02:01,04 --> 00:02:05,00
+
+Next let's talk about scope management in Waterfall.
+
+
+
+47
+
+00:02:05,00 --> 00:02:08,00
+
+So scope is another word for all the requirements
+
+
+
+48
+
+00:02:08,00 --> 00:02:12,00
+
+that need to be completed to get the project done.
+
+
+
+49
+
+00:02:12,00 --> 00:02:13,07
+
+So for scope management,
+
+
+
+50
+
+00:02:13,07 --> 00:02:15,05
+
+you're going to use several different techniques.
+
+
+
+51
+
+00:02:15,05 --> 00:02:17,06
+
+First you're going to prioritize the work.
+
+
+
+52
+
+00:02:17,06 --> 00:02:19,03
+
+By prioritizing the work you're saying
+
+
+
+53
+
+00:02:19,03 --> 00:02:20,06
+
+that everything is important,
+
+
+
+54
+
+00:02:20,06 --> 00:02:22,06
+
+we want to get it all done,
+
+
+
+55
+
+00:02:22,06 --> 00:02:24,05
+
+but if I can only do certain things
+
+
+
+56
+
+00:02:24,05 --> 00:02:25,09
+
+I have to start with this one,
+
+
+
+57
+
+00:02:25,09 --> 00:02:27,04
+
+and then move to this one.
+
+
+
+58
+
+00:02:27,04 --> 00:02:29,09
+
+It reinforces that sequencing that you've done,
+
+
+
+59
+
+00:02:29,09 --> 00:02:32,06
+
+and it establishes a priority for the work,
+
+
+
+60
+
+00:02:32,06 --> 00:02:34,02
+
+to make sure you're getting everything done
+
+
+
+61
+
+00:02:34,02 --> 00:02:35,07
+
+that you need to do.
+
+
+
+62
+
+00:02:35,07 --> 00:02:37,08
+
+Another piece of managing your scope,
+
+
+
+63
+
+00:02:37,08 --> 00:02:40,00
+
+is stakeholder management.
+
+
+
+64
+
+00:02:40,00 --> 00:02:41,04
+
+You've been there before, right?
+
+
+
+65
+
+00:02:41,04 --> 00:02:42,07
+
+You start on the project,
+
+
+
+66
+
+00:02:42,07 --> 00:02:44,05
+
+you think you know everything that needs to be done,
+
+
+
+67
+
+00:02:44,05 --> 00:02:46,05
+
+you get a certain way through
+
+
+
+68
+
+00:02:46,05 --> 00:02:48,04
+
+and all of a sudden somebody comes in and says,
+
+
+
+69
+
+00:02:48,04 --> 00:02:50,02
+
+hey I want you to do this, too.
+
+
+
+70
+
+00:02:50,02 --> 00:02:52,05
+
+So helping your stakeholders understand
+
+
+
+71
+
+00:02:52,05 --> 00:02:54,05
+
+what the scope of the project is,
+
+
+
+72
+
+00:02:54,05 --> 00:02:57,05
+
+what the constraints are, in terms of time and schedule,
+
+
+
+73
+
+00:02:57,05 --> 00:03:01,00
+
+can help you make sure that you don't grow,
+
+
+
+74
+
+00:03:01,00 --> 00:03:02,09
+
+you don't end up with scope creep.
+
+
+
+75
+
+00:03:02,09 --> 00:03:06,03
+
+Then you're going to apply change management processes.
+
+
+
+76
+
+00:03:06,03 --> 00:03:09,04
+
+What I mean by this, is that every time a stakeholder
+
+
+
+77
+
+00:03:09,04 --> 00:03:12,05
+
+or someone comes and says they want additional work done,
+
+
+
+78
+
+00:03:12,05 --> 00:03:14,09
+
+you're going to take it through the normal process
+
+
+
+79
+
+00:03:14,09 --> 00:03:18,04
+
+of review and vetting to make sure it's actually
+
+
+
+80
+
+00:03:18,04 --> 00:03:20,02
+
+critical that it be included,
+
+
+
+81
+
+00:03:20,02 --> 00:03:24,02
+
+to make sure any known changes then to schedule and cost
+
+
+
+82
+
+00:03:24,02 --> 00:03:27,05
+
+because of this change are understood and accepted
+
+
+
+83
+
+00:03:27,05 --> 00:03:30,03
+
+by your steering committee.
+
+
+
+84
+
+00:03:30,03 --> 00:03:33,02
+
+Finally, you're going to prevent gold plating.
+
+
+
+85
+
+00:03:33,02 --> 00:03:37,02
+
+Gold plating happens sometimes from the team itself.
+
+
+
+86
+
+00:03:37,02 --> 00:03:38,08
+
+A lot of times team members,
+
+
+
+87
+
+00:03:38,08 --> 00:03:41,07
+
+they start working on a project, they get excited about it,
+
+
+
+88
+
+00:03:41,07 --> 00:03:43,06
+
+and they think, hey if I do this
+
+
+
+89
+
+00:03:43,06 --> 00:03:45,04
+
+other little thing over here,
+
+
+
+90
+
+00:03:45,04 --> 00:03:48,02
+
+it's going to be even better when we're done.
+
+
+
+91
+
+00:03:48,02 --> 00:03:51,02
+
+But what that does is it also explodes your scope,
+
+
+
+92
+
+00:03:51,02 --> 00:03:52,09
+
+so you're going to have to keep an eye on that
+
+
+
+93
+
+00:03:52,09 --> 00:03:54,06
+
+as a project manager,
+
+
+
+94
+
+00:03:54,06 --> 00:03:57,08
+
+to make sure that everything that's being done
+
+
+
+95
+
+00:03:57,08 --> 00:04:00,08
+
+is something that was requested and absolutely required
+
+
+
+96
+
+00:04:00,08 --> 00:04:02,03
+
+and it isn't a nice to have
+
+
+
+97
+
+00:04:02,03 --> 00:04:05,00
+
+like most of your gold plating items are.
+
+
+
+98
+
+00:04:05,00 --> 00:04:08,07
+
+Finally, let's talk about cost management in Waterfall.
+
+
+
+99
+
+00:04:08,07 --> 00:04:11,06
+
+Cost is the most straight forward of the constraints
+
+
+
+100
+
+00:04:11,06 --> 00:04:12,09
+
+to keep an eye on,
+
+
+
+101
+
+00:04:12,09 --> 00:04:16,07
+
+because it's everything form your resource tracking
+
+
+
+102
+
+00:04:16,07 --> 00:04:19,08
+
+to external vendor charges.
+
+
+
+103
+
+00:04:19,08 --> 00:04:22,09
+
+So one of the key things to do to manage this,
+
+
+
+104
+
+00:04:22,09 --> 00:04:25,03
+
+is to make sure that all of the members of your team
+
+
+
+105
+
+00:04:25,03 --> 00:04:26,08
+
+are tracking their time.
+
+
+
+106
+
+00:04:26,08 --> 00:04:29,06
+
+And then every week you're going to want to compare
+
+
+
+107
+
+00:04:29,06 --> 00:04:30,08
+
+the set of tasks,
+
+
+
+108
+
+00:04:30,08 --> 00:04:32,06
+
+the amount of time you thought it was going to take
+
+
+
+109
+
+00:04:32,06 --> 00:04:34,02
+
+or you estimated it would take,
+
+
+
+110
+
+00:04:34,02 --> 00:04:36,01
+
+verus how much it actually took.
+
+
+
+111
+
+00:04:36,01 --> 00:04:38,04
+
+Then you'll compare that to your projected schedule
+
+
+
+112
+
+00:04:38,04 --> 00:04:40,07
+
+and you'll make sure that they're in alignment.
+
+
+
+113
+
+00:04:40,07 --> 00:04:41,09
+
+And then finally you'll gather
+
+
+
+114
+
+00:04:41,09 --> 00:04:44,03
+
+all the hards costs from your vendors,
+
+
+
+115
+
+00:04:44,03 --> 00:04:47,00
+
+invoices you're getting from other suppliers.
+
+
+
+116
+
+00:04:47,00 --> 00:04:49,05
+
+Make sure that everything is adding up
+
+
+
+117
+
+00:04:49,05 --> 00:04:52,00
+
+to the totals you expected when you established
+
+
+
+118
+
+00:04:52,00 --> 00:04:53,06
+
+your project budget.
+
+
+
+119
+
+00:04:53,06 --> 00:04:56,07
+
+Waterfall Project Management gives you many tools to use
+
+
+
+120
+
+00:04:56,07 --> 00:04:58,08
+
+to manage your triple constraints.
+
+
+
+121
+
+00:04:58,08 --> 00:05:01,01
+
+Using these tools can help you stay
+
+
+
+122
+
+00:05:01,01 --> 00:05:04,07
+
+within your time, cost, and scope boundaries.
+
+
+
+

@@ -1,0 +1,252 @@
+1
+00:00:00,719 --> 00:00:04,080
+after all the work you put into defining
+
+2
+00:00:03,040 --> 00:00:06,799
+your project
+
+3
+00:00:04,080 --> 00:00:08,400
+it's time to get that project definition
+
+4
+00:00:06,799 --> 00:00:11,040
+in writing
+
+5
+00:00:08,400 --> 00:00:12,880
+project scope is the culmination of your
+
+6
+00:00:11,040 --> 00:00:15,040
+definition work
+
+7
+00:00:12,880 --> 00:00:16,080
+it describes the boundaries of the
+
+8
+00:00:15,040 --> 00:00:17,920
+project
+
+9
+00:00:16,080 --> 00:00:20,640
+what is included in the scope of the
+
+10
+00:00:17,920 --> 00:00:24,240
+project and just as important
+
+11
+00:00:20,640 --> 00:00:25,760
+what isn't included it's important to
+
+12
+00:00:24,240 --> 00:00:29,439
+get the project scope
+
+13
+00:00:25,760 --> 00:00:32,480
+in writing otherwise you're bound to run
+
+14
+00:00:29,439 --> 00:00:35,520
+into scope creep
+
+15
+00:00:32,480 --> 00:00:38,960
+that isn't some weird guy who casts
+
+16
+00:00:35,520 --> 00:00:41,680
+foot of glances at your project scope
+
+17
+00:00:38,960 --> 00:00:43,360
+scope creep is when stakeholders ask
+
+18
+00:00:41,680 --> 00:00:46,000
+questions like
+
+19
+00:00:43,360 --> 00:00:46,800
+can you do this one thing we forgot to
+
+20
+00:00:46,000 --> 00:00:49,600
+ask for this
+
+21
+00:00:46,800 --> 00:00:49,920
+can you add it to the project and you
+
+22
+00:00:49,600 --> 00:00:52,320
+say
+
+23
+00:00:49,920 --> 00:00:55,440
+yes without running the change through
+
+24
+00:00:52,320 --> 00:00:57,440
+your change management process
+
+25
+00:00:55,440 --> 00:00:59,760
+the other reason you want project scope
+
+26
+00:00:57,440 --> 00:01:00,800
+in writing is to remind stakeholders
+
+27
+00:00:59,760 --> 00:01:03,199
+what they agreed to
+
+28
+00:01:00,800 --> 00:01:04,400
+at the beginning of the project if
+
+29
+00:01:03,199 --> 00:01:08,080
+someone says
+
+30
+00:01:04,400 --> 00:01:09,920
+i thought you were going to do x y and z
+
+31
+00:01:08,080 --> 00:01:12,080
+you can go back to the scope statement
+
+32
+00:01:09,920 --> 00:01:13,520
+and show them that those items are out
+
+33
+00:01:12,080 --> 00:01:15,439
+of scope
+
+34
+00:01:13,520 --> 00:01:17,040
+if they really want those things in the
+
+35
+00:01:15,439 --> 00:01:20,080
+project you can use
+
+36
+00:01:17,040 --> 00:01:22,640
+change management to add them
+
+37
+00:01:20,080 --> 00:01:25,600
+a scope statement is a document that
+
+38
+00:01:22,640 --> 00:01:27,600
+spells out the project's scope
+
+39
+00:01:25,600 --> 00:01:28,640
+everything you've done during project
+
+40
+00:01:27,600 --> 00:01:31,759
+initiation
+
+41
+00:01:28,640 --> 00:01:33,280
+feeds into this document the goal and
+
+42
+00:01:31,759 --> 00:01:36,320
+objectives
+
+43
+00:01:33,280 --> 00:01:40,320
+deliverables and success criteria
+
+44
+00:01:36,320 --> 00:01:42,399
+assumptions risks and constraints
+
+45
+00:01:40,320 --> 00:01:45,280
+here's what is within scope for the
+
+46
+00:01:42,399 --> 00:01:48,079
+hospital scheduling project
+
+47
+00:01:45,280 --> 00:01:49,520
+your scope statement also includes an
+
+48
+00:01:48,079 --> 00:01:51,520
+out-of-scope section
+
+49
+00:01:49,520 --> 00:01:52,960
+that shows what the project doesn't
+
+50
+00:01:51,520 --> 00:01:55,680
+include
+
+51
+00:01:52,960 --> 00:01:56,799
+for example the scheduling project
+
+52
+00:01:55,680 --> 00:01:58,960
+doesn't include an
+
+53
+00:01:56,799 --> 00:02:01,280
+update to the system used to assign
+
+54
+00:01:58,960 --> 00:02:03,040
+staff to work shifts
+
+55
+00:02:01,280 --> 00:02:05,600
+scheduling resident rooms in the
+
+56
+00:02:03,040 --> 00:02:08,879
+hospital and rehabilitation wing is
+
+57
+00:02:05,600 --> 00:02:12,080
+also out of scope keeping scope
+
+58
+00:02:08,879 --> 00:02:13,280
+under control is one key to a successful
+
+59
+00:02:12,080 --> 00:02:15,360
+project
+
+60
+00:02:13,280 --> 00:02:16,800
+use the scope statement template in the
+
+61
+00:02:15,360 --> 00:02:19,120
+exercise files folder
+
+62
+00:02:16,800 --> 00:02:23,680
+to create a scope statement for the
+
+63
+00:02:19,120 --> 00:02:23,680
+hospital scheduling project
+

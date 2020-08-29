@@ -1,0 +1,268 @@
+1
+00:00:00,640 --> 00:00:06,480
+on every project some things go well
+
+2
+00:00:03,439 --> 00:00:09,040
+and other things could go better don't
+
+3
+00:00:06,480 --> 00:00:11,120
+let that experience go to waste
+
+4
+00:00:09,040 --> 00:00:12,719
+by collecting lessons learned you can
+
+5
+00:00:11,120 --> 00:00:15,040
+repeat your successes
+
+6
+00:00:12,719 --> 00:00:16,240
+and improve on your less than stellar
+
+7
+00:00:15,040 --> 00:00:18,880
+performance
+
+8
+00:00:16,240 --> 00:00:20,560
+let's look at ways to coax this info out
+
+9
+00:00:18,880 --> 00:00:22,640
+of your team members
+
+10
+00:00:20,560 --> 00:00:25,199
+then you can document those lessons to
+
+11
+00:00:22,640 --> 00:00:28,320
+benefit future projects
+
+12
+00:00:25,199 --> 00:00:30,560
+first schedule time regularly
+
+13
+00:00:28,320 --> 00:00:32,079
+for lessons learned don't wait until the
+
+14
+00:00:30,560 --> 00:00:34,399
+end of the project to ask about
+
+15
+00:00:32,079 --> 00:00:36,399
+lessons learned by then your team
+
+16
+00:00:34,399 --> 00:00:37,280
+members have already forgotten a lot of
+
+17
+00:00:36,399 --> 00:00:39,600
+them
+
+18
+00:00:37,280 --> 00:00:40,640
+one approach is to add lessons learned
+
+19
+00:00:39,600 --> 00:00:43,280
+as a topic
+
+20
+00:00:40,640 --> 00:00:44,160
+in your status meetings keep your
+
+21
+00:00:43,280 --> 00:00:47,280
+lessons learned
+
+22
+00:00:44,160 --> 00:00:50,160
+sessions positive and productive
+
+23
+00:00:47,280 --> 00:00:52,239
+start with what went right ask each
+
+24
+00:00:50,160 --> 00:00:53,760
+person for a tip or technique that
+
+25
+00:00:52,239 --> 00:00:56,079
+helped them in their work
+
+26
+00:00:53,760 --> 00:00:57,199
+like what saved you the most time
+
+27
+00:00:56,079 --> 00:01:00,079
+recently
+
+28
+00:00:57,199 --> 00:01:02,480
+or what was the gnarliest challenge you
+
+29
+00:01:00,079 --> 00:01:04,720
+solved and how did you do it
+
+30
+00:01:02,480 --> 00:01:06,799
+then move on to lessons learned from
+
+31
+00:01:04,720 --> 00:01:09,520
+problems people faced
+
+32
+00:01:06,799 --> 00:01:10,560
+remember to keep things positive for
+
+33
+00:01:09,520 --> 00:01:13,200
+example
+
+34
+00:01:10,560 --> 00:01:15,840
+what would you do differently next time
+
+35
+00:01:13,200 --> 00:01:18,240
+ask people to talk about themselves
+
+36
+00:01:15,840 --> 00:01:19,759
+that way they don't fall into blaming
+
+37
+00:01:18,240 --> 00:01:22,400
+others
+
+38
+00:01:19,759 --> 00:01:23,840
+give people the opportunity to be open
+
+39
+00:01:22,400 --> 00:01:26,479
+and honest
+
+40
+00:01:23,840 --> 00:01:28,240
+try scheduling meetings without managers
+
+41
+00:01:26,479 --> 00:01:31,040
+to see if people will share
+
+42
+00:01:28,240 --> 00:01:33,119
+information more freely you might use an
+
+43
+00:01:31,040 --> 00:01:33,680
+anonymous method for submitting lessons
+
+44
+00:01:33,119 --> 00:01:36,400
+learned
+
+45
+00:01:33,680 --> 00:01:37,439
+like a suggestion box this approach can
+
+46
+00:01:36,400 --> 00:01:39,280
+be helpful for
+
+47
+00:01:37,439 --> 00:01:40,640
+sensitive issues or when people are
+
+48
+00:01:39,280 --> 00:01:44,560
+afraid to admit
+
+49
+00:01:40,640 --> 00:01:47,439
+mistakes finally document
+
+50
+00:01:44,560 --> 00:01:47,920
+lessons learned you can add them to your
+
+51
+00:01:47,439 --> 00:01:50,159
+project
+
+52
+00:01:47,920 --> 00:01:52,159
+notebook but you can also set up a
+
+53
+00:01:50,159 --> 00:01:54,479
+knowledge base like a web page with
+
+54
+00:01:52,159 --> 00:01:56,560
+frequently asked questions
+
+55
+00:01:54,479 --> 00:01:58,000
+that way everyone in your company can
+
+56
+00:01:56,560 --> 00:02:01,280
+learn what your team
+
+57
+00:01:58,000 --> 00:02:03,680
+already knows lessons learned
+
+58
+00:02:01,280 --> 00:02:04,479
+give your organization the opportunity
+
+59
+00:02:03,680 --> 00:02:07,600
+to learn
+
+60
+00:02:04,479 --> 00:02:09,440
+and grow with each new project assuming
+
+61
+00:02:07,600 --> 00:02:11,920
+that the hospitals in the consortium
+
+62
+00:02:09,440 --> 00:02:12,640
+share a collaboration system develop a
+
+63
+00:02:11,920 --> 00:02:15,200
+plan for
+
+64
+00:02:12,640 --> 00:02:16,720
+sharing lessons learned among schedulers
+
+65
+00:02:15,200 --> 00:02:18,959
+and it teams
+
+66
+00:02:16,720 --> 00:02:22,959
+you can see my take on this plan in the
+
+67
+00:02:18,959 --> 00:02:22,959
+exercise files
+

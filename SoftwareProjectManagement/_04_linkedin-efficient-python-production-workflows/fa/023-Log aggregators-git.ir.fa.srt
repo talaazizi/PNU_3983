@@ -1,0 +1,192 @@
+0
+00:00:00,0 --> 00:00:05,0
+https://git.ir/
+
+1
+00:00:00,05 --> 00:00:01,09
+- [Instructor] Modern applications
+
+2
+00:00:01,09 --> 00:00:04,00
+are composed of many parts.
+
+3
+00:00:04,00 --> 00:00:07,06
+This means the logs are spread all over the place.
+
+4
+00:00:07,06 --> 00:00:08,08
+To solve this issue
+
+5
+00:00:08,08 --> 00:00:12,06
+there are several log aggregator applications.
+
+6
+00:00:12,06 --> 00:00:15,09
+These applications aggregate logs form several locations
+
+7
+00:00:15,09 --> 00:00:17,09
+into one central place
+
+8
+00:00:17,09 --> 00:00:20,09
+and allow you to view and search the logs.
+
+9
+00:00:20,09 --> 00:00:23,04
+There are solutions you host yourself.
+
+10
+00:00:23,04 --> 00:00:26,00
+The most common one is the ELK Stack.
+
+11
+00:00:26,00 --> 00:00:29,06
+The ELK Stack is composed of elastic search
+
+12
+00:00:29,06 --> 00:00:31,08
+which is a database for your logs.
+
+13
+00:00:31,08 --> 00:00:35,01
+Logstash which gets logs from various sources
+
+14
+00:00:35,01 --> 00:00:37,03
+and stores them in elastic.
+
+15
+00:00:37,03 --> 00:00:38,09
+It is slowly being replaced
+
+16
+00:00:38,09 --> 00:00:42,02
+with another set of collectors called beats.
+
+17
+00:00:42,02 --> 00:00:44,08
+In Kibana which is a visual dashboard
+
+18
+00:00:44,08 --> 00:00:48,01
+and also lets you run searches over the logs.
+
+19
+00:00:48,01 --> 00:00:50,00
+There are a host of solutions such as
+
+20
+00:00:50,00 --> 00:00:53,09
+Splunk, Loggly, Sentry and others.
+
+21
+00:00:53,09 --> 00:00:55,06
+No matter the solution you chose,
+
+22
+00:00:55,06 --> 00:00:58,00
+here are some points you need to consider
+
+23
+00:00:58,00 --> 00:01:00,02
+when using a log aggregator.
+
+24
+00:01:00,02 --> 00:01:01,09
+Log retention policy.
+
+25
+00:01:01,09 --> 00:01:04,03
+How much time do we store the logs?
+
+26
+00:01:04,03 --> 00:01:06,04
+A lot of logs means a lot of storage
+
+27
+00:01:06,04 --> 00:01:09,06
+which means a lot of money that you're going to pay.
+
+28
+00:01:09,06 --> 00:01:10,05
+Log delivery.
+
+29
+00:01:10,05 --> 00:01:12,05
+Do we sends logs over the network
+
+30
+00:01:12,05 --> 00:01:15,05
+over TCP, UDP, in files?
+
+31
+00:01:15,05 --> 00:01:17,00
+I tend to use files,
+
+32
+00:01:17,00 --> 00:01:20,05
+since the file system is more robust than the network.
+
+33
+00:01:20,05 --> 00:01:21,05
+Log format.
+
+34
+00:01:21,05 --> 00:01:24,03
+Most of these will use some JSON format,
+
+35
+00:01:24,03 --> 00:01:26,07
+make sure to be compatible.
+
+36
+00:01:26,07 --> 00:01:28,02
+Log fields.
+
+37
+00:01:28,02 --> 00:01:31,02
+Design the log fields so we can query them.
+
+38
+00:01:31,02 --> 00:01:35,00
+For example do you want the host name in the log record.
+
+39
+00:01:35,00 --> 00:01:36,02
+Context.
+
+40
+00:01:36,02 --> 00:01:39,04
+A user request will span several services,
+
+41
+00:01:39,04 --> 00:01:42,04
+have some ID that is added to all the actions
+
+42
+00:01:42,04 --> 00:01:44,06
+that come from the same request.
+
+43
+00:01:44,06 --> 00:01:47,09
+Make a survey of what you need from your log aggregator.
+
+44
+00:01:47,09 --> 00:01:50,07
+Shop around and run a proof of concept
+
+45
+00:01:50,07 --> 00:01:53,06
+with one or two of the most promising candidates.
+
+46
+00:01:53,06 --> 00:01:56,02
+It will become a crucial piece of your infrastructure,
+
+47
+00:01:56,02 --> 00:01:58,00
+so chose wisely.
+

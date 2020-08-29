@@ -1,0 +1,340 @@
+1
+00:00:00,560 --> 00:00:07,359
+is the project definition done check
+
+2
+00:00:03,840 --> 00:00:09,679
+is the scope statement ready check
+
+3
+00:00:07,359 --> 00:00:11,360
+now you're ready to get approval to move
+
+4
+00:00:09,679 --> 00:00:14,400
+into planning your project
+
+5
+00:00:11,360 --> 00:00:16,880
+you also put together a project charter
+
+6
+00:00:14,400 --> 00:00:18,320
+that officially authorizes the project
+
+7
+00:00:16,880 --> 00:00:21,279
+and publicizes it
+
+8
+00:00:18,320 --> 00:00:21,920
+to the world the whole point of defining
+
+9
+00:00:21,279 --> 00:00:24,240
+a project
+
+10
+00:00:21,920 --> 00:00:25,439
+is to give the project customer or
+
+11
+00:00:24,240 --> 00:00:27,680
+management team
+
+12
+00:00:25,439 --> 00:00:28,480
+the info they need to approve the
+
+13
+00:00:27,680 --> 00:00:31,039
+project
+
+14
+00:00:28,480 --> 00:00:33,360
+the review process varies from
+
+15
+00:00:31,039 --> 00:00:35,440
+organization to organization
+
+16
+00:00:33,360 --> 00:00:36,640
+typically the customer compares the
+
+17
+00:00:35,440 --> 00:00:39,520
+project information
+
+18
+00:00:36,640 --> 00:00:41,920
+to acceptance criteria that align with
+
+19
+00:00:39,520 --> 00:00:44,239
+the organization's goals
+
+20
+00:00:41,920 --> 00:00:45,440
+there are three possible outcomes from
+
+21
+00:00:44,239 --> 00:00:47,840
+this review
+
+22
+00:00:45,440 --> 00:00:48,800
+the project is approved to proceed to
+
+23
+00:00:47,840 --> 00:00:52,960
+planning
+
+24
+00:00:48,800 --> 00:00:55,199
+it's denied or it's sent back for rework
+
+25
+00:00:52,960 --> 00:00:56,719
+when the project is approved the final
+
+26
+00:00:55,199 --> 00:00:59,359
+step in initiation
+
+27
+00:00:56,719 --> 00:01:00,320
+is to create and distribute a project
+
+28
+00:00:59,359 --> 00:01:03,120
+charter
+
+29
+00:01:00,320 --> 00:01:04,400
+this document authorizes and publicizes
+
+30
+00:01:03,120 --> 00:01:06,240
+the project
+
+31
+00:01:04,400 --> 00:01:07,439
+here's what typically goes into a
+
+32
+00:01:06,240 --> 00:01:09,920
+project charter
+
+33
+00:01:07,439 --> 00:01:10,960
+the name of the project the purpose of
+
+34
+00:01:09,920 --> 00:01:13,040
+the project
+
+35
+00:01:10,960 --> 00:01:15,119
+a short summary of its goal and
+
+36
+00:01:13,040 --> 00:01:18,159
+objectives will do
+
+37
+00:01:15,119 --> 00:01:20,880
+a high level project description
+
+38
+00:01:18,159 --> 00:01:22,400
+which may include things like high-level
+
+39
+00:01:20,880 --> 00:01:26,080
+success criteria
+
+40
+00:01:22,400 --> 00:01:29,280
+requirements scope risks assumptions
+
+41
+00:01:26,080 --> 00:01:33,280
+and constraints a milestone schedule
+
+42
+00:01:29,280 --> 00:01:36,079
+cost estimate and list of stakeholders
+
+43
+00:01:33,280 --> 00:01:36,880
+remember you'll flesh out all of these
+
+44
+00:01:36,079 --> 00:01:39,920
+components
+
+45
+00:01:36,880 --> 00:01:41,439
+once you start planning your project you
+
+46
+00:01:39,920 --> 00:01:43,040
+also include information about the
+
+47
+00:01:41,439 --> 00:01:45,439
+project manager
+
+48
+00:01:43,040 --> 00:01:46,280
+the project manager's name the project
+
+49
+00:01:45,439 --> 00:01:49,040
+manager's
+
+50
+00:01:46,280 --> 00:01:50,960
+responsibilities including a brief
+
+51
+00:01:49,040 --> 00:01:52,720
+description of the work the project
+
+52
+00:01:50,960 --> 00:01:55,119
+manager does
+
+53
+00:01:52,720 --> 00:01:56,479
+the extent of the project manager's
+
+54
+00:01:55,119 --> 00:01:58,320
+authority
+
+55
+00:01:56,479 --> 00:02:01,119
+and the specific work the project
+
+56
+00:01:58,320 --> 00:02:04,000
+manager has authority to perform
+
+57
+00:02:01,119 --> 00:02:06,159
+such as requesting resources or signing
+
+58
+00:02:04,000 --> 00:02:08,640
+contracts
+
+59
+00:02:06,159 --> 00:02:09,520
+finally the charter includes a formal
+
+60
+00:02:08,640 --> 00:02:12,640
+declaration
+
+61
+00:02:09,520 --> 00:02:15,200
+of the sponsor's support for the project
+
+62
+00:02:12,640 --> 00:02:17,360
+think of this declaration as a power of
+
+63
+00:02:15,200 --> 00:02:18,400
+attorney given to the project manager by
+
+64
+00:02:17,360 --> 00:02:21,360
+the sponsor or
+
+65
+00:02:18,400 --> 00:02:23,760
+customer you might wonder why a project
+
+66
+00:02:21,360 --> 00:02:27,280
+charter describes the project manager's
+
+67
+00:02:23,760 --> 00:02:29,200
+authority it's because project managers
+
+68
+00:02:27,280 --> 00:02:32,560
+don't have the kind of authority that
+
+69
+00:02:29,200 --> 00:02:35,120
+managers in a structured organization do
+
+70
+00:02:32,560 --> 00:02:36,800
+project managers authority lasts as long
+
+71
+00:02:35,120 --> 00:02:39,840
+as the projects they manage
+
+72
+00:02:36,800 --> 00:02:41,760
+and applies only to those projects
+
+73
+00:02:39,840 --> 00:02:42,959
+for that reason it's important that
+
+74
+00:02:41,760 --> 00:02:45,440
+people understand
+
+75
+00:02:42,959 --> 00:02:46,879
+what a project manager is authorized to
+
+76
+00:02:45,440 --> 00:02:49,120
+do
+
+77
+00:02:46,879 --> 00:02:51,680
+when the project charter is ready to go
+
+78
+00:02:49,120 --> 00:02:53,360
+the project sponsor distributes it to
+
+79
+00:02:51,680 --> 00:02:56,480
+everyone affected by
+
+80
+00:02:53,360 --> 00:02:58,319
+or involved in the project once the
+
+81
+00:02:56,480 --> 00:03:00,640
+project has been authorized
+
+82
+00:02:58,319 --> 00:03:02,159
+and your authority as project manager is
+
+83
+00:03:00,640 --> 00:03:05,400
+common knowledge
+
+84
+00:03:02,159 --> 00:03:08,400
+you're ready to begin planning the
+
+85
+00:03:05,400 --> 00:03:08,400
+project
+

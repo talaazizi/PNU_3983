@@ -1,0 +1,54 @@
+1
+00:00:05,690 --> 00:00:11,880
+One issue identified in this chapter is that
+delays in the vendor procurement process have
+
+2
+00:00:11,880 --> 00:00:17,820
+delayed the project finished date past the
+grant expiration date. This is a top priority
+
+3
+00:00:17,820 --> 00:00:23,080
+issue because the grant money covers most
+of the expenses for the hospital scheduling
+
+4
+00:00:23,080 --> 00:00:28,990
+system. One solution to this problem shows
+promise. Your sponsor and the Change Review
+
+5
+00:00:28,990 --> 00:00:35,090
+Board have approved the change request for
+the vendor to perform the work for this solution.
+
+6
+00:00:35,090 --> 00:00:42,660
+The change request is available in the exercise
+files. You have created a schedule, budget,
+
+7
+00:00:42,660 --> 00:00:50,989
+resource plan, risk plan, communication plan
+and quality plan for the project in this challenge,
+
+8
+00:00:50,989 --> 00:00:57,469
+determine which of these tools and plans need
+to be updated for this change request. Provide
+
+9
+00:00:57,469 --> 00:01:04,159
+an overview of the changes that need to be
+made. Take about 20 minutes for this challenge.
+
+10
+00:01:04,159 --> 00:01:08,440
+After you complete the challenge, you can
+head to the exercise files to take a look
+
+11
+00:01:08,440 --> 00:01:09,619
+at my solution.
+

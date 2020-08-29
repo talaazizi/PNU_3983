@@ -1,0 +1,200 @@
+1
+00:00:00,399 --> 00:00:04,160
+so you're about to become agile
+
+2
+00:00:01,920 --> 00:00:07,279
+certified when you finish this course
+
+3
+00:00:04,160 --> 00:00:10,000
+great congratulations so let's do a
+
+4
+00:00:07,279 --> 00:00:12,160
+quick and agile recap before we finish
+
+5
+00:00:10,000 --> 00:00:13,200
+see the picture on your screen that's
+
+6
+00:00:12,160 --> 00:00:15,519
+agile
+
+7
+00:00:13,200 --> 00:00:17,520
+that's all it's about it's about having
+
+8
+00:00:15,519 --> 00:00:20,640
+your user stories in a backlog
+
+9
+00:00:17,520 --> 00:00:21,760
+prioritizing them then choosing which
+
+10
+00:00:20,640 --> 00:00:24,720
+ones you will work on
+
+11
+00:00:21,760 --> 00:00:25,439
+over your next sprint then starting your
+
+12
+00:00:24,720 --> 00:00:28,800
+sprint
+
+13
+00:00:25,439 --> 00:00:31,039
+and doing daily standups then delivering
+
+14
+00:00:28,800 --> 00:00:34,239
+a product increment every two weeks
+
+15
+00:00:31,039 --> 00:00:36,719
+so delivering value delivering quickly
+
+16
+00:00:34,239 --> 00:00:39,200
+and delivering often and it's a
+
+17
+00:00:36,719 --> 00:00:41,440
+repetitive and iterative process
+
+18
+00:00:39,200 --> 00:00:42,480
+and of course you're always adjusting
+
+19
+00:00:41,440 --> 00:00:43,840
+and improving
+
+20
+00:00:42,480 --> 00:00:45,520
+based on what you discuss in your
+
+21
+00:00:43,840 --> 00:00:48,719
+retrospectives
+
+22
+00:00:45,520 --> 00:00:50,800
+that's it that's agile in a nutshell
+
+23
+00:00:48,719 --> 00:00:52,800
+before we finish the course i wanted to
+
+24
+00:00:50,800 --> 00:00:54,960
+share some final thoughts
+
+25
+00:00:52,800 --> 00:00:56,960
+first of all congratulations on taking
+
+26
+00:00:54,960 --> 00:00:58,719
+the step to learn about agile
+
+27
+00:00:56,960 --> 00:01:00,480
+it will make a big difference in your
+
+28
+00:00:58,719 --> 00:01:02,559
+projects trust me
+
+29
+00:01:00,480 --> 00:01:05,600
+but even beyond that i'm sure you have
+
+30
+00:01:02,559 --> 00:01:08,159
+enjoyed how easy and simple agile is
+
+31
+00:01:05,600 --> 00:01:09,840
+how anyone can do it and how it can be
+
+32
+00:01:08,159 --> 00:01:13,040
+applied to any industry
+
+33
+00:01:09,840 --> 00:01:15,119
+product or project now i wouldn't be
+
+34
+00:01:13,040 --> 00:01:16,400
+surprised if you still felt a little bit
+
+35
+00:01:15,119 --> 00:01:18,880
+hesitant or unsure
+
+36
+00:01:16,400 --> 00:01:20,479
+about how to start with agile a lot of
+
+37
+00:01:18,880 --> 00:01:21,439
+people have some fear about getting
+
+38
+00:01:20,479 --> 00:01:23,840
+started
+
+39
+00:01:21,439 --> 00:01:24,880
+they don't want to make any mistakes and
+
+40
+00:01:23,840 --> 00:01:27,920
+that's okay
+
+41
+00:01:24,880 --> 00:01:30,720
+don't worry it's okay to make mistakes
+
+42
+00:01:27,920 --> 00:01:32,079
+the main thing is you learn and adjust
+
+43
+00:01:30,720 --> 00:01:35,119
+iterate and deliver
+
+44
+00:01:32,079 --> 00:01:36,560
+the agile way so get started with agile
+
+45
+00:01:35,119 --> 00:01:37,520
+and let me know if you have any
+
+46
+00:01:36,560 --> 00:01:39,520
+questions
+
+47
+00:01:37,520 --> 00:01:41,280
+i'm happy to help where i can and i will
+
+48
+00:01:39,520 --> 00:01:43,520
+continue to add to this course over time
+
+49
+00:01:41,280 --> 00:01:47,360
+to enhance your learning experience
+
+50
+00:01:43,520 --> 00:01:47,360
+all the best
+

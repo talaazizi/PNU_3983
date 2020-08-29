@@ -1,0 +1,304 @@
+1
+00:00:00,640 --> 00:00:04,319
+you've made it to the last stage of an
+
+2
+00:00:03,120 --> 00:00:08,960
+iteration
+
+3
+00:00:04,319 --> 00:00:11,599
+the adapt stage it's a time for review
+
+4
+00:00:08,960 --> 00:00:12,240
+and reflection like spending new year's
+
+5
+00:00:11,599 --> 00:00:14,480
+day
+
+6
+00:00:12,240 --> 00:00:15,679
+evaluating your previous year and
+
+7
+00:00:14,480 --> 00:00:18,160
+resolving to do
+
+8
+00:00:15,679 --> 00:00:18,800
+even better in the next as you might
+
+9
+00:00:18,160 --> 00:00:20,640
+expect
+
+10
+00:00:18,800 --> 00:00:22,960
+you and the team compare what was
+
+11
+00:00:20,640 --> 00:00:25,599
+delivered to what was planned
+
+12
+00:00:22,960 --> 00:00:28,240
+you talk about what did and didn't work
+
+13
+00:00:25,599 --> 00:00:31,359
+the team might identify changes to make
+
+14
+00:00:28,240 --> 00:00:33,040
+future iterations run better take time
+
+15
+00:00:31,359 --> 00:00:35,360
+to review with the customer
+
+16
+00:00:33,040 --> 00:00:36,160
+what's been done and make sure that the
+
+17
+00:00:35,360 --> 00:00:38,559
+features are
+
+18
+00:00:36,160 --> 00:00:39,520
+working the way they should at the same
+
+19
+00:00:38,559 --> 00:00:41,600
+time check
+
+20
+00:00:39,520 --> 00:00:44,160
+that the features produce the business
+
+21
+00:00:41,600 --> 00:00:46,399
+benefits they're supposed to
+
+22
+00:00:44,160 --> 00:00:47,360
+don't forget to hold a lessons learn
+
+23
+00:00:46,399 --> 00:00:49,520
+session to share
+
+24
+00:00:47,360 --> 00:00:51,840
+feedback that way everyone can
+
+25
+00:00:49,520 --> 00:00:52,480
+brainstorm ways to resolve issues and
+
+26
+00:00:51,840 --> 00:00:55,760
+eliminate
+
+27
+00:00:52,480 --> 00:00:57,840
+obstacles plus everyone can improve by
+
+28
+00:00:55,760 --> 00:00:59,199
+taking advantage of the things that went
+
+29
+00:00:57,840 --> 00:01:02,000
+well
+
+30
+00:00:59,199 --> 00:01:02,719
+feedback can lead to changes in the next
+
+31
+00:01:02,000 --> 00:01:06,240
+iteration
+
+32
+00:01:02,719 --> 00:01:08,560
+speculate stage you might add or remove
+
+33
+00:01:06,240 --> 00:01:10,720
+features from the backlog the team could
+
+34
+00:01:08,560 --> 00:01:14,159
+modify their estimates for features
+
+35
+00:01:10,720 --> 00:01:14,640
+or update the risk register the customer
+
+36
+00:01:14,159 --> 00:01:16,320
+might
+
+37
+00:01:14,640 --> 00:01:19,040
+re-prioritize the features in the
+
+38
+00:01:16,320 --> 00:01:19,840
+backlog maybe the team composition needs
+
+39
+00:01:19,040 --> 00:01:21,680
+tweaking
+
+40
+00:01:19,840 --> 00:01:23,200
+based on people's availability or the
+
+41
+00:01:21,680 --> 00:01:26,080
+skills needed
+
+42
+00:01:23,200 --> 00:01:28,080
+finally you might modify processes that
+
+43
+00:01:26,080 --> 00:01:30,880
+aren't working well
+
+44
+00:01:28,080 --> 00:01:31,200
+the end of an iteration is a great time
+
+45
+00:01:30,880 --> 00:01:34,640
+to
+
+46
+00:01:31,200 --> 00:01:36,720
+celebrate success in addition the adapt
+
+47
+00:01:34,640 --> 00:01:38,000
+stage is a chance for team members to
+
+48
+00:01:36,720 --> 00:01:40,479
+take a quick break
+
+49
+00:01:38,000 --> 00:01:41,600
+so they're fresh and enthusiastic about
+
+50
+00:01:40,479 --> 00:01:44,240
+starting the next
+
+51
+00:01:41,600 --> 00:01:45,280
+iteration if there are more iterations
+
+52
+00:01:44,240 --> 00:01:48,000
+in the project
+
+53
+00:01:45,280 --> 00:01:50,000
+the end of the adapt stage triggers the
+
+54
+00:01:48,000 --> 00:01:52,799
+speculate stage for the next
+
+55
+00:01:50,000 --> 00:01:54,000
+iteration on the other hand if the
+
+56
+00:01:52,799 --> 00:01:56,640
+project schedule or
+
+57
+00:01:54,000 --> 00:01:57,439
+budget has been used up it's time for
+
+58
+00:01:56,640 --> 00:02:00,799
+the close
+
+59
+00:01:57,439 --> 00:02:03,680
+phase and tying up loose ends
+
+60
+00:02:00,799 --> 00:02:05,600
+you reconcile the project financials
+
+61
+00:02:03,680 --> 00:02:07,759
+have all the invoices been paid
+
+62
+00:02:05,600 --> 00:02:10,399
+have you closed the project accounts so
+
+63
+00:02:07,759 --> 00:02:12,560
+people don't charge to them by mistake
+
+64
+00:02:10,399 --> 00:02:14,000
+you also need to work with resource
+
+65
+00:02:12,560 --> 00:02:17,040
+managers to reassign
+
+66
+00:02:14,000 --> 00:02:19,280
+team members as in any project you
+
+67
+00:02:17,040 --> 00:02:22,720
+communicate the project results to the
+
+68
+00:02:19,280 --> 00:02:23,760
+customer and stakeholders it's important
+
+69
+00:02:22,720 --> 00:02:26,720
+to get closure
+
+70
+00:02:23,760 --> 00:02:28,239
+at the end of each iteration and the end
+
+71
+00:02:26,720 --> 00:02:31,519
+of the project
+
+72
+00:02:28,239 --> 00:02:34,640
+that way you confirm the success of this
+
+73
+00:02:31,519 --> 00:02:36,800
+and future projects for practice
+
+74
+00:02:34,640 --> 00:02:38,000
+build agendas for the review meetings
+
+75
+00:02:36,800 --> 00:02:43,599
+you plan to hold
+
+76
+00:02:38,000 --> 00:02:43,599
+during an iterations adapt stage
+

@@ -1,0 +1,79 @@
+1
+00:00:00,700 --> 00:00:07,660
+A big part of project management is planning
+out your project in detail. You begin by identifying
+
+2
+00:00:07,660 --> 00:00:13,450
+the work that must be done to make the project
+easy, to manage how you break the work down
+
+3
+00:00:13,450 --> 00:00:19,180
+into bite sized pieces once you have your
+list of tasks. You can start estimating who's
+
+4
+00:00:19,180 --> 00:00:26,180
+going to do the work, how long each task will
+take and how much they'll cost. Figuring out
+
+5
+00:00:26,180 --> 00:00:32,550
+when things happen requires some special techniques
+to build a schedule. You have to take into
+
+6
+00:00:32,550 --> 00:00:38,220
+account factors like how tasks depend on one
+another, how much resources are available
+
+7
+00:00:38,220 --> 00:00:44,900
+to work on tasks and when those resources
+are available. Planning also includes how
+
+8
+00:00:44,900 --> 00:00:52,649
+you run the project, how will the team communicate
+with what tools and how often? You'll also
+
+9
+00:00:52,649 --> 00:00:59,980
+put together other plans for managing change
+and risk and what you'll do to ensure quality,
+
+10
+00:00:59,980 --> 00:01:05,980
+all of this information goes into a set of
+documents that represent the project plan.
+
+11
+00:01:05,980 --> 00:01:11,600
+The completed project plan doesn't get put
+on a shelf to gather dust. You use it over
+
+12
+00:01:11,600 --> 00:01:17,340
+the life of the project to direct the people
+working on your project to keep track of how
+
+13
+00:01:17,340 --> 00:01:23,840
+the project is going to correct course and
+to communicate with stakeholders. Are you
+
+14
+00:01:23,840 --> 00:01:31,509
+ready to build a project? Plan will explore
+each component of a project plan in detail
+
+15
+00:01:31,509 --> 00:01:37,270
+because a project schedule is a key component
+of your plan. An entire chapter is devoted
+
+16
+00:01:37,270 --> 00:01:38,530
+to how you build one.
+

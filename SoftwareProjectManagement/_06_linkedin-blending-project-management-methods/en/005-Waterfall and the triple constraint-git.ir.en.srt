@@ -1,0 +1,926 @@
+1
+
+00:00:00,07 --> 00:00:03,07
+
+
+- Running a project is like maintaining a home.
+
+
+
+2
+
+00:00:03,07 --> 00:00:07,01
+
+There are always repairs and improvements to be done.
+
+
+
+3
+
+00:00:07,01 --> 00:00:10,03
+
+But when you consider repairs and improvements to your home,
+
+
+
+4
+
+00:00:10,03 --> 00:00:13,01
+
+you also have to consider three things.
+
+
+
+5
+
+00:00:13,01 --> 00:00:15,01
+
+How soon do I need it done?
+
+
+
+6
+
+00:00:15,01 --> 00:00:17,02
+
+How much do I have in the bank to pay for it?
+
+
+
+7
+
+00:00:17,02 --> 00:00:21,02
+
+And what tasks will get it done the way I want?
+
+
+
+8
+
+00:00:21,02 --> 00:00:23,06
+
+The same thing happens in businesses,
+
+
+
+9
+
+00:00:23,06 --> 00:00:26,06
+
+and these three things are known in the project world
+
+
+
+10
+
+00:00:26,06 --> 00:00:28,03
+
+as the triple constraint.
+
+
+
+11
+
+00:00:28,03 --> 00:00:30,06
+
+You may have heard of it as the iron triangle
+
+
+
+12
+
+00:00:30,06 --> 00:00:32,05
+
+or the project management triangle,
+
+
+
+13
+
+00:00:32,05 --> 00:00:34,04
+
+but it means the same thing.
+
+
+
+14
+
+00:00:34,04 --> 00:00:36,05
+
+The triple constraint is really all
+
+
+
+15
+
+00:00:36,05 --> 00:00:40,00
+
+about managing cost, scope, and time.
+
+
+
+16
+
+00:00:40,00 --> 00:00:42,07
+
+Let's talk about cost first.
+
+
+
+17
+
+00:00:42,07 --> 00:00:45,08
+
+With cost we ask, what are the financial limitations
+
+
+
+18
+
+00:00:45,08 --> 00:00:48,04
+
+that the project can't exceed?
+
+
+
+19
+
+00:00:48,04 --> 00:00:51,02
+
+And remember, as you're going through this planning,
+
+
+
+20
+
+00:00:51,02 --> 00:00:54,06
+
+you need to ensure that you're counting everything.
+
+
+
+21
+
+00:00:54,06 --> 00:00:57,01
+
+Labor cost, so it's the people on your team.
+
+
+
+22
+
+00:00:57,01 --> 00:00:59,04
+
+It's the labor of people you're going to bring in
+
+
+
+23
+
+00:00:59,04 --> 00:01:00,07
+
+once in awhile.
+
+
+
+24
+
+00:01:00,07 --> 00:01:01,05
+
+It's equipment.
+
+
+
+25
+
+00:01:01,05 --> 00:01:03,05
+
+Do you need new equipment for this project?
+
+
+
+26
+
+00:01:03,05 --> 00:01:06,02
+
+Do you need new hardware or new software to do the work?
+
+
+
+27
+
+00:01:06,02 --> 00:01:07,01
+
+Oh, and vendors.
+
+
+
+28
+
+00:01:07,01 --> 00:01:09,09
+
+Are you going to hire any outside vendors
+
+
+
+29
+
+00:01:09,09 --> 00:01:12,09
+
+to do work for you on an hourly basis?
+
+
+
+30
+
+00:01:12,09 --> 00:01:15,02
+
+So you'll need to bake all of that in.
+
+
+
+31
+
+00:01:15,02 --> 00:01:16,03
+
+In the waterfall method,
+
+
+
+32
+
+00:01:16,03 --> 00:01:19,01
+
+cost is set at the initiating phase of the project,
+
+
+
+33
+
+00:01:19,01 --> 00:01:21,09
+
+and it can't be changed, just like we talked about,
+
+
+
+34
+
+00:01:21,09 --> 00:01:25,00
+
+unless you get an approved project change request done.
+
+
+
+35
+
+00:01:25,00 --> 00:01:27,00
+
+So you'd have to go back through your steering committee
+
+
+
+36
+
+00:01:27,00 --> 00:01:30,04
+
+and make sure everyone's okay with that additional cost.
+
+
+
+37
+
+00:01:30,04 --> 00:01:33,01
+
+Next, you'll need to think about scope.
+
+
+
+38
+
+00:01:33,01 --> 00:01:36,02
+
+In dealing with scope, you really need to ask yourself,
+
+
+
+39
+
+00:01:36,02 --> 00:01:39,03
+
+what are all the features we need to complete
+
+
+
+40
+
+00:01:39,03 --> 00:01:42,02
+
+in order to deliver the value that we need?
+
+
+
+41
+
+00:01:42,02 --> 00:01:44,03
+
+During planning, you're going to start thinking
+
+
+
+42
+
+00:01:44,03 --> 00:01:48,08
+
+about how much time, how much effort is it going to take,
+
+
+
+43
+
+00:01:48,08 --> 00:01:50,02
+
+and then you're going to match
+
+
+
+44
+
+00:01:50,02 --> 00:01:52,09
+
+that time and effort and those estimates
+
+
+
+45
+
+00:01:52,09 --> 00:01:56,03
+
+against possible work item that needs to be done.
+
+
+
+46
+
+00:01:56,03 --> 00:01:58,03
+
+As you go through this process,
+
+
+
+47
+
+00:01:58,03 --> 00:02:00,07
+
+you're going to compare that against your cost,
+
+
+
+48
+
+00:02:00,07 --> 00:02:02,07
+
+so now you're going to lock down the scope
+
+
+
+49
+
+00:02:02,07 --> 00:02:04,03
+
+that will fit within that cost
+
+
+
+50
+
+00:02:04,03 --> 00:02:07,08
+
+by doing that analysis and that comparison.
+
+
+
+51
+
+00:02:07,08 --> 00:02:10,04
+
+Finally, let's talk about time.
+
+
+
+52
+
+00:02:10,04 --> 00:02:12,04
+
+What we need to know about time is
+
+
+
+53
+
+00:02:12,04 --> 00:02:16,08
+
+what's the estimated schedule to complete this job
+
+
+
+54
+
+00:02:16,08 --> 00:02:19,03
+
+to give the deliverable that we need?
+
+
+
+55
+
+00:02:19,03 --> 00:02:20,03
+
+So you're going to take
+
+
+
+56
+
+00:02:20,03 --> 00:02:22,03
+
+into consideration things like deadlines.
+
+
+
+57
+
+00:02:22,03 --> 00:02:24,05
+
+Is there a specific window
+
+
+
+58
+
+00:02:24,05 --> 00:02:26,02
+
+that you have to finish this in?
+
+
+
+59
+
+00:02:26,02 --> 00:02:28,04
+
+For example, I once ran a project
+
+
+
+60
+
+00:02:28,04 --> 00:02:30,07
+
+to set up a new financial accounting system,
+
+
+
+61
+
+00:02:30,07 --> 00:02:33,01
+
+but I also knew that I could only deliver that
+
+
+
+62
+
+00:02:33,01 --> 00:02:34,04
+
+in the middle of a quarter.
+
+
+
+63
+
+00:02:34,04 --> 00:02:37,05
+
+I couldn't deliver that at the end of a quarter
+
+
+
+64
+
+00:02:37,05 --> 00:02:40,07
+
+when it's not acceptable for our accountants
+
+
+
+65
+
+00:02:40,07 --> 00:02:42,03
+
+to be working on new software.
+
+
+
+66
+
+00:02:42,03 --> 00:02:43,08
+
+They need time.
+
+
+
+67
+
+00:02:43,08 --> 00:02:45,02
+
+So at the end of planning,
+
+
+
+68
+
+00:02:45,02 --> 00:02:49,05
+
+you're going to lock those time schedule boundaries.
+
+
+
+69
+
+00:02:49,05 --> 00:02:52,01
+
+They're going to be in sync with the work
+
+
+
+70
+
+00:02:52,01 --> 00:02:54,02
+
+that needs to be done that you've already estimated.
+
+
+
+71
+
+00:02:54,02 --> 00:02:57,07
+
+It's going to be in sync with the window that you have
+
+
+
+72
+
+00:02:57,07 --> 00:03:02,01
+
+for releasing your project and your deliverable.
+
+
+
+73
+
+00:03:02,01 --> 00:03:06,01
+
+So the nice thing is that you can use the triple constraint
+
+
+
+74
+
+00:03:06,01 --> 00:03:08,04
+
+to evaluate project success.
+
+
+
+75
+
+00:03:08,04 --> 00:03:10,02
+
+It's kind of a double-edged sword.
+
+
+
+76
+
+00:03:10,02 --> 00:03:14,07
+
+So from this perspective, from waterfall's perspective,
+
+
+
+77
+
+00:03:14,07 --> 00:03:16,03
+
+the perfect project means
+
+
+
+78
+
+00:03:16,03 --> 00:03:18,08
+
+that you've completed all of the scope
+
+
+
+79
+
+00:03:18,08 --> 00:03:22,09
+
+within your allotted time and using all or less
+
+
+
+80
+
+00:03:22,09 --> 00:03:25,04
+
+than the cost that was established.
+
+
+
+81
+
+00:03:25,04 --> 00:03:28,08
+
+The strict interpretation of waterfall says any violation
+
+
+
+82
+
+00:03:28,08 --> 00:03:32,03
+
+of the triple constraint in any one of the categories
+
+
+
+83
+
+00:03:32,03 --> 00:03:35,00
+
+means your project was unsuccessful.
+
+
+
+84
+
+00:03:35,00 --> 00:03:36,03
+
+On the plus side,
+
+
+
+85
+
+00:03:36,03 --> 00:03:38,07
+
+there are benefits to the triple constraint.
+
+
+
+86
+
+00:03:38,07 --> 00:03:42,05
+
+The teams and leaders are on the same page at all times
+
+
+
+87
+
+00:03:42,05 --> 00:03:45,03
+
+in relation to time, scope, and cost.
+
+
+
+88
+
+00:03:45,03 --> 00:03:47,05
+
+Everybody has the same expectations,
+
+
+
+89
+
+00:03:47,05 --> 00:03:50,04
+
+and everybody's working toward that same goal.
+
+
+
+90
+
+00:03:50,04 --> 00:03:51,05
+
+From this perspective,
+
+
+
+91
+
+00:03:51,05 --> 00:03:54,00
+
+the PM can easily identify variables
+
+
+
+92
+
+00:03:54,00 --> 00:03:56,06
+
+that are going to impact those project constraints.
+
+
+
+93
+
+00:03:56,06 --> 00:03:59,08
+
+So as something comes up, the project manager will compare
+
+
+
+94
+
+00:03:59,08 --> 00:04:01,04
+
+against time, cost, and scope
+
+
+
+95
+
+00:04:01,04 --> 00:04:03,08
+
+and make sure that there are no changes
+
+
+
+96
+
+00:04:03,08 --> 00:04:06,04
+
+that require a change request.
+
+
+
+97
+
+00:04:06,04 --> 00:04:09,09
+
+Project management is really a juggling act.
+
+
+
+98
+
+00:04:09,09 --> 00:04:14,01
+
+You have to make trade-offs to deliver value
+
+
+
+99
+
+00:04:14,01 --> 00:04:16,08
+
+without violating the constraints.
+
+
+
+100
+
+00:04:16,08 --> 00:04:20,08
+
+Let's go back to our home repair analogy for an example.
+
+
+
+101
+
+00:04:20,08 --> 00:04:22,07
+
+Let's say you set aside the month of June
+
+
+
+102
+
+00:04:22,07 --> 00:04:24,05
+
+to install new windows in your kitchen
+
+
+
+103
+
+00:04:24,05 --> 00:04:26,07
+
+to improve energy efficiency.
+
+
+
+104
+
+00:04:26,07 --> 00:04:29,02
+
+You have the money to have the work completed.
+
+
+
+105
+
+00:04:29,02 --> 00:04:30,09
+
+So far it looks like you're clear
+
+
+
+106
+
+00:04:30,09 --> 00:04:33,08
+
+on your time, your cost, and your scope.
+
+
+
+107
+
+00:04:33,08 --> 00:04:36,02
+
+But maybe you learn about a new type
+
+
+
+108
+
+00:04:36,02 --> 00:04:38,04
+
+of more attractive window.
+
+
+
+109
+
+00:04:38,04 --> 00:04:40,05
+
+Like any good project manager,
+
+
+
+110
+
+00:04:40,05 --> 00:04:42,07
+
+you'll review this option to determine
+
+
+
+111
+
+00:04:42,07 --> 00:04:45,02
+
+if it can be completed in the month of June
+
+
+
+112
+
+00:04:45,02 --> 00:04:47,02
+
+for the same or lower cost
+
+
+
+113
+
+00:04:47,02 --> 00:04:50,08
+
+and still deliver the needed energy efficiency.
+
+
+
+114
+
+00:04:50,08 --> 00:04:52,05
+
+When you balance the triple constraints
+
+
+
+115
+
+00:04:52,05 --> 00:04:54,03
+
+throughout your project,
+
+
+
+116
+
+00:04:54,03 --> 00:04:57,06
+
+you'll be able to get the outcome your leaders expect.

@@ -1,0 +1,85 @@
+1
+00:00:00,630 --> 00:00:06,940
+A short task name in AWB isn't enough to tell
+team members what they're supposed to do to
+
+2
+00:00:06,940 --> 00:00:12,800
+give your team the info they need, create
+work package documents that describe the work
+
+3
+00:00:12,800 --> 00:00:19,390
+that needs to be done in detail. The level
+of detail needed in the work package document
+
+4
+00:00:19,390 --> 00:00:24,800
+depends on things like how familiar the work
+is and the experience of the person assigned
+
+5
+00:00:24,800 --> 00:00:31,720
+to the task. For example, a work package document
+might include a detailed description of the
+
+6
+00:00:31,720 --> 00:00:37,500
+work for a less experienced person, for someone
+more experienced, a checklist of things to
+
+7
+00:00:37,500 --> 00:00:43,100
+do might be enough. If the specifics of the
+work are described somewhere else, you can
+
+8
+00:00:43,100 --> 00:00:48,790
+refer to the other document that contains
+the information. A work package document does
+
+9
+00:00:48,790 --> 00:00:55,170
+more than describe the work. It also identifies
+how, you know, the task is complete and whether
+
+10
+00:00:55,170 --> 00:01:01,670
+it was completed correctly. For some tasks,
+you can include the corresponding deliverable
+
+11
+00:01:01,670 --> 00:01:08,200
+and success criteria in a work package document.
+Otherwise write up a description of what you
+
+12
+00:01:08,200 --> 00:01:13,950
+will have when the task is complete and what
+it should look like. As project manager, you
+
+13
+00:01:13,950 --> 00:01:21,280
+won't know enough about every aspect of the
+work to produce these detailed task descriptions.
+
+14
+00:01:21,280 --> 00:01:26,469
+Turn to the people who helped you build the
+WBC team leaders for the groups that will
+
+15
+00:01:26,469 --> 00:01:33,950
+work on the project or other knowledgeable
+people to help fill in the details. Work packages
+
+16
+00:01:33,950 --> 00:01:40,079
+help your team members deliver what they're
+supposed to for practice, try defining a work
+
+17
+00:01:40,079 --> 00:01:45,959
+package for the scheduled training task that
+appears in the scheduling system WBS.
+

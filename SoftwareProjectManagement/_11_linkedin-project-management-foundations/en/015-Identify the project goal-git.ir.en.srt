@@ -1,0 +1,372 @@
+1
+00:00:00,799 --> 00:00:06,080
+the first step toward project success
+
+2
+00:00:03,360 --> 00:00:07,680
+is finding out what the customer really
+
+3
+00:00:06,080 --> 00:00:09,920
+wants
+
+4
+00:00:07,680 --> 00:00:11,840
+the project goal is the end result that
+
+5
+00:00:09,920 --> 00:00:15,200
+the project wants the customer
+
+6
+00:00:11,840 --> 00:00:16,400
+to deliver a goal is something like a
+
+7
+00:00:15,200 --> 00:00:20,000
+problem to solve
+
+8
+00:00:16,400 --> 00:00:22,800
+or an opportunity to take advantage of
+
+9
+00:00:20,000 --> 00:00:23,600
+it drives everything that happens in the
+
+10
+00:00:22,800 --> 00:00:25,359
+project
+
+11
+00:00:23,600 --> 00:00:27,119
+so you want to make sure you've got it
+
+12
+00:00:25,359 --> 00:00:29,039
+right
+
+13
+00:00:27,119 --> 00:00:31,119
+you start by putting together a problem
+
+14
+00:00:29,039 --> 00:00:33,680
+statement that clearly defines the
+
+15
+00:00:31,119 --> 00:00:35,440
+problem or opportunity
+
+16
+00:00:33,680 --> 00:00:36,719
+it doesn't have to be a long-winded
+
+17
+00:00:35,440 --> 00:00:39,680
+affair
+
+18
+00:00:36,719 --> 00:00:41,040
+if you can fit it into one sentence all
+
+19
+00:00:39,680 --> 00:00:42,960
+the better
+
+20
+00:00:41,040 --> 00:00:44,079
+developing a problem statement can be
+
+21
+00:00:42,960 --> 00:00:48,640
+challenging because
+
+22
+00:00:44,079 --> 00:00:51,360
+people often jump straight to solutions
+
+23
+00:00:48,640 --> 00:00:54,239
+solutions describe the end result not
+
+24
+00:00:51,360 --> 00:00:57,760
+the initial motivation
+
+25
+00:00:54,239 --> 00:00:59,600
+in the hospital project suppose the coo
+
+26
+00:00:57,760 --> 00:01:01,920
+tells you that the hospital wants to
+
+27
+00:00:59,600 --> 00:01:04,720
+implement a new scheduling system
+
+28
+00:01:01,920 --> 00:01:06,479
+that's an end result one way to
+
+29
+00:01:04,720 --> 00:01:08,560
+backtrack from a solution to the
+
+30
+00:01:06,479 --> 00:01:12,000
+original problem or opportunity
+
+31
+00:01:08,560 --> 00:01:15,520
+is to ask why why do we need
+
+32
+00:01:12,000 --> 00:01:16,799
+a new scheduling system don't be afraid
+
+33
+00:01:15,520 --> 00:01:20,560
+to ask why
+
+34
+00:01:16,799 --> 00:01:22,640
+more than once you can use the answers
+
+35
+00:01:20,560 --> 00:01:25,439
+to get to the bottom of the problem
+
+36
+00:01:22,640 --> 00:01:27,119
+or even uncover more specific objectives
+
+37
+00:01:25,439 --> 00:01:30,640
+for the project
+
+38
+00:01:27,119 --> 00:01:34,079
+for example you ask the coo why she's
+
+39
+00:01:30,640 --> 00:01:37,360
+considering a new scheduling system
+
+40
+00:01:34,079 --> 00:01:37,840
+she says hospital resources seem to be
+
+41
+00:01:37,360 --> 00:01:40,960
+either
+
+42
+00:01:37,840 --> 00:01:43,840
+jammed up or sitting idle
+
+43
+00:01:40,960 --> 00:01:44,799
+when you ask why that happens she
+
+44
+00:01:43,840 --> 00:01:47,119
+explains that
+
+45
+00:01:44,799 --> 00:01:48,399
+most procedures require specific
+
+46
+00:01:47,119 --> 00:01:51,200
+equipment
+
+47
+00:01:48,399 --> 00:01:51,520
+staff qualified to perform the procedure
+
+48
+00:01:51,200 --> 00:01:54,479
+and
+
+49
+00:01:51,520 --> 00:01:55,759
+often a specific room to accommodate the
+
+50
+00:01:54,479 --> 00:01:57,439
+equipment
+
+51
+00:01:55,759 --> 00:01:58,960
+the current scheduling system and
+
+52
+00:01:57,439 --> 00:02:02,159
+processes don't take
+
+53
+00:01:58,960 --> 00:02:03,439
+all that into account the equipment
+
+54
+00:02:02,159 --> 00:02:05,920
+might be scheduled
+
+55
+00:02:03,439 --> 00:02:07,119
+but the technician isn't available or
+
+56
+00:02:05,920 --> 00:02:10,080
+the scheduled room
+
+57
+00:02:07,119 --> 00:02:12,080
+can't handle the equipment in addition
+
+58
+00:02:10,080 --> 00:02:13,120
+the hospital has received grants and
+
+59
+00:02:12,080 --> 00:02:15,280
+donations to
+
+60
+00:02:13,120 --> 00:02:16,640
+fund improvements to address these
+
+61
+00:02:15,280 --> 00:02:18,480
+issues
+
+62
+00:02:16,640 --> 00:02:19,840
+the problem statement for this project
+
+63
+00:02:18,480 --> 00:02:22,720
+might be
+
+64
+00:02:19,840 --> 00:02:23,840
+hospital resources aren't being utilized
+
+65
+00:02:22,720 --> 00:02:25,920
+efficiently
+
+66
+00:02:23,840 --> 00:02:27,680
+because scheduling doesn't ensure that
+
+67
+00:02:25,920 --> 00:02:31,040
+the necessary equipment
+
+68
+00:02:27,680 --> 00:02:33,440
+staff and facilities are available
+
+69
+00:02:31,040 --> 00:02:35,280
+funding is available to address
+
+70
+00:02:33,440 --> 00:02:37,280
+scheduling issues
+
+71
+00:02:35,280 --> 00:02:39,519
+with a problem statement in hand you can
+
+72
+00:02:37,280 --> 00:02:42,080
+define the project goal
+
+73
+00:02:39,519 --> 00:02:43,840
+that is the end result the project will
+
+74
+00:02:42,080 --> 00:02:46,000
+deliver
+
+75
+00:02:43,840 --> 00:02:48,000
+the goal should be simple and easy for
+
+76
+00:02:46,000 --> 00:02:50,319
+everyone to understand
+
+77
+00:02:48,000 --> 00:02:52,400
+that way you can use it to get buy-in
+
+78
+00:02:50,319 --> 00:02:54,879
+and guide the team to a successful
+
+79
+00:02:52,400 --> 00:02:56,720
+conclusion
+
+80
+00:02:54,879 --> 00:02:58,400
+for the hospital project the project
+
+81
+00:02:56,720 --> 00:03:00,319
+goal might be
+
+82
+00:02:58,400 --> 00:03:02,720
+the project will deliver scheduling
+
+83
+00:03:00,319 --> 00:03:03,599
+improvements so hospital resources can
+
+84
+00:03:02,720 --> 00:03:06,159
+be scheduled
+
+85
+00:03:03,599 --> 00:03:08,239
+efficiently the project will take
+
+86
+00:03:06,159 --> 00:03:11,599
+advantage of funding available for
+
+87
+00:03:08,239 --> 00:03:13,599
+productivity and technology enhancements
+
+88
+00:03:11,599 --> 00:03:15,920
+knowing where you're going is the best
+
+89
+00:03:13,599 --> 00:03:17,920
+way to start a project
+
+90
+00:03:15,920 --> 00:03:20,319
+try writing a problem statement and goal
+
+91
+00:03:17,920 --> 00:03:22,480
+for the project you're working on
+
+92
+00:03:20,319 --> 00:03:26,239
+using the template included in the
+
+93
+00:03:22,480 --> 00:03:26,239
+exercise files
+

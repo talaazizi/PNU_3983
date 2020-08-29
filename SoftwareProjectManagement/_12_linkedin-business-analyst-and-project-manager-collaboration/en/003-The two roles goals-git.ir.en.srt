@@ -1,0 +1,214 @@
+1
+00:00:00,960 --> 00:00:05,680
+many wonder if one person
+can be both the project manager and the
+
+2
+00:00:05,680 --> 00:00:09,679
+ba on a project
+it's an important question to ask and
+
+3
+00:00:09,679 --> 00:00:13,040
+there are many factors that go into the
+answer
+
+4
+00:00:13,040 --> 00:00:16,080
+there are times when this can work and
+also times
+
+5
+00:00:16,080 --> 00:00:21,600
+i wouldn't recommend it let's look at
+the essence of what each role does
+
+6
+00:00:21,600 --> 00:00:26,960
+a project manager is responsible for
+delivering the work of the project
+
+7
+00:00:26,960 --> 00:00:31,760
+this often includes defining the work
+and delivering the work within a budget
+
+8
+00:00:31,760 --> 00:00:35,920
+and schedule
+with agreed upon quality levels a
+
+9
+00:00:35,920 --> 00:00:39,600
+business analyst
+is responsible for ensuring what the
+
+10
+00:00:39,600 --> 00:00:43,120
+project delivers
+is valuable and meets the needs of the
+
+11
+00:00:43,120 --> 00:00:47,200
+business and customers
+without one of these roles chaos can
+
+12
+00:00:47,200 --> 00:00:51,199
+break out
+lackluster results can ensue or simply
+
+13
+00:00:51,199 --> 00:00:56,559
+the project fails
+if a project has a pm and no ba
+
+14
+00:00:56,559 --> 00:01:01,840
+or no one performing the ba role or
+perhaps the ba role isn't done well
+
+15
+00:01:01,840 --> 00:01:05,199
+the project is at a high risk of
+building the wrong
+
+16
+00:01:05,199 --> 00:01:09,920
+thing this is realized when users get
+the product
+
+17
+00:01:09,920 --> 00:01:14,159
+and react that it's not what they needed
+often it's too late
+
+18
+00:01:14,159 --> 00:01:17,600
+and too much has been spent before
+leaders realize
+
+19
+00:01:17,600 --> 00:01:20,799
+that there's been waste in building the
+wrong thing
+
+20
+00:01:20,799 --> 00:01:27,360
+on the flip side if a project has a ba
+and no pm or no one performing the pm
+
+21
+00:01:27,360 --> 00:01:30,479
+role
+or the pm role isn't done well the
+
+22
+00:01:30,479 --> 00:01:34,320
+project has a high risk of running into
+schedule and budget issues
+
+23
+00:01:34,320 --> 00:01:38,640
+and the analysis takes too much priority
+over the budget and schedule
+
+24
+00:01:38,640 --> 00:01:41,920
+or potentially decision making is
+impeded
+
+25
+00:01:41,920 --> 00:01:47,840
+by focus on other areas depending on the
+project approach and methodology
+
+26
+00:01:47,840 --> 00:01:52,320
+various factors and roles can influence
+these dynamics
+
+27
+00:01:52,320 --> 00:01:55,759
+each project is different and the
+context can change
+
+28
+00:01:55,759 --> 00:02:01,759
+everything for example some projects
+follow a traditional approach with
+
+29
+00:02:01,759 --> 00:02:06,719
+formal plans and formal documentation
+and the size and complexity of the
+
+30
+00:02:06,719 --> 00:02:12,319
+project can be a big factor
+the larger the project the more a pm
+
+31
+00:02:12,319 --> 00:02:18,160
+and or multiple bas are needed
+if the project is quite small one person
+
+32
+00:02:18,160 --> 00:02:23,599
+may be able to play both roles
+on projects using a more agile approach
+
+33
+00:02:23,599 --> 00:02:26,560
+the pm
+role really depends on the enterprise
+
+34
+00:02:26,560 --> 00:02:30,239
+roles
+and context and the ba rule typically
+
+35
+00:02:30,239 --> 00:02:34,000
+depends on the complexity
+as well as the product owner's
+
+36
+00:02:34,000 --> 00:02:38,640
+availability and skill set
+having both roles represented is
+
+37
+00:02:38,640 --> 00:02:41,440
+critical
+and hopefully can lead to some healthy
+
+38
+00:02:41,440 --> 00:02:45,120
+conflict
+when what needs to be built conflicts
+
+39
+00:02:45,120 --> 00:02:48,640
+with the budget
+and schedule needs this is a healthy
+
+40
+00:02:48,640 --> 00:02:52,959
+conflict where both roles can balance
+the decision-making process
+
+41
+00:02:52,959 --> 00:02:56,400
+and help business leaders make critical
+decisions
+
+42
+00:02:56,400 --> 00:03:02,840
+this duo of PM and BA is an awesome duo
+to provide projects with the balance to
+
+43
+00:03:02,840 --> 00:03:05,840
+succeed
+

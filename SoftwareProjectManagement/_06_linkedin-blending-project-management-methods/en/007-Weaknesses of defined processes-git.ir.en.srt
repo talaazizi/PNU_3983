@@ -1,0 +1,574 @@
+1
+
+00:00:00,08 --> 00:00:02,08
+- Waterfall project management started
+
+
+
+2
+
+00:00:02,08 --> 00:00:05,03
+
+in manufacturing and construction.
+
+
+
+3
+
+00:00:05,03 --> 00:00:08,03
+
+It's linear nature makes complete sense.
+
+
+
+4
+
+00:00:08,03 --> 00:00:11,00
+
+Each phase had to be fully completed
+
+
+
+5
+
+00:00:11,00 --> 00:00:13,05
+
+before the next phase could begin.
+
+
+
+6
+
+00:00:13,05 --> 00:00:15,08
+
+For example, you can't put up drywall
+
+
+
+7
+
+00:00:15,08 --> 00:00:17,07
+
+before you lay your foundation,
+
+
+
+8
+
+00:00:17,07 --> 00:00:21,09
+
+you can't paint the car door if the car door isn't made yet.
+
+
+
+9
+
+00:00:21,09 --> 00:00:23,06
+
+In this type of environment,
+
+
+
+10
+
+00:00:23,06 --> 00:00:27,01
+
+waterfall methods have a very high success rate.
+
+
+
+11
+
+00:00:27,01 --> 00:00:31,02
+
+However, when waterfall and its defined process control
+
+
+
+12
+
+00:00:31,02 --> 00:00:34,00
+
+was moved into the realm of software development,
+
+
+
+13
+
+00:00:34,00 --> 00:00:36,07
+
+its success rates have dropped.
+
+
+
+14
+
+00:00:36,07 --> 00:00:39,03
+
+In the software realm, the failure rate
+
+
+
+15
+
+00:00:39,03 --> 00:00:43,03
+
+of waterfall projects is 29%.
+
+
+
+16
+
+00:00:43,03 --> 00:00:47,04
+
+Failure is defined as projects that are either canceled
+
+
+
+17
+
+00:00:47,04 --> 00:00:50,03
+
+or completed but the product isn't used.
+
+
+
+18
+
+00:00:50,03 --> 00:00:54,00
+
+At the same time, the failure rate of agile projects
+
+
+
+19
+
+00:00:54,00 --> 00:00:57,05
+
+came in at 9% for the same time frame
+
+
+
+20
+
+00:00:57,05 --> 00:01:00,00
+
+and with the same definition.
+
+
+
+21
+
+00:01:00,00 --> 00:01:02,09
+
+So why does waterfall frequently fail
+
+
+
+22
+
+00:01:02,09 --> 00:01:04,08
+
+in software development?
+
+
+
+23
+
+00:01:04,08 --> 00:01:08,00
+
+Well, first of all, software is not the same
+
+
+
+24
+
+00:01:08,00 --> 00:01:11,01
+
+as construction or manufacturing.
+
+
+
+25
+
+00:01:11,01 --> 00:01:13,06
+
+No two applications are the same.
+
+
+
+26
+
+00:01:13,06 --> 00:01:16,07
+
+Two cars can come off the assembly line exactly the same,
+
+
+
+27
+
+00:01:16,07 --> 00:01:19,06
+
+but no two applications are ever the same.
+
+
+
+28
+
+00:01:19,06 --> 00:01:21,08
+
+You can follow the same steps
+
+
+
+29
+
+00:01:21,08 --> 00:01:23,08
+
+in a software development project
+
+
+
+30
+
+00:01:23,08 --> 00:01:25,09
+
+and yield completely different results,
+
+
+
+31
+
+00:01:25,09 --> 00:01:27,08
+
+because software is different
+
+
+
+32
+
+00:01:27,08 --> 00:01:30,06
+
+and each application is so unique.
+
+
+
+33
+
+00:01:30,06 --> 00:01:32,08
+
+Another challenge with the waterfall process
+
+
+
+34
+
+00:01:32,08 --> 00:01:34,08
+
+is its inflexibility.
+
+
+
+35
+
+00:01:34,08 --> 00:01:37,03
+
+Each phase has to be fully completed
+
+
+
+36
+
+00:01:37,03 --> 00:01:39,01
+
+before the next phase can begin.
+
+
+
+37
+
+00:01:39,01 --> 00:01:41,09
+
+So if you learn something in the third phase
+
+
+
+38
+
+00:01:41,09 --> 00:01:45,02
+
+or the fourth phase, you can't go back and change it.
+
+
+
+39
+
+00:01:45,02 --> 00:01:46,05
+
+As you're developing software,
+
+
+
+40
+
+00:01:46,05 --> 00:01:48,06
+
+you're learning things as you're going through,
+
+
+
+41
+
+00:01:48,06 --> 00:01:51,02
+
+but it's difficult and expensive to go back
+
+
+
+42
+
+00:01:51,02 --> 00:01:54,01
+
+and make changes, because you're affecting your time
+
+
+
+43
+
+00:01:54,01 --> 00:01:56,05
+
+and you're affecting your cost.
+
+
+
+44
+
+00:01:56,05 --> 00:01:59,09
+
+Next, the separation of the phases
+
+
+
+45
+
+00:01:59,09 --> 00:02:02,08
+
+restricts teams from being able to adapt.
+
+
+
+46
+
+00:02:02,08 --> 00:02:06,02
+
+Again, you can't discover something in execution
+
+
+
+47
+
+00:02:06,02 --> 00:02:08,07
+
+and back up to planning, make some changes,
+
+
+
+48
+
+00:02:08,07 --> 00:02:12,04
+
+go forward, learn something, and back up again.
+
+
+
+49
+
+00:02:12,04 --> 00:02:15,09
+
+The impact of this defined process segmentation
+
+
+
+50
+
+00:02:15,09 --> 00:02:19,01
+
+is that teams will build what is designed
+
+
+
+51
+
+00:02:19,01 --> 00:02:21,09
+
+even if it's not the best thing to build,
+
+
+
+52
+
+00:02:21,09 --> 00:02:25,00
+
+because it's expensive to stop and change.
+
+
+
+53
+
+00:02:25,00 --> 00:02:28,02
+
+In the end, you end up with an unusable product.
+
+
+
+54
+
+00:02:28,02 --> 00:02:32,08
+
+Another challenge is that since each step is segmented,
+
+
+
+55
+
+00:02:32,08 --> 00:02:37,08
+
+each activity is separated, and it has an impact
+
+
+
+56
+
+00:02:37,08 --> 00:02:40,01
+
+on how you pull things together.
+
+
+
+57
+
+00:02:40,01 --> 00:02:44,00
+
+For example, you always test after development is complete.
+
+
+
+58
+
+00:02:44,00 --> 00:02:46,00
+
+By the time you get to the testing phase
+
+
+
+59
+
+00:02:46,00 --> 00:02:47,07
+
+of a waterfall project,
+
+
+
+60
+
+00:02:47,07 --> 00:02:49,06
+
+most of your software developers,
+
+
+
+61
+
+00:02:49,06 --> 00:02:52,07
+
+who were only temporarily assigned to your team,
+
+
+
+62
+
+00:02:52,07 --> 00:02:55,00
+
+have moved on to other projects.
+
+
+
+63
+
+00:02:55,00 --> 00:02:59,03
+
+When bugs are then found, you may not have any developers
+
+
+
+64
+
+00:02:59,03 --> 00:03:03,05
+
+left on your project to pull back and fix those bugs.
+
+
+
+65
+
+00:03:03,05 --> 00:03:06,00
+
+The result is that you end up with a lot of bugs
+
+
+
+66
+
+00:03:06,00 --> 00:03:08,01
+
+released into production.
+
+
+
+67
+
+00:03:08,01 --> 00:03:11,03
+
+Remember, waterfall methods can be successful
+
+
+
+68
+
+00:03:11,03 --> 00:03:13,01
+
+in certain contexts.
+
+
+
+69
+
+00:03:13,01 --> 00:03:15,03
+
+It's important to understand the weaknesses
+
+
+
+70
+
+00:03:15,03 --> 00:03:17,01
+
+of the defined process.
+
+
+
+71
+
+00:03:17,01 --> 00:03:21,01
+
+With this information, you can start your waterfall process
+
+
+
+72
+
+00:03:21,01 --> 00:03:22,07
+
+with full awareness.
+
+
