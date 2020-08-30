@@ -60,7 +60,7 @@
 ==Example==
 Given a network of seven nodes, source A, sink G, and capacities as shown below:
 
-[[https://github.com/Saharrajabi/PNU_3983/tree/master/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow/Edmonds-karp/images]]
+[[PNU_3983/AdvancedAlgorithms/VI Graph Algorithms/26 Maximum Flow/Edmonds-karp/images/300px-Edmonds-Karp_flow_example_0.svg.png ]]
 
 In the pairs <math>f/c</math> written on the edges, <math>f</math> is the current flow, and <math>c</math> is the capacity. The residual capacity from <math>u</math> to <math>v</math> is <math>c_f(u,v)=c(u,v)-f(u,v)</math>, the total capacity, minus the flow that is already used. If the net flow from <math>u</math> to <math>v</math> is negative, it ''contributes'' to the residual capacity.
 
