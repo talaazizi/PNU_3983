@@ -12,6 +12,7 @@ Chapter 1: Algorithm Analysis Methods
   - [@Big-oh]()
   - [@Big-omega]()
   - [@θ]()
+  - [@Order of growth]()
 
 
 
@@ -20,11 +21,12 @@ Chapter 1: Algorithm Analysis Methods
 
 
 + [لینک فیلم های آموزشی رایگان طراحی الگوریتم]()
+  - [@MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
   - [@1](http://minidars.ir/videos_categories/algorithm/)
   - [@2](https://www.aparat.com/v/AG6Pu?playlist=455888)
   - [@3](https://www.aparat.com/EhsanYasrebi)
 
-+ [لینک pdfهای دانشگاه MIT]()
+  
 ----------------------------------------------------------------------------------------------------------
 
 
