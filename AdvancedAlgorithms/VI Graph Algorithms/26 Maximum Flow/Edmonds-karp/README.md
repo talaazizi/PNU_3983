@@ -1,6 +1,6 @@
 ﻿# Edmonds-karp
 
-ماتریس رو در تابع جایگذاری می کنیم و فایل رو سیو می کنیم 
+ 
 
 > Edmonds-karp for Maximum Flow Problem
 
