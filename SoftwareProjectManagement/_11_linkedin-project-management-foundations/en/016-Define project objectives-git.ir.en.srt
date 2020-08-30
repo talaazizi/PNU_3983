@@ -1,0 +1,356 @@
+1
+00:00:00,560 --> 00:00:05,520
+once you define the project goal you can
+
+2
+00:00:03,120 --> 00:00:07,520
+flesh it out by identifying more
+
+3
+00:00:05,520 --> 00:00:10,160
+detailed objectives
+
+4
+00:00:07,520 --> 00:00:11,519
+they help define the project's scope the
+
+5
+00:00:10,160 --> 00:00:13,679
+approach you choose
+
+6
+00:00:11,519 --> 00:00:14,799
+and the success criteria you have to
+
+7
+00:00:13,679 --> 00:00:17,039
+meet
+
+8
+00:00:14,799 --> 00:00:18,800
+business objectives support your
+
+9
+00:00:17,039 --> 00:00:22,080
+organization's goals
+
+10
+00:00:18,800 --> 00:00:23,039
+for example increase market share to 25
+
+11
+00:00:22,080 --> 00:00:26,800
+percent
+
+12
+00:00:23,039 --> 00:00:30,400
+or provide world-class health care
+
+13
+00:00:26,800 --> 00:00:33,760
+financial objectives are all about money
+
+14
+00:00:30,400 --> 00:00:37,200
+think increasing revenue by 15 percent
+
+15
+00:00:33,760 --> 00:00:38,079
+or cutting costs by 10 percent quality
+
+16
+00:00:37,200 --> 00:00:41,520
+objectives
+
+17
+00:00:38,079 --> 00:00:43,760
+specify how good results need to be
+
+18
+00:00:41,520 --> 00:00:46,399
+the hospital might want to decrease
+
+19
+00:00:43,760 --> 00:00:50,480
+staph infections by 80 percent
+
+20
+00:00:46,399 --> 00:00:52,719
+or decrease readmittance by 75 percent
+
+21
+00:00:50,480 --> 00:00:54,160
+projects can also have technical
+
+22
+00:00:52,719 --> 00:00:55,840
+objectives
+
+23
+00:00:54,160 --> 00:00:58,079
+these are similar to technical
+
+24
+00:00:55,840 --> 00:01:00,399
+specifications for equipment
+
+25
+00:00:58,079 --> 00:01:01,520
+the hospital might want mobile equipment
+
+26
+00:01:00,399 --> 00:01:04,320
+that can be used
+
+27
+00:01:01,520 --> 00:01:05,040
+in the hospital an ambulance or at a
+
+28
+00:01:04,320 --> 00:01:08,240
+remote
+
+29
+00:01:05,040 --> 00:01:08,960
+emergency site there's also a catch-all
+
+30
+00:01:08,240 --> 00:01:11,920
+category
+
+31
+00:01:08,960 --> 00:01:14,479
+called performance your project might
+
+32
+00:01:11,920 --> 00:01:16,560
+need to finish by a specific date
+
+33
+00:01:14,479 --> 00:01:19,200
+the hospital has to use the government
+
+34
+00:01:16,560 --> 00:01:21,600
+grants before they expire
+
+35
+00:01:19,200 --> 00:01:23,600
+now let's talk about best practices for
+
+36
+00:01:21,600 --> 00:01:26,240
+documenting objectives
+
+37
+00:01:23,600 --> 00:01:27,040
+one way to define clear objectives is to
+
+38
+00:01:26,240 --> 00:01:30,960
+use
+
+39
+00:01:27,040 --> 00:01:33,920
+smart criteria specific objectives
+
+40
+00:01:30,960 --> 00:01:36,479
+are clear so there's no misunderstanding
+
+41
+00:01:33,920 --> 00:01:40,079
+about what you're supposed to achieve
+
+42
+00:01:36,479 --> 00:01:43,280
+for example increase revenue by 15
+
+43
+00:01:40,079 --> 00:01:44,000
+percent with vague objectives you
+
+44
+00:01:43,280 --> 00:01:46,000
+probably
+
+45
+00:01:44,000 --> 00:01:47,680
+won't get what the project customer had
+
+46
+00:01:46,000 --> 00:01:50,079
+in mind
+
+47
+00:01:47,680 --> 00:01:52,240
+measurable objectives make it easy to
+
+48
+00:01:50,079 --> 00:01:53,439
+see whether or not they have been
+
+49
+00:01:52,240 --> 00:01:56,079
+achieved
+
+50
+00:01:53,439 --> 00:01:58,000
+for example the hospital can measure the
+
+51
+00:01:56,079 --> 00:02:00,880
+decrease in readmittance or
+
+52
+00:01:58,000 --> 00:02:01,439
+revenue increase with qualitative
+
+53
+00:02:00,880 --> 00:02:04,880
+measures
+
+54
+00:02:01,439 --> 00:02:07,200
+you might use survey responses such as a
+
+55
+00:02:04,880 --> 00:02:09,200
+minimum patient satisfaction rating of
+
+56
+00:02:07,200 --> 00:02:12,319
+four and a half stars
+
+57
+00:02:09,200 --> 00:02:12,800
+achievable or realistic objectives spell
+
+58
+00:02:12,319 --> 00:02:15,040
+out
+
+59
+00:02:12,800 --> 00:02:16,640
+what you can do with the resources
+
+60
+00:02:15,040 --> 00:02:18,959
+available
+
+61
+00:02:16,640 --> 00:02:19,840
+challenging objectives can motivate
+
+62
+00:02:18,959 --> 00:02:22,160
+people
+
+63
+00:02:19,840 --> 00:02:25,840
+but your team might give up if they
+
+64
+00:02:22,160 --> 00:02:28,879
+think the objectives are impossible
+
+65
+00:02:25,840 --> 00:02:32,080
+time-related objectives identify when
+
+66
+00:02:28,879 --> 00:02:35,519
+they need to be achieved be sure to set
+
+67
+00:02:32,080 --> 00:02:38,080
+a clear target date for example
+
+68
+00:02:35,519 --> 00:02:39,360
+the government grants must be used by
+
+69
+00:02:38,080 --> 00:02:42,720
+december 31st
+
+70
+00:02:39,360 --> 00:02:44,480
+2020. now that the project goal and
+
+71
+00:02:42,720 --> 00:02:45,920
+objectives are identified
+
+72
+00:02:44,480 --> 00:02:47,599
+you work with the appropriate
+
+73
+00:02:45,920 --> 00:02:51,120
+stakeholders to perform
+
+74
+00:02:47,599 --> 00:02:53,920
+a benefit analysis that way
+
+75
+00:02:51,120 --> 00:02:54,239
+you can validate the project aligns with
+
+76
+00:02:53,920 --> 00:02:57,280
+the
+
+77
+00:02:54,239 --> 00:02:59,599
+organization's mission and strategy
+
+78
+00:02:57,280 --> 00:03:01,280
+and delivers the expected value to the
+
+79
+00:02:59,599 --> 00:03:03,599
+business
+
+80
+00:03:01,280 --> 00:03:04,959
+project objectives help flesh out the
+
+81
+00:03:03,599 --> 00:03:07,920
+project goal
+
+82
+00:03:04,959 --> 00:03:09,840
+and define project scope approach and
+
+83
+00:03:07,920 --> 00:03:12,480
+success criteria
+
+84
+00:03:09,840 --> 00:03:13,280
+the exercise files include an objectives
+
+85
+00:03:12,480 --> 00:03:15,519
+template
+
+86
+00:03:13,280 --> 00:03:17,200
+and a description of what the hospital
+
+87
+00:03:15,519 --> 00:03:20,480
+wants to achieve
+
+88
+00:03:17,200 --> 00:03:25,040
+use them to list and categorize the
+
+89
+00:03:20,480 --> 00:03:25,040
+hospital's objectives
+

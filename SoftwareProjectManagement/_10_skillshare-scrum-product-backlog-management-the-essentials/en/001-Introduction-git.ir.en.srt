@@ -1,0 +1,79 @@
+1
+00:00:00,256 --> 00:00:00,768
+Hi
+
+2
+00:00:01,024 --> 00:00:05,632
+I'm Bertil Muth and this is scrum product backlog management, The essentilas
+
+3
+00:00:06,144 --> 00:00:12,288
+The theory of backlog management is defined in the scrum guide I put a link to it in the about section of this class
+
+4
+00:00:13,824 --> 00:00:14,848
+Is the practice
+
+5
+00:00:15,360 --> 00:00:16,128
+Can get tricky sometimes
+
+6
+00:00:17,408 --> 00:00:22,016
+So instead of just teaching you the concepts of backlog management
+
+7
+00:00:22,272 --> 00:00:24,832
+I will walk you through a consistent example
+
+8
+00:00:25,344 --> 00:00:26,880
+From the product Vision
+
+9
+00:00:27,136 --> 00:00:29,696
+to discovering high level stories
+
+10
+00:00:30,208 --> 00:00:33,280
+to using a technique called story mapping
+
+11
+00:00:33,792 --> 00:00:35,840
+To derive the more detail
+
+12
+00:00:36,096 --> 00:00:39,936
+Stories and I will also teach you what to do in the scrum events
+
+13
+00:00:40,960 --> 00:00:47,104
+As this is an intermediate level class you should have a basic understanding of how
+
+14
+00:00:47,360 --> 00:00:48,384
+agile Software development and scrum
+
+15
+00:00:49,152 --> 00:00:49,664
+Works
+
+16
+00:00:50,176 --> 00:00:54,272
+If you need a short recap please watch my class agile
+
+17
+00:00:54,528 --> 00:00:55,552
+and scrum for beginners
+
+18
+00:00:56,320 --> 00:00:57,088
+And now
+
+19
+00:00:57,600 --> 00:00:58,880
+Without further ado,
+
+20
+00:00:59,392 --> 00:00:59,904
+Let's begin.

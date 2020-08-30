@@ -1,0 +1,812 @@
+1
+00:00:01,120 --> 00:00:04,960
+now let's go over some key concepts and
+
+2
+00:00:03,040 --> 00:00:07,839
+terms that are used in agile
+
+3
+00:00:04,960 --> 00:00:10,160
+let's start with user stories user
+
+4
+00:00:07,839 --> 00:00:12,559
+stories are basically product features
+
+5
+00:00:10,160 --> 00:00:14,160
+requirements or tasks that add value to
+
+6
+00:00:12,559 --> 00:00:16,320
+the end customer
+
+7
+00:00:14,160 --> 00:00:18,080
+and by adding value i mean that whatever
+
+8
+00:00:16,320 --> 00:00:20,160
+it is it's something that the end
+
+9
+00:00:18,080 --> 00:00:22,320
+customer would actually pay for
+
+10
+00:00:20,160 --> 00:00:23,439
+or they would find really valuable and
+
+11
+00:00:22,320 --> 00:00:25,119
+important
+
+12
+00:00:23,439 --> 00:00:27,760
+if something doesn't add value to the
+
+13
+00:00:25,119 --> 00:00:29,760
+customer then it can't be considered a
+
+14
+00:00:27,760 --> 00:00:33,120
+user story and should remain a task
+
+15
+00:00:29,760 --> 00:00:35,120
+subtask or requirement user stories are
+
+16
+00:00:33,120 --> 00:00:36,640
+written a specific format which you can
+
+17
+00:00:35,120 --> 00:00:40,000
+see on screen
+
+18
+00:00:36,640 --> 00:00:41,600
+for example as a customer i want to be
+
+19
+00:00:40,000 --> 00:00:42,559
+able to use my facebook login
+
+20
+00:00:41,600 --> 00:00:44,879
+credentials
+
+21
+00:00:42,559 --> 00:00:46,399
+to log into the e-commerce website so
+
+22
+00:00:44,879 --> 00:00:47,200
+that i don't have to create a new
+
+23
+00:00:46,399 --> 00:00:49,600
+account
+
+24
+00:00:47,200 --> 00:00:50,960
+as you can see this user story provides
+
+25
+00:00:49,600 --> 00:00:52,800
+value to the customer
+
+26
+00:00:50,960 --> 00:00:54,399
+since it helps him avoid creating a new
+
+27
+00:00:52,800 --> 00:00:57,440
+user and passwords
+
+28
+00:00:54,399 --> 00:01:00,079
+hence saving him time so
+
+29
+00:00:57,440 --> 00:01:02,000
+in agile we create user stories for all
+
+30
+00:01:00,079 --> 00:01:04,879
+project requirements and features
+
+31
+00:01:02,000 --> 00:01:06,799
+that add value to the customer and then
+
+32
+00:01:04,879 --> 00:01:07,760
+we add them to what we call the product
+
+33
+00:01:06,799 --> 00:01:10,080
+backlog
+
+34
+00:01:07,760 --> 00:01:11,920
+the product backlog basically contains
+
+35
+00:01:10,080 --> 00:01:13,040
+all the user stories that will be part
+
+36
+00:01:11,920 --> 00:01:15,439
+of the project
+
+37
+00:01:13,040 --> 00:01:16,479
+but of course in agile that can be a
+
+38
+00:01:15,439 --> 00:01:18,479
+changing list
+
+39
+00:01:16,479 --> 00:01:20,400
+since you must start with say 50 user
+
+40
+00:01:18,479 --> 00:01:23,840
+stories and over time
+
+41
+00:01:20,400 --> 00:01:25,600
+add 50 more how many you add or remove
+
+42
+00:01:23,840 --> 00:01:27,680
+will depend on what you and your team
+
+43
+00:01:25,600 --> 00:01:29,200
+define throughout execution
+
+44
+00:01:27,680 --> 00:01:31,439
+and you have the flexibility and
+
+45
+00:01:29,200 --> 00:01:33,759
+autonomy to define that
+
+46
+00:01:31,439 --> 00:01:35,520
+now the sprint backlog is just taking a
+
+47
+00:01:33,759 --> 00:01:36,479
+couple of user stories from your product
+
+48
+00:01:35,520 --> 00:01:38,720
+backlog
+
+49
+00:01:36,479 --> 00:01:40,320
+and adding them to your sprint and
+
+50
+00:01:38,720 --> 00:01:42,479
+committing to the delivery of those user
+
+51
+00:01:40,320 --> 00:01:45,119
+stories in that sprint
+
+52
+00:01:42,479 --> 00:01:45,600
+so basically it's the amount of work you
+
+53
+00:01:45,119 --> 00:01:48,159
+will do
+
+54
+00:01:45,600 --> 00:01:50,640
+in those two weeks remember that in
+
+55
+00:01:48,159 --> 00:01:52,399
+agile screens generally last two weeks
+
+56
+00:01:50,640 --> 00:01:54,399
+but you can make them three or four
+
+57
+00:01:52,399 --> 00:01:56,399
+weeks if you and your team define
+
+58
+00:01:54,399 --> 00:01:58,399
+that is what is best for you from
+
+59
+00:01:56,399 --> 00:02:01,280
+experience i recommend two weeks
+
+60
+00:01:58,399 --> 00:02:03,520
+but like i said that is not mandatory
+
+61
+00:02:01,280 --> 00:02:05,920
+and finally the story points
+
+62
+00:02:03,520 --> 00:02:08,399
+the story points simply denote the level
+
+63
+00:02:05,920 --> 00:02:10,800
+of complexity a user story has
+
+64
+00:02:08,399 --> 00:02:12,400
+so you assign story points to each user
+
+65
+00:02:10,800 --> 00:02:14,800
+story you create
+
+66
+00:02:12,400 --> 00:02:15,840
+personally i'm a big advocate of keeping
+
+67
+00:02:14,800 --> 00:02:17,680
+things simple
+
+68
+00:02:15,840 --> 00:02:19,440
+so generally i would recommend using a
+
+69
+00:02:17,680 --> 00:02:23,040
+basic scale of 1
+
+70
+00:02:19,440 --> 00:02:25,680
+3 and 5. one being low complexity
+
+71
+00:02:23,040 --> 00:02:27,520
+three being medium complexity and five
+
+72
+00:02:25,680 --> 00:02:29,280
+being high complexity
+
+73
+00:02:27,520 --> 00:02:31,040
+now don't worry too much about spending
+
+74
+00:02:29,280 --> 00:02:31,840
+a lot of time estimating your story
+
+75
+00:02:31,040 --> 00:02:34,319
+points
+
+76
+00:02:31,840 --> 00:02:36,640
+keep it simple follow your instinct
+
+77
+00:02:34,319 --> 00:02:38,480
+experience and gut feeling
+
+78
+00:02:36,640 --> 00:02:41,120
+how many story points is something you
+
+79
+00:02:38,480 --> 00:02:43,519
+can add to each user story as a team
+
+80
+00:02:41,120 --> 00:02:44,720
+or you can also ask the person working
+
+81
+00:02:43,519 --> 00:02:46,959
+on the user story
+
+82
+00:02:44,720 --> 00:02:48,239
+what level of complexity they consider
+
+83
+00:02:46,959 --> 00:02:50,239
+it has
+
+84
+00:02:48,239 --> 00:02:51,680
+the scale i have just suggested is just
+
+85
+00:02:50,239 --> 00:02:54,080
+an example of course
+
+86
+00:02:51,680 --> 00:02:56,720
+you can create your own scale or use
+
+87
+00:02:54,080 --> 00:02:58,560
+existing scales such as fibonacci
+
+88
+00:02:56,720 --> 00:03:00,400
+discuss with your team what scale they
+
+89
+00:02:58,560 --> 00:03:02,319
+want to use and use it
+
+90
+00:03:00,400 --> 00:03:03,519
+and if it doesn't work well after you
+
+91
+00:03:02,319 --> 00:03:04,080
+finish the sprint you'll have the
+
+92
+00:03:03,519 --> 00:03:05,680
+opportunity
+
+93
+00:03:04,080 --> 00:03:07,280
+to discuss that in your team's
+
+94
+00:03:05,680 --> 00:03:10,080
+retrospective or lessons
+
+95
+00:03:07,280 --> 00:03:11,360
+learned session and you can then adjust
+
+96
+00:03:10,080 --> 00:03:13,200
+as required
+
+97
+00:03:11,360 --> 00:03:14,560
+if you want to keep it simple then
+
+98
+00:03:13,200 --> 00:03:17,840
+follow my recommendation of
+
+99
+00:03:14,560 --> 00:03:19,680
+one three and five now let's go over the
+
+100
+00:03:17,840 --> 00:03:21,440
+concept of velocity
+
+101
+00:03:19,680 --> 00:03:23,760
+do you remember i said that velocity
+
+102
+00:03:21,440 --> 00:03:26,000
+relates to the speed of execution
+
+103
+00:03:23,760 --> 00:03:27,920
+well basically the velocity of an agile
+
+104
+00:03:26,000 --> 00:03:30,560
+project is the number of story points
+
+105
+00:03:27,920 --> 00:03:33,120
+the team delivers over a sprint
+
+106
+00:03:30,560 --> 00:03:34,159
+i'll repeat that the velocity of an
+
+107
+00:03:33,120 --> 00:03:36,319
+agile project
+
+108
+00:03:34,159 --> 00:03:38,159
+is the number of story points the team
+
+109
+00:03:36,319 --> 00:03:40,159
+delivers over a sprint
+
+110
+00:03:38,159 --> 00:03:42,319
+and of course you will see variations of
+
+111
+00:03:40,159 --> 00:03:44,159
+that especially at the beginning when
+
+112
+00:03:42,319 --> 00:03:45,040
+you are just learning how many user
+
+113
+00:03:44,159 --> 00:03:47,680
+stories you are
+
+114
+00:03:45,040 --> 00:03:49,840
+actually able to deliver as a team so at
+
+115
+00:03:47,680 --> 00:03:51,920
+the beginning you are kind of guessing
+
+116
+00:03:49,840 --> 00:03:53,840
+or estimating how many story points you
+
+117
+00:03:51,920 --> 00:03:56,159
+can deliver in a sprint
+
+118
+00:03:53,840 --> 00:03:58,000
+but after a couple of sprints you will
+
+119
+00:03:56,159 --> 00:03:58,720
+be able to average the number of story
+
+120
+00:03:58,000 --> 00:04:00,879
+points
+
+121
+00:03:58,720 --> 00:04:03,200
+and then conclude for example that on
+
+122
+00:04:00,879 --> 00:04:06,080
+average your team is able to deliver
+
+123
+00:04:03,200 --> 00:04:07,519
+20 story points per sprint and that is
+
+124
+00:04:06,080 --> 00:04:09,360
+your velocity
+
+125
+00:04:07,519 --> 00:04:11,680
+you will always be able to calculate
+
+126
+00:04:09,360 --> 00:04:13,280
+your velocity at the end of your sprint
+
+127
+00:04:11,680 --> 00:04:15,040
+once you have reviewed what you
+
+128
+00:04:13,280 --> 00:04:18,320
+delivered versus
+
+129
+00:04:15,040 --> 00:04:20,000
+what you had planned your velocity is
+
+130
+00:04:18,320 --> 00:04:21,519
+not what you had planned or what you
+
+131
+00:04:20,000 --> 00:04:23,520
+thought you would deliver
+
+132
+00:04:21,519 --> 00:04:25,440
+it's what you actually delivered in
+
+133
+00:04:23,520 --> 00:04:27,759
+story points
+
+134
+00:04:25,440 --> 00:04:29,280
+swim lanes are a visual representation
+
+135
+00:04:27,759 --> 00:04:32,000
+of the status of stories
+
+136
+00:04:29,280 --> 00:04:33,759
+on the agile kanban board but that is
+
+137
+00:04:32,000 --> 00:04:35,840
+better understood with an example
+
+138
+00:04:33,759 --> 00:04:36,800
+and a visual than by me explaining it
+
+139
+00:04:35,840 --> 00:04:38,880
+with words
+
+140
+00:04:36,800 --> 00:04:41,120
+so don't worry i'll add a link in your
+
+141
+00:04:38,880 --> 00:04:43,600
+lecture resources so you can check what
+
+142
+00:04:41,120 --> 00:04:44,560
+swim lanes look like and how you can use
+
+143
+00:04:43,600 --> 00:04:46,400
+them
+
+144
+00:04:44,560 --> 00:04:47,759
+now let's switch to one of my favorite
+
+145
+00:04:46,400 --> 00:04:51,600
+concepts in agile
+
+146
+00:04:47,759 --> 00:04:53,440
+the mvp and no this does not stand for
+
+147
+00:04:51,600 --> 00:04:56,720
+most valuable player
+
+148
+00:04:53,440 --> 00:05:00,160
+in agile mvp stands for minimum
+
+149
+00:04:56,720 --> 00:05:02,400
+viable product and basically it means
+
+150
+00:05:00,160 --> 00:05:04,800
+the bare minimum you can deliver to meet
+
+151
+00:05:02,400 --> 00:05:06,560
+your customers expectations
+
+152
+00:05:04,800 --> 00:05:08,000
+so if you think about the example we saw
+
+153
+00:05:06,560 --> 00:05:11,039
+earlier on the course
+
+154
+00:05:08,000 --> 00:05:14,320
+the mvp is the skateboard not
+
+155
+00:05:11,039 --> 00:05:15,919
+the ferrari and this is really powerful
+
+156
+00:05:14,320 --> 00:05:17,919
+because this will allow you to deliver
+
+157
+00:05:15,919 --> 00:05:20,160
+quickly and often
+
+158
+00:05:17,919 --> 00:05:20,960
+and iterate and build up and enhance
+
+159
+00:05:20,160 --> 00:05:25,440
+your solution
+
+160
+00:05:20,960 --> 00:05:27,440
+over time this is a key agile principle
+
+161
+00:05:25,440 --> 00:05:29,600
+a release as the name implies is when
+
+162
+00:05:27,440 --> 00:05:31,440
+you move your user stories to a
+
+163
+00:05:29,600 --> 00:05:34,320
+production environment
+
+164
+00:05:31,440 --> 00:05:36,320
+so when you make them live generally
+
+165
+00:05:34,320 --> 00:05:37,360
+agile teams make releases to production
+
+166
+00:05:36,320 --> 00:05:40,080
+once a month
+
+167
+00:05:37,360 --> 00:05:41,120
+so after two sprints but you might find
+
+168
+00:05:40,080 --> 00:05:43,440
+some agile team
+
+169
+00:05:41,120 --> 00:05:44,880
+making releases to production every four
+
+170
+00:05:43,440 --> 00:05:47,520
+sprints and not two
+
+171
+00:05:44,880 --> 00:05:47,919
+so every two months at the end of the
+
+172
+00:05:47,520 --> 00:05:50,080
+day
+
+173
+00:05:47,919 --> 00:05:51,440
+that is for the project team to decide
+
+174
+00:05:50,080 --> 00:05:53,360
+but remember
+
+175
+00:05:51,440 --> 00:05:56,240
+agile is about doing things quickly and
+
+176
+00:05:53,360 --> 00:05:58,639
+efficiently so the shorter the better
+
+177
+00:05:56,240 --> 00:06:00,240
+but don't push it too much be careful
+
+178
+00:05:58,639 --> 00:06:02,240
+with exaggerating
+
+179
+00:06:00,240 --> 00:06:04,479
+try to keep a good balance and releases
+
+180
+00:06:02,240 --> 00:06:07,680
+that keep the team comfortable
+
+181
+00:06:04,479 --> 00:06:09,199
+and finally the sprint by now you're
+
+182
+00:06:07,680 --> 00:06:10,000
+already familiar with what a sprint
+
+183
+00:06:09,199 --> 00:06:12,960
+means
+
+184
+00:06:10,000 --> 00:06:13,840
+but let's recap anyway a sprint is a
+
+185
+00:06:12,960 --> 00:06:15,680
+period of time
+
+186
+00:06:13,840 --> 00:06:17,280
+over which the team will deliver a set
+
+187
+00:06:15,680 --> 00:06:20,319
+of user stories
+
+188
+00:06:17,280 --> 00:06:21,360
+generally sprints last two weeks but
+
+189
+00:06:20,319 --> 00:06:23,360
+some teams
+
+190
+00:06:21,360 --> 00:06:24,479
+may have their sprints set up for three
+
+191
+00:06:23,360 --> 00:06:27,199
+or four weeks
+
+192
+00:06:24,479 --> 00:06:28,479
+and that's okay you need to define what
+
+193
+00:06:27,199 --> 00:06:30,560
+works best for you
+
+194
+00:06:28,479 --> 00:06:33,039
+and your team given your specific
+
+195
+00:06:30,560 --> 00:06:35,600
+context and project dynamics
+
+196
+00:06:33,039 --> 00:06:37,600
+but if you're unsure start with two
+
+197
+00:06:35,600 --> 00:06:39,520
+weeks and then change that to three or
+
+198
+00:06:37,600 --> 00:06:42,479
+four if required
+
+199
+00:06:39,520 --> 00:06:43,199
+remember in agile you're allowed to
+
+200
+00:06:42,479 --> 00:06:45,919
+experiment
+
+201
+00:06:43,199 --> 00:06:47,680
+so that you can review adapt and adjust
+
+202
+00:06:45,919 --> 00:06:51,599
+to whatever works best for you
+
+203
+00:06:47,680 --> 00:06:51,599
+and your team
+

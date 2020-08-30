@@ -1,0 +1,276 @@
+1
+00:00:00,640 --> 00:00:03,679
+at the very end of a project there are a
+
+2
+00:00:03,040 --> 00:00:07,200
+few
+
+3
+00:00:03,679 --> 00:00:10,800
+pesky but important details to tie up
+
+4
+00:00:07,200 --> 00:00:12,799
+first close any contracts you signed
+
+5
+00:00:10,800 --> 00:00:13,920
+if your project included a contract with
+
+6
+00:00:12,799 --> 00:00:16,080
+the customer
+
+7
+00:00:13,920 --> 00:00:18,080
+the signed acceptance form means the
+
+8
+00:00:16,080 --> 00:00:20,560
+customer agrees that the contract
+
+9
+00:00:18,080 --> 00:00:21,279
+is complete depending on the contract's
+
+10
+00:00:20,560 --> 00:00:23,920
+terms
+
+11
+00:00:21,279 --> 00:00:26,160
+you might have other things to do like
+
+12
+00:00:23,920 --> 00:00:29,359
+support the project's deliverables
+
+13
+00:00:26,160 --> 00:00:31,359
+or perform a follow-up in a few months
+
+14
+00:00:29,359 --> 00:00:33,920
+once the scheduling system is in
+
+15
+00:00:31,359 --> 00:00:36,160
+operation you'll run reports to see
+
+16
+00:00:33,920 --> 00:00:37,760
+whether hospital performance objectives
+
+17
+00:00:36,160 --> 00:00:40,640
+have been met
+
+18
+00:00:37,760 --> 00:00:41,120
+with vendor contracts confirm that they
+
+19
+00:00:40,640 --> 00:00:44,000
+did
+
+20
+00:00:41,120 --> 00:00:46,320
+what they're supposed to do then close
+
+21
+00:00:44,000 --> 00:00:48,320
+those contracts as well
+
+22
+00:00:46,320 --> 00:00:49,520
+what if another group picks up where
+
+23
+00:00:48,320 --> 00:00:52,399
+your project team
+
+24
+00:00:49,520 --> 00:00:53,120
+leaves off make sure that the ongoing
+
+25
+00:00:52,399 --> 00:00:55,120
+group is
+
+26
+00:00:53,120 --> 00:00:56,239
+ready to take over when the project
+
+27
+00:00:55,120 --> 00:00:59,440
+becomes part of
+
+28
+00:00:56,239 --> 00:01:02,160
+day-to-day operations for example
+
+29
+00:00:59,440 --> 00:01:04,640
+the hospital i.t department takes over
+
+30
+00:01:02,160 --> 00:01:06,640
+maintenance of the scheduling system
+
+31
+00:01:04,640 --> 00:01:08,960
+and the schedulers start using the
+
+32
+00:01:06,640 --> 00:01:11,360
+system in their daily work
+
+33
+00:01:08,960 --> 00:01:12,000
+as project manager help your team
+
+34
+00:01:11,360 --> 00:01:14,240
+transition
+
+35
+00:01:12,000 --> 00:01:15,439
+to their next assignments the best
+
+36
+00:01:14,240 --> 00:01:17,680
+approach is to give
+
+37
+00:01:15,439 --> 00:01:19,840
+functional managers advance notice that
+
+38
+00:01:17,680 --> 00:01:21,600
+their people will be available
+
+39
+00:01:19,840 --> 00:01:24,960
+then the managers can find new
+
+40
+00:01:21,600 --> 00:01:28,000
+assignments and plan the transitions
+
+41
+00:01:24,960 --> 00:01:30,400
+archive all your project information
+
+42
+00:01:28,000 --> 00:01:32,159
+archiving information electronically
+
+43
+00:01:30,400 --> 00:01:34,720
+makes it easy to find
+
+44
+00:01:32,159 --> 00:01:36,640
+and share depending on the technology
+
+45
+00:01:34,720 --> 00:01:38,560
+that's available in your company
+
+46
+00:01:36,640 --> 00:01:39,840
+you might keep your project files on a
+
+47
+00:01:38,560 --> 00:01:42,560
+network drive
+
+48
+00:01:39,840 --> 00:01:44,159
+in a database or a document management
+
+49
+00:01:42,560 --> 00:01:47,040
+system
+
+50
+00:01:44,159 --> 00:01:48,880
+finally close the accounts you use to
+
+51
+00:01:47,040 --> 00:01:51,280
+bill the project costs
+
+52
+00:01:48,880 --> 00:01:53,040
+for most projects you keep the financial
+
+53
+00:01:51,280 --> 00:01:55,759
+books open for a few months
+
+54
+00:01:53,040 --> 00:01:56,799
+after the project is complete that way
+
+55
+00:01:55,759 --> 00:01:59,680
+you can process
+
+56
+00:01:56,799 --> 00:02:00,240
+follow-on expenses like support to
+
+57
+00:01:59,680 --> 00:02:02,880
+prevent
+
+58
+00:02:00,240 --> 00:02:03,920
+erroneous charges close all the
+
+59
+00:02:02,880 --> 00:02:05,920
+accounting codes
+
+60
+00:02:03,920 --> 00:02:08,239
+except for the ones related to the
+
+61
+00:02:05,920 --> 00:02:10,479
+follow-up activities
+
+62
+00:02:08,239 --> 00:02:11,280
+with these tasks taken care of your
+
+63
+00:02:10,479 --> 00:02:14,720
+project
+
+64
+00:02:11,280 --> 00:02:15,920
+is truly complete and your assignment as
+
+65
+00:02:14,720 --> 00:02:19,200
+project manager
+
+66
+00:02:15,920 --> 00:02:22,160
+is over take a moment or two
+
+67
+00:02:19,200 --> 00:02:23,120
+to celebrate what you've accomplished
+
+68
+00:02:22,160 --> 00:02:28,000
+okay
+
+69
+00:02:23,120 --> 00:02:28,000
+now you're ready for your next project
+

@@ -1,0 +1,196 @@
+1
+00:00:00,880 --> 00:00:07,200
+finally planning is done
+
+2
+00:00:03,760 --> 00:00:09,760
+and the project is underway now
+
+3
+00:00:07,200 --> 00:00:11,840
+all the work you did in planning comes
+
+4
+00:00:09,760 --> 00:00:13,759
+into play as you push your project to
+
+5
+00:00:11,840 --> 00:00:15,920
+completion
+
+6
+00:00:13,759 --> 00:00:17,920
+executing a project starts with lining
+
+7
+00:00:15,920 --> 00:00:20,640
+up the people and other resources you
+
+8
+00:00:17,920 --> 00:00:23,119
+need to perform the work
+
+9
+00:00:20,640 --> 00:00:23,920
+once team members are on board they need
+
+10
+00:00:23,119 --> 00:00:26,320
+to know
+
+11
+00:00:23,920 --> 00:00:26,960
+their assignments who they're working
+
+12
+00:00:26,320 --> 00:00:30,000
+with
+
+13
+00:00:26,960 --> 00:00:33,200
+and how the project's going to go
+
+14
+00:00:30,000 --> 00:00:34,880
+that's what a kickoff meeting is for the
+
+15
+00:00:33,200 --> 00:00:36,399
+project sponsor and customer can
+
+16
+00:00:34,880 --> 00:00:38,559
+describe the mission
+
+17
+00:00:36,399 --> 00:00:39,520
+and get everybody jazzed about the
+
+18
+00:00:38,559 --> 00:00:41,680
+project
+
+19
+00:00:39,520 --> 00:00:42,640
+you can review the project plan and
+
+20
+00:00:41,680 --> 00:00:45,200
+explain
+
+21
+00:00:42,640 --> 00:00:46,160
+how things will work like communicating
+
+22
+00:00:45,200 --> 00:00:49,680
+or handling
+
+23
+00:00:46,160 --> 00:00:50,480
+change requests you also set up a place
+
+24
+00:00:49,680 --> 00:00:52,719
+to store
+
+25
+00:00:50,480 --> 00:00:54,480
+project information like your project
+
+26
+00:00:52,719 --> 00:00:57,600
+plan specifications
+
+27
+00:00:54,480 --> 00:01:01,359
+documents and reports it's
+
+28
+00:00:57,600 --> 00:01:04,640
+called a project notebook but these days
+
+29
+00:01:01,359 --> 00:01:04,960
+it's usually electronic lots of people
+
+30
+00:01:04,640 --> 00:01:07,840
+need
+
+31
+00:01:04,960 --> 00:01:09,760
+access to these files so be sure to set
+
+32
+00:01:07,840 --> 00:01:12,479
+your project notebook up where team
+
+33
+00:01:09,760 --> 00:01:15,600
+members can get to it
+
+34
+00:01:12,479 --> 00:01:17,840
+after that project execution represents
+
+35
+00:01:15,600 --> 00:01:20,960
+performing all the work you identified
+
+36
+00:01:17,840 --> 00:01:23,439
+in the work breakdown structure
+
+37
+00:01:20,960 --> 00:01:27,520
+monitoring and controlling your project
+
+38
+00:01:23,439 --> 00:01:30,479
+kick in at the same time as executing
+
+39
+00:01:27,520 --> 00:01:32,880
+monitoring means collecting data about
+
+40
+00:01:30,479 --> 00:01:35,280
+where the project stands
+
+41
+00:01:32,880 --> 00:01:37,360
+since projects never stick to the plans
+
+42
+00:01:35,280 --> 00:01:39,520
+you so carefully prepare
+
+43
+00:01:37,360 --> 00:01:40,640
+you have to figure out how to respond to
+
+44
+00:01:39,520 --> 00:01:44,399
+the changes
+
+45
+00:01:40,640 --> 00:01:47,439
+and surprises and problems that arise
+
+46
+00:01:44,399 --> 00:01:50,880
+controlling is about correcting course
+
+47
+00:01:47,439 --> 00:01:52,960
+to get your project back on track
+
+48
+00:01:50,880 --> 00:01:57,759
+in this chapter i'll talk about what
+
+49
+00:01:52,960 --> 00:01:57,759
+goes on during the executing phase
+

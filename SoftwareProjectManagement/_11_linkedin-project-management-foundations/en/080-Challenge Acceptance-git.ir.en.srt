@@ -1,0 +1,39 @@
+1
+00:00:05,700 --> 00:00:11,459
+At the end of a project, you use acceptance
+criteria to confirm that the project has completed
+
+2
+00:00:11,459 --> 00:00:17,640
+successfully for this challenge. Imagine you
+are a scheduler using a scheduling system
+
+3
+00:00:17,640 --> 00:00:23,980
+like the one in this course. What information
+and features do you think would be needed?
+
+4
+00:00:23,980 --> 00:00:29,500
+Use your answer to that question to create
+a high level set of acceptance criteria to
+
+5
+00:00:29,500 --> 00:00:37,300
+review with your sponsor and business representatives,
+spend about 20 minutes developing your criteria.
+
+6
+00:00:37,300 --> 00:00:41,630
+The exercise files include a list of scope
+items to consider while you're building your
+
+7
+00:00:41,630 --> 00:00:47,190
+list. After you complete this challenge, take
+a look at the acceptance criteria I came up
+
+8
+00:00:47,190 --> 00:00:47,370
+with.
+

@@ -1,0 +1,128 @@
+1
+00:00:00,719 --> 00:00:03,520
+when your project's deliverables are
+
+2
+00:00:02,560 --> 00:00:06,560
+complete
+
+3
+00:00:03,520 --> 00:00:08,880
+you might think the project is finished
+
+4
+00:00:06,560 --> 00:00:12,160
+but you have a few activities to perform
+
+5
+00:00:08,880 --> 00:00:14,880
+before you can call the project done
+
+6
+00:00:12,160 --> 00:00:16,480
+the most important part of closing is
+
+7
+00:00:14,880 --> 00:00:20,000
+getting the customer to agree
+
+8
+00:00:16,480 --> 00:00:24,000
+that the project completed successfully
+
+9
+00:00:20,000 --> 00:00:25,840
+you want to get acceptance in writing
+
+10
+00:00:24,000 --> 00:00:28,160
+the best way to do that is to hold a
+
+11
+00:00:25,840 --> 00:00:28,480
+meeting so the customer and stakeholders
+
+12
+00:00:28,160 --> 00:00:31,439
+can
+
+13
+00:00:28,480 --> 00:00:32,399
+sign the acceptance form the next
+
+14
+00:00:31,439 --> 00:00:35,280
+closing step
+
+15
+00:00:32,399 --> 00:00:36,640
+is to document lessons learned during
+
+16
+00:00:35,280 --> 00:00:38,640
+the project
+
+17
+00:00:36,640 --> 00:00:39,920
+you can improve the performance of
+
+18
+00:00:38,640 --> 00:00:42,640
+future projects
+
+19
+00:00:39,920 --> 00:00:43,760
+by identifying what worked well what
+
+20
+00:00:42,640 --> 00:00:47,760
+didn't
+
+21
+00:00:43,760 --> 00:00:50,000
+and how things can be done better third
+
+22
+00:00:47,760 --> 00:00:51,440
+produce final documentation and a
+
+23
+00:00:50,000 --> 00:00:54,399
+closeout report that
+
+24
+00:00:51,440 --> 00:00:56,320
+sums up the project's performance
+
+25
+00:00:54,399 --> 00:00:58,640
+finally it's time to close
+
+26
+00:00:56,320 --> 00:00:59,680
+contracts archive your project
+
+27
+00:00:58,640 --> 00:01:01,760
+information
+
+28
+00:00:59,680 --> 00:01:03,920
+and transition your team to their next
+
+29
+00:01:01,760 --> 00:01:06,640
+assignments
+
+30
+00:01:03,920 --> 00:01:07,840
+in this chapter i'll describe each of
+
+31
+00:01:06,640 --> 00:01:11,680
+these activities
+
+32
+00:01:07,840 --> 00:01:11,680
+in more detail
+

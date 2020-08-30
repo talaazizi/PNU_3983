@@ -1,0 +1,388 @@
+1
+00:00:00,799 --> 00:00:07,040
+with earned value analysis a project
+
+2
+00:00:03,760 --> 00:00:09,440
+earns value by completing work
+
+3
+00:00:07,040 --> 00:00:11,920
+it helps you evaluate project schedule
+
+4
+00:00:09,440 --> 00:00:15,280
+and cost performance
+
+5
+00:00:11,920 --> 00:00:17,760
+government projects typically require it
+
+6
+00:00:15,280 --> 00:00:19,520
+earned value analysis is helpful because
+
+7
+00:00:17,760 --> 00:00:22,880
+project measures can be
+
+8
+00:00:19,520 --> 00:00:24,880
+deceiving say fifty percent of your
+
+9
+00:00:22,880 --> 00:00:26,880
+project's duration has passed
+
+10
+00:00:24,880 --> 00:00:28,480
+and fifty percent of the budget has been
+
+11
+00:00:26,880 --> 00:00:31,359
+spent
+
+12
+00:00:28,480 --> 00:00:32,800
+sounds like things are right on track
+
+13
+00:00:31,359 --> 00:00:34,800
+but if only 25
+
+14
+00:00:32,800 --> 00:00:36,399
+of the work is complete there's a
+
+15
+00:00:34,800 --> 00:00:38,879
+problem
+
+16
+00:00:36,399 --> 00:00:39,520
+you have to finish 75 percent of the
+
+17
+00:00:38,879 --> 00:00:41,920
+work
+
+18
+00:00:39,520 --> 00:00:43,520
+with only 50 percent of the time and
+
+19
+00:00:41,920 --> 00:00:45,840
+money left
+
+20
+00:00:43,520 --> 00:00:48,719
+i don't know about you but i would not
+
+21
+00:00:45,840 --> 00:00:51,280
+count on that happening
+
+22
+00:00:48,719 --> 00:00:51,920
+earn value analysis uncovers problems
+
+23
+00:00:51,280 --> 00:00:53,920
+like these
+
+24
+00:00:51,920 --> 00:00:56,079
+because it looks at your schedule and
+
+25
+00:00:53,920 --> 00:01:00,399
+budget in monetary terms
+
+26
+00:00:56,079 --> 00:01:01,760
+over time of course costs are already
+
+27
+00:01:00,399 --> 00:01:03,840
+money based
+
+28
+00:01:01,760 --> 00:01:06,479
+but you also measure work in terms of
+
+29
+00:01:03,840 --> 00:01:09,840
+money by calculating how much it costs
+
+30
+00:01:06,479 --> 00:01:12,400
+for people to perform the work
+
+31
+00:01:09,840 --> 00:01:13,280
+earned value analysis is based on three
+
+32
+00:01:12,400 --> 00:01:15,439
+measures
+
+33
+00:01:13,280 --> 00:01:17,040
+calculated through the project status
+
+34
+00:01:15,439 --> 00:01:20,159
+date
+
+35
+00:01:17,040 --> 00:01:22,479
+first you measure planned value
+
+36
+00:01:20,159 --> 00:01:23,840
+that's how much you plan to spend to
+
+37
+00:01:22,479 --> 00:01:26,560
+complete the work
+
+38
+00:01:23,840 --> 00:01:27,600
+scheduled through the status date it's
+
+39
+00:01:26,560 --> 00:01:31,360
+also called
+
+40
+00:01:27,600 --> 00:01:33,439
+budgeted cost of work scheduled
+
+41
+00:01:31,360 --> 00:01:35,360
+say your baseline shows five thousand
+
+42
+00:01:33,439 --> 00:01:38,840
+dollars spent on a task
+
+43
+00:01:35,360 --> 00:01:41,040
+through may 12th that's the planned
+
+44
+00:01:38,840 --> 00:01:43,520
+value
+
+45
+00:01:41,040 --> 00:01:44,799
+second earned value is the amount of
+
+46
+00:01:43,520 --> 00:01:47,680
+money you've earned by
+
+47
+00:01:44,799 --> 00:01:51,280
+completing work his other name is
+
+48
+00:01:47,680 --> 00:01:54,399
+budgeted cost of work performed
+
+49
+00:01:51,280 --> 00:01:55,200
+say the team worked 30 hours through may
+
+50
+00:01:54,399 --> 00:01:57,360
+12th
+
+51
+00:01:55,200 --> 00:01:58,479
+and the planned labor cost for those
+
+52
+00:01:57,360 --> 00:02:01,119
+hours is three
+
+53
+00:01:58,479 --> 00:02:02,079
+thousand dollars through the may 12th
+
+54
+00:02:01,119 --> 00:02:03,759
+status date
+
+55
+00:02:02,079 --> 00:02:06,479
+the project has earned three thousand
+
+56
+00:02:03,759 --> 00:02:09,360
+dollars by completing that work
+
+57
+00:02:06,479 --> 00:02:11,599
+the third measure is the actual cost for
+
+58
+00:02:09,360 --> 00:02:13,840
+the completed work
+
+59
+00:02:11,599 --> 00:02:14,720
+suppose you brought in a more expensive
+
+60
+00:02:13,840 --> 00:02:19,440
+resource
+
+61
+00:02:14,720 --> 00:02:23,360
+so the labor cost is actually 3 500
+
+62
+00:02:19,440 --> 00:02:24,000
+that's your actual cost a graph of these
+
+63
+00:02:23,360 --> 00:02:26,239
+values
+
+64
+00:02:24,000 --> 00:02:28,400
+helps you see whether your project is on
+
+65
+00:02:26,239 --> 00:02:31,680
+schedule and within budget
+
+66
+00:02:28,400 --> 00:02:34,000
+here's how you read the graph time is
+
+67
+00:02:31,680 --> 00:02:37,280
+along the horizontal axis
+
+68
+00:02:34,000 --> 00:02:40,000
+and cost is on the vertical axis
+
+69
+00:02:37,280 --> 00:02:41,840
+you want to see earned value above
+
+70
+00:02:40,000 --> 00:02:44,160
+planned value
+
+71
+00:02:41,840 --> 00:02:45,840
+that means you've completed more work
+
+72
+00:02:44,160 --> 00:02:48,480
+than you planned
+
+73
+00:02:45,840 --> 00:02:50,720
+in other words the task or project is
+
+74
+00:02:48,480 --> 00:02:54,080
+ahead of schedule
+
+75
+00:02:50,720 --> 00:02:57,120
+you also want to see actual cost below
+
+76
+00:02:54,080 --> 00:02:57,599
+earned value that means you've actually
+
+77
+00:02:57,120 --> 00:02:59,440
+spent
+
+78
+00:02:57,599 --> 00:03:01,440
+less for the work you've completed than
+
+79
+00:02:59,440 --> 00:03:04,159
+you planned
+
+80
+00:03:01,440 --> 00:03:05,120
+in this example earned value is below
+
+81
+00:03:04,159 --> 00:03:08,239
+plan value
+
+82
+00:03:05,120 --> 00:03:12,080
+so the project is behind schedule
+
+83
+00:03:08,239 --> 00:03:14,400
+darn it on the other hand actual cost is
+
+84
+00:03:12,080 --> 00:03:17,760
+below earned value so the project is
+
+85
+00:03:14,400 --> 00:03:20,239
+under budget that's good news
+
+86
+00:03:17,760 --> 00:03:21,760
+earned value analysis has more measures
+
+87
+00:03:20,239 --> 00:03:22,879
+for evaluating your project's
+
+88
+00:03:21,760 --> 00:03:24,959
+performance
+
+89
+00:03:22,879 --> 00:03:26,239
+if you're interested in earned value
+
+90
+00:03:24,959 --> 00:03:29,840
+research this tool
+
+91
+00:03:26,239 --> 00:03:31,920
+in more detail in the meantime
+
+92
+00:03:29,840 --> 00:03:33,599
+there is an earned value graph in the
+
+93
+00:03:31,920 --> 00:03:35,840
+exercise files
+
+94
+00:03:33,599 --> 00:03:37,200
+for practice determine whether the
+
+95
+00:03:35,840 --> 00:03:40,480
+project shown in the graph
+
+96
+00:03:37,200 --> 00:03:44,959
+is ahead of or behind schedule and
+
+97
+00:03:40,480 --> 00:03:44,959
+over or under budget
+

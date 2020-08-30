@@ -1,0 +1,130 @@
+1
+00:00:00,700 --> 00:00:06,250
+It can be challenging to figure out who the
+stakeholders are for your project, which ones
+
+2
+00:00:06,250 --> 00:00:11,400
+are most important and the best way to work
+with them.
+
+3
+00:00:11,400 --> 00:00:17,170
+That's where the stakeholder analysis document
+comes in handy.
+
+4
+00:00:17,170 --> 00:00:21,900
+You can store information there as you identify
+stakeholders and learn about their part in
+
+5
+00:00:21,900 --> 00:00:23,970
+your project.
+
+6
+00:00:23,970 --> 00:00:29,090
+Identifying stakeholders and their part in
+the project doesn't happen all at once, you'll
+
+7
+00:00:29,090 --> 00:00:33,300
+figure all that out over the course of defining
+the project.
+
+8
+00:00:33,300 --> 00:00:39,170
+First, you need to know how your stakeholders
+are connected to your project and what motivates
+
+9
+00:00:39,170 --> 00:00:45,239
+them, start by including the department, business
+unit or company the stakeholder belongs to
+
+10
+00:00:45,239 --> 00:00:47,460
+and their position in the organization.
+
+11
+00:00:47,460 --> 00:00:52,690
+Next, determine who the stakeholder listens
+to.
+
+12
+00:00:52,690 --> 00:00:56,660
+That can help if you need to figure out how
+to deal with that stakeholder.
+
+13
+00:00:56,660 --> 00:01:03,710
+You can ask that person how to handle the
+stakeholder or ask them to help directly.
+
+14
+00:01:03,710 --> 00:01:09,090
+Identify the project objectives that the stakeholder
+cares about and how they prioritize those
+
+15
+00:01:09,090 --> 00:01:10,359
+objectives.
+
+16
+00:01:10,359 --> 00:01:16,850
+That way, you know which stakeholders to talk
+to if an issue comes up with an objective.
+
+17
+00:01:16,850 --> 00:01:22,999
+Categorize each stakeholder by their influence
+and interest in the project that helps you
+
+18
+00:01:22,999 --> 00:01:29,310
+prioritize stakeholders so you can manage
+the time you devote to working with them.
+
+19
+00:01:29,310 --> 00:01:34,359
+Finally document the stakeholders contributions
+to the project, so you know what to expect
+
+20
+00:01:34,359 --> 00:01:39,540
+from them or who to turn to for things you
+need for practice.
+
+21
+00:01:39,540 --> 00:01:45,380
+Use the stakeholder analysis spreadsheet included
+with this course, fill in information about
+
+22
+00:01:45,380 --> 00:01:48,799
+the stakeholders for one of your own projects.
+
+23
+00:01:48,799 --> 00:01:53,700
+In addition, the exercise files include a
+filled out stakeholder analysis spreadsheet
+
+24
+00:01:53,700 --> 00:01:56,999
+for the hospital scheduling project.
+
+25
+00:01:56,999 --> 00:02:02,539
+Keeping stakeholders happy can be overwhelming
+and time consuming if you don't know what
+
+26
+00:02:02,539 --> 00:02:05,880
+they want and how they're involved in your
+project.
+
+27
+00:02:05,880 --> 00:02:11,430
+That's why analyzing your project stakeholders
+is a key task during project initiation.
+

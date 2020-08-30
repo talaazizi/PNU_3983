@@ -1,0 +1,204 @@
+1
+00:00:00,640 --> 00:00:04,240
+your risk management plan includes the
+
+2
+00:00:02,960 --> 00:00:06,240
+risks you monitor
+
+3
+00:00:04,240 --> 00:00:08,800
+and the response you would use to handle
+
+4
+00:00:06,240 --> 00:00:10,719
+them now the project is underway
+
+5
+00:00:08,800 --> 00:00:13,120
+you need to keep your eyes peeled for
+
+6
+00:00:10,719 --> 00:00:15,839
+those risks becoming reality
+
+7
+00:00:13,120 --> 00:00:18,080
+and if they do you jump into action with
+
+8
+00:00:15,839 --> 00:00:20,720
+the appropriate response
+
+9
+00:00:18,080 --> 00:00:22,320
+in the risk management plan each risk
+
+10
+00:00:20,720 --> 00:00:25,119
+you decided to monitor
+
+11
+00:00:22,320 --> 00:00:27,119
+has an owner assigned that person's job
+
+12
+00:00:25,119 --> 00:00:30,400
+is to watch their assigned risk
+
+13
+00:00:27,119 --> 00:00:32,480
+and regularly update its status
+
+14
+00:00:30,400 --> 00:00:34,880
+let's take a look at what owning a risk
+
+15
+00:00:32,480 --> 00:00:37,840
+means in detail
+
+16
+00:00:34,880 --> 00:00:38,399
+before a risk occurs you proactively
+
+17
+00:00:37,840 --> 00:00:41,680
+implement
+
+18
+00:00:38,399 --> 00:00:42,640
+risk responses that means you take steps
+
+19
+00:00:41,680 --> 00:00:45,200
+to avoid
+
+20
+00:00:42,640 --> 00:00:46,559
+mitigate or plan contingencies for the
+
+21
+00:00:45,200 --> 00:00:48,640
+risk
+
+22
+00:00:46,559 --> 00:00:49,760
+then you watch for signs that high
+
+23
+00:00:48,640 --> 00:00:53,360
+priority risks
+
+24
+00:00:49,760 --> 00:00:54,320
+are unfolding also watch for the events
+
+25
+00:00:53,360 --> 00:00:57,760
+that trigger
+
+26
+00:00:54,320 --> 00:01:00,719
+a contingency plan when a risk occurs
+
+27
+00:00:57,760 --> 00:01:02,800
+launch the response you planned then
+
+28
+00:01:00,719 --> 00:01:06,320
+track the results
+
+29
+00:01:02,800 --> 00:01:10,080
+finally regularly report risk status
+
+30
+00:01:06,320 --> 00:01:12,720
+and update the risk log and detail sheet
+
+31
+00:01:10,080 --> 00:01:16,000
+upgrade or downgrade risk probability or
+
+32
+00:01:12,720 --> 00:01:18,720
+impact if situations have changed
+
+33
+00:01:16,000 --> 00:01:19,600
+sometimes risks go away as the project
+
+34
+00:01:18,720 --> 00:01:22,880
+progresses
+
+35
+00:01:19,600 --> 00:01:26,640
+and you can close them
+
+36
+00:01:22,880 --> 00:01:28,479
+don't forget about lower priority risks
+
+37
+00:01:26,640 --> 00:01:29,840
+changes in the project could bump up
+
+38
+00:01:28,479 --> 00:01:32,720
+their probability or
+
+39
+00:01:29,840 --> 00:01:34,880
+impact as a team check on them
+
+40
+00:01:32,720 --> 00:01:36,240
+occasionally to see if they should be
+
+41
+00:01:34,880 --> 00:01:39,360
+tracked
+
+42
+00:01:36,240 --> 00:01:41,360
+also watch for possible new risks that
+
+43
+00:01:39,360 --> 00:01:44,479
+have arisen due to changes
+
+44
+00:01:41,360 --> 00:01:45,280
+to the project managing and controlling
+
+45
+00:01:44,479 --> 00:01:48,560
+risks is
+
+46
+00:01:45,280 --> 00:01:51,200
+fairly easy as long as you have a plan
+
+47
+00:01:48,560 --> 00:01:51,759
+the exercise files include a scenario in
+
+48
+00:01:51,200 --> 00:01:55,040
+which of
+
+49
+00:01:51,759 --> 00:01:56,640
+risk comes to fruition for practice
+
+50
+00:01:55,040 --> 00:02:01,200
+think about what you would do in
+
+51
+00:01:56,640 --> 00:02:01,200
+response and why
+

@@ -1,4 +1,4 @@
-## AdvancedAlgorithms
+## Advanced Algorithms
 
 > درس الگوریتم پیشرفته - تابستان ۹۹
 
@@ -37,8 +37,8 @@
 ## V Advanced Data Structures
 - 18 B-Trees
 - 19 [Fibonacci Heap **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/19%20Fibonacci%20Heap)
-- 20 [Van Emde Boas Trees**](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/20%20Van%20Emde%20Boas%20Trees)
-- 21  [Data Structures for Disjoint Sets **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/21%20Data%20Structures%20for%20Disjoint%20Sets)
+- 20 [Van Emde Boas Trees **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/20%20Van%20Emde%20Boas%20Trees)
+- 21 [Data Structures for Disjoint Sets **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/21%20Data%20Structures%20for%20Disjoint%20Sets)
 ## VI Graph Algorithms
 - 22 Elementary Graph Algorithms
 - 23 Minimum Spanning Trees
@@ -76,30 +76,64 @@
   - [@abouhamze-fahime](https://github.com/abouhamze-fahime)
  
 
-+ [احمد نعمتی کزنقی](https://ahmad943.github.io/personal)  
-  - [@ahmad943](https://github.com/ahmad943)
- 
 
-+ [علی رضوان](https://ali-rezvan.github.io/)  
-  - [@ali-rezvan](https://github.com/ali-rezvan)
++ [علی ارجمند](https://arjmand08.github.io/resume/)  
+  - [@arjmand08](https://github.com/arjmand08)
   
   
-+ [علی رضا رزمجو](https://alirezarazmhoo.github.io/AlirezaRazmjoo.github.io/)  
-  - [@alirezarazmhoo](https://github.com/alirezarazmhoo)
 
-+ [سالار بهادر](https://salibhdr.github.io/resume/)  
-  - [@SaliBhdr](https://github.com/SaliBhdr)
++ [زهرا جمشیدی](https://zahrajamshidi.github.io/)  
+  - [@zahrajamshidi](http://github.com/zahrajamshidi)
   
   
+
 + [سیدعباس حسینی](http://abbas1991h.github.io/)  
   - [@abbas1991h](https://github.com/abbas1991h)
 
 
-+ [علی ارجمند](https://arjmand08.github.io/main/)  
-  - [@arjmand08](https://github.com/arjmand08)
+
++ [سحررجبی](https://saharrajabi.github.io )  
+  - [@saharrajabi](https://github.com/Saharrajabi)
+  
+  
++ [علی رضا رزمجو](https://alirezarazmhoo.github.io/AlirezaRazmjoo.github.io/)  
+  - [@alirezarazmhoo](https://github.com/alirezarazmhoo)
+  
+  
++ [علی رضوان](https://ali-rezvan.github.io/)  
+  - [@ali-rezvan](https://github.com/ali-rezvan)
+  
+  
++ [سالار بهادر](https://salibhdr.github.io/resume/)  
+  - [@SaliBhdr](https://github.com/SaliBhdr)
+  
+  
+  
++ [عباس صالحی](https://soheilemail.github.io/ )  
+  - [@soheilemail](https://github.com/soheilemail)
+
+
 
 + [محمد گنجی](https://mrganji9.github.io)  
-  - [@mrganji9](https://github.com/mrganji9)         
+  - [@mrganji9](https://github.com/mrganji9)
+  
+  
+  
++ [فریبا محمدی پور](https://Fmohammadipour.github.io)
+    - [@Fmohammadipour](https://github.com/Fmohammadipour)
+    
+    
++ [علی موسوی خرد](http://amkherad.ir/tabs/about/)  
+  - [@amkherad](http://github.com/amkherad)
+    
+    
++ [احمد نعمتی کزنقی](https://ahmad943.github.io/personal)  
+  - [@ahmad943](https://github.com/ahmad943)
+ 
++ [داودنصری](https://github.com/davoodnasri33/test2)  
+  - [@davoodnasri33](https://github.com/davoodnasri33)
+
+      
 ---
 ### راهنمای استفاده از دستورات گیت
 

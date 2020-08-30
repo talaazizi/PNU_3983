@@ -1,0 +1,224 @@
+1
+00:00:00,640 --> 00:00:04,160
+when work is underway you have to look
+
+2
+00:00:02,720 --> 00:00:07,120
+at the schedule and cost
+
+3
+00:00:04,160 --> 00:00:09,040
+to see where the project stands start
+
+4
+00:00:07,120 --> 00:00:10,080
+with a gantt chart that compares the
+
+5
+00:00:09,040 --> 00:00:13,120
+current schedule
+
+6
+00:00:10,080 --> 00:00:14,960
+to your baseline plan the position of
+
+7
+00:00:13,120 --> 00:00:17,840
+the taskbars in the time scale
+
+8
+00:00:14,960 --> 00:00:18,160
+shows whether tasks are ahead of behind
+
+9
+00:00:17,840 --> 00:00:21,039
+or
+
+10
+00:00:18,160 --> 00:00:23,199
+right on schedule in this example the
+
+11
+00:00:21,039 --> 00:00:25,760
+current taskbars for implementation
+
+12
+00:00:23,199 --> 00:00:28,240
+are scheduled later than the baseline so
+
+13
+00:00:25,760 --> 00:00:30,560
+they're behind schedule
+
+14
+00:00:28,240 --> 00:00:32,239
+variance values show the exact
+
+15
+00:00:30,560 --> 00:00:34,480
+difference between your baseline
+
+16
+00:00:32,239 --> 00:00:36,320
+and current schedule the finished
+
+17
+00:00:34,480 --> 00:00:40,000
+variance in this example
+
+18
+00:00:36,320 --> 00:00:41,920
+is negative 25 days you would have to
+
+19
+00:00:40,000 --> 00:00:45,440
+shorten the remaining schedule by
+
+20
+00:00:41,920 --> 00:00:47,680
+25 days to get it back on track
+
+21
+00:00:45,440 --> 00:00:49,760
+homing in on problem tasks helps you
+
+22
+00:00:47,680 --> 00:00:52,239
+identify what you need to change
+
+23
+00:00:49,760 --> 00:00:54,000
+to keep your schedule on track
+
+24
+00:00:52,239 --> 00:00:56,840
+scheduling programs include
+
+25
+00:00:54,000 --> 00:00:59,039
+tools that provide early warning of
+
+26
+00:00:56,840 --> 00:01:01,359
+delays for example
+
+27
+00:00:59,039 --> 00:01:03,440
+look for incomplete tasks that are
+
+28
+00:01:01,359 --> 00:01:05,760
+running behind schedule
+
+29
+00:01:03,440 --> 00:01:06,640
+or tasks that should have started but
+
+30
+00:01:05,760 --> 00:01:09,200
+haven't
+
+31
+00:01:06,640 --> 00:01:11,040
+or tasks where work hours are behind
+
+32
+00:01:09,200 --> 00:01:13,040
+schedule
+
+33
+00:01:11,040 --> 00:01:15,200
+in addition to the schedule you also
+
+34
+00:01:13,040 --> 00:01:18,240
+need to compare project costs
+
+35
+00:01:15,200 --> 00:01:21,119
+to what was budgeted cost variances
+
+36
+00:01:18,240 --> 00:01:22,159
+are perfect for that if the project is
+
+37
+00:01:21,119 --> 00:01:25,360
+over budget
+
+38
+00:01:22,159 --> 00:01:26,000
+you need to find out why maybe scope
+
+39
+00:01:25,360 --> 00:01:29,119
+creep is to
+
+40
+00:01:26,000 --> 00:01:30,240
+blame work was done without adding
+
+41
+00:01:29,119 --> 00:01:32,640
+budget for it
+
+42
+00:01:30,240 --> 00:01:35,600
+or tasks may be taking longer than plans
+
+43
+00:01:32,640 --> 00:01:39,119
+so labor costs are higher
+
+44
+00:01:35,600 --> 00:01:41,840
+work might be going faster than planned
+
+45
+00:01:39,119 --> 00:01:44,000
+that incurs cost faster so it looks like
+
+46
+00:01:41,840 --> 00:01:45,920
+it's over budget at that point
+
+47
+00:01:44,000 --> 00:01:48,000
+if the work required follows your
+
+48
+00:01:45,920 --> 00:01:51,600
+estimate the cost at the end
+
+49
+00:01:48,000 --> 00:01:53,759
+will be back within budget once you see
+
+50
+00:01:51,600 --> 00:01:56,320
+where the project stands and identify
+
+51
+00:01:53,759 --> 00:01:58,880
+problems you'll have the info you need
+
+52
+00:01:56,320 --> 00:02:01,040
+to come up with solutions
+
+53
+00:01:58,880 --> 00:02:02,640
+take a look at the project schedule and
+
+54
+00:02:01,040 --> 00:02:05,520
+costs in the exercise
+
+55
+00:02:02,640 --> 00:02:09,280
+files and identify issues you might need
+
+56
+00:02:05,520 --> 00:02:09,280
+to address
+

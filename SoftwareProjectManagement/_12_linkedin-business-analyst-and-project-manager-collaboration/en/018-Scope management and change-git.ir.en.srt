@@ -1,0 +1,174 @@
+1
+00:00:00,710 --> 00:00:06,680
+I once heard a PM say that a project manager,
+his biggest fear of a business analyst is
+
+2
+00:00:06,680 --> 00:00:08,250
+scope creep.
+
+3
+00:00:08,250 --> 00:00:09,370
+I get it.
+
+4
+00:00:09,370 --> 00:00:15,380
+The PM is concerned that when eliciting requirements,
+A BA will agree to stakeholder's requests
+
+5
+00:00:15,380 --> 00:00:20,810
+for some more scope and the PM schedule and
+budgeter that impacted.
+
+6
+00:00:20,810 --> 00:00:26,149
+As I've grown in my BA career, I've also learned
+to appreciate that some scope creep is good
+
+7
+00:00:26,149 --> 00:00:32,460
+and needed, scope creep happens in many ways,
+and no matter how it happens, it needs to
+
+8
+00:00:32,460 --> 00:00:35,359
+be a collaborative discussion.
+
+9
+00:00:35,359 --> 00:00:40,980
+Some scope creep is not great for projects
+and some is absolutely needed to ensure that
+
+10
+00:00:40,980 --> 00:00:43,489
+the solution delivers value.
+
+11
+00:00:43,489 --> 00:00:46,000
+Let's dig into some more.
+
+12
+00:00:46,000 --> 00:00:53,730
+Pat the PM and Bailey the BA are working hard
+on the CRM project with so many impacted groups
+
+13
+00:00:53,730 --> 00:00:59,170
+as they understand more about what's coming
+changes and what's needed are evolving and
+
+14
+00:00:59,170 --> 00:01:03,110
+being discussed at a furious pace.
+
+15
+00:01:03,110 --> 00:01:08,350
+Pat and Bailey must find a way to get all
+of us under control, they worked together
+
+16
+00:01:08,350 --> 00:01:14,399
+to define and manage the change process for
+when they have changes to requirements.
+
+17
+00:01:14,399 --> 00:01:19,390
+This is easier when iterations are short and
+work in progress is small.
+
+18
+00:01:19,390 --> 00:01:22,600
+Agile teams experience this with their work.
+
+19
+00:01:22,600 --> 00:01:28,310
+However, teams that have a larger work in
+progress and longer iterations need to manage
+
+20
+00:01:28,310 --> 00:01:34,590
+change carefully.So what do Pat and Bailey
+need to do to manage scope?
+
+21
+00:01:34,590 --> 00:01:39,640
+Well, they agree on a baseline from which
+changes will be managed.
+
+22
+00:01:39,640 --> 00:01:45,869
+Then, when a potential change comes up, they
+agree on how they'll do things like identify
+
+23
+00:01:45,869 --> 00:01:52,930
+what the changes, discuss if it's feasible,
+discuss if it's the right thing to do to get
+
+24
+00:01:52,930 --> 00:01:56,439
+the outcome the project needs.
+
+25
+00:01:56,439 --> 00:02:01,630
+Discuss the impact to the quality, scope,
+budget and schedule.
+
+26
+00:02:01,630 --> 00:02:08,039
+And bring options and a decision for the leaders
+to make some techniques that help keep all
+
+27
+00:02:08,039 --> 00:02:09,039
+of us organized.
+
+28
+00:02:09,039 --> 00:02:16,610
+Are things like a change log and a decision
+log to track changes and decisions and a change
+
+29
+00:02:16,610 --> 00:02:22,310
+intake checklist to make sure Pat and Bailey
+have the needed information to further develop
+
+30
+00:02:22,310 --> 00:02:29,630
+the options and also a traceability matrix
+which helps them see which requirements tied
+
+31
+00:02:29,630 --> 00:02:34,110
+to what outcomes, teams, designs and tests.
+
+32
+00:02:34,110 --> 00:02:40,321
+Together, Pat and Bailey make change an easy
+process for the team and stakeholders, pat
+
+33
+00:02:40,321 --> 00:02:43,790
+and Bailey trust one another with scope and
+changes.
+
+34
+00:02:43,790 --> 00:02:49,880
+The stakeholders see this and in turn, trust
+them to bring the right decisions and options
+
+35
+00:02:49,880 --> 00:02:52,450
+to leaders.
+
+36
+00:02:52,450 --> 00:02:57,920
+Scope changes and scope management should
+be a positive, not something to fear with
+
+37
+00:02:57,920 --> 00:03:03,440
+the right mindset and collaboration, the right
+scope will become more obvious to everyone.
+

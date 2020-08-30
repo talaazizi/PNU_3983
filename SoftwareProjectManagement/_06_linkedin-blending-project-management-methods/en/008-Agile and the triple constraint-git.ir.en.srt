@@ -1,0 +1,582 @@
+1
+
+00:00:00,06 --> 00:00:03,03
+- All projects face the triple constraints
+
+
+
+2
+
+00:00:03,03 --> 00:00:06,00
+
+of time, cost, and scope.
+
+
+
+3
+
+00:00:06,00 --> 00:00:10,06
+
+So, how does Agile handle the triple constraint differently?
+
+
+
+4
+
+00:00:10,06 --> 00:00:13,08
+
+Well, Waterfall is plan driven.
+
+
+
+5
+
+00:00:13,08 --> 00:00:17,06
+
+That means that all three constraints are fixed.
+
+
+
+6
+
+00:00:17,06 --> 00:00:21,03
+
+It assumes a perfect world where time, cost, and scope
+
+
+
+7
+
+00:00:21,03 --> 00:00:23,03
+
+are always locked, and all the work
+
+
+
+8
+
+00:00:23,03 --> 00:00:26,06
+
+can be completed exactly as we envision it.
+
+
+
+9
+
+00:00:26,06 --> 00:00:32,08
+
+But in reality, time and cost flex on Waterfall projects.
+
+
+
+10
+
+00:00:32,08 --> 00:00:35,01
+
+That's because as the teams
+
+
+
+11
+
+00:00:35,01 --> 00:00:37,03
+
+learn things throughout the process,
+
+
+
+12
+
+00:00:37,03 --> 00:00:39,08
+
+they identify changes that need to be made,
+
+
+
+13
+
+00:00:39,08 --> 00:00:41,02
+
+and they go through a change control
+
+
+
+14
+
+00:00:41,02 --> 00:00:42,04
+
+process to include them.
+
+
+
+15
+
+00:00:42,04 --> 00:00:44,09
+
+The result is that Waterfall projects
+
+
+
+16
+
+00:00:44,09 --> 00:00:48,03
+
+are almost always late or over budget.
+
+
+
+17
+
+00:00:48,03 --> 00:00:51,03
+
+Agile acknowledges an imperfect world,
+
+
+
+18
+
+00:00:51,03 --> 00:00:55,02
+
+and it literally flips the constraint model on its head.
+
+
+
+19
+
+00:00:55,02 --> 00:01:00,00
+
+Time and cost are fixed, but scope is flexible.
+
+
+
+20
+
+00:01:00,00 --> 00:01:02,09
+
+This is what's called a value-driven model.
+
+
+
+21
+
+00:01:02,09 --> 00:01:06,06
+
+The focus in Agile is on delivering valuable product
+
+
+
+22
+
+00:01:06,06 --> 00:01:08,08
+
+that will provide an organization
+
+
+
+23
+
+00:01:08,08 --> 00:01:10,09
+
+a return on its investment.
+
+
+
+24
+
+00:01:10,09 --> 00:01:14,02
+
+So if you fix the time, and you fix the cost,
+
+
+
+25
+
+00:01:14,02 --> 00:01:17,03
+
+you know that you'll get something valuable
+
+
+
+26
+
+00:01:17,03 --> 00:01:18,07
+
+out of that time and cost,
+
+
+
+27
+
+00:01:18,07 --> 00:01:21,00
+
+no matter what you learn in the process.
+
+
+
+28
+
+00:01:21,00 --> 00:01:24,08
+
+So, how do you put the value-driven model into practice?
+
+
+
+29
+
+00:01:24,08 --> 00:01:26,04
+
+Well, the first thing you're going to do
+
+
+
+30
+
+00:01:26,04 --> 00:01:29,02
+
+is set the time and cost at the beginning.
+
+
+
+31
+
+00:01:29,02 --> 00:01:32,09
+
+For example, maybe a business unit wants something done,
+
+
+
+32
+
+00:01:32,09 --> 00:01:35,04
+
+they have this much time and this much money.
+
+
+
+33
+
+00:01:35,04 --> 00:01:37,09
+
+You've locked that in, they know exactly how long
+
+
+
+34
+
+00:01:37,09 --> 00:01:40,07
+
+it's going to take, and what it's going to cost them.
+
+
+
+35
+
+00:01:40,07 --> 00:01:44,09
+
+The next thing you do, is you add scope to the backlog.
+
+
+
+36
+
+00:01:44,09 --> 00:01:46,09
+
+When you do that, what you're saying is,
+
+
+
+37
+
+00:01:46,09 --> 00:01:50,05
+
+we believe that these are the things that we can get done
+
+
+
+38
+
+00:01:50,05 --> 00:01:55,02
+
+within the established time and within the established cost.
+
+
+
+39
+
+00:01:55,02 --> 00:01:59,01
+
+Then, once you have that scope outlined in the backlog,
+
+
+
+40
+
+00:01:59,01 --> 00:02:03,03
+
+You're going to prioritize the highest value items to the top.
+
+
+
+41
+
+00:02:03,03 --> 00:02:06,01
+
+So what are the advantages of this model?
+
+
+
+42
+
+00:02:06,01 --> 00:02:07,07
+
+Well first of all, the customer
+
+
+
+43
+
+00:02:07,07 --> 00:02:10,08
+
+has a known schedule and known cost.
+
+
+
+44
+
+00:02:10,08 --> 00:02:15,04
+
+There's no schedule or cost overruns in this model.
+
+
+
+45
+
+00:02:15,04 --> 00:02:18,04
+
+The other thing that the customer has
+
+
+
+46
+
+00:02:18,04 --> 00:02:21,08
+
+is the recognition that scope is evolutionary.
+
+
+
+47
+
+00:02:21,08 --> 00:02:25,01
+
+They're always going to receive something of value
+
+
+
+48
+
+00:02:25,01 --> 00:02:27,07
+
+because they've entrusted with their product owner
+
+
+
+49
+
+00:02:27,07 --> 00:02:30,02
+
+to make sure that the highest value items
+
+
+
+50
+
+00:02:30,02 --> 00:02:32,07
+
+are prioritized at the top of the list
+
+
+
+51
+
+00:02:32,07 --> 00:02:37,03
+
+during that defined schedule and for that defined cost.
+
+
+
+52
+
+00:02:37,03 --> 00:02:40,00
+
+So how do you manage changes?
+
+
+
+53
+
+00:02:40,00 --> 00:02:42,02
+
+So if something changes, when you
+
+
+
+54
+
+00:02:42,02 --> 00:02:44,06
+
+learn something in an Agile project,
+
+
+
+55
+
+00:02:44,06 --> 00:02:48,00
+
+there's absolutely no formal process
+
+
+
+56
+
+00:02:48,00 --> 00:02:52,00
+
+for doing a change control or change request process,
+
+
+
+57
+
+00:02:52,00 --> 00:02:53,03
+
+there's no approval.
+
+
+
+58
+
+00:02:53,03 --> 00:02:56,06
+
+The product owner is the one that owns that backlog.
+
+
+
+59
+
+00:02:56,06 --> 00:02:59,09
+
+Since they own that backlog, they're the ones deciding
+
+
+
+60
+
+00:02:59,09 --> 00:03:02,08
+
+what is the highest priority item to do next.
+
+
+
+61
+
+00:03:02,08 --> 00:03:05,05
+
+And that moves to the top of the backlog.
+
+
+
+62
+
+00:03:05,05 --> 00:03:08,08
+
+As change is logged into the backlog,
+
+
+
+63
+
+00:03:08,08 --> 00:03:11,08
+
+then you know that those items,
+
+
+
+64
+
+00:03:11,08 --> 00:03:15,01
+
+whatever's at the top is actually going to get done,
+
+
+
+65
+
+00:03:15,01 --> 00:03:16,04
+
+and change is expected.
+
+
+
+66
+
+00:03:16,04 --> 00:03:20,01
+
+So there's no surprises, there's no formal process.
+
+
+
+67
+
+00:03:20,01 --> 00:03:24,09
+
+Agile projects, then, begin with a defined valuable outcome,
+
+
+
+68
+
+00:03:24,09 --> 00:03:27,09
+
+and the scope changes throughout the project
+
+
+
+69
+
+00:03:27,09 --> 00:03:31,06
+
+to ensure that outcome is delivered.
+
+
+
+70
+
+00:03:31,06 --> 00:03:33,03
+
+Now that you know how Agile
+
+
+
+71
+
+00:03:33,03 --> 00:03:35,04
+
+addresses the triple constraints,
+
+
+
+72
+
+00:03:35,04 --> 00:03:37,08
+
+you can help your leaders understand
+
+
+
+73
+
+00:03:37,08 --> 00:03:40,05
+
+what to expect from an Agile project.
+
+

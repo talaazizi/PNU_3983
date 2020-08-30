@@ -1,656 +1,592 @@
 1
 00:00:00.06 --> 00:00:02.03
-- In the past, it was possible
+در گذشته امکان پذیر بود
 
 2
 00:00:02.03 --> 00:00:06.01
-to set up multiple YouTube
-channels tied to one ID
+که چندین کانال یوتیوب با یک آی دی ایجاد شود
 
 3
 00:00:06.01 --> 00:00:09.00
-but Google recently made
-a change to brand accounts
+اما گوگل اخیراً تغییری در حسابهای تجاری ایجاد کرده است
 
 4
 00:00:09.00 --> 00:00:10.08
-that makes it a little bit easier
+این کار را مدیریت کانالها و سایر ویژگیهای گوگل را
 
 5
 00:00:10.08 --> 00:00:14.01
-to manage channels as well
-as other Google properties
+کمی آسان تر می کند
 
 6
 00:00:14.01 --> 00:00:16.00
-that you might be taking advantage of.
+و شما ممکن است از آن استفاده کنید
 
 7
 00:00:16.00 --> 00:00:19.08
-For example, Google+ pages
-plus Google photo pages
+به طور مثال صفحات گوگل پلاس و گوگل فوتو
 
 8
 00:00:19.08 --> 00:00:22.02
-and Google business pages
-can all tie together
+و صفحات تجاری گوگل می توانند با هم
 
 9
 00:00:22.02 --> 00:00:24.02
-into a YouTube channel as well.
+یک صفحه را تشکیل دهند
 
 10
 00:00:24.02 --> 00:00:25.05
-And what really happens here
+و واقعاً در اینجا چیزی که اتفاقی می افتد
 
 11
 00:00:25.05 --> 00:00:28.04
-is you might have a few
-managers behind the scenes
+این است که ممکن است شما در پشت صحنه چند مدیر داشته باشید
 
 12
 00:00:28.04 --> 00:00:31.02
-who control an overall channel.
+که یک کانال کلی را کنترل می کنند
 
 13
 00:00:31.02 --> 00:00:34.02
-Well, this is all done through
-the use of a brand account
+اینها همه با استفاده از یک حساب کاربری برند انجام می شود
 
 14
 00:00:34.02 --> 00:00:36.09
-and it's important that you
-know how to set these up.
+و این مهم است که شما بدانید که چگونه این موارد را تنظیم کنید.
 
 15
 00:00:36.09 --> 00:00:38.09
-What is a brand account?
+حساب تجاری (برند) چیست؟
 
 16
 00:00:38.09 --> 00:00:40.09
-Well, a brand account is
-pretty straight forward
+خوب ، یک حساب کاربری تجاری کاملاً رو به جلو است
 
 17
 00:00:40.09 --> 00:00:43.03
-and if you're familiar with
-a tool like a Facebook page,
+و اگر با ابزاری مانند صفحه فیس بوک آشنا هستید
 
 18
 00:00:43.03 --> 00:00:45.07
-it's almost the same concept.
+این تقریباً همان مفهوم است.
 
 19
 00:00:45.07 --> 00:00:48.06
-In this case, these are separate accounts
+در این حالت ، اینها حسابهای جداگانه هستند
 
 20
 00:00:48.06 --> 00:00:51.08
-that are managed by one
-or more personal account.
+که توسط یک یا چند حساب شخصی اداره می شوند.
 
 21
 00:00:51.08 --> 00:00:53.07
-So, for example, when we're publishing
+به عنوان مثال ، هنگامی که ما تحت نام تجاری Photo Focus
 
 22
 00:00:53.07 --> 00:00:55.03
-under the Photo Focus brand,
+ما در حال انتشار هستیم
 
 23
 00:00:55.03 --> 00:00:57.04
-I've got multiple editors and authors
+چندین ویراستار و نویسنده دارم
 
 24
 00:00:57.04 --> 00:01:00.07
-who can access the same page.
+که می تواند به همان صفحه دسترسی پیدا کند.
 
 25
 00:01:00.07 --> 00:01:03.00
-These are typically used
-for business purposes
+اینها معمولاً برای اهداف تجاری 
 
 26
 00:01:03.00 --> 00:01:06.03
-or branding purposes so you're
-not representing yourself
+و یا اهداف برندسازی به صورت مستقل
 
 27
 00:01:06.03 --> 00:01:08.05
-as an individual.
+ استفاده می شوند
 
 28
 00:01:08.05 --> 00:01:13.00
-And they end up being connected
-to a personal Google account
+و در نهایت آنها به یک حساب شخصی گوگل وصل می شوند
 
 29
 00:01:13.00 --> 00:01:18.05
-but that account is not
-displayed to the audience.
+اما آن حساب برای مخاطب نمایش داده نمی شود
 
 30
 00:01:18.05 --> 00:01:21.01
-Additionally, the management
-on a brand account
+علاوه بر این ، مدیریت بر روی یک حساب تجاری
 
 31
 00:01:21.01 --> 00:01:22.09
-can be shared.
+به اشتراک گذاشته می شود
 
 32
 00:01:22.09 --> 00:01:24.09
-Now, Google services that are compatible
+اکنون سرویس های گوگل که سازگار هستند
 
 33
 00:01:24.09 --> 00:01:26.08
-with these brand accounts are many
+و این حساب های تجاری تعداد زیادی هستند
 
 34
 00:01:26.08 --> 00:01:28.09
-and, in fact, I suspect that Google,
+در واقع من مشکوک هستم که گوگل 
 
 35
 00:01:28.09 --> 00:01:30.05
-as they add additional services,
+همانطور که خدمات اضافی را اضافه می کند
 
 36
 00:01:30.05 --> 00:01:33.01
-will start to connect them all together.
+شروع به اتصال همه آنها با هم خواهد کرد.
 
 37
 00:01:33.01 --> 00:01:34.09
-A brand account can currently be used
+از یک حساب تجاری می توان همراه با
 
 38
 00:01:34.09 --> 00:01:37.09
-with Google+, Google's
-social networking platform,
+ Google+ ، بستر شبکه های اجتماعی Google ، استفاده کرد
 
 39
 00:01:37.09 --> 00:01:40.08
-although this platform has
-taken a bit of a hit lately
+اگرچه این پلت فرم اخیراً مورد توجه بسیاری
 
 40
 00:01:40.08 --> 00:01:44.03
-in traffic and overall market penetration.
+در ترافیک و نفوذ به بازار کلی قرار گرفته است
 
 41
 00:01:44.03 --> 00:01:46.06
-Google Photos, which is important
+گوگل فوتو زمانی مهم است که
 
 42
 00:01:46.06 --> 00:01:48.05
-if you are sharing images or want people
+شما می خواهید تصویر به اشتراک بگذارید یا میخواهید
 
 43
 00:01:48.05 --> 00:01:52.06
-to be able to discover images
-of your product or company.
+مردم تصاویر یا محصولات کمپانی شما را ببینند
 
 44
 00:01:52.06 --> 00:01:54.09
 Google My Business,
-which serves as a profile
+به عنوان یک پروفایل مورد استفاده قرار میگیرد
 
 45
 00:01:54.09 --> 00:01:58.01
-so that people can find
-your local business,
+که مردم بتوانند بیزینس شما را پیدا کنند
 
 46
 00:01:58.01 --> 00:02:00.03
-or multiple locations and get in touch
+و یا در مکانهای مختلف ارتباط برقرار کنند
 
 47
 00:02:00.03 --> 00:02:05.01
-for physical sales, visits
-or retail locations.
+و یا محل فروش فیزیکی و خرده فروشی را ببینند
 
 48
 00:02:05.01 --> 00:02:06.09
-And YouTube.
+و یوتیوب
 
 49
 00:02:06.09 --> 00:02:09.02
-Now, you probably understand the concept
+اکنون ، شما احتمالاً مفهوم حساب تجاری را درک کرده اید
 
 50
 00:02:09.02 --> 00:02:11.03
-of a brand account, but let me show you
+اما اجازه دهید به شما نشان دهم
 
 51
 00:02:11.03 --> 00:02:14.00
-how we can actually put this into action.
+چگونه ما واقعاً می توانیم این کار را عملی کنیم.
 
 52
 00:02:14.00 --> 00:02:16.07
-To create a brand account
-is pretty straight forward.
+ایجاد یک حساب کاربری تجاری کاملاً رو به جلو است.
 
 53
 00:02:16.07 --> 00:02:21.00
-You're going to login
-into your YouTube account,
+می خواهید وارد حساب YouTube خود شوید ،
 
 54
 00:02:21.00 --> 00:02:24.08
-visit the YouTube channel switcher,
+از تعویض کانال YouTube بازدید کنید ،
 
 55
 00:02:24.08 --> 00:02:30.00
-and from this page, you can
-choose to create a new channel.
+و از این صفحه می توانید کانال جدیدی را ایجاد کنید.
 
 56
 00:02:30.00 --> 00:02:33.02
-You can enter any relevant
-information about the channel
+می توانید اطلاعات مربوط به کانال را وارد کنید
 
 57
 00:02:33.02 --> 00:02:35.09
-and then publish it.
+و سپس آن را منتشر کنید.
 
 58
 00:02:35.09 --> 00:02:37.08
-You also can visit another URL
+همچنین می توانید از URL دیگری بازدید کنید
 
 59
 00:02:37.08 --> 00:02:41.07
-to really see all of your brand
-accounts at a global view.
+تا واقعاً تمام حسابهای مارک تجاری خود را در نمای جهانی مشاهده کنید.
 
 60
 00:02:41.07 --> 00:02:45.04
-So, let's start with that first
-URL, the channel switcher.
+بنابراین ، بیایید با اولین URL ، سوئیچ کانال شروع کنیم.
 
 61
 00:02:45.04 --> 00:02:47.01
-When you visit the channel switcher,
+وقتی از تعویض کانال بازدید می کنید ،
 
 62
 00:02:47.01 --> 00:02:49.00
-you have the ability to switch between
+شما توانایی جابجایی بین
 
 63
 00:02:49.00 --> 00:02:52.09
-any existing channels
-associated with your Google ID.
+هر کانال موجود در ارتباط با Google ID شما. را دارید
 
 64
 00:02:52.09 --> 00:02:55.03
-Right now I'm gonna show
-you several channels
+در حال حاضر من می خواهم به شما چندین کانال نشان می دهم
 
 65
 00:02:55.03 --> 00:02:57.06
-that I work with, some
-of them are clients,
+که من با آنها کار می کنم ، برخی از آنها مشتری هستند ،
 
 66
 00:02:57.06 --> 00:02:59.04
-some of them are ones that I manage,
+برخی از آنها کسانی هستند که من آنها را مدیریت می کنم ،
 
 67
 00:02:59.04 --> 00:03:01.07
-but it's a good illustration
-of how you can have access
+اما این یک تصویر خوب از نحوه دسترسی شما
 
 68
-00:03:01.07 --> 00:03:03.07
-to more than one account.
+00:03:01.07 --> 00:03:03.07.
+به بیش از یک حساب است
 
 69
 00:03:03.07 --> 00:03:06.03
-As you see here, up top,
+همانطور که اینجا می بینید ، بالا
 
 70
 00:03:06.03 --> 00:03:08.01
-I've got some individual channels
+من چند کانال مجزا دارم
 
 71
 00:03:08.01 --> 00:03:11.03
-that have been created and down below
+که در زیر ایجاد شده اند
 
 72
 00:03:11.03 --> 00:03:13.02
-we have some brand accounts.
+ما چندین حساب تجاری داریم
 
 73
 00:03:13.02 --> 00:03:14.08
-I've got some accounts for projects
+حساب هایی برای پروژه ها دارم
 
 74
 00:03:14.08 --> 00:03:18.06
-that I've set up Google+ pages
-for or brand accounts for
+که من صفحات Google+ را برای حساب های تجاری یا مارک تجاری تنظیم کرده ام
 
 75
 00:03:18.06 --> 00:03:21.07
-but I've not yet created
-a YouTube page for.
+اما من هنوز یک صفحه YouTube ایجاد نکرده ام.
 
 76
 00:03:21.07 --> 00:03:23.09
-Up here, you can see multiple channels
+در اینجا ، شما می توانید چندین کانال را ببینید
 
 77
 00:03:23.09 --> 00:03:25.01
-that I've been added to.
+که به آن اضافه شده ام.
 
 78
 00:03:25.01 --> 00:03:27.02
-Some of them are ones that I control.
+برخی از آنها مواردی هستند که من کنترل می کنم.
 
 79
 00:03:27.02 --> 00:03:29.09
-Some are ones that belong to a client.
+بعضی از آنها متعلق به مشتری هستند.
 
 80
-00:03:29.09 --> 00:03:32.02
-Currently, I'm using Photo Focus,
+00:03:29,000 --> 00:03:32,000
+در حال حاضر ، من از Photo Focus استفاده می کنم ،
 
 81
-00:03:32.02 --> 00:03:35.00
-our daily site on photography education.
+00:03:32,000 --> 00:03:35,000
+سایت روزانه ما در زمینه آموزش عکاسی.
 
 82
-00:03:35.00 --> 00:03:38.06
-And you'll see that that ID is
-selected in the upper corner.
+00:03:35,000 --> 00:03:38,000
+و خواهید دید که آن شناسه در گوشه بالا انتخاب شده است.
 
 83
-00:03:38.06 --> 00:03:40.07
-Now, if we switch from
-mobile for a moment,
+00:03:38,000 --> 00:03:40,000
+حال اگر برای لحظه ای از موبایل جابجا شویم ،
 
 84
-00:03:40.07 --> 00:03:44.00
-you'll see that I did a
-search for Skylum software.
+00:03:40,000 --> 00:03:44,000
+خواهید دید که من جستجوی نرم افزار Skylum را انجام داده ام.
 
 85
-00:03:44.00 --> 00:03:46.07
-As such, we got several hits here
+00:03:44,000 --> 00:03:46,000
+به همین ترتیب ، ما چندین بازدید از اینجا دریافت کردیم
 
 86
-00:03:46.07 --> 00:03:48.09
-for different types of content,
+00:03:46,000 --> 00:03:48,000
+برای انواع مختلف محتوا ،
 
 87
-00:03:48.09 --> 00:03:51.03
-videos about Skylum software,
+00:03:48,000 --> 00:03:51,000
+فیلم ها درباره نرم افزار Skylum ،
 
 88
-00:03:51.03 --> 00:03:55.02
-but there's also a page
-here and the company logo.
+00:03:51,000 --> 00:03:55,000
+اما در اینجا یک صفحه و آرم شرکت نیز موجود است.
 
 89
-00:03:55.02 --> 00:03:57.08
-This is an example of a brand account
+00:03:55,000 --> 00:03:57,000
+این نمونه ای از یک حساب تجاری است
 
 90
-00:03:57.08 --> 00:04:01.00
-and when I tap this, you'll
-see on the mobile device
+00:03:57,000 --> 00:04:01,000
+و وقتی به این ضربه بزنید ، روی دستگاه تلفن همراه خواهید دید
 
 91
-00:04:01.00 --> 00:04:04.04
-that YouTube shows me another channel.
+00:04:01,000 --> 00:04:04,000
+که YouTube کانال دیگری را به من نشان می دهد.
 
 92
-00:04:04.04 --> 00:04:06.00
-There's artwork at the top,
+00:04:04,000 --> 00:04:06,000
+آثار هنری در بالا وجود دارد ،
 
 93
-00:04:06.00 --> 00:04:09.04
-the ability to navigate
-between videos and playlists
+00:04:06,000 --> 00:04:09,000
+امکان پیمایش بین فیلم ها و لیست های پخش
 
 94
-00:04:09.04 --> 00:04:12.03
-as well as a trailer and
-several different pieces
+00:04:09,000 --> 00:04:12,000
+و همچنین یک تریلر و چندین قطعه مختلف
 
 95
-00:04:12.03 --> 00:04:15.00
-of artwork that have been
-featured and organized.
+00:04:12,000 --> 00:04:15,000
+از آثار هنری است که نمایش داده شده و سازمان یافته است.
 
 96
-00:04:15.00 --> 00:04:17.02
-In this case, different
-playlists of videos
+00:04:15,000 --> 00:04:17,000
+در این حالت ، لیست های پخش مختلف فیلم ها
 
 97
-00:04:17.02 --> 00:04:20.05
-that have been gathered together
-for audiences to consume
+00:04:17,000 --> 00:04:20,000
+که جمع شده اند تا مخاطبان مصرف کنند
 
 98
-00:04:20.05 --> 00:04:23.06
-as well as some additional
-playlists on the bottom.
+00:04:20,000 --> 00:04:23,000
+و همچنین برخی لیست های پخش اضافی در پایین.
 
 99
-00:04:23.06 --> 00:04:25.09
-Now if we visit this on a desktop,
+00:04:23,000 --> 00:04:25,000
+حال اگر ما این کار را از طریق دسک تاپ ببینید ،
 
 100
-00:04:25.09 --> 00:04:28.05
-you'll see a similar experience.
+00:04:25,000 --> 00:04:28,000
+شما یک تجربه مشابه را مشاهده خواهید کرد
 
 101
-00:04:28.05 --> 00:04:32.01
-If I do a search on YouTube.com
-on a desktop browser,
+00:04:28,000 --> 00:04:32,000
+اگر در YouTube.com در یک مرورگر دسک تاپ جستجو کنم ،
 
 102
-00:04:32.01 --> 00:04:34.05
-you'll see similar results.
+00:04:32,000 --> 00:04:34,000
+نتایج مشابه را مشاهده خواهید کرد.
 
 103
-00:04:34.05 --> 00:04:36.09
-And when I select the channel,
+00:04:34,000 --> 00:04:36,000
+و وقتی کانال را انتخاب می کنم ،
 
 104
-00:04:36.09 --> 00:04:39.09
-now in this case, it's
-taken me to the channel
+00:04:36,000 --> 00:04:39,000
+اکنون در این حالت ، مرا به کانال منتقل می کند
 
 105
-00:04:39.09 --> 00:04:43.01
-with a slightly different
-interface than you saw on mobile
+00:04:39,000 --> 00:04:43,000
+با رابط کمی متفاوت از آنچه در تلفن همراه دیدید
 
 106
-00:04:43.01 --> 00:04:45.04
-but it's the same general idea.
+00:04:43,000 --> 00:04:45,000
+اما این همان ایده کلی است
 
 107
-00:04:45.04 --> 00:04:47.01
-We have a graphic identity.
+00:04:45,000 --> 00:04:47,000
+ما یک هویت گرافیکی داریم.
 
 108
-00:04:47.01 --> 00:04:48.06
-We have the use of a trailer
+00:04:47,000 --> 00:04:48,000
+ما از تریلر استفاده می کنیم
 
 109
-00:04:48.06 --> 00:04:50.08
-and we have different videos and playlists
+00:04:48,000 --> 00:04:50,000
+و ما فیلم ها و لیست های پخش مختلفی داریم
 
 110
-00:04:50.08 --> 00:04:53.05
-that are organized for easy consumption.
+00:04:50,000 --> 00:04:53,000
+که برای مصرف آسان سازماندهی شده اند.
 
 111
-00:04:53.05 --> 00:04:56.02
-If you'd like to see your
-overall brand accounts,
+00:04:53,000 --> 00:04:56,000
+اگر مایل هستید حساب های کلی نام تجاری خود را ببینید ،
 
 112
-00:04:56.02 --> 00:05:01.04
-you can visit
-myaccount.google.com/brandaccounts
+00:04:56,000 --> 00:05:01,000
+می توانید از myaccount.google.com/brandaccounts بازدید کنید
 
 113
-00:05:01.04 --> 00:05:03.05
-and here you can see invitations
+00:05:01,000 --> 00:05:03,000
+و در اینجا می توانید دعوت ها را ببینید
 
 114
-00:05:03.05 --> 00:05:06.09
-as well as email preferences
-about which things
+00:05:03,000 --> 00:05:06,000
+و همچنین تنظیمات برگزیده ایمیل درباره موارد
 
 115
-00:05:06.09 --> 00:05:09.02
-you're going to be notified about.
+00:05:06,000 --> 00:05:09,000
+می خواهید در مورد آن مطلع شوید.
 
 116
-00:05:09.02 --> 00:05:11.04
-Let's go back a level here.
+00:05:09,000 --> 00:05:11,000
+بیایید به اینجا برگردیم
 
 117
-00:05:11.04 --> 00:05:13.02
-And you can see the
-different brand accounts
+00:05:11,000 --> 00:05:13,000
+و می توانید حساب های مختلف برند را ببینید
 
 118
-00:05:13.02 --> 00:05:15.07
-that I've been connected to.
+00:05:13,000 --> 00:05:15,000
+که من به آن وصل شده ام
 
 119
-00:05:15.07 --> 00:05:17.08
-Now, what's most likely going to happen
+00:05:15,000 --> 00:05:17,000
+حالا ، چه اتفاقی می افتد
 
 120
-00:05:17.08 --> 00:05:22.05
-is the need to create a new brand account.
+00:05:17,000 --> 00:05:22,000
+نیاز به ایجاد یک حساب تجاری جدید است.
 
 121
-00:05:22.05 --> 00:05:24.07
-Remember, the easiest place to do that
+00:05:22,000 --> 00:05:24,000
+به یاد داشته باشید ، ساده ترین مکان برای انجام این کار
 
 122
-00:05:24.07 --> 00:05:27.01
-is from the YouTube channel switcher.
+00:05:24,000 --> 00:05:27,000
+از تعویض کانال YouTube است.
 
 123
-00:05:27.01 --> 00:05:29.06
-This will give you access
-to all of your brands
+00:05:27,000 --> 00:05:29,000
+این امکان دسترسی به همه مارک های شما را خواهد داد
 
 124
-00:05:29.06 --> 00:05:32.02
-and the ability to create a new channel.
+00:05:29,000 --> 00:05:32,000
+و امکان ایجاد کانال جدید
 
 125
-00:05:32.02 --> 00:05:34.04
-Now, if you switch a Google ID,
+00:05:32,000 --> 00:05:34,000
+اکنون ، اگر یک شناسه Google را تغییر دهید ،
 
 126
-00:05:34.04 --> 00:05:39.04
-for example, let me switch
-here to another project.
+00:05:34,000 --> 00:05:39,000
+به عنوان مثال ، اجازه دهید من اینجا را به پروژه دیگری تغییر دهم.
 
 127
-00:05:39.04 --> 00:05:40.07
-You'll see, in this case,
+00:05:39,000 --> 00:05:40,000
+در این حالت خواهید دید ،
 
 128
-00:05:40.07 --> 00:05:43.09
-that only a single YouTube channel exists.
+00:05:40,000 --> 00:05:43,000
+که فقط یک کانال YouTube وجود دارد.
 
 129
-00:05:43.09 --> 00:05:47.01
-I could, of course,
-create another new channel
+00:05:43,000 --> 00:05:47,000
+البته می توانم کانال جدید دیگری ایجاد کنم
 
 130
-00:05:47.01 --> 00:05:50.07
-and it'll create the
-corresponding brand account.
+00:05:47,000 --> 00:05:50,000
+و حساب تجاری مربوطه را ایجاد می کند.
 
 131
-00:05:50.07 --> 00:05:52.05
-To do this is pretty simple.
+00:05:50,000 --> 00:05:52,000
+انجام این کار بسیار ساده است.
 
 132
-00:05:52.05 --> 00:05:59.01
-Start by entering a name.
+00:05:52,000 --> 00:05:59,000
+با وارد کردن یک نام شروع کنید.
 
 133
-00:05:59.01 --> 00:06:03.07
-Click create.
+00:05:59,000 --> 00:06:03,000
+روی ایجاد کلیک کنید
 
 134
-00:06:03.07 --> 00:06:05.04
-And you'll now see that you have
+00:06:03,000 --> 00:06:05,000
+و اکنون خواهید دید که دارید
 
 135
-00:06:05.04 --> 00:06:08.07
-an empty YouTube channel awaiting content.
+00:06:05,000 --> 00:06:08,000
+یک کانال YouTube خالی در انتظار محتوا.
 
 136
-00:06:08.07 --> 00:06:10.02
-Creating a new channel
+00:06:08,000 --> 00:06:10,000
+ایجاد کانال جدید
 
 137
-00:06:10.02 --> 00:06:12.09
-is also going to create
-a new brand account.
+00:06:10,000 --> 00:06:12,000
+همچنین قصد دارد یک حساب تجاری جدید ایجاد کند.
 
 138
-00:06:12.09 --> 00:06:15.05
-They go hand in hand and in fact,
+00:06:12,000 --> 00:06:15,000
+آنها دست به دست هم می دهند و در واقع ،
 
 139
-00:06:15.05 --> 00:06:18.03
-when you first went to
-upload a video to YouTube,
+00:06:15,000 --> 00:06:18,000
+وقتی برای اولین بار به آپلود یک ویدیو در YouTube رفتید ،
 
 140
-00:06:18.03 --> 00:06:21.07
-it likely asked you to
-create a channel in doing so.
+00:06:18,000 --> 00:06:21,000
+احتمالاً از شما خواسته است كانالی ایجاد كنید.
 
 141
-00:06:21.07 --> 00:06:23.09
-So chances are, if
-you've already uploaded,
+00:06:21,000 --> 00:06:23,000
+اگر قبلاً بارگذاری کرده اید ، احتمال دارد
 
 142
-00:06:23.09 --> 00:06:26.09
-you may already have a
-channel and a brand account
+00:06:23,000 --> 00:06:26,000
+ممکن است قبلاً کانال و یک حساب تجاری داشته باشید
 
 143
-00:06:26.09 --> 00:06:29.06
-but it might not be the
-branding that you want.
+00:06:26,000 --> 00:06:29,000
+اما ممکن است این مارک مورد نظر شما نباشد.
 
 144
-00:06:29.06 --> 00:06:32.02
-So, using the steps that
-you've learned in this lesson,
+00:06:29,000 --> 00:06:32,000
+بنابراین ، با استفاده از مراحلی که در این درس آموخته اید ،
 
 145
-00:06:32.02 --> 00:06:34.04
-it's easy to see an existing brand,
+00:06:32,000 --> 00:06:34,000
+دیدن یک مارک موجود آسان است ،
 
 146
-00:06:34.04 --> 00:06:37.07
-to switch to another or
-to create a whole new one
+00:06:34,000 --> 00:06:37,000
+برای تغییر به دیگری یا ایجاد یک چیز جدید
 
 147
-00:06:37.07 --> 00:06:40.01
-to hold the videos and the artwork
+00:06:37,000 --> 00:06:40,000
+برای نگه داشتن فیلم ها و آثار هنری
 
 148
-00:06:40.01 --> 00:06:43.05
-for a particular topic or
-particular brand or company.
+00:06:40,000 --> 00:06:43,000
+برای یک موضوع خاص یا نام تجاری یا شرکت خاص.

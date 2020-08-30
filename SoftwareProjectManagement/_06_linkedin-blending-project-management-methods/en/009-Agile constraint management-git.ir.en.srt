@@ -1,0 +1,614 @@
+1
+
+00:00:00,07 --> 00:00:04,00
+- Agile projects, like all others, have to address
+
+
+
+2
+
+00:00:04,00 --> 00:00:08,00
+
+the triple constraints of time, cost, and scope.
+
+
+
+3
+
+00:00:08,00 --> 00:00:11,07
+
+As you know, Agile follows empirical process control
+
+
+
+4
+
+00:00:11,07 --> 00:00:14,06
+
+where we use inspection and adaptation
+
+
+
+5
+
+00:00:14,06 --> 00:00:16,09
+
+to manage our body of work,
+
+
+
+6
+
+00:00:16,09 --> 00:00:19,03
+
+but what does that look like?
+
+
+
+7
+
+00:00:19,03 --> 00:00:23,01
+
+Well, first, when a project is approved to move forward
+
+
+
+8
+
+00:00:23,01 --> 00:00:26,03
+
+a timeframe is defined for the completion of the effort,
+
+
+
+9
+
+00:00:26,03 --> 00:00:29,02
+
+and a cross-functional team is pulled together.
+
+
+
+10
+
+00:00:29,02 --> 00:00:32,06
+
+Remember, an Agile team is cross-functional,
+
+
+
+11
+
+00:00:32,06 --> 00:00:35,05
+
+meaning that everyone needed to complete the work
+
+
+
+12
+
+00:00:35,05 --> 00:00:38,09
+
+is allocated to the project 100%.
+
+
+
+13
+
+00:00:38,09 --> 00:00:40,02
+
+Since this is the case,
+
+
+
+14
+
+00:00:40,02 --> 00:00:43,00
+
+it's easy to calculate the cost of the effort.
+
+
+
+15
+
+00:00:43,00 --> 00:00:46,00
+
+For example, let's say Red 30 Tech company
+
+
+
+16
+
+00:00:46,00 --> 00:00:48,06
+
+decided to build a user web portal
+
+
+
+17
+
+00:00:48,06 --> 00:00:50,07
+
+and estimated it would take four months
+
+
+
+18
+
+00:00:50,07 --> 00:00:52,05
+
+to complete the work.
+
+
+
+19
+
+00:00:52,05 --> 00:00:56,04
+
+Red 30 Tech also pulled together an Agile team of people
+
+
+
+20
+
+00:00:56,04 --> 00:00:59,03
+
+at $50 per person per day.
+
+
+
+21
+
+00:00:59,03 --> 00:01:02,02
+
+The calculation, then, looks like this.
+
+
+
+22
+
+00:01:02,02 --> 00:01:08,07
+
+Five people times $50 a day equals $250 per day as cost.
+
+
+
+23
+
+00:01:08,07 --> 00:01:11,06
+
+A two-week sprint equals 10 days.
+
+
+
+24
+
+00:01:11,06 --> 00:01:19,02
+
+10 days times $250 per day is $2,500 per sprint.
+
+
+
+25
+
+00:01:19,02 --> 00:01:21,08
+
+One month equals two sprints.
+
+
+
+26
+
+00:01:21,08 --> 00:01:25,07
+
+Four months is our time, and that's eight sprints.
+
+
+
+27
+
+00:01:25,07 --> 00:01:29,09
+
+Eight sprints times $2,500 per sprint
+
+
+
+28
+
+00:01:29,09 --> 00:01:33,06
+
+is a $20,000 Agile project budget.
+
+
+
+29
+
+00:01:33,06 --> 00:01:36,01
+
+So, for the web portal project
+
+
+
+30
+
+00:01:36,01 --> 00:01:38,09
+
+Red 30 Tech has established the time
+
+
+
+31
+
+00:01:38,09 --> 00:01:41,05
+
+and cost to complete the work.
+
+
+
+32
+
+00:01:41,05 --> 00:01:44,03
+
+Now let's talk about scope.
+
+
+
+33
+
+00:01:44,03 --> 00:01:47,03
+
+Remember, Agile doesn't lock scope upfront
+
+
+
+34
+
+00:01:47,03 --> 00:01:50,00
+
+like Waterfall does, it's flexible.
+
+
+
+35
+
+00:01:50,00 --> 00:01:52,02
+
+The backlog of scope items will change
+
+
+
+36
+
+00:01:52,02 --> 00:01:54,00
+
+throughout the project.
+
+
+
+37
+
+00:01:54,00 --> 00:01:57,07
+
+There's no change control process to manage changing scope.
+
+
+
+38
+
+00:01:57,07 --> 00:02:00,02
+
+It's expected to change.
+
+
+
+39
+
+00:02:00,02 --> 00:02:05,01
+
+Keep in mind that the value to be delivered is constant.
+
+
+
+40
+
+00:02:05,01 --> 00:02:07,04
+
+The way it's accomplished will change
+
+
+
+41
+
+00:02:07,04 --> 00:02:09,03
+
+as the team learns more.
+
+
+
+42
+
+00:02:09,03 --> 00:02:11,09
+
+This is the empirical process:
+
+
+
+43
+
+00:02:11,09 --> 00:02:16,04
+
+develop, inspect, adapt, deliver.
+
+
+
+44
+
+00:02:16,04 --> 00:02:20,04
+
+Since scope is changing, Agile insists that the customer
+
+
+
+45
+
+00:02:20,04 --> 00:02:23,07
+
+be involved throughout the project to ensure
+
+
+
+46
+
+00:02:23,07 --> 00:02:27,04
+
+the highest value items are always prioritized
+
+
+
+47
+
+00:02:27,04 --> 00:02:29,05
+
+at the top of the backlog.
+
+
+
+48
+
+00:02:29,05 --> 00:02:32,08
+
+By doing this, when the allotted time and cost
+
+
+
+49
+
+00:02:32,08 --> 00:02:37,05
+
+are exhausted there will still be a delivery of value.
+
+
+
+50
+
+00:02:37,05 --> 00:02:40,06
+
+Further, if additional features are wanted
+
+
+
+51
+
+00:02:40,06 --> 00:02:43,01
+
+the customer can extend the time
+
+
+
+52
+
+00:02:43,01 --> 00:02:45,09
+
+and increase the cost to get them.
+
+
+
+53
+
+00:02:45,09 --> 00:02:48,00
+
+As the Agile team gets started,
+
+
+
+54
+
+00:02:48,00 --> 00:02:50,00
+
+they'll decompose all the features
+
+
+
+55
+
+00:02:50,00 --> 00:02:53,08
+
+that need to be done to deliver the web portal.
+
+
+
+56
+
+00:02:53,08 --> 00:02:56,04
+
+It's probable there will be more features
+
+
+
+57
+
+00:02:56,04 --> 00:03:01,04
+
+than can be accomplished within the allotted time and cost.
+
+
+
+58
+
+00:03:01,04 --> 00:03:04,02
+
+The progress of the Red 30 Tech team
+
+
+
+59
+
+00:03:04,02 --> 00:03:07,00
+
+will be continuously monitored against
+
+
+
+60
+
+00:03:07,00 --> 00:03:10,04
+
+the time and cost allocated to the effort.
+
+
+
+61
+
+00:03:10,04 --> 00:03:14,08
+
+Agile teams measure progress every two weeks, or sprints,
+
+
+
+62
+
+00:03:14,08 --> 00:03:18,00
+
+to assess how much has been completed.
+
+
+
+63
+
+00:03:18,00 --> 00:03:20,01
+
+This is known as their velocity
+
+
+
+64
+
+00:03:20,01 --> 00:03:23,01
+
+and is simply the speed of their delivery.
+
+
+
+65
+
+00:03:23,01 --> 00:03:24,05
+
+After two to three sprints,
+
+
+
+66
+
+00:03:24,05 --> 00:03:28,01
+
+an Agile team's velocity becomes predictable.
+
+
+
+67
+
+00:03:28,01 --> 00:03:32,00
+
+Since this is predictable, it becomes predictable
+
+
+
+68
+
+00:03:32,00 --> 00:03:34,03
+
+to know how much of the backlog
+
+
+
+69
+
+00:03:34,03 --> 00:03:37,08
+
+will be completed when the time has run out.
+
+
+
+70
+
+00:03:37,08 --> 00:03:41,08
+
+Because of this predictability, we can begin communicating
+
+
+
+71
+
+00:03:41,08 --> 00:03:45,02
+
+this outcome to the customer early in the project.
+
+
+
+72
+
+00:03:45,02 --> 00:03:47,05
+
+As you can tell, while Agile projects
+
+
+
+73
+
+00:03:47,05 --> 00:03:50,00
+
+don't follow defined process controls
+
+
+
+74
+
+00:03:50,00 --> 00:03:53,05
+
+they still monitor and report progress
+
+
+
+75
+
+00:03:53,05 --> 00:03:56,01
+
+against the triple constraint.
+
+
+
+76
+
+00:03:56,01 --> 00:03:58,09
+
+With this information you can now effectively
+
+
+
+77
+
+00:03:58,09 --> 00:04:01,08
+
+report the progress of your Agile team.
+
+

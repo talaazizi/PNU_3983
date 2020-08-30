@@ -1,0 +1,272 @@
+1
+00:00:00,640 --> 00:00:03,120
+after you get the go-ahead to plan your
+
+2
+00:00:02,480 --> 00:00:05,520
+project
+
+3
+00:00:03,120 --> 00:00:07,839
+the first thing you do is identify the
+
+4
+00:00:05,520 --> 00:00:11,200
+work that has to be done
+
+5
+00:00:07,839 --> 00:00:12,719
+even small projects can have lots of
+
+6
+00:00:11,200 --> 00:00:14,559
+tasks
+
+7
+00:00:12,719 --> 00:00:16,160
+that's why project managers use a
+
+8
+00:00:14,559 --> 00:00:19,439
+diagram called a
+
+9
+00:00:16,160 --> 00:00:22,880
+work breakdown structure or wbs
+
+10
+00:00:19,439 --> 00:00:25,519
+to organize work you use it to divvy up
+
+11
+00:00:22,880 --> 00:00:28,240
+project work into manageable pieces
+
+12
+00:00:25,519 --> 00:00:29,439
+so you can plan track and manage your
+
+13
+00:00:28,240 --> 00:00:32,320
+project
+
+14
+00:00:29,439 --> 00:00:32,719
+creating a wbs helps manage the project
+
+15
+00:00:32,320 --> 00:00:35,840
+in
+
+16
+00:00:32,719 --> 00:00:36,480
+several ways first it's easier to
+
+17
+00:00:35,840 --> 00:00:39,840
+estimate
+
+18
+00:00:36,480 --> 00:00:42,239
+time and cost for smaller chunks of work
+
+19
+00:00:39,840 --> 00:00:44,800
+say the sponsor wants to know how long
+
+20
+00:00:42,239 --> 00:00:46,640
+the whole project will take
+
+21
+00:00:44,800 --> 00:00:48,079
+you can't come up with a good answer off
+
+22
+00:00:46,640 --> 00:00:50,239
+the top of your head
+
+23
+00:00:48,079 --> 00:00:52,000
+it's a lot easier to think about how
+
+24
+00:00:50,239 --> 00:00:53,120
+long smaller parts of the project will
+
+25
+00:00:52,000 --> 00:00:55,199
+take
+
+26
+00:00:53,120 --> 00:00:56,879
+after you estimate the small chunks you
+
+27
+00:00:55,199 --> 00:00:59,840
+can add them up to get an
+
+28
+00:00:56,879 --> 00:01:01,680
+estimate for the entire project it's
+
+29
+00:00:59,840 --> 00:01:04,640
+also easier to assign
+
+30
+00:01:01,680 --> 00:01:06,000
+work to team members by breaking work
+
+31
+00:01:04,640 --> 00:01:08,159
+into smaller pieces
+
+32
+00:01:06,000 --> 00:01:09,360
+you'll have built-in checkpoints to
+
+33
+00:01:08,159 --> 00:01:12,880
+measure progress
+
+34
+00:01:09,360 --> 00:01:14,080
+on the project a wbs contains two kinds
+
+35
+00:01:12,880 --> 00:01:17,360
+of tasks
+
+36
+00:01:14,080 --> 00:01:20,000
+summary tasks and work packages
+
+37
+00:01:17,360 --> 00:01:21,360
+summary tasks are the higher level tasks
+
+38
+00:01:20,000 --> 00:01:24,960
+that summarize work
+
+39
+00:01:21,360 --> 00:01:27,439
+in some way summary tasks describe
+
+40
+00:01:24,960 --> 00:01:28,159
+parts of the project they could
+
+41
+00:01:27,439 --> 00:01:31,040
+represent
+
+42
+00:01:28,159 --> 00:01:34,000
+phases or deliverables or even work done
+
+43
+00:01:31,040 --> 00:01:36,880
+by different groups in your organization
+
+44
+00:01:34,000 --> 00:01:38,840
+in our scheduling project the wbs is
+
+45
+00:01:36,880 --> 00:01:41,680
+organized by
+
+46
+00:01:38,840 --> 00:01:44,640
+deliverable how many levels of summary
+
+47
+00:01:41,680 --> 00:01:46,799
+tasks depends on the size of the project
+
+48
+00:01:44,640 --> 00:01:47,759
+a few levels are enough for a small
+
+49
+00:01:46,799 --> 00:01:50,240
+project
+
+50
+00:01:47,759 --> 00:01:51,280
+if a project is large or complex you
+
+51
+00:01:50,240 --> 00:01:54,640
+might have
+
+52
+00:01:51,280 --> 00:01:57,840
+several levels of summary tasks
+
+53
+00:01:54,640 --> 00:02:00,320
+work packages are the lowest level tasks
+
+54
+00:01:57,840 --> 00:02:01,119
+in the work breakdown structure they
+
+55
+00:02:00,320 --> 00:02:03,600
+spell out
+
+56
+00:02:01,119 --> 00:02:05,040
+lowest level project deliverables and
+
+57
+00:02:03,600 --> 00:02:08,080
+the detailed work
+
+58
+00:02:05,040 --> 00:02:08,879
+needed to deliver them in the scheduling
+
+59
+00:02:08,080 --> 00:02:11,280
+project
+
+60
+00:02:08,879 --> 00:02:12,080
+the summary task to configure the system
+
+61
+00:02:11,280 --> 00:02:14,640
+server
+
+62
+00:02:12,080 --> 00:02:15,520
+might have work packages to activate
+
+63
+00:02:14,640 --> 00:02:19,360
+modules
+
+64
+00:02:15,520 --> 00:02:21,280
+set options and add software links
+
+65
+00:02:19,360 --> 00:02:22,800
+breaking your project down into
+
+66
+00:02:21,280 --> 00:02:26,040
+manageable pieces
+
+67
+00:02:22,800 --> 00:02:29,040
+helps you plan and manage your project
+
+68
+00:02:26,040 --> 00:02:29,040
+effectively
+

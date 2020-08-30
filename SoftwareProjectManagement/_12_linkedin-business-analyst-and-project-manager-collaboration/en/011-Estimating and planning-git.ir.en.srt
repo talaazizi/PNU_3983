@@ -1,0 +1,368 @@
+1
+00:00:00,640 --> 00:00:07,759
+so how do pat the pm and bailey the ba
+
+2
+00:00:04,240 --> 00:00:10,160
+work together to plan and estimate
+
+3
+00:00:07,759 --> 00:00:11,360
+the ba is responsible for defining the
+
+4
+00:00:10,160 --> 00:00:14,400
+product
+
+5
+00:00:11,360 --> 00:00:18,000
+and the pm defines the project
+
+6
+00:00:14,400 --> 00:00:20,320
+the project delivers the product
+
+7
+00:00:18,000 --> 00:00:21,039
+how could anyone plan a project without
+
+8
+00:00:20,320 --> 00:00:23,680
+a great
+
+9
+00:00:21,039 --> 00:00:25,599
+understanding of the product well
+
+10
+00:00:23,680 --> 00:00:27,840
+depending how much the product has been
+
+11
+00:00:25,599 --> 00:00:30,960
+defined when the planning happens
+
+12
+00:00:27,840 --> 00:00:33,360
+planning can be impacted dramatically
+
+13
+00:00:30,960 --> 00:00:35,040
+in some ways i've always thought it was
+
+14
+00:00:33,360 --> 00:00:35,840
+silly to estimate and plan for
+
+15
+00:00:35,040 --> 00:00:38,559
+requirements
+
+16
+00:00:35,840 --> 00:00:40,960
+when the requirements are not yet known
+
+17
+00:00:38,559 --> 00:00:43,280
+at the same time with experience
+
+18
+00:00:40,960 --> 00:00:44,000
+we learned to work with ambiguity by
+
+19
+00:00:43,280 --> 00:00:47,280
+working in
+
+20
+00:00:44,000 --> 00:00:48,719
+layers and we also learned to plan to
+
+21
+00:00:47,280 --> 00:00:51,920
+replan as we learn
+
+22
+00:00:48,719 --> 00:00:55,199
+more and bailey and pat plan to replan
+
+23
+00:00:51,920 --> 00:00:56,559
+as they go to they realize that planning
+
+24
+00:00:55,199 --> 00:00:58,719
+with ambiguity
+
+25
+00:00:56,559 --> 00:00:59,760
+helps leaders make decisions and
+
+26
+00:00:58,719 --> 00:01:03,280
+re-planning
+
+27
+00:00:59,760 --> 00:01:04,879
+is expected so what is there to be
+
+28
+00:01:03,280 --> 00:01:07,119
+planned and estimated
+
+29
+00:01:04,879 --> 00:01:08,880
+and how do patent bailey collaborate on
+
+30
+00:01:07,119 --> 00:01:11,520
+this
+
+31
+00:01:08,880 --> 00:01:12,080
+first bailly and pat plan what the
+
+32
+00:01:11,520 --> 00:01:14,159
+actual
+
+33
+00:01:12,080 --> 00:01:15,600
+product is and understanding what
+
+34
+00:01:14,159 --> 00:01:18,479
+outcomes are expected
+
+35
+00:01:15,600 --> 00:01:20,720
+and for whom for some projects these are
+
+36
+00:01:18,479 --> 00:01:24,000
+backlog items releases
+
+37
+00:01:20,720 --> 00:01:26,000
+or iterations of a product
+
+38
+00:01:24,000 --> 00:01:28,080
+pat and bailey discover and communicate
+
+39
+00:01:26,000 --> 00:01:30,240
+the big picture of the product
+
+40
+00:01:28,080 --> 00:01:32,400
+and the upcoming pieces that will be in
+
+41
+00:01:30,240 --> 00:01:34,320
+the next focus area
+
+42
+00:01:32,400 --> 00:01:36,960
+pat needs to estimate and plan for
+
+43
+00:01:34,320 --> 00:01:40,400
+resources and with bailey's help
+
+44
+00:01:36,960 --> 00:01:42,240
+understands more about the product
+
+45
+00:01:40,400 --> 00:01:44,159
+bailey does planning related to
+
+46
+00:01:42,240 --> 00:01:45,520
+requirements and business analysis
+
+47
+00:01:44,159 --> 00:01:48,000
+process
+
+48
+00:01:45,520 --> 00:01:49,920
+and this planning informs pat on
+
+49
+00:01:48,000 --> 00:01:51,520
+estimates and dependencies for the
+
+50
+00:01:49,920 --> 00:01:53,759
+analysis pieces
+
+51
+00:01:51,520 --> 00:01:55,040
+and also has a critical role in
+
+52
+00:01:53,759 --> 00:01:57,439
+stakeholders
+
+53
+00:01:55,040 --> 00:02:00,079
+understanding what's expected of them
+
+54
+00:01:57,439 --> 00:02:02,240
+and when
+
+55
+00:02:00,079 --> 00:02:03,759
+bailey might have a ba plan with the
+
+56
+00:02:02,240 --> 00:02:06,960
+analysis deliverables
+
+57
+00:02:03,759 --> 00:02:08,399
+activities timelines and stakeholders
+
+58
+00:02:06,960 --> 00:02:10,239
+outlined
+
+59
+00:02:08,399 --> 00:02:11,680
+bailey may also have a requirements
+
+60
+00:02:10,239 --> 00:02:13,840
+management plan
+
+61
+00:02:11,680 --> 00:02:16,879
+showing how decisions and requirements
+
+62
+00:02:13,840 --> 00:02:19,120
+will be tracked and approved
+
+63
+00:02:16,879 --> 00:02:20,319
+bailey also has models that serve as
+
+64
+00:02:19,120 --> 00:02:23,120
+assets to the team
+
+65
+00:02:20,319 --> 00:02:26,640
+to show the product's scope context and
+
+66
+00:02:23,120 --> 00:02:29,680
+environment or ecosystem of the product
+
+67
+00:02:26,640 --> 00:02:32,400
+all these help inform the project plan
+
+68
+00:02:29,680 --> 00:02:34,720
+that pat is working on and all these are
+
+69
+00:02:32,400 --> 00:02:36,319
+great dialogue and collaboration points
+
+70
+00:02:34,720 --> 00:02:38,720
+for pat and bailey
+
+71
+00:02:36,319 --> 00:02:40,720
+they all tied together and need to be
+
+72
+00:02:38,720 --> 00:02:43,040
+aligned
+
+73
+00:02:40,720 --> 00:02:45,360
+together pat and bailey work in
+
+74
+00:02:43,040 --> 00:02:48,800
+leveraging their expertise and past
+
+75
+00:02:45,360 --> 00:02:50,720
+experiences in planning and estimating
+
+76
+00:02:48,800 --> 00:02:53,040
+pat and bailey also worked together on
+
+77
+00:02:50,720 --> 00:02:54,400
+complexity and impact assessments for
+
+78
+00:02:53,040 --> 00:02:56,239
+the project
+
+79
+00:02:54,400 --> 00:02:58,080
+together they look at the various
+
+80
+00:02:56,239 --> 00:03:00,159
+aspects of complexity
+
+81
+00:02:58,080 --> 00:03:01,280
+in how many areas and groups are
+
+82
+00:03:00,159 --> 00:03:02,959
+impacted
+
+83
+00:03:01,280 --> 00:03:05,599
+they look at the risk profile of the
+
+84
+00:03:02,959 --> 00:03:07,120
+project and how big of a change it is
+
+85
+00:03:05,599 --> 00:03:09,519
+for each group
+
+86
+00:03:07,120 --> 00:03:11,440
+this also informs the project plan and
+
+87
+00:03:09,519 --> 00:03:14,319
+risk planning
+
+88
+00:03:11,440 --> 00:03:14,800
+planning and estimating are key areas of
+
+89
+00:03:14,319 --> 00:03:17,599
+pm
+
+90
+00:03:14,800 --> 00:03:19,680
+and ba collaboration it's hard to
+
+91
+00:03:17,599 --> 00:03:26,879
+imagine a project being successful
+
+92
+00:03:19,680 --> 00:03:26,879
+without it
+

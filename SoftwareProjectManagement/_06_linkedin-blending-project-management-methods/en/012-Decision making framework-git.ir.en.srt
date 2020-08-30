@@ -1,0 +1,518 @@
+1
+
+00:00:00,09 --> 00:00:04,00
+- Two frameworks: Agile and Waterfall.
+
+
+
+2
+
+00:00:04,00 --> 00:00:07,08
+
+Each has its own process: empirical and defined.
+
+
+
+3
+
+00:00:07,08 --> 00:00:10,06
+
+Each has its own set of weaknesses.
+
+
+
+4
+
+00:00:10,06 --> 00:00:15,06
+
+So how do you choose which to use for your project?
+
+
+
+5
+
+00:00:15,06 --> 00:00:19,05
+
+Well, now that we know the strengths and weaknesses of each,
+
+
+
+6
+
+00:00:19,05 --> 00:00:21,09
+
+let's use them to create a framework
+
+
+
+7
+
+00:00:21,09 --> 00:00:24,00
+
+for making our decision.
+
+
+
+8
+
+00:00:24,00 --> 00:00:26,00
+
+We'll also make some inferences
+
+
+
+9
+
+00:00:26,00 --> 00:00:28,05
+
+about where each methodology lands
+
+
+
+10
+
+00:00:28,05 --> 00:00:31,02
+
+based on strengths and weaknesses.
+
+
+
+11
+
+00:00:31,02 --> 00:00:33,02
+
+Let's take a look at this matrix.
+
+
+
+12
+
+00:00:33,02 --> 00:00:35,05
+
+There are nine criteria you can use
+
+
+
+13
+
+00:00:35,05 --> 00:00:38,00
+
+to select which methodology will be
+
+
+
+14
+
+00:00:38,00 --> 00:00:40,03
+
+better suited to your project.
+
+
+
+15
+
+00:00:40,03 --> 00:00:43,01
+
+Let's talk about the criteria shown here,
+
+
+
+16
+
+00:00:43,01 --> 00:00:46,01
+
+starting with time, cost, and scope.
+
+
+
+17
+
+00:00:46,01 --> 00:00:49,07
+
+We know that Waterfall demands all three be fixed.
+
+
+
+18
+
+00:00:49,07 --> 00:00:52,09
+
+When that's the case, Waterfall makes sense.
+
+
+
+19
+
+00:00:52,09 --> 00:00:56,01
+
+From an Agile perspective, remember that Agile
+
+
+
+20
+
+00:00:56,01 --> 00:01:01,00
+
+will fix time and cost so that scope can be flexible.
+
+
+
+21
+
+00:01:01,00 --> 00:01:04,09
+
+I've shown all three as fixed or variable on the chart.
+
+
+
+22
+
+00:01:04,09 --> 00:01:08,06
+
+This is simply to reflect that while time and cost are
+
+
+
+23
+
+00:01:08,06 --> 00:01:13,08
+
+fixed, they can and do vary based on customer request.
+
+
+
+24
+
+00:01:13,08 --> 00:01:16,07
+
+Agile can also work with a fixed scope.
+
+
+
+25
+
+00:01:16,07 --> 00:01:21,04
+
+So fixing the scope is not a deterrent to selecting Agile.
+
+
+
+26
+
+00:01:21,04 --> 00:01:24,09
+
+When we get to complexity, we recognize that Agile
+
+
+
+27
+
+00:01:24,09 --> 00:01:26,08
+
+is a better fit for projects
+
+
+
+28
+
+00:01:26,08 --> 00:01:29,08
+
+that are complex or complicated.
+
+
+
+29
+
+00:01:29,08 --> 00:01:32,06
+
+The inspect and adapt model is flexible
+
+
+
+30
+
+00:01:32,06 --> 00:01:34,09
+
+and enables navigation through
+
+
+
+31
+
+00:01:34,09 --> 00:01:38,03
+
+unknown and unpredictable situations.
+
+
+
+32
+
+00:01:38,03 --> 00:01:41,05
+
+The inflexibility of Waterfall makes it
+
+
+
+33
+
+00:01:41,05 --> 00:01:44,06
+
+difficult to use in these scenarios.
+
+
+
+34
+
+00:01:44,06 --> 00:01:48,05
+
+Next is considering the customer's availability.
+
+
+
+35
+
+00:01:48,05 --> 00:01:50,08
+
+If they're intermittently available,
+
+
+
+36
+
+00:01:50,08 --> 00:01:52,08
+
+Waterfall is a better choice because
+
+
+
+37
+
+00:01:52,08 --> 00:01:55,09
+
+they'll be needed only at milestones.
+
+
+
+38
+
+00:01:55,09 --> 00:01:58,09
+
+Then, consider the team construct.
+
+
+
+39
+
+00:01:58,09 --> 00:02:02,07
+
+Is the team size smaller than 10 and dedicated?
+
+
+
+40
+
+00:02:02,07 --> 00:02:06,08
+
+If yes on both counts, Agile is a better choice.
+
+
+
+41
+
+00:02:06,08 --> 00:02:10,02
+
+For projects with more people that aren't dedicated,
+
+
+
+42
+
+00:02:10,02 --> 00:02:12,06
+
+Waterfall is a better option.
+
+
+
+43
+
+00:02:12,06 --> 00:02:16,07
+
+Now, let's consider requirement clarity.
+
+
+
+44
+
+00:02:16,07 --> 00:02:19,04
+
+Perhaps the project outcome is clear,
+
+
+
+45
+
+00:02:19,04 --> 00:02:22,09
+
+but the solution for achieving it isn't clear.
+
+
+
+46
+
+00:02:22,09 --> 00:02:25,01
+
+Maybe there's new technology involved,
+
+
+
+47
+
+00:02:25,01 --> 00:02:28,04
+
+or a new implementation of existing technology.
+
+
+
+48
+
+00:02:28,04 --> 00:02:31,05
+
+When the solution, and therefore requirements,
+
+
+
+49
+
+00:02:31,05 --> 00:02:36,07
+
+are unknown or evolving, Agile is a better choice.
+
+
+
+50
+
+00:02:36,07 --> 00:02:40,08
+
+Next, what is the customer's success criteria?
+
+
+
+51
+
+00:02:40,08 --> 00:02:44,08
+
+If they're more interested in fixed time and cost
+
+
+
+52
+
+00:02:44,08 --> 00:02:48,08
+
+with a flexible scope, Agile is your better option.
+
+
+
+53
+
+00:02:48,08 --> 00:02:50,09
+
+If they need all three to be fixed,
+
+
+
+54
+
+00:02:50,09 --> 00:02:53,04
+
+Waterfall may better suit them.
+
+
+
+55
+
+00:02:53,04 --> 00:02:55,09
+
+Finally, does the customer have
+
+
+
+56
+
+00:02:55,09 --> 00:02:59,02
+
+a preferred delivery preference?
+
+
+
+57
+
+00:02:59,02 --> 00:03:01,08
+
+If they're comfortable with, and will receive value
+
+
+
+58
+
+00:03:01,08 --> 00:03:04,03
+
+from incremental delivery throughout the life
+
+
+
+59
+
+00:03:04,03 --> 00:03:07,05
+
+of the project, definitely go with Agile.
+
+
+
+60
+
+00:03:07,05 --> 00:03:10,02
+
+If, however, there's no value to be gained
+
+
+
+61
+
+00:03:10,02 --> 00:03:14,03
+
+from frequent deliveries, Waterfall is a good choice.
+
+
+
+62
+
+00:03:14,03 --> 00:03:17,07
+
+Every project and situation will be different.
+
+
+
+63
+
+00:03:17,07 --> 00:03:20,08
+
+This framework, however, will give you context
+
+
+
+64
+
+00:03:20,08 --> 00:03:23,02
+
+through which you can easily identify
+
+
+
+65
+
+00:03:23,02 --> 00:03:26,07
+
+which methodology is right for your project.
+
+

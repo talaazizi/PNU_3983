@@ -1,0 +1,27 @@
+{
+  "name": "push-relabel",
+  "version": "1.0.0",
+  "description": "Push-Relabel Algorithm for Maximum Flow Problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmohammadipour/push-relabel.git"
+  },
+  "keywords": [
+    "graph-theory",
+    "Push-Relabel"
+  ],
+  "author": "fmohammadipour <faribampr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fmohammadipour/push-relabel/issues"
+  },
+  "homepage": "https://github.com/fmohammadipour/push-relabel",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "dependencies": {}
+}

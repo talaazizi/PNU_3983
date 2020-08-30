@@ -1,0 +1,163 @@
+1
+00:00:00,680 --> 00:00:07,169
+Part of planning is to identify and document
+project roles and responsibilities, who reports
+
+2
+00:00:07,169 --> 00:00:14,430
+to whom and the skills needed to do the project
+work. So that's where the resource management
+
+3
+00:00:14,430 --> 00:00:21,390
+plan comes into play. This plan also includes
+a staffing plan which describes everything
+
+4
+00:00:21,390 --> 00:00:28,650
+about how you'll staff the project. He start
+with a responsibility matrix, this document
+
+5
+00:00:28,650 --> 00:00:35,390
+spells out who can make or approved decisions,
+the groups performing work and which groups
+
+6
+00:00:35,390 --> 00:00:42,500
+need to be consulted or informed about what's
+going on. A responsibility matrix includes
+
+7
+00:00:42,500 --> 00:00:50,140
+four categories of responsibility, our means
+a group is responsible for performing work,
+
+8
+00:00:50,140 --> 00:00:58,160
+I represents inform, which means a group gets
+information. See means that you consult a
+
+9
+00:00:58,160 --> 00:01:05,129
+group about decisions, however, they aren't
+accountable for the decision that's made.
+
+10
+00:01:05,129 --> 00:01:11,710
+A is for accountable, which means the group
+makes or approves decisions and delegates
+
+11
+00:01:11,710 --> 00:01:18,750
+work. During planning review, the responsibility
+matrix with stakeholders and work out any
+
+12
+00:01:18,750 --> 00:01:25,040
+disagreements if part of your project doesn't
+have an owner, meaning someone accountable
+
+13
+00:01:25,040 --> 00:01:31,710
+for that area, talk to the stakeholders and
+your project sponsor to identify who is accountable
+
+14
+00:01:31,710 --> 00:01:39,030
+for that area. You might have outsourcing,
+subcontracting and partnering arrangements,
+
+15
+00:01:39,030 --> 00:01:45,850
+don't forget to add these groups and how they
+contribute to the responsibility matrix. The
+
+16
+00:01:45,850 --> 00:01:52,670
+second part of a resource management plan
+is a project organization chart. It's like
+
+17
+00:01:52,670 --> 00:01:59,159
+a regular org chart, except it shows the hierarchy
+and reporting structure for people involved
+
+18
+00:01:59,159 --> 00:02:06,130
+with the project, that way you know who to
+talk to if you need to escalate a request
+
+19
+00:02:06,130 --> 00:02:07,659
+or decision.
+
+20
+00:02:07,659 --> 00:02:14,980
+Third, identify the skills the project requires
+and how many people you need with those skills,
+
+21
+00:02:14,980 --> 00:02:21,499
+a skills matrix helps you figure this out.
+To build one, take a look at your work packages
+
+22
+00:02:21,499 --> 00:02:28,340
+and identify the skills each package requires,
+then create a matrix with your project tasks
+
+23
+00:02:28,340 --> 00:02:36,299
+in rows and the skills you need in the columns
+at checkboxes in the Matrix when tasks require
+
+24
+00:02:36,299 --> 00:02:43,409
+a specific skill. Then you estimate the number
+of resources you need with each skill, you
+
+25
+00:02:43,409 --> 00:02:49,980
+can even multiply that number by the average
+pay rate to estimate the labor cost. Finally,
+
+26
+00:02:49,980 --> 00:02:57,919
+it's time to develop the detailed staffing
+plan, identify where you plan to get resources,
+
+27
+00:02:57,919 --> 00:03:05,799
+are they in-house, outsourced or contracted?
+When do you need resources, identify any training
+
+28
+00:03:05,799 --> 00:03:13,760
+they need and document resource related processes,
+getting team members on board, handing out
+
+29
+00:03:13,760 --> 00:03:21,260
+assignments, getting status updates and releasing
+them from the project when their work is done.
+
+30
+00:03:21,260 --> 00:03:27,889
+A resource management plan documents who does
+what, who reports to whom the resources you
+
+31
+00:03:27,889 --> 00:03:34,540
+need and how you'll manage them as an exercise.
+Use what you know about the project so far
+
+32
+00:03:34,540 --> 00:03:41,120
+to complete the responsibility matrix in the
+exercise files. Then using your responsibility
+
+33
+00:03:41,120 --> 00:03:45,400
+metrics, draw up a project organization chart.
+

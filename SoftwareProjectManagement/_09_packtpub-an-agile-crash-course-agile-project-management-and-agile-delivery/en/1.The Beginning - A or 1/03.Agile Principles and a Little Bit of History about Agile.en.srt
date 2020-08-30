@@ -1,0 +1,412 @@
+1
+00:00:00,560 --> 00:00:03,120
+what you see on your screen is what we
+
+2
+00:00:02,240 --> 00:00:05,920
+refer to as
+
+3
+00:00:03,120 --> 00:00:07,839
+agile principles now i'm not going to go
+
+4
+00:00:05,920 --> 00:00:09,040
+over each and every one of them because
+
+5
+00:00:07,839 --> 00:00:10,880
+i know you can read
+
+6
+00:00:09,040 --> 00:00:12,559
+and i'll also create an article about
+
+7
+00:00:10,880 --> 00:00:14,960
+them but let's go over
+
+8
+00:00:12,559 --> 00:00:16,160
+some of the key ones let's reflect on
+
+9
+00:00:14,960 --> 00:00:18,320
+number three
+
+10
+00:00:16,160 --> 00:00:19,840
+this relates to the concept of sprints
+
+11
+00:00:18,320 --> 00:00:22,960
+and delivering quickly and
+
+12
+00:00:19,840 --> 00:00:24,880
+often in agile you deliver in weeks not
+
+13
+00:00:22,960 --> 00:00:26,720
+in months or years
+
+14
+00:00:24,880 --> 00:00:28,320
+if you are taking many months to deliver
+
+15
+00:00:26,720 --> 00:00:31,119
+something you are not
+
+16
+00:00:28,320 --> 00:00:32,239
+doing agile if you are taking years to
+
+17
+00:00:31,119 --> 00:00:35,520
+deliver something
+
+18
+00:00:32,239 --> 00:00:37,200
+you are not doing agile this ideal
+
+19
+00:00:35,520 --> 00:00:37,920
+principle has to do with the speed of
+
+20
+00:00:37,200 --> 00:00:39,920
+delivery
+
+21
+00:00:37,920 --> 00:00:42,079
+which in the agile terminology we call
+
+22
+00:00:39,920 --> 00:00:44,480
+the team's velocity
+
+23
+00:00:42,079 --> 00:00:46,000
+i will explain that concept later but
+
+24
+00:00:44,480 --> 00:00:48,320
+keep it in mind
+
+25
+00:00:46,000 --> 00:00:49,280
+the speed of execution is called
+
+26
+00:00:48,320 --> 00:00:52,160
+velocity
+
+27
+00:00:49,280 --> 00:00:53,280
+in agile and let's now reflect on number
+
+28
+00:00:52,160 --> 00:00:55,039
+10.
+
+29
+00:00:53,280 --> 00:00:57,520
+do you remember the example of building
+
+30
+00:00:55,039 --> 00:01:01,039
+a skateboard to get from point a to b
+
+31
+00:00:57,520 --> 00:01:03,359
+instead of building a ferrari simplicity
+
+32
+00:01:01,039 --> 00:01:04,400
+is one of the most important agile
+
+33
+00:01:03,359 --> 00:01:06,240
+principles
+
+34
+00:01:04,400 --> 00:01:07,840
+and one of the reasons why in agile you
+
+35
+00:01:06,240 --> 00:01:09,840
+can deliver so quickly
+
+36
+00:01:07,840 --> 00:01:10,880
+you build basic and simple solutions
+
+37
+00:01:09,840 --> 00:01:14,080
+which satisfy
+
+38
+00:01:10,880 --> 00:01:16,960
+the main and most important requirements
+
+39
+00:01:14,080 --> 00:01:17,520
+you build a skateboard instead of a car
+
+40
+00:01:16,960 --> 00:01:20,320
+you then
+
+41
+00:01:17,520 --> 00:01:22,240
+iterate and iterate and over time you
+
+42
+00:01:20,320 --> 00:01:25,040
+build the ferrari
+
+43
+00:01:22,240 --> 00:01:26,159
+over time not on one go or from the
+
+44
+00:01:25,040 --> 00:01:29,200
+beginning
+
+45
+00:01:26,159 --> 00:01:32,159
+over time you build up as you go
+
+46
+00:01:29,200 --> 00:01:32,960
+and you enhance improve and release
+
+47
+00:01:32,159 --> 00:01:35,360
+enhance
+
+48
+00:01:32,960 --> 00:01:37,200
+improve and release people prefer
+
+49
+00:01:35,360 --> 00:01:39,840
+getting improvements quickly
+
+50
+00:01:37,200 --> 00:01:41,600
+even if they are minor but valuable than
+
+51
+00:01:39,840 --> 00:01:42,560
+waiting a whole year to get something
+
+52
+00:01:41,600 --> 00:01:44,000
+done
+
+53
+00:01:42,560 --> 00:01:46,159
+think about the mobile apps in your
+
+54
+00:01:44,000 --> 00:01:48,799
+smartphone have you noticed they
+
+55
+00:01:46,159 --> 00:01:51,200
+automatically update frequently and that
+
+56
+00:01:48,799 --> 00:01:52,320
+sometimes the improvements are minor but
+
+57
+00:01:51,200 --> 00:01:55,280
+cool
+
+58
+00:01:52,320 --> 00:01:57,520
+that is agile see you have been
+
+59
+00:01:55,280 --> 00:01:58,799
+surrounded by agile for a long time you
+
+60
+00:01:57,520 --> 00:02:01,520
+just didn't know it
+
+61
+00:01:58,799 --> 00:02:03,600
+but now you do at the end of this course
+
+62
+00:02:01,520 --> 00:02:05,119
+you will be familiar with agile concepts
+
+63
+00:02:03,600 --> 00:02:08,000
+and tools
+
+64
+00:02:05,119 --> 00:02:10,000
+so a lot of people think agile is new
+
+65
+00:02:08,000 --> 00:02:12,400
+and that it's mainly for it projects and
+
+66
+00:02:10,000 --> 00:02:15,120
+for developers and project managers
+
+67
+00:02:12,400 --> 00:02:16,239
+well that is a huge misconception about
+
+68
+00:02:15,120 --> 00:02:18,160
+agile
+
+69
+00:02:16,239 --> 00:02:19,360
+and nothing could be further from the
+
+70
+00:02:18,160 --> 00:02:23,040
+truth
+
+71
+00:02:19,360 --> 00:02:24,800
+in reality agile dates back to the 50s
+
+72
+00:02:23,040 --> 00:02:28,400
+but the real game changer was the
+
+73
+00:02:24,800 --> 00:02:30,000
+release of the agile manifesto in 2001
+
+74
+00:02:28,400 --> 00:02:31,680
+and i won't go over the manifesto in
+
+75
+00:02:30,000 --> 00:02:33,760
+detail but i'll add a link to the
+
+76
+00:02:31,680 --> 00:02:36,080
+resources so you can read about it
+
+77
+00:02:33,760 --> 00:02:37,280
+the manifesto is basically the essence
+
+78
+00:02:36,080 --> 00:02:40,480
+of agile
+
+79
+00:02:37,280 --> 00:02:40,959
+think about it as the bible of agile and
+
+80
+00:02:40,480 --> 00:02:43,040
+yes
+
+81
+00:02:40,959 --> 00:02:44,560
+it came out of the iet industry and from
+
+82
+00:02:43,040 --> 00:02:47,599
+a group of developers
+
+83
+00:02:44,560 --> 00:02:48,959
+but no agile is not only for developers
+
+84
+00:02:47,599 --> 00:02:52,000
+and project managers
+
+85
+00:02:48,959 --> 00:02:54,480
+and it's not only for iot projects
+
+86
+00:02:52,000 --> 00:02:57,200
+agile is actually applied to all
+
+87
+00:02:54,480 --> 00:02:59,120
+industries and to many types of projects
+
+88
+00:02:57,200 --> 00:03:00,319
+i have personally applied agile to
+
+89
+00:02:59,120 --> 00:03:02,959
+commercial projects
+
+90
+00:03:00,319 --> 00:03:03,760
+operations projects and even personal
+
+91
+00:03:02,959 --> 00:03:05,680
+projects
+
+92
+00:03:03,760 --> 00:03:06,879
+and i can tell you that agile works and
+
+93
+00:03:05,680 --> 00:03:08,640
+it works well
+
+94
+00:03:06,879 --> 00:03:10,959
+try it yourself and learn from the
+
+95
+00:03:08,640 --> 00:03:12,480
+process reflect for improvement
+
+96
+00:03:10,959 --> 00:03:14,560
+which in agile we would call a
+
+97
+00:03:12,480 --> 00:03:16,400
+retrospective that is basically the
+
+98
+00:03:14,560 --> 00:03:18,159
+process of reflecting on your mistakes
+
+99
+00:03:16,400 --> 00:03:20,400
+and how you can improve and do things
+
+100
+00:03:18,159 --> 00:03:21,200
+differently i'll talk more about that
+
+101
+00:03:20,400 --> 00:03:23,840
+later
+
+102
+00:03:21,200 --> 00:03:27,920
+but for now retrospectives is just
+
+103
+00:03:23,840 --> 00:03:27,920
+another agile term
+

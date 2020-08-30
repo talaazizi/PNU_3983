@@ -1,0 +1,112 @@
+1
+00:00:00,799 --> 00:00:04,799
+you don't need to know anything about
+
+2
+00:00:02,639 --> 00:00:06,080
+project management before you start this
+
+3
+00:00:04,799 --> 00:00:08,160
+course
+
+4
+00:00:06,080 --> 00:00:10,240
+it works either as an introduction to
+
+5
+00:00:08,160 --> 00:00:12,320
+project management for beginners
+
+6
+00:00:10,240 --> 00:00:14,559
+or a refresher if you've been managing
+
+7
+00:00:12,320 --> 00:00:16,320
+projects for a while
+
+8
+00:00:14,559 --> 00:00:18,080
+in this course we're going to follow a
+
+9
+00:00:16,320 --> 00:00:19,439
+project through the project management
+
+10
+00:00:18,080 --> 00:00:21,279
+life cycle
+
+11
+00:00:19,439 --> 00:00:23,600
+so for the next few hours you're going
+
+12
+00:00:21,279 --> 00:00:25,519
+to be a project manager for the brisland
+
+13
+00:00:23,600 --> 00:00:28,080
+regional hospital
+
+14
+00:00:25,519 --> 00:00:28,960
+the hospital is adding a new cancer wing
+
+15
+00:00:28,080 --> 00:00:31,439
+and improving
+
+16
+00:00:28,960 --> 00:00:33,680
+its facilities thanks to government
+
+17
+00:00:31,439 --> 00:00:35,680
+grants and generous donations from
+
+18
+00:00:33,680 --> 00:00:37,840
+several donors
+
+19
+00:00:35,680 --> 00:00:38,879
+you'll be managing a project to replace
+
+20
+00:00:37,840 --> 00:00:41,360
+the system and
+
+21
+00:00:38,879 --> 00:00:44,000
+processes for scheduling patients into
+
+22
+00:00:41,360 --> 00:00:46,239
+rooms throughout the hospital
+
+23
+00:00:44,000 --> 00:00:47,760
+the goal is to improve the hospital
+
+24
+00:00:46,239 --> 00:00:51,520
+scheduling capability
+
+25
+00:00:47,760 --> 00:00:53,680
+and maximize the use of facilities
+
+26
+00:00:51,520 --> 00:00:55,120
+a more complete description of the case
+
+27
+00:00:53,680 --> 00:00:59,039
+study is available
+
+28
+00:00:55,120 --> 00:00:59,039
+in the exercise files
+

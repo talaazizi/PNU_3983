@@ -1,0 +1,816 @@
+1
+00:00:00,719 --> 00:00:05,520
+now let's go over the agile rituals
+
+2
+00:00:03,679 --> 00:00:07,759
+what you need to understand here is that
+
+3
+00:00:05,520 --> 00:00:09,599
+agile is more than just a methodology or
+
+4
+00:00:07,759 --> 00:00:12,559
+a way of doing things
+
+5
+00:00:09,599 --> 00:00:13,519
+it's actually more like a culture unlike
+
+6
+00:00:12,559 --> 00:00:15,120
+in any culture
+
+7
+00:00:13,519 --> 00:00:16,960
+there are rituals or things you should
+
+8
+00:00:15,120 --> 00:00:19,439
+do in agile
+
+9
+00:00:16,960 --> 00:00:20,560
+you have four main rituals sprint
+
+10
+00:00:19,439 --> 00:00:23,039
+planning
+
+11
+00:00:20,560 --> 00:00:23,920
+daily stand-ups sprint review or demo
+
+12
+00:00:23,039 --> 00:00:26,960
+sessions
+
+13
+00:00:23,920 --> 00:00:29,039
+and retrospectives all are important and
+
+14
+00:00:26,960 --> 00:00:31,359
+all contribute to an agile environment
+
+15
+00:00:29,039 --> 00:00:32,239
+and culture let's start with sprint
+
+16
+00:00:31,359 --> 00:00:33,920
+planning
+
+17
+00:00:32,239 --> 00:00:35,360
+in the sprint planning meeting the team
+
+18
+00:00:33,920 --> 00:00:37,360
+gets together and defines
+
+19
+00:00:35,360 --> 00:00:39,040
+which user stories they will work on
+
+20
+00:00:37,360 --> 00:00:40,960
+over the next two weeks
+
+21
+00:00:39,040 --> 00:00:42,960
+so in this session you are reviewing as
+
+22
+00:00:40,960 --> 00:00:45,120
+a team the scope of work
+
+23
+00:00:42,960 --> 00:00:47,360
+priorities and what you believe is
+
+24
+00:00:45,120 --> 00:00:49,200
+achievable during the next sprint
+
+25
+00:00:47,360 --> 00:00:51,840
+the scrum master facilitates this
+
+26
+00:00:49,200 --> 00:00:53,680
+meeting but everyone participates
+
+27
+00:00:51,840 --> 00:00:55,680
+during sprint planning the team reviews
+
+28
+00:00:53,680 --> 00:00:56,559
+the backlog and picks the user stories
+
+29
+00:00:55,680 --> 00:00:59,600
+they will work on
+
+30
+00:00:56,559 --> 00:01:01,440
+over the next sprint and typically teams
+
+31
+00:00:59,600 --> 00:01:03,840
+will place the selected user stories in
+
+32
+00:01:01,440 --> 00:01:05,760
+their kanban board under to do
+
+33
+00:01:03,840 --> 00:01:07,280
+as they are planning for the next print
+
+34
+00:01:05,760 --> 00:01:10,159
+and getting ready
+
+35
+00:01:07,280 --> 00:01:12,240
+daily standups as their name indicates
+
+36
+00:01:10,159 --> 00:01:12,720
+are called standups because the concept
+
+37
+00:01:12,240 --> 00:01:14,240
+is
+
+38
+00:01:12,720 --> 00:01:16,400
+that everyone should be standing up
+
+39
+00:01:14,240 --> 00:01:16,960
+during the meeting the concept behind
+
+40
+00:01:16,400 --> 00:01:18,960
+this
+
+41
+00:01:16,960 --> 00:01:20,240
+is that by standing up it helps ensure
+
+42
+00:01:18,960 --> 00:01:23,119
+the meeting is short
+
+43
+00:01:20,240 --> 00:01:24,960
+focused and productive daily stand-ups
+
+44
+00:01:23,119 --> 00:01:27,520
+have a sense of informality
+
+45
+00:01:24,960 --> 00:01:29,360
+and they function like a round table
+
+46
+00:01:27,520 --> 00:01:30,479
+everyone on the team says what they did
+
+47
+00:01:29,360 --> 00:01:32,799
+the day before
+
+48
+00:01:30,479 --> 00:01:34,079
+what they will do today and if they have
+
+49
+00:01:32,799 --> 00:01:36,159
+any impediments
+
+50
+00:01:34,079 --> 00:01:37,920
+issues or anything they need support
+
+51
+00:01:36,159 --> 00:01:40,240
+with like before
+
+52
+00:01:37,920 --> 00:01:41,840
+the scrum master facilitates meeting and
+
+53
+00:01:40,240 --> 00:01:42,880
+listens with special attention for
+
+54
+00:01:41,840 --> 00:01:45,439
+impediments
+
+55
+00:01:42,880 --> 00:01:47,520
+since it is his job to remove them
+
+56
+00:01:45,439 --> 00:01:49,439
+sprint reviews or demo sessions
+
+57
+00:01:47,520 --> 00:01:51,360
+showcase are meetings where the team
+
+58
+00:01:49,439 --> 00:01:53,360
+gets together to review what was
+
+59
+00:01:51,360 --> 00:01:55,119
+delivered in the last sprint
+
+60
+00:01:53,360 --> 00:01:56,719
+so this is scheduled right after the
+
+61
+00:01:55,119 --> 00:01:59,040
+sprint finishes
+
+62
+00:01:56,719 --> 00:02:01,439
+and during the meeting the team goes
+
+63
+00:01:59,040 --> 00:02:04,560
+over user storage which were delivered
+
+64
+00:02:01,439 --> 00:02:05,439
+and the ones which weren't if any not to
+
+65
+00:02:04,560 --> 00:02:07,680
+the point
+
+66
+00:02:05,439 --> 00:02:09,520
+of going over who is guilty for not
+
+67
+00:02:07,680 --> 00:02:12,480
+delivering or pointing fingers
+
+68
+00:02:09,520 --> 00:02:13,920
+but to learn and adapt and more for the
+
+69
+00:02:12,480 --> 00:02:16,480
+team's reflection
+
+70
+00:02:13,920 --> 00:02:18,239
+sprint reviews are generally internal
+
+71
+00:02:16,480 --> 00:02:20,480
+with everyone on the team
+
+72
+00:02:18,239 --> 00:02:22,560
+but sometimes people include the product
+
+73
+00:02:20,480 --> 00:02:25,040
+owner to review progress
+
+74
+00:02:22,560 --> 00:02:26,560
+in reality this can be done separately
+
+75
+00:02:25,040 --> 00:02:28,720
+so you can meet internally
+
+76
+00:02:26,560 --> 00:02:30,800
+and afterwards plan for another separate
+
+77
+00:02:28,720 --> 00:02:33,040
+session with the product owner
+
+78
+00:02:30,800 --> 00:02:34,640
+in agile we would call this a demo or
+
+79
+00:02:33,040 --> 00:02:36,400
+showcase session
+
+80
+00:02:34,640 --> 00:02:38,319
+like a lot of things in agile this is up
+
+81
+00:02:36,400 --> 00:02:39,599
+to you and what works best for you and
+
+82
+00:02:38,319 --> 00:02:41,840
+your team
+
+83
+00:02:39,599 --> 00:02:43,360
+personally i tend to separate internal
+
+84
+00:02:41,840 --> 00:02:44,959
+meetings from those with the product
+
+85
+00:02:43,360 --> 00:02:47,200
+owner and stakeholders
+
+86
+00:02:44,959 --> 00:02:48,080
+but on occasions i do combine both
+
+87
+00:02:47,200 --> 00:02:50,720
+meetings
+
+88
+00:02:48,080 --> 00:02:52,319
+especially if everyone is really busy
+
+89
+00:02:50,720 --> 00:02:53,360
+and there isn't too much availability
+
+90
+00:02:52,319 --> 00:02:55,280
+from team members
+
+91
+00:02:53,360 --> 00:02:57,760
+or if they are working on multiple
+
+92
+00:02:55,280 --> 00:03:00,400
+projects and have limited availability
+
+93
+00:02:57,760 --> 00:03:01,920
+retrospectives are one of my favorite
+
+94
+00:03:00,400 --> 00:03:03,920
+agile rituals
+
+95
+00:03:01,920 --> 00:03:05,599
+they focus on lessons learned and what
+
+96
+00:03:03,920 --> 00:03:07,440
+you can do to improve
+
+97
+00:03:05,599 --> 00:03:09,680
+or what your team should adjust to
+
+98
+00:03:07,440 --> 00:03:12,400
+improve delivery and execution
+
+99
+00:03:09,680 --> 00:03:14,000
+it's a moment for reflection this is
+
+100
+00:03:12,400 --> 00:03:15,680
+something you would do in traditional
+
+101
+00:03:14,000 --> 00:03:16,480
+project management at the end of the
+
+102
+00:03:15,680 --> 00:03:18,640
+project
+
+103
+00:03:16,480 --> 00:03:20,640
+and traditionally people would call them
+
+104
+00:03:18,640 --> 00:03:23,680
+post implementation reviews
+
+105
+00:03:20,640 --> 00:03:25,120
+pirs or lessons learned so in
+
+106
+00:03:23,680 --> 00:03:26,799
+traditional project management
+
+107
+00:03:25,120 --> 00:03:29,280
+it could be months before you actually
+
+108
+00:03:26,799 --> 00:03:31,680
+sit down to discuss lessons learned
+
+109
+00:03:29,280 --> 00:03:33,120
+but in agile you do this constantly
+
+110
+00:03:31,680 --> 00:03:35,440
+right after a sprint
+
+111
+00:03:33,120 --> 00:03:37,040
+and before your sprint planning session
+
+112
+00:03:35,440 --> 00:03:38,879
+during a retrospective
+
+113
+00:03:37,040 --> 00:03:40,640
+you and the team should answer three
+
+114
+00:03:38,879 --> 00:03:43,760
+basic questions
+
+115
+00:03:40,640 --> 00:03:44,400
+what went well what didn't and what
+
+116
+00:03:43,760 --> 00:03:47,440
+should you do
+
+117
+00:03:44,400 --> 00:03:49,519
+differently in the next sprint so
+
+118
+00:03:47,440 --> 00:03:51,120
+as we've discussed before agile is
+
+119
+00:03:49,519 --> 00:03:53,760
+iterative and adaptive
+
+120
+00:03:51,120 --> 00:03:54,720
+and retrospectives reflect that too you
+
+121
+00:03:53,760 --> 00:03:57,920
+deliver
+
+122
+00:03:54,720 --> 00:04:01,200
+reflect and adjust deliver
+
+123
+00:03:57,920 --> 00:04:02,560
+reflect and adjust so giving agile is a
+
+124
+00:04:01,200 --> 00:04:04,319
+mystery for a lot of people
+
+125
+00:04:02,560 --> 00:04:05,680
+because they don't know what it is or
+
+126
+00:04:04,319 --> 00:04:07,760
+don't understand it
+
+127
+00:04:05,680 --> 00:04:10,080
+well there are a lot of myths or
+
+128
+00:04:07,760 --> 00:04:12,000
+misconceptions around agile
+
+129
+00:04:10,080 --> 00:04:13,680
+and i would like to clarify about all of
+
+130
+00:04:12,000 --> 00:04:16,320
+them so that you don't believe
+
+131
+00:04:13,680 --> 00:04:18,639
+any of them let's start with a very
+
+132
+00:04:16,320 --> 00:04:22,160
+common misconception about agile
+
+133
+00:04:18,639 --> 00:04:22,560
+agile is anti-documentation and agile
+
+134
+00:04:22,160 --> 00:04:24,960
+says
+
+135
+00:04:22,560 --> 00:04:25,840
+we shouldn't document anything
+
+136
+00:04:24,960 --> 00:04:29,520
+documenting
+
+137
+00:04:25,840 --> 00:04:32,320
+is worthless completely untrue false
+
+138
+00:04:29,520 --> 00:04:32,880
+and a huge misconception around agile
+
+139
+00:04:32,320 --> 00:04:35,520
+agile
+
+140
+00:04:32,880 --> 00:04:36,479
+has never said we shouldn't document on
+
+141
+00:04:35,520 --> 00:04:38,720
+the contrary
+
+142
+00:04:36,479 --> 00:04:39,520
+with agile you are documenting all the
+
+143
+00:04:38,720 --> 00:04:40,720
+time
+
+144
+00:04:39,520 --> 00:04:43,120
+think about user stories or
+
+145
+00:04:40,720 --> 00:04:44,720
+retrospectives you are documenting
+
+146
+00:04:43,120 --> 00:04:46,800
+what agile wants you to understand
+
+147
+00:04:44,720 --> 00:04:48,560
+though is that you shouldn't spend hours
+
+148
+00:04:46,800 --> 00:04:51,759
+and hours documenting
+
+149
+00:04:48,560 --> 00:04:53,440
+keep it simple and keep it lean i've
+
+150
+00:04:51,759 --> 00:04:56,000
+also heard a lot of people
+
+151
+00:04:53,440 --> 00:04:58,000
+especially business analysts say that
+
+152
+00:04:56,000 --> 00:05:00,400
+agile is anti-planning
+
+153
+00:04:58,000 --> 00:05:01,440
+again nothing could be further from the
+
+154
+00:05:00,400 --> 00:05:04,160
+truth
+
+155
+00:05:01,440 --> 00:05:05,280
+in agile you are planning all the time
+
+156
+00:05:04,160 --> 00:05:07,360
+and probably
+
+157
+00:05:05,280 --> 00:05:09,680
+a lot more often than you would in any
+
+158
+00:05:07,360 --> 00:05:11,840
+other project management methodology
+
+159
+00:05:09,680 --> 00:05:13,600
+before you start any sprint you will be
+
+160
+00:05:11,840 --> 00:05:14,240
+doing a short and focused planning
+
+161
+00:05:13,600 --> 00:05:17,120
+session
+
+162
+00:05:14,240 --> 00:05:17,919
+which in agile is called sprint planning
+
+163
+00:05:17,120 --> 00:05:18,960
+on your screen
+
+164
+00:05:17,919 --> 00:05:21,440
+you can see a lot of other
+
+165
+00:05:18,960 --> 00:05:23,280
+misconceptions around agile and i'm not
+
+166
+00:05:21,440 --> 00:05:24,400
+going to go over each and every one of
+
+167
+00:05:23,280 --> 00:05:25,759
+them in detail
+
+168
+00:05:24,400 --> 00:05:27,759
+because they're pretty straightforward
+
+169
+00:05:25,759 --> 00:05:30,479
+and i'm sure you get the picture
+
+170
+00:05:27,759 --> 00:05:30,960
+but let's go over the last two agile
+
+171
+00:05:30,479 --> 00:05:34,479
+solves
+
+172
+00:05:30,960 --> 00:05:36,160
+everything no it doesn't agile is a
+
+173
+00:05:34,479 --> 00:05:38,160
+framework a methodology
+
+174
+00:05:36,160 --> 00:05:39,440
+and it can help you with a lot of things
+
+175
+00:05:38,160 --> 00:05:41,280
+but it's not perfect
+
+176
+00:05:39,440 --> 00:05:43,199
+and it's not going to save the world or
+
+177
+00:05:41,280 --> 00:05:45,600
+solve all of your problems
+
+178
+00:05:43,199 --> 00:05:46,880
+you have to be creative and proactive to
+
+179
+00:05:45,600 --> 00:05:49,680
+solve your problems
+
+180
+00:05:46,880 --> 00:05:51,840
+you have to act not just to think you
+
+181
+00:05:49,680 --> 00:05:53,759
+have to work with people and together
+
+182
+00:05:51,840 --> 00:05:56,160
+find the best solution
+
+183
+00:05:53,759 --> 00:05:59,039
+you have to collaborate research and
+
+184
+00:05:56,160 --> 00:06:02,000
+benchmark to solve your problems
+
+185
+00:05:59,039 --> 00:06:03,520
+but like i said before agile will help
+
+186
+00:06:02,000 --> 00:06:06,639
+you in your journey
+
+187
+00:06:03,520 --> 00:06:08,479
+and finally my personal favorite and one
+
+188
+00:06:06,639 --> 00:06:09,039
+of the biggest misconceptions around
+
+189
+00:06:08,479 --> 00:06:12,960
+agile
+
+190
+00:06:09,039 --> 00:06:16,479
+is that agile is only for i.t projects
+
+191
+00:06:12,960 --> 00:06:17,520
+no it's not agile was born in the iit
+
+192
+00:06:16,479 --> 00:06:19,360
+industry
+
+193
+00:06:17,520 --> 00:06:22,000
+but it is currently used across pretty
+
+194
+00:06:19,360 --> 00:06:23,919
+much every industry in the world
+
+195
+00:06:22,000 --> 00:06:25,759
+and people even use it for personal
+
+196
+00:06:23,919 --> 00:06:28,639
+projects such as planning weddings
+
+197
+00:06:25,759 --> 00:06:30,160
+and so on if you want to see examples of
+
+198
+00:06:28,639 --> 00:06:33,120
+agile in different industries
+
+199
+00:06:30,160 --> 00:06:34,880
+just google it google agile and tourism
+
+200
+00:06:33,120 --> 00:06:37,120
+or agile in sales
+
+201
+00:06:34,880 --> 00:06:38,240
+you will be surprised to find how many
+
+202
+00:06:37,120 --> 00:06:41,360
+people and companies
+
+203
+00:06:38,240 --> 00:06:46,800
+are using agile in the world trust me
+
+204
+00:06:41,360 --> 00:06:46,800
+a lot and not just people in it
+

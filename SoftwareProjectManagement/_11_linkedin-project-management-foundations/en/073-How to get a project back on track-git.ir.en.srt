@@ -1,0 +1,244 @@
+1
+00:00:00,799 --> 00:00:05,520
+if your project goes off the rails
+
+2
+00:00:03,600 --> 00:00:07,600
+it's time to figure out how to get it
+
+3
+00:00:05,520 --> 00:00:10,080
+back on track
+
+4
+00:00:07,600 --> 00:00:10,960
+the approach you choose and how you get
+
+5
+00:00:10,080 --> 00:00:14,000
+permission
+
+6
+00:00:10,960 --> 00:00:15,839
+depend on several factors if your
+
+7
+00:00:14,000 --> 00:00:17,680
+project is behind schedule
+
+8
+00:00:15,839 --> 00:00:19,119
+you can look at techniques like fast
+
+9
+00:00:17,680 --> 00:00:21,199
+tracking crashing
+
+10
+00:00:19,119 --> 00:00:23,920
+and assigning overtime to pull the
+
+11
+00:00:21,199 --> 00:00:26,720
+finish date earlier
+
+12
+00:00:23,920 --> 00:00:27,439
+when cost is over budget you might
+
+13
+00:00:26,720 --> 00:00:30,080
+consider
+
+14
+00:00:27,439 --> 00:00:32,320
+less expensive resources or reducing
+
+15
+00:00:30,080 --> 00:00:34,880
+other types of costs
+
+16
+00:00:32,320 --> 00:00:36,399
+as a last resort you might think about
+
+17
+00:00:34,880 --> 00:00:38,800
+reducing scope
+
+18
+00:00:36,399 --> 00:00:40,719
+because it can shorten the schedule and
+
+19
+00:00:38,800 --> 00:00:45,200
+reduce cost
+
+20
+00:00:40,719 --> 00:00:46,960
+start with solutions you can authorize
+
+21
+00:00:45,200 --> 00:00:49,280
+that way you don't have to ask
+
+22
+00:00:46,960 --> 00:00:51,680
+permission to make changes
+
+23
+00:00:49,280 --> 00:00:53,440
+for example you might shuffle task
+
+24
+00:00:51,680 --> 00:00:56,480
+assignments to complete work
+
+25
+00:00:53,440 --> 00:00:59,840
+more quickly or at lower cost without
+
+26
+00:00:56,480 --> 00:01:03,359
+affecting anyone outside the project
+
+27
+00:00:59,840 --> 00:01:05,920
+no need to ask for approval go ahead and
+
+28
+00:01:03,359 --> 00:01:08,400
+reassign if you don't have enough
+
+29
+00:01:05,920 --> 00:01:10,840
+authority to implement a solution
+
+30
+00:01:08,400 --> 00:01:12,240
+ask your customer or stakeholders for
+
+31
+00:01:10,840 --> 00:01:14,880
+approval
+
+32
+00:01:12,240 --> 00:01:15,600
+lengthening the schedule increasing the
+
+33
+00:01:14,880 --> 00:01:18,560
+budget
+
+34
+00:01:15,600 --> 00:01:20,000
+and reducing scope usually require an
+
+35
+00:01:18,560 --> 00:01:22,880
+okay from the customer
+
+36
+00:01:20,000 --> 00:01:24,080
+sponsor or management team when you ask
+
+37
+00:01:22,880 --> 00:01:26,400
+for approval
+
+38
+00:01:24,080 --> 00:01:29,280
+present your recommendations along with
+
+39
+00:01:26,400 --> 00:01:31,360
+the pros and cons of each one
+
+40
+00:01:29,280 --> 00:01:33,360
+and be ready to answer questions about
+
+41
+00:01:31,360 --> 00:01:36,720
+the solution you recommend
+
+42
+00:01:33,360 --> 00:01:37,920
+and the ones you ruled out when your
+
+43
+00:01:36,720 --> 00:01:40,400
+organization runs
+
+44
+00:01:37,920 --> 00:01:43,520
+many projects you might have to go
+
+45
+00:01:40,400 --> 00:01:46,000
+beyond your project stakeholders
+
+46
+00:01:43,520 --> 00:01:48,479
+for example if you need contingency
+
+47
+00:01:46,000 --> 00:01:50,159
+funds or people from other projects
+
+48
+00:01:48,479 --> 00:01:52,799
+you'll probably have to ask the
+
+49
+00:01:50,159 --> 00:01:54,640
+management team for those
+
+50
+00:01:52,799 --> 00:01:56,159
+no matter how well you manage your
+
+51
+00:01:54,640 --> 00:01:59,200
+projects they'll go
+
+52
+00:01:56,159 --> 00:02:02,479
+off track from time to time don't
+
+53
+00:01:59,200 --> 00:02:05,920
+panic evaluate your options and
+
+54
+00:02:02,479 --> 00:02:07,200
+ask for help effectively the scheduling
+
+55
+00:02:05,920 --> 00:02:10,239
+project in the exercise
+
+56
+00:02:07,200 --> 00:02:12,560
+files is behind schedule
+
+57
+00:02:10,239 --> 00:02:14,560
+based on the background provided choose
+
+58
+00:02:12,560 --> 00:02:15,680
+an approach to shorten the remaining
+
+59
+00:02:14,560 --> 00:02:18,360
+schedule
+
+60
+00:02:15,680 --> 00:02:21,360
+and identify who you will ask for
+
+61
+00:02:18,360 --> 00:02:21,360
+permission
+

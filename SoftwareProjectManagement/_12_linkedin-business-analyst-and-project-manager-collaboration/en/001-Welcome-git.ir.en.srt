@@ -1,132 +1,168 @@
-0
-00:00:00.0 --> 00:00:02.97
-Project managers and business analyst
-
 1
-00:00:03.00 --> 00:00:06.0
-play absolutely critical roles
+00:00:00,799 --> 00:00:05,920
+project managers and business analysts
 
 2
-00:00:06.0 --> 00:00:09.0
-in today’s organizations . in today’s
+00:00:03,280 --> 00:00:08,160
+play absolutely critical roles in
 
 3
-00:00:09.0 --> 00:00:12.0
-project environment where complexity change
+00:00:05,920 --> 00:00:10,160
+today's organizations
 
 4
-00:00:12.0 --> 00:00:15.0
-and ambiguity of the norm project managers
+00:00:08,160 --> 00:00:11,280
+in today's project environment where
 
 5
-00:00:15.0 --> 00:00:18.0
-and business analyst must collaborate tightly
+00:00:10,160 --> 00:00:14,000
+complexity
 
 6
-00:00:18.0 --> 00:00:21.0
-and build deep relationships with one another
+00:00:11,280 --> 00:00:16,240
+change and ambiguity are the norm
 
 7
-00:00:21.0 --> 00:00:24.0
-to get great project results and better business
+00:00:14,000 --> 00:00:19,039
+project managers and business analysts
 
 8
-00:00:24.0 --> 00:00:27.0
-outcomes hi I’m
+00:00:16,240 --> 00:00:20,960
+must collaborate tightly and build deep
 
 9
-00:00:27.0 --> 00:00:30.0
-Angela Wick and welcome to this course which focuses
+00:00:19,039 --> 00:00:23,519
+relationships with one another
 
 10
-00:00:30.0 --> 00:00:33.0
-on project manager and business analyst
+00:00:20,960 --> 00:00:25,439
+to get great project results and better
 
 11
-00:00:33.00 --> 00:00:36.0
-collaboration this course guides
+00:00:23,519 --> 00:00:28,720
+business outcomes
 
 12
-00:00:36.0 --> 00:00:39.0
-PMs and BAs through the critical
+00:00:25,439 --> 00:00:30,000
+hi i'm angela wick and welcome to this
 
 13
-00:00:39.0 --> 00:00:42.0
-areas of role overlap and collaboration points
+00:00:28,720 --> 00:00:32,559
+course which focuses
 
 14
-00:00:42.0 --> 00:00:45.0
-I introduced to team members that pave
+00:00:30,000 --> 00:00:34,399
+on project manager and business analyst
 
 15
-00:00:45.0 --> 00:00:48.0
-the way for each roll through the course
+00:00:32,559 --> 00:00:37,760
+collaboration
 
 16
-00:00:48.0 --> 00:00:51.0
-pat the PM and Bailey BA
+00:00:34,399 --> 00:00:39,600
+this course guides pms and bas through
 
 17
-00:00:51.0 --> 00:00:54.0
-will take us through common scenarios in areas
+00:00:37,760 --> 00:00:42,800
+the critical areas of role
 
 18
-00:00:54.0 --> 00:00:57.0
-where partnership between these two rolls is
+00:00:39,600 --> 00:00:44,800
+overlap and collaboration points i
 
 19
-00:00:57.0 --> 00:01:00.0
-a must things like planning in scope
+00:00:42,800 --> 00:00:48,000
+introduced two team members that paved
 
 20
-00:01:00.0 --> 00:01:03.0
-management they will guide us through the key
+00:00:44,800 --> 00:00:51,440
+the way for each role through the course
 
 21
-00:01:03.0 --> 00:01:06.0
-mindsets and considerations such as
+00:00:48,000 --> 00:00:53,360
+pat the pm and bayley the ba will take
 
 22
-00:01:06.0 --> 00:01:09.0
-changing requirements and stakeholder engagement
+00:00:51,440 --> 00:00:55,920
+us through common scenarios and
 
 23
-00:01:09.0 --> 00:01:12.0
-you learn from Pat and Bailey
+00:00:53,360 --> 00:00:58,960
+areas where partnership between these
 
 24
-00:01:12.0 --> 00:01:15.0
-that this deep collaboration will build
+00:00:55,920 --> 00:01:01,039
+two roles is a must things like planning
 
 25
-00:01:15.0 --> 00:01:18.0
-trust with stakeholders Foster an
+00:00:58,960 --> 00:01:02,719
+and scope management
 
 26
-00:01:18.0 --> 00:01:21.0
-environment for stakeholder engagement and help
+00:01:01,039 --> 00:01:05,760
+they will guide us through the key
 
 27
-00:01:21.0 --> 00:01:24.0
-entire team focus on the outcomes that
+00:01:02,719 --> 00:01:08,000
+mindsets and considerations such as
 
 28
-00:01:24.0 --> 00:01:27.0
-matter with the project are you ready
+00:01:05,760 --> 00:01:09,520
+changing requirements and stakeholder
 
 29
-00:01:27.0 --> 00:01:30.0
-to start your path towards better collaboration
+00:01:08,000 --> 00:01:12,320
+engagement
 
 30
-00:01:30.0 --> 00:01:33.0
-and discover a deeper relationship between
+00:01:09,520 --> 00:01:12,799
+you will learn from pat and bailey that
 
 31
-00:01:33.0 --> 00:01:36.0
-PMs and BA’s . let’s
+00:01:12,320 --> 00:01:15,439
+this
 
 32
-00:01:36.0 --> 00:01:36.9
-dive in.
+00:01:12,799 --> 00:01:16,960
+deep collaboration will build trust with
+
+33
+00:01:15,439 --> 00:01:19,040
+stakeholders
+
+34
+00:01:16,960 --> 00:01:20,320
+foster an environment for stakeholder
+
+35
+00:01:19,040 --> 00:01:23,119
+engagement
+
+36
+00:01:20,320 --> 00:01:26,080
+and help the entire team focus on the
+
+37
+00:01:23,119 --> 00:01:28,400
+outcomes that matter with the project
+
+38
+00:01:26,080 --> 00:01:30,079
+are you ready to start your path towards
+
+39
+00:01:28,400 --> 00:01:32,479
+better collaboration
+
+40
+00:01:30,079 --> 00:01:35,200
+and discover a deeper relationship
+
+41
+00:01:32,479 --> 00:01:41,840
+between pms and bas
+
+42
+00:01:35,200 --> 00:01:41,840
+let's dive in
 

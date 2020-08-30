@@ -1,0 +1,284 @@
+1
+00:00:00,560 --> 00:00:05,359
+a closeout report is like a final status
+
+2
+00:00:03,600 --> 00:00:08,240
+report for a project
+
+3
+00:00:05,359 --> 00:00:08,639
+it sums up the project results and helps
+
+4
+00:00:08,240 --> 00:00:11,519
+share
+
+5
+00:00:08,639 --> 00:00:12,080
+what you learned with others like a news
+
+6
+00:00:11,519 --> 00:00:13,920
+article
+
+7
+00:00:12,080 --> 00:00:15,360
+start with the highlights what the
+
+8
+00:00:13,920 --> 00:00:17,680
+project accomplished
+
+9
+00:00:15,360 --> 00:00:19,840
+and whether it was successful did the
+
+10
+00:00:17,680 --> 00:00:23,039
+project deliver what it was supposed to
+
+11
+00:00:19,840 --> 00:00:26,080
+was it on time and within budget if not
+
+12
+00:00:23,039 --> 00:00:28,160
+what was the main reason why then you
+
+13
+00:00:26,080 --> 00:00:29,279
+can expand on the project schedule and
+
+14
+00:00:28,160 --> 00:00:31,279
+cost
+
+15
+00:00:29,279 --> 00:00:34,079
+when did the project finish if the
+
+16
+00:00:31,279 --> 00:00:36,399
+project was significantly early or late
+
+17
+00:00:34,079 --> 00:00:37,280
+include the variances from your original
+
+18
+00:00:36,399 --> 00:00:40,800
+dates
+
+19
+00:00:37,280 --> 00:00:41,520
+and the reasons that helps publicize
+
+20
+00:00:40,800 --> 00:00:44,719
+ways to
+
+21
+00:00:41,520 --> 00:00:46,719
+improve estimates for future projects
+
+22
+00:00:44,719 --> 00:00:47,840
+what was the final cost for the whole
+
+23
+00:00:46,719 --> 00:00:50,079
+project
+
+24
+00:00:47,840 --> 00:00:50,960
+what did major portions of the project
+
+25
+00:00:50,079 --> 00:00:52,719
+cost
+
+26
+00:00:50,960 --> 00:00:54,000
+were there significant variances from
+
+27
+00:00:52,719 --> 00:00:55,920
+the baseline
+
+28
+00:00:54,000 --> 00:00:58,399
+depending on what the stakeholders want
+
+29
+00:00:55,920 --> 00:00:59,440
+to know you might include return on
+
+30
+00:00:58,399 --> 00:01:02,559
+investment and
+
+31
+00:00:59,440 --> 00:01:04,400
+other financial measures next
+
+32
+00:01:02,559 --> 00:01:07,040
+include information you want to share
+
+33
+00:01:04,400 --> 00:01:10,400
+with others like significant changes
+
+34
+00:01:07,040 --> 00:01:12,320
+issues risks and lessons learned
+
+35
+00:01:10,400 --> 00:01:13,760
+say the project didn't deliver the
+
+36
+00:01:12,320 --> 00:01:16,159
+entire scope
+
+37
+00:01:13,760 --> 00:01:16,880
+in the closeout report identify the
+
+38
+00:01:16,159 --> 00:01:20,159
+scope that
+
+39
+00:01:16,880 --> 00:01:21,439
+was and wasn't delivered in the hospital
+
+40
+00:01:20,159 --> 00:01:24,000
+scheduling project
+
+41
+00:01:21,439 --> 00:01:25,200
+an additional custom software module was
+
+42
+00:01:24,000 --> 00:01:27,439
+added to scope
+
+43
+00:01:25,200 --> 00:01:29,439
+to integrate the scheduling systems and
+
+44
+00:01:27,439 --> 00:01:31,920
+the accounting system
+
+45
+00:01:29,439 --> 00:01:32,880
+for risks that occurred describe how you
+
+46
+00:01:31,920 --> 00:01:36,320
+handled them
+
+47
+00:01:32,880 --> 00:01:36,799
+and the results if risks occurred that
+
+48
+00:01:36,320 --> 00:01:38,400
+weren't
+
+49
+00:01:36,799 --> 00:01:41,200
+identified in the original risk
+
+50
+00:01:38,400 --> 00:01:44,240
+management plan point them out so they
+
+51
+00:01:41,200 --> 00:01:47,119
+aren't missed in the future include
+
+52
+00:01:44,240 --> 00:01:48,479
+significant lessons learned for instance
+
+53
+00:01:47,119 --> 00:01:50,799
+the scheduling project
+
+54
+00:01:48,479 --> 00:01:52,079
+showed that vendor procurement takes
+
+55
+00:01:50,799 --> 00:01:55,040
+more time than was
+
+56
+00:01:52,079 --> 00:01:57,200
+allocated in this project finally
+
+57
+00:01:55,040 --> 00:02:00,079
+include a summary of the effectiveness
+
+58
+00:01:57,200 --> 00:02:02,079
+of your project management practices
+
+59
+00:02:00,079 --> 00:02:03,360
+like lessons learned you can describe
+
+60
+00:02:02,079 --> 00:02:05,520
+what worked well
+
+61
+00:02:03,360 --> 00:02:07,520
+and how you would plan and manage
+
+62
+00:02:05,520 --> 00:02:10,319
+differently in the future
+
+63
+00:02:07,520 --> 00:02:11,440
+the project closeout report sums up what
+
+64
+00:02:10,319 --> 00:02:14,000
+the project did
+
+65
+00:02:11,440 --> 00:02:16,720
+and how it did it because you'll create
+
+66
+00:02:14,000 --> 00:02:19,120
+one of these at the end of every project
+
+67
+00:02:16,720 --> 00:02:21,120
+why not practice by setting up your own
+
+68
+00:02:19,120 --> 00:02:23,280
+closeout report template
+
+69
+00:02:21,120 --> 00:02:25,040
+you'll find a sample closeout report for
+
+70
+00:02:23,280 --> 00:02:29,280
+the hospital scheduling project
+
+71
+00:02:25,040 --> 00:02:29,280
+in the exercise files
+

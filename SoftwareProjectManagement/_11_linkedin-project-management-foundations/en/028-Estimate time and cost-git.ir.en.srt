@@ -1,0 +1,368 @@
+1
+00:00:00,719 --> 00:00:04,319
+the two questions you get hit with most
+
+2
+00:00:03,040 --> 00:00:07,200
+often about a project
+
+3
+00:00:04,319 --> 00:00:09,440
+are how much time will it take and how
+
+4
+00:00:07,200 --> 00:00:11,920
+much will it cost
+
+5
+00:00:09,440 --> 00:00:13,759
+estimating accurately matters because
+
+6
+00:00:11,920 --> 00:00:16,560
+your estimates could determine whether
+
+7
+00:00:13,759 --> 00:00:19,520
+it makes sense to run the project
+
+8
+00:00:16,560 --> 00:00:21,600
+you start by estimating time because it
+
+9
+00:00:19,520 --> 00:00:25,519
+affects both the project's schedule
+
+10
+00:00:21,600 --> 00:00:26,800
+and cost you also estimate costs that
+
+11
+00:00:25,519 --> 00:00:29,599
+aren't time based
+
+12
+00:00:26,800 --> 00:00:31,599
+like materials and ancillary costs like
+
+13
+00:00:29,599 --> 00:00:33,440
+travel
+
+14
+00:00:31,599 --> 00:00:35,280
+during initiating and planning you might
+
+15
+00:00:33,440 --> 00:00:36,000
+work with a core planning team to
+
+16
+00:00:35,280 --> 00:00:39,120
+develop
+
+17
+00:00:36,000 --> 00:00:40,079
+initial estimates during project
+
+18
+00:00:39,120 --> 00:00:42,079
+execution
+
+19
+00:00:40,079 --> 00:00:44,879
+you can get more accurate estimates from
+
+20
+00:00:42,079 --> 00:00:47,520
+the people assigned to tasks
+
+21
+00:00:44,879 --> 00:00:48,000
+they understand what has to be done and
+
+22
+00:00:47,520 --> 00:00:49,840
+know
+
+23
+00:00:48,000 --> 00:00:51,520
+how long it will take based on their
+
+24
+00:00:49,840 --> 00:00:54,000
+experience
+
+25
+00:00:51,520 --> 00:00:55,039
+plus they're usually motivated to live
+
+26
+00:00:54,000 --> 00:00:58,399
+up to the estimates
+
+27
+00:00:55,039 --> 00:00:58,960
+they provide estimates don't have to be
+
+28
+00:00:58,399 --> 00:01:01,760
+perfect
+
+29
+00:00:58,960 --> 00:01:02,000
+right off the bat for project selection
+
+30
+00:01:01,760 --> 00:01:05,199
+an
+
+31
+00:01:02,000 --> 00:01:06,479
+estimate that's plus or minus 75 might
+
+32
+00:01:05,199 --> 00:01:08,000
+be good enough
+
+33
+00:01:06,479 --> 00:01:10,720
+as you learn more about the project
+
+34
+00:01:08,000 --> 00:01:11,600
+during planning your estimates grow more
+
+35
+00:01:10,720 --> 00:01:16,080
+accurate
+
+36
+00:01:11,600 --> 00:01:17,920
+ideally to plus or minus 10 percent
+
+37
+00:01:16,080 --> 00:01:19,840
+there are several techniques you can use
+
+38
+00:01:17,920 --> 00:01:21,840
+for estimating
+
+39
+00:01:19,840 --> 00:01:23,280
+if you have similar projects that are
+
+40
+00:01:21,840 --> 00:01:25,439
+already complete
+
+41
+00:01:23,280 --> 00:01:26,799
+use them as a foundation for your
+
+42
+00:01:25,439 --> 00:01:29,280
+project estimate
+
+43
+00:01:26,799 --> 00:01:31,759
+with parametric models you calculate
+
+44
+00:01:29,280 --> 00:01:33,439
+work and cost based on some measure
+
+45
+00:01:31,759 --> 00:01:35,920
+like the number of square feet for
+
+46
+00:01:33,439 --> 00:01:36,799
+construction this technique works when
+
+47
+00:01:35,920 --> 00:01:40,400
+you have data
+
+48
+00:01:36,799 --> 00:01:42,799
+from many similar projects
+
+49
+00:01:40,400 --> 00:01:45,040
+if a project represents uncharted
+
+50
+00:01:42,799 --> 00:01:47,119
+territory for your organization
+
+51
+00:01:45,040 --> 00:01:48,720
+consider bringing in experts who are
+
+52
+00:01:47,119 --> 00:01:51,759
+familiar with the work
+
+53
+00:01:48,720 --> 00:01:52,960
+like consultants or vendors the delphi
+
+54
+00:01:51,759 --> 00:01:56,000
+technique counts on
+
+55
+00:01:52,960 --> 00:01:59,119
+several heads being better than one
+
+56
+00:01:56,000 --> 00:02:02,479
+first you ask several experts to produce
+
+57
+00:01:59,119 --> 00:02:04,719
+estimates independent of one another
+
+58
+00:02:02,479 --> 00:02:07,680
+you share the results with the group
+
+59
+00:02:04,719 --> 00:02:09,599
+keeping the estimates anonymous
+
+60
+00:02:07,680 --> 00:02:11,039
+you keep the estimates anonymous because
+
+61
+00:02:09,599 --> 00:02:13,120
+you don't want anyone to be
+
+62
+00:02:11,039 --> 00:02:16,319
+influenced by the reputation or
+
+63
+00:02:13,120 --> 00:02:20,400
+authority of a co-expert
+
+64
+00:02:16,319 --> 00:02:22,879
+you then ask everyone to estimate again
+
+65
+00:02:20,400 --> 00:02:23,760
+repeat this step a few more times and
+
+66
+00:02:22,879 --> 00:02:26,560
+then use the
+
+67
+00:02:23,760 --> 00:02:29,599
+average of the last round as your final
+
+68
+00:02:26,560 --> 00:02:32,239
+estimated value
+
+69
+00:02:29,599 --> 00:02:35,120
+for large projects or rough estimates
+
+70
+00:02:32,239 --> 00:02:38,160
+top-down estimating works well
+
+71
+00:02:35,120 --> 00:02:40,000
+you estimate phases or major components
+
+72
+00:02:38,160 --> 00:02:41,200
+and then break those estimates into
+
+73
+00:02:40,000 --> 00:02:45,120
+smaller pieces
+
+74
+00:02:41,200 --> 00:02:47,280
+until you get to individual tasks
+
+75
+00:02:45,120 --> 00:02:49,040
+estimating from the bottom up means you
+
+76
+00:02:47,280 --> 00:02:50,959
+estimate each task
+
+77
+00:02:49,040 --> 00:02:54,319
+and then add them up until you have the
+
+78
+00:02:50,959 --> 00:02:56,400
+estimate for the entire project
+
+79
+00:02:54,319 --> 00:02:58,720
+you can also start with a top down
+
+80
+00:02:56,400 --> 00:02:59,280
+estimate and then revise it by working
+
+81
+00:02:58,720 --> 00:03:02,800
+your way
+
+82
+00:02:59,280 --> 00:03:05,200
+back up from the bottom to the top
+
+83
+00:03:02,800 --> 00:03:07,360
+the project schedule and cost hinge on
+
+84
+00:03:05,200 --> 00:03:07,760
+your estimates so it's important to make
+
+85
+00:03:07,360 --> 00:03:11,599
+them
+
+86
+00:03:07,760 --> 00:03:13,200
+as accurate as possible for practice
+
+87
+00:03:11,599 --> 00:03:14,720
+based on what you know about the
+
+88
+00:03:13,200 --> 00:03:17,599
+hospital scheduling project
+
+89
+00:03:14,720 --> 00:03:18,720
+so far which estimating technique would
+
+90
+00:03:17,599 --> 00:03:21,040
+you choose
+
+91
+00:03:18,720 --> 00:03:24,400
+and how accurate an estimate would you
+
+92
+00:03:21,040 --> 00:03:24,400
+strive for
+

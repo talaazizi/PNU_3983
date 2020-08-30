@@ -1,0 +1,276 @@
+1
+00:00:00,640 --> 00:00:05,920
+technical folks understand technology
+
+2
+00:00:03,360 --> 00:00:08,559
+inside and out sometimes better than
+
+3
+00:00:05,920 --> 00:00:11,920
+they seem to understand other people
+
+4
+00:00:08,559 --> 00:00:13,920
+they're also highly creative so it's no
+
+5
+00:00:11,920 --> 00:00:15,759
+surprise that managing them
+
+6
+00:00:13,920 --> 00:00:17,680
+is a little different than managing
+
+7
+00:00:15,759 --> 00:00:19,920
+other team members
+
+8
+00:00:17,680 --> 00:00:20,800
+first it's important to help technical
+
+9
+00:00:19,920 --> 00:00:22,800
+team members
+
+10
+00:00:20,800 --> 00:00:23,920
+understand the project's business
+
+11
+00:00:22,800 --> 00:00:26,240
+objectives
+
+12
+00:00:23,920 --> 00:00:27,439
+technical people tend to focus on
+
+13
+00:00:26,240 --> 00:00:29,439
+technology
+
+14
+00:00:27,439 --> 00:00:31,119
+they're good at it and it's what they
+
+15
+00:00:29,439 --> 00:00:32,800
+find interesting
+
+16
+00:00:31,119 --> 00:00:35,120
+when they understand the business side
+
+17
+00:00:32,800 --> 00:00:37,920
+of the project they can help identify
+
+18
+00:00:35,120 --> 00:00:40,160
+potential problems and find solutions
+
+19
+00:00:37,920 --> 00:00:42,480
+that no one else would think of
+
+20
+00:00:40,160 --> 00:00:43,680
+technical types often strive for
+
+21
+00:00:42,480 --> 00:00:45,600
+perfection
+
+22
+00:00:43,680 --> 00:00:46,719
+they also love to come up with cool
+
+23
+00:00:45,600 --> 00:00:48,879
+solutions
+
+24
+00:00:46,719 --> 00:00:50,399
+which unfortunately might not be in the
+
+25
+00:00:48,879 --> 00:00:52,079
+project scope
+
+26
+00:00:50,399 --> 00:00:54,000
+make sure that the work that they're
+
+27
+00:00:52,079 --> 00:00:57,039
+doing fits the project's
+
+28
+00:00:54,000 --> 00:00:59,440
+business needs the drive for perfection
+
+29
+00:00:57,039 --> 00:01:01,359
+can also cause trouble during testing
+
+30
+00:00:59,440 --> 00:01:03,600
+and fixing defects
+
+31
+00:01:01,359 --> 00:01:04,720
+while fixing a high priority problem in
+
+32
+00:01:03,600 --> 00:01:06,720
+one area
+
+33
+00:01:04,720 --> 00:01:07,760
+your technical team members might be
+
+34
+00:01:06,720 --> 00:01:10,720
+tempted to fix
+
+35
+00:01:07,760 --> 00:01:12,080
+other issues in the same area that might
+
+36
+00:01:10,720 --> 00:01:14,479
+be the right thing to do
+
+37
+00:01:12,080 --> 00:01:16,240
+but you need to make sure before they
+
+38
+00:01:14,479 --> 00:01:18,479
+dive in
+
+39
+00:01:16,240 --> 00:01:20,159
+when you manage technical people you
+
+40
+00:01:18,479 --> 00:01:23,360
+have to juggle your approach
+
+41
+00:01:20,159 --> 00:01:23,920
+as time goes on early on you need to
+
+42
+00:01:23,360 --> 00:01:27,840
+give them
+
+43
+00:01:23,920 --> 00:01:29,759
+space to be creative and explore options
+
+44
+00:01:27,840 --> 00:01:31,040
+the rest of the time you need to keep
+
+45
+00:01:29,759 --> 00:01:33,520
+them on track
+
+46
+00:01:31,040 --> 00:01:34,320
+make sure they complete their important
+
+47
+00:01:33,520 --> 00:01:37,840
+but less
+
+48
+00:01:34,320 --> 00:01:39,119
+interesting tasks technology can seem
+
+49
+00:01:37,840 --> 00:01:42,159
+cut and dried
+
+50
+00:01:39,119 --> 00:01:44,320
+but technical people are creative just
+
+51
+00:01:42,159 --> 00:01:46,240
+like other types of creative people
+
+52
+00:01:44,320 --> 00:01:48,399
+technical types work better in
+
+53
+00:01:46,240 --> 00:01:51,119
+particular environments
+
+54
+00:01:48,399 --> 00:01:52,960
+for example some like to come in late
+
+55
+00:01:51,119 --> 00:01:53,840
+and work until the wee hours of the
+
+56
+00:01:52,960 --> 00:01:56,399
+morning
+
+57
+00:01:53,840 --> 00:01:57,840
+some can't work with any kind of noise
+
+58
+00:01:56,399 --> 00:02:01,040
+or distraction
+
+59
+00:01:57,840 --> 00:02:03,200
+while others need music to focus
+
+60
+00:02:01,040 --> 00:02:05,439
+still others are more productive when
+
+61
+00:02:03,200 --> 00:02:07,680
+they can dress the way they like
+
+62
+00:02:05,439 --> 00:02:10,000
+try to be flexible enough to give your
+
+63
+00:02:07,680 --> 00:02:13,680
+technical team members the environment
+
+64
+00:02:10,000 --> 00:02:15,760
+that awakens their muse these are a few
+
+65
+00:02:13,680 --> 00:02:16,959
+tips for managing your technical teams
+
+66
+00:02:15,760 --> 00:02:19,599
+more effectively
+
+67
+00:02:16,959 --> 00:02:20,879
+for practice develop a solution to the
+
+68
+00:02:19,599 --> 00:02:26,000
+technical team issue
+
+69
+00:02:20,879 --> 00:02:26,000
+described in the exercise files
+

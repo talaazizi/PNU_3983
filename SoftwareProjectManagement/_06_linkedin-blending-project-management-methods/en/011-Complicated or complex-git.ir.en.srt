@@ -1,0 +1,518 @@
+1
+
+00:00:00,07 --> 00:00:04,03
+- Unfortunately, the words complicated and complex
+
+
+
+2
+
+00:00:04,03 --> 00:00:06,00
+
+are used interchangeably,
+
+
+
+3
+
+00:00:06,00 --> 00:00:08,02
+
+but they don't mean the same thing.
+
+
+
+4
+
+00:00:08,02 --> 00:00:11,05
+
+When you use them in the context of projects,
+
+
+
+5
+
+00:00:11,05 --> 00:00:15,02
+
+the difference can make or break your work effort.
+
+
+
+6
+
+00:00:15,02 --> 00:00:18,01
+
+There's a scale that's used to define difficulty
+
+
+
+7
+
+00:00:18,01 --> 00:00:22,03
+
+in relation to problems, systems, or processes.
+
+
+
+8
+
+00:00:22,03 --> 00:00:24,08
+
+There are four categories on this scale,
+
+
+
+9
+
+00:00:24,08 --> 00:00:29,05
+
+simple, complex, complicated, or chaotic.
+
+
+
+10
+
+00:00:29,05 --> 00:00:31,04
+
+Let's look at each one.
+
+
+
+11
+
+00:00:31,04 --> 00:00:34,02
+
+First, let's talk about simple problems,
+
+
+
+12
+
+00:00:34,02 --> 00:00:36,01
+
+systems, or processes.
+
+
+
+13
+
+00:00:36,01 --> 00:00:39,08
+
+Simple things are predictable and easy to understand.
+
+
+
+14
+
+00:00:39,08 --> 00:00:43,05
+
+An example of something that's simple is a sail.
+
+
+
+15
+
+00:00:43,05 --> 00:00:47,04
+
+Sails have been used for millennia as a way to move boats.
+
+
+
+16
+
+00:00:47,04 --> 00:00:50,07
+
+It's easy for me to predict that a large sheet of fabric,
+
+
+
+17
+
+00:00:50,07 --> 00:00:54,02
+
+exposed to wind, will catch it and propel the sheet
+
+
+
+18
+
+00:00:54,02 --> 00:00:57,02
+
+and anything connected to it forward.
+
+
+
+19
+
+00:00:57,02 --> 00:00:59,02
+
+As you can tell, simple things
+
+
+
+20
+
+00:00:59,02 --> 00:01:02,06
+
+are easily understood and predictable.
+
+
+
+21
+
+00:01:02,06 --> 00:01:06,04
+
+Second on this scale are things that are complicated.
+
+
+
+22
+
+00:01:06,04 --> 00:01:09,01
+
+Complicated things are harder to understand,
+
+
+
+23
+
+00:01:09,01 --> 00:01:11,00
+
+but are still knowable.
+
+
+
+24
+
+00:01:11,00 --> 00:01:14,07
+
+An example of something complicated is a sailboat.
+
+
+
+25
+
+00:01:14,07 --> 00:01:18,04
+
+While I'm not a sailor, if I spent the necessary time
+
+
+
+26
+
+00:01:18,04 --> 00:01:21,08
+
+and effort, I could learn everything there is to know
+
+
+
+27
+
+00:01:21,08 --> 00:01:23,06
+
+about a sailboat.
+
+
+
+28
+
+00:01:23,06 --> 00:01:27,03
+
+I would fully understand what each piece and part does
+
+
+
+29
+
+00:01:27,03 --> 00:01:29,02
+
+and how to control it.
+
+
+
+30
+
+00:01:29,02 --> 00:01:30,09
+
+Once I knew these things,
+
+
+
+31
+
+00:01:30,09 --> 00:01:34,06
+
+I could maintain and care for a boat on my own.
+
+
+
+32
+
+00:01:34,06 --> 00:01:39,06
+
+The boat, then, becomes both knowable and predictable.
+
+
+
+33
+
+00:01:39,06 --> 00:01:44,01
+
+For example, if I remove a plank from the bottom of my boat,
+
+
+
+34
+
+00:01:44,01 --> 00:01:47,05
+
+I can predict that the boat will sink.
+
+
+
+35
+
+00:01:47,05 --> 00:01:50,09
+
+Next on the scale are things that are complex.
+
+
+
+36
+
+00:01:50,09 --> 00:01:55,01
+
+Complexity means that I can never fully know everything
+
+
+
+37
+
+00:01:55,01 --> 00:01:57,02
+
+about the object of my study.
+
+
+
+38
+
+00:01:57,02 --> 00:02:00,05
+
+I can learn and practice to a certain level,
+
+
+
+39
+
+00:02:00,05 --> 00:02:03,09
+
+and only make educated guesses about the outcomes
+
+
+
+40
+
+00:02:03,09 --> 00:02:05,08
+
+from different scenarios.
+
+
+
+41
+
+00:02:05,08 --> 00:02:08,08
+
+This arena is unpredictable.
+
+
+
+42
+
+00:02:08,08 --> 00:02:10,09
+
+Staying with our sailboat example,
+
+
+
+43
+
+00:02:10,09 --> 00:02:13,06
+
+sailing on the ocean is complex.
+
+
+
+44
+
+00:02:13,06 --> 00:02:17,02
+
+There is no way to fully predict the ocean currents,
+
+
+
+45
+
+00:02:17,02 --> 00:02:20,03
+
+the weather, or how my boat will behave
+
+
+
+46
+
+00:02:20,03 --> 00:02:22,00
+
+in various conditions.
+
+
+
+47
+
+00:02:22,00 --> 00:02:25,08
+
+In this case, all I can do is make educated guesses
+
+
+
+48
+
+00:02:25,08 --> 00:02:27,06
+
+on the actions I should take
+
+
+
+49
+
+00:02:27,06 --> 00:02:30,04
+
+and the outcomes that might result.
+
+
+
+50
+
+00:02:30,04 --> 00:02:33,04
+
+In other words, it's not fully understandable,
+
+
+
+51
+
+00:02:33,04 --> 00:02:36,01
+
+but I can still make some predictions.
+
+
+
+52
+
+00:02:36,01 --> 00:02:40,05
+
+As a result, I need to act, learn, and adapt.
+
+
+
+53
+
+00:02:40,05 --> 00:02:44,03
+
+Finally, at the top of the scale is chaos.
+
+
+
+54
+
+00:02:44,03 --> 00:02:46,00
+
+Chaos reigns when something
+
+
+
+55
+
+00:02:46,00 --> 00:02:49,00
+
+is not understandable or predictable.
+
+
+
+56
+
+00:02:49,00 --> 00:02:52,03
+
+Still using our sailing example, putting my sailboat
+
+
+
+57
+
+00:02:52,03 --> 00:02:54,07
+
+in a hurricane is chaotic.
+
+
+
+58
+
+00:02:54,07 --> 00:02:57,04
+
+I can neither understand nor predict
+
+
+
+59
+
+00:02:57,04 --> 00:03:01,06
+
+what will happen to me or my boat in this scenario.
+
+
+
+60
+
+00:03:01,06 --> 00:03:05,04
+
+When it comes to projects, it's essential to understand
+
+
+
+61
+
+00:03:05,04 --> 00:03:08,04
+
+where the project exists on this scale.
+
+
+
+62
+
+00:03:08,04 --> 00:03:13,04
+
+Is it simple, complex, complicated, or chaotic?
+
+
+
+63
+
+00:03:13,04 --> 00:03:15,08
+
+Once you know where your project is,
+
+
+
+64
+
+00:03:15,08 --> 00:03:17,01
+
+you have a better chance
+
+
+
+65
+
+00:03:17,01 --> 00:03:19,09
+
+of selecting the right methodology for success.
+
+

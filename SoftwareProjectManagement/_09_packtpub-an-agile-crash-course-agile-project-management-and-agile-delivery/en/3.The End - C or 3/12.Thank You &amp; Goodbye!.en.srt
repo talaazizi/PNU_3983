@@ -1,0 +1,584 @@
+1
+00:00:00,399 --> 00:00:04,720
+hey guys thank you very much for
+
+2
+00:00:03,040 --> 00:00:06,480
+supporting me with this course and for
+
+3
+00:00:04,720 --> 00:00:07,200
+taking the time to actually go through
+
+4
+00:00:06,480 --> 00:00:09,040
+it
+
+5
+00:00:07,200 --> 00:00:10,559
+i feel really excited for you and i want
+
+6
+00:00:09,040 --> 00:00:12,320
+to say congratulations
+
+7
+00:00:10,559 --> 00:00:13,759
+you know you made it to the end of the
+
+8
+00:00:12,320 --> 00:00:16,000
+course and that's huge
+
+9
+00:00:13,759 --> 00:00:16,800
+it's enormous what most people don't
+
+10
+00:00:16,000 --> 00:00:18,560
+realize
+
+11
+00:00:16,800 --> 00:00:20,960
+is that actually getting to the end of
+
+12
+00:00:18,560 --> 00:00:22,320
+the course is not something very common
+
+13
+00:00:20,960 --> 00:00:24,080
+it doesn't happen every day and it
+
+14
+00:00:22,320 --> 00:00:26,800
+doesn't happen to everyone
+
+15
+00:00:24,080 --> 00:00:28,320
+actually the global stats of online
+
+16
+00:00:26,800 --> 00:00:30,560
+education state
+
+17
+00:00:28,320 --> 00:00:32,320
+that less than 10 of the people that
+
+18
+00:00:30,560 --> 00:00:35,040
+actually enroll in a course
+
+19
+00:00:32,320 --> 00:00:37,360
+completed so if we're talking about that
+
+20
+00:00:35,040 --> 00:00:40,239
+100 people enrolled in a course
+
+21
+00:00:37,360 --> 00:00:41,360
+well only 10 of them would actually go
+
+22
+00:00:40,239 --> 00:00:43,600
+through it all
+
+23
+00:00:41,360 --> 00:00:44,960
+and to the end of the course so if
+
+24
+00:00:43,600 --> 00:00:45,680
+you've made it to this part of the
+
+25
+00:00:44,960 --> 00:00:47,840
+course
+
+26
+00:00:45,680 --> 00:00:49,039
+well i just want to say congratulations
+
+27
+00:00:47,840 --> 00:00:51,600
+and i just want to say
+
+28
+00:00:49,039 --> 00:00:53,440
+good job keep up the good work you're
+
+29
+00:00:51,600 --> 00:00:55,360
+actually someone special
+
+30
+00:00:53,440 --> 00:00:57,360
+you're not like the other 90 of the
+
+31
+00:00:55,360 --> 00:00:58,160
+people that enroll in a course and don't
+
+32
+00:00:57,360 --> 00:01:00,559
+complete it
+
+33
+00:00:58,160 --> 00:01:02,079
+you actually completed the course which
+
+34
+00:01:00,559 --> 00:01:03,920
+is great it's awesome
+
+35
+00:01:02,079 --> 00:01:06,240
+but i certainly don't want to convey the
+
+36
+00:01:03,920 --> 00:01:08,000
+message that not completing a course is
+
+37
+00:01:06,240 --> 00:01:10,479
+bad it's a bad thing
+
+38
+00:01:08,000 --> 00:01:12,000
+i don't think it is and here's why
+
+39
+00:01:10,479 --> 00:01:14,640
+technology has evolved
+
+40
+00:01:12,000 --> 00:01:16,080
+education has evolved so when people go
+
+41
+00:01:14,640 --> 00:01:17,920
+to an online course
+
+42
+00:01:16,080 --> 00:01:19,200
+not all of them are thinking about
+
+43
+00:01:17,920 --> 00:01:21,200
+completing everything
+
+44
+00:01:19,200 --> 00:01:22,320
+it's not like a regular university you
+
+45
+00:01:21,200 --> 00:01:24,400
+know like people
+
+46
+00:01:22,320 --> 00:01:25,920
+sometimes they look at a lecture and
+
+47
+00:01:24,400 --> 00:01:26,640
+they're just interested in that
+
+48
+00:01:25,920 --> 00:01:28,960
+particular
+
+49
+00:01:26,640 --> 00:01:30,640
+lecture and that's okay that's fine
+
+50
+00:01:28,960 --> 00:01:32,560
+there's nothing wrong with that
+
+51
+00:01:30,640 --> 00:01:34,640
+or they might go through the parts of
+
+52
+00:01:32,560 --> 00:01:34,960
+the course which are most relevant to
+
+53
+00:01:34,640 --> 00:01:36,799
+them
+
+54
+00:01:34,960 --> 00:01:38,000
+in their professional life or in their
+
+55
+00:01:36,799 --> 00:01:40,880
+personal life
+
+56
+00:01:38,000 --> 00:01:41,439
+and again that's okay that's fine you
+
+57
+00:01:40,880 --> 00:01:43,520
+know
+
+58
+00:01:41,439 --> 00:01:45,520
+students paid for this so they should be
+
+59
+00:01:43,520 --> 00:01:47,360
+able to do whatever they want with it
+
+60
+00:01:45,520 --> 00:01:48,560
+or they should be able to complete it at
+
+61
+00:01:47,360 --> 00:01:50,960
+their own pace
+
+62
+00:01:48,560 --> 00:01:52,240
+on any device wherever they want
+
+63
+00:01:50,960 --> 00:01:53,840
+anywhere in the world
+
+64
+00:01:52,240 --> 00:01:55,680
+so if they want to take a week to finish
+
+65
+00:01:53,840 --> 00:01:58,560
+the course if they want to do it in
+
+66
+00:01:55,680 --> 00:01:59,439
+one day or in a year or in 10 years
+
+67
+00:01:58,560 --> 00:02:01,040
+that's fine
+
+68
+00:01:59,439 --> 00:02:03,040
+personally i don't have a problem with
+
+69
+00:02:01,040 --> 00:02:04,799
+that because i understand that there's
+
+70
+00:02:03,040 --> 00:02:07,680
+different people with different needs
+
+71
+00:02:04,799 --> 00:02:09,200
+and the education sector and technology
+
+72
+00:02:07,680 --> 00:02:11,840
+as a sector has evolved
+
+73
+00:02:09,200 --> 00:02:13,599
+and we need to be open to that but again
+
+74
+00:02:11,840 --> 00:02:15,680
+if you did complete the course
+
+75
+00:02:13,599 --> 00:02:17,120
+you did a great job you're definitely
+
+76
+00:02:15,680 --> 00:02:18,640
+someone special and i want to
+
+77
+00:02:17,120 --> 00:02:19,760
+acknowledge that and you'll find really
+
+78
+00:02:18,640 --> 00:02:23,520
+useful information
+
+79
+00:02:19,760 --> 00:02:24,239
+in support dot rubio and if you enjoyed
+
+80
+00:02:23,520 --> 00:02:26,239
+the course
+
+81
+00:02:24,239 --> 00:02:27,520
+and you want to help other students make
+
+82
+00:02:26,239 --> 00:02:29,760
+the decision of
+
+83
+00:02:27,520 --> 00:02:31,599
+actually enrolling in this course well
+
+84
+00:02:29,760 --> 00:02:32,480
+please leave a nice review with a good
+
+85
+00:02:31,599 --> 00:02:34,319
+comment
+
+86
+00:02:32,480 --> 00:02:35,920
+now if you think there's something that
+
+87
+00:02:34,319 --> 00:02:36,319
+can be improved that you would have
+
+88
+00:02:35,920 --> 00:02:38,080
+liked
+
+89
+00:02:36,319 --> 00:02:40,239
+to be different in the course that's
+
+90
+00:02:38,080 --> 00:02:42,319
+okay too just send me a message
+
+91
+00:02:40,239 --> 00:02:44,400
+but please don't leave a negative review
+
+92
+00:02:42,319 --> 00:02:46,800
+the real value is in constructive
+
+93
+00:02:44,400 --> 00:02:47,440
+positive feedback that can actually help
+
+94
+00:02:46,800 --> 00:02:50,400
+us make
+
+95
+00:02:47,440 --> 00:02:50,800
+our work better and don't get me wrong i
+
+96
+00:02:50,400 --> 00:02:52,800
+work
+
+97
+00:02:50,800 --> 00:02:54,319
+really hard and i always work really
+
+98
+00:02:52,800 --> 00:02:55,920
+hard in all of my courses
+
+99
+00:02:54,319 --> 00:02:58,239
+to make sure that you have the best
+
+100
+00:02:55,920 --> 00:03:00,000
+educational experience i can offer
+
+101
+00:02:58,239 --> 00:03:01,280
+but that doesn't mean there's no room
+
+102
+00:03:00,000 --> 00:03:03,519
+for improvement there's
+
+103
+00:03:01,280 --> 00:03:05,760
+always things i can do better and i'm
+
+104
+00:03:03,519 --> 00:03:08,480
+happy and always welcoming
+
+105
+00:03:05,760 --> 00:03:09,280
+to constructive feedback which i can
+
+106
+00:03:08,480 --> 00:03:11,920
+actually use
+
+107
+00:03:09,280 --> 00:03:13,760
+to improve in what i do but again if you
+
+108
+00:03:11,920 --> 00:03:15,440
+actually enjoy the experience and you
+
+109
+00:03:13,760 --> 00:03:16,720
+thought the information and the course
+
+110
+00:03:15,440 --> 00:03:19,120
+was really valuable
+
+111
+00:03:16,720 --> 00:03:21,040
+to your work to your projects to your
+
+112
+00:03:19,120 --> 00:03:22,879
+personal life to what you're doing
+
+113
+00:03:21,040 --> 00:03:24,879
+to what you're learning and you want to
+
+114
+00:03:22,879 --> 00:03:26,640
+express that love please leave a nice
+
+115
+00:03:24,879 --> 00:03:27,760
+review and i will really appreciate it
+
+116
+00:03:26,640 --> 00:03:28,959
+and i just want to say thank you in
+
+117
+00:03:27,760 --> 00:03:31,360
+advance if you do
+
+118
+00:03:28,959 --> 00:03:33,519
+if you don't again no worries do
+
+119
+00:03:31,360 --> 00:03:35,280
+whatever is best for you so if you do
+
+120
+00:03:33,519 --> 00:03:36,000
+decide to leave a review with a nice
+
+121
+00:03:35,280 --> 00:03:37,920
+comment
+
+122
+00:03:36,000 --> 00:03:39,840
+thank you very much in advance for doing
+
+123
+00:03:37,920 --> 00:03:40,879
+that i really appreciate it and that's
+
+124
+00:03:39,840 --> 00:03:42,159
+really helpful
+
+125
+00:03:40,879 --> 00:03:44,400
+and again it's kind of like the
+
+126
+00:03:42,159 --> 00:03:46,080
+completion rate not everyone completes a
+
+127
+00:03:44,400 --> 00:03:47,680
+course right we talked about that less
+
+128
+00:03:46,080 --> 00:03:49,920
+than 10 percent of the people
+
+129
+00:03:47,680 --> 00:03:51,040
+actually go through the whole course in
+
+130
+00:03:49,920 --> 00:03:53,760
+online education
+
+131
+00:03:51,040 --> 00:03:55,439
+the same applies to reviews and ratings
+
+132
+00:03:53,760 --> 00:03:56,720
+not everyone leaves a rating and not
+
+133
+00:03:55,439 --> 00:03:58,480
+everyone leaves a review
+
+134
+00:03:56,720 --> 00:04:00,560
+so if you actually take the time to do
+
+135
+00:03:58,480 --> 00:04:02,640
+it let me just say right now
+
+136
+00:04:00,560 --> 00:04:04,640
+thank you very much it's really
+
+137
+00:04:02,640 --> 00:04:06,560
+appreciated and it's really helpful
+
+138
+00:04:04,640 --> 00:04:08,560
+and if it's positive and constructive
+
+139
+00:04:06,560 --> 00:04:11,120
+even better you know i love that
+
+140
+00:04:08,560 --> 00:04:12,239
+thank you so much and i just want to say
+
+141
+00:04:11,120 --> 00:04:13,920
+have a nice week
+
+142
+00:04:12,239 --> 00:04:16,000
+have a nice weekend wherever you are
+
+143
+00:04:13,920 --> 00:04:18,400
+whatever you're doing enjoy the day
+
+144
+00:04:16,000 --> 00:04:21,120
+enjoy the night have a good one guys see
+
+145
+00:04:18,400 --> 00:04:21,120
+you on the next one
+
+146
+00:04:23,080 --> 00:04:26,080
+bye
+

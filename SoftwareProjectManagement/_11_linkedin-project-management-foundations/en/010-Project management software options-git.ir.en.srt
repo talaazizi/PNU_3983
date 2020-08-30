@@ -1,0 +1,304 @@
+1
+00:00:00,640 --> 00:00:05,759
+software tools can make your job as a
+
+2
+00:00:02,960 --> 00:00:07,919
+project manager a little easier
+
+3
+00:00:05,759 --> 00:00:09,440
+let's talk about types of software and
+
+4
+00:00:07,919 --> 00:00:12,960
+how you can put it to use
+
+5
+00:00:09,440 --> 00:00:16,320
+managing projects scheduling software
+
+6
+00:00:12,960 --> 00:00:18,560
+comes in a variety of shapes and sizes
+
+7
+00:00:16,320 --> 00:00:20,800
+for most projects you'll want scheduling
+
+8
+00:00:18,560 --> 00:00:22,880
+software to help you build and manage
+
+9
+00:00:20,800 --> 00:00:25,519
+your project schedule
+
+10
+00:00:22,880 --> 00:00:27,359
+there are lots of tools out there such
+
+11
+00:00:25,519 --> 00:00:30,160
+as microsoft project
+
+12
+00:00:27,359 --> 00:00:31,279
+oracle primavera liquid planner
+
+13
+00:00:30,160 --> 00:00:34,640
+smartsheet
+
+14
+00:00:31,279 --> 00:00:36,800
+reich asana and more
+
+15
+00:00:34,640 --> 00:00:38,000
+most scheduling tools these days work in
+
+16
+00:00:36,800 --> 00:00:41,120
+the cloud to make
+
+17
+00:00:38,000 --> 00:00:41,680
+collaboration easier when you think
+
+18
+00:00:41,120 --> 00:00:43,520
+about
+
+19
+00:00:41,680 --> 00:00:44,879
+all the project management documents you
+
+20
+00:00:43,520 --> 00:00:47,760
+produce it's
+
+21
+00:00:44,879 --> 00:00:49,039
+no wonder that a word processing program
+
+22
+00:00:47,760 --> 00:00:51,039
+is essential
+
+23
+00:00:49,039 --> 00:00:53,360
+because project documents are laid out
+
+24
+00:00:51,039 --> 00:00:56,160
+similarly from project to project
+
+25
+00:00:53,360 --> 00:00:56,480
+you can build document templates that
+
+26
+00:00:56,160 --> 00:00:58,399
+way
+
+27
+00:00:56,480 --> 00:01:00,399
+you don't have to start from scratch
+
+28
+00:00:58,399 --> 00:01:02,719
+every time
+
+29
+00:01:00,399 --> 00:01:06,159
+a spreadsheet program is another
+
+30
+00:01:02,719 --> 00:01:08,159
+must-have for calculations and analysis
+
+31
+00:01:06,159 --> 00:01:09,920
+besides being handy for budgets and
+
+32
+00:01:08,159 --> 00:01:12,479
+other financial calculations
+
+33
+00:01:09,920 --> 00:01:13,439
+a spreadsheet can help analyze project
+
+34
+00:01:12,479 --> 00:01:15,439
+risks
+
+35
+00:01:13,439 --> 00:01:17,439
+and prioritize which ones you should
+
+36
+00:01:15,439 --> 00:01:20,159
+keep an eye on
+
+37
+00:01:17,439 --> 00:01:21,119
+a presentation program like powerpoint
+
+38
+00:01:20,159 --> 00:01:23,360
+or prezi
+
+39
+00:01:21,119 --> 00:01:24,159
+is useful for communicating project
+
+40
+00:01:23,360 --> 00:01:26,799
+information
+
+41
+00:01:24,159 --> 00:01:28,880
+at a high level or when you want to
+
+42
+00:01:26,799 --> 00:01:30,560
+include information from other types of
+
+43
+00:01:28,880 --> 00:01:32,479
+documents
+
+44
+00:01:30,560 --> 00:01:34,799
+because a team of people work on a
+
+45
+00:01:32,479 --> 00:01:36,159
+project you need some kind of tool for
+
+46
+00:01:34,799 --> 00:01:39,600
+collaborating with
+
+47
+00:01:36,159 --> 00:01:40,560
+others basecamp asana and microsoft
+
+48
+00:01:39,600 --> 00:01:42,960
+sharepoint
+
+49
+00:01:40,560 --> 00:01:44,000
+are a few cloud-based collaboration
+
+50
+00:01:42,960 --> 00:01:46,640
+tools you can use
+
+51
+00:01:44,000 --> 00:01:47,439
+to share files with others keep track of
+
+52
+00:01:46,640 --> 00:01:51,119
+issues
+
+53
+00:01:47,439 --> 00:01:52,880
+or even manage a workflow if you work in
+
+54
+00:01:51,119 --> 00:01:56,079
+an organization that runs
+
+55
+00:01:52,880 --> 00:01:57,119
+many large projects at the same time you
+
+56
+00:01:56,079 --> 00:02:00,159
+should consider
+
+57
+00:01:57,119 --> 00:02:02,640
+enterprise project management software
+
+58
+00:02:00,159 --> 00:02:05,040
+enterprise level software provides tools
+
+59
+00:02:02,640 --> 00:02:06,719
+that allow you to find resources with
+
+60
+00:02:05,040 --> 00:02:08,959
+the skills you need
+
+61
+00:02:06,719 --> 00:02:10,720
+and see which resources are available
+
+62
+00:02:08,959 --> 00:02:13,599
+when you need them
+
+63
+00:02:10,720 --> 00:02:14,800
+it helps you track risks issues and
+
+64
+00:02:13,599 --> 00:02:17,680
+other information
+
+65
+00:02:14,800 --> 00:02:19,120
+and even build document libraries so
+
+66
+00:02:17,680 --> 00:02:22,400
+team members can easily
+
+67
+00:02:19,120 --> 00:02:24,800
+find information they need we've
+
+68
+00:02:22,400 --> 00:02:26,640
+briefly touched on some of the software
+
+69
+00:02:24,800 --> 00:02:29,120
+options available
+
+70
+00:02:26,640 --> 00:02:30,480
+if you're researching software to use
+
+71
+00:02:29,120 --> 00:02:33,519
+consider the following
+
+72
+00:02:30,480 --> 00:02:36,560
+in your decisions your organization's
+
+73
+00:02:33,519 --> 00:02:37,599
+culture and work environment software
+
+74
+00:02:36,560 --> 00:02:40,080
+budget
+
+75
+00:02:37,599 --> 00:02:44,000
+the number of projects you manage and
+
+76
+00:02:40,080 --> 00:02:44,000
+their complexity
+

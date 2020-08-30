@@ -1,0 +1,272 @@
+1
+00:00:00,560 --> 00:00:04,640
+during planning you built a change
+
+2
+00:00:02,800 --> 00:00:07,600
+management plan that describes
+
+3
+00:00:04,640 --> 00:00:08,960
+how to handle project changes now the
+
+4
+00:00:07,600 --> 00:00:12,160
+project is underway
+
+5
+00:00:08,960 --> 00:00:14,639
+it's time to put that plan to work
+
+6
+00:00:12,160 --> 00:00:17,359
+let's say a change request comes in you
+
+7
+00:00:14,639 --> 00:00:19,680
+assign someone to evaluate the request
+
+8
+00:00:17,359 --> 00:00:22,160
+add it to the change request log and
+
+9
+00:00:19,680 --> 00:00:24,480
+submit it to the change review board
+
+10
+00:00:22,160 --> 00:00:26,480
+along with your recommendation to either
+
+11
+00:00:24,480 --> 00:00:28,960
+approve or reject it
+
+12
+00:00:26,480 --> 00:00:30,560
+if the request is rejected let the
+
+13
+00:00:28,960 --> 00:00:32,480
+requester know
+
+14
+00:00:30,560 --> 00:00:34,880
+make sure no one on the team starts
+
+15
+00:00:32,480 --> 00:00:36,239
+working on it in anticipation of its
+
+16
+00:00:34,880 --> 00:00:39,040
+approval
+
+17
+00:00:36,239 --> 00:00:39,520
+however if the request is approved you
+
+18
+00:00:39,040 --> 00:00:42,399
+assign
+
+19
+00:00:39,520 --> 00:00:44,160
+someone to keep an eye on it that person
+
+20
+00:00:42,399 --> 00:00:45,680
+updates the baseline documents to
+
+21
+00:00:44,160 --> 00:00:47,920
+reflect the change
+
+22
+00:00:45,680 --> 00:00:49,760
+maybe new tasks are needed or the
+
+23
+00:00:47,920 --> 00:00:53,600
+project finish date moves
+
+24
+00:00:49,760 --> 00:00:56,000
+or cost increases tag baseline document
+
+25
+00:00:53,600 --> 00:00:58,000
+edits with the change request number
+
+26
+00:00:56,000 --> 00:01:00,640
+that way it's easy to see where
+
+27
+00:00:58,000 --> 00:01:02,879
+modifications came from
+
+28
+00:01:00,640 --> 00:01:05,600
+the owner of the change request also
+
+29
+00:01:02,879 --> 00:01:08,000
+adds status to the change request log
+
+30
+00:01:05,600 --> 00:01:08,799
+reports on progress and shepherds the
+
+31
+00:01:08,000 --> 00:01:11,760
+request
+
+32
+00:01:08,799 --> 00:01:12,560
+through to completion at that point the
+
+33
+00:01:11,760 --> 00:01:15,200
+owner makes
+
+34
+00:01:12,560 --> 00:01:16,000
+one last update in the change request
+
+35
+00:01:15,200 --> 00:01:18,799
+log
+
+36
+00:01:16,000 --> 00:01:20,000
+to show the actual hours cost and
+
+37
+00:01:18,799 --> 00:01:23,680
+project finish date
+
+38
+00:01:20,000 --> 00:01:25,280
+if it's changed what if a change request
+
+39
+00:01:23,680 --> 00:01:28,400
+has a big impact
+
+40
+00:01:25,280 --> 00:01:29,520
+i mean really big the change request
+
+41
+00:01:28,400 --> 00:01:32,320
+board's authority
+
+42
+00:01:29,520 --> 00:01:34,159
+does have limits here are a couple of
+
+43
+00:01:32,320 --> 00:01:36,000
+exceptions to the change request
+
+44
+00:01:34,159 --> 00:01:38,240
+approval process
+
+45
+00:01:36,000 --> 00:01:40,159
+suppose a change request affects the
+
+46
+00:01:38,240 --> 00:01:42,880
+project's business case
+
+47
+00:01:40,159 --> 00:01:44,880
+in that situation the customer needs to
+
+48
+00:01:42,880 --> 00:01:46,720
+approve the change request
+
+49
+00:01:44,880 --> 00:01:49,119
+if a change request affects other
+
+50
+00:01:46,720 --> 00:01:51,280
+projects take the request to your
+
+51
+00:01:49,119 --> 00:01:52,640
+organization's executive board for
+
+52
+00:01:51,280 --> 00:01:55,520
+approval
+
+53
+00:01:52,640 --> 00:01:56,960
+emergencies are another special case
+
+54
+00:01:55,520 --> 00:01:59,040
+when a change request
+
+55
+00:01:56,960 --> 00:02:00,000
+can't wait for the next change review
+
+56
+00:01:59,040 --> 00:02:02,719
+board meeting
+
+57
+00:02:00,000 --> 00:02:05,119
+you need to act fast think about getting
+
+58
+00:02:02,719 --> 00:02:07,280
+an emergency review board meeting
+
+59
+00:02:05,119 --> 00:02:09,840
+or you can ask the customer or sponsor
+
+60
+00:02:07,280 --> 00:02:12,879
+to approve the request
+
+61
+00:02:09,840 --> 00:02:15,040
+change is a fact of project life
+
+62
+00:02:12,879 --> 00:02:17,200
+by managing change requests you can
+
+63
+00:02:15,040 --> 00:02:20,319
+approve the ones that make sense
+
+64
+00:02:17,200 --> 00:02:21,200
+and keep your project on track for
+
+65
+00:02:20,319 --> 00:02:23,120
+practice
+
+66
+00:02:21,200 --> 00:02:24,239
+describe what you would do for the
+
+67
+00:02:23,120 --> 00:02:29,200
+change request
+
+68
+00:02:24,239 --> 00:02:29,200
+depicted in the exercise files
+

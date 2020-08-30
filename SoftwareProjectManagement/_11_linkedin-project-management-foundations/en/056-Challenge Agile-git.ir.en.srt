@@ -1,0 +1,80 @@
+1
+00:00:01,620 --> 00:00:06,960
+[Music]
+
+2
+00:00:05,680 --> 00:00:09,200
+in this challenge
+
+3
+00:00:06,960 --> 00:00:11,120
+you want to leverage agile approaches
+
+4
+00:00:09,200 --> 00:00:13,280
+for the hospital scheduling project
+
+5
+00:00:11,120 --> 00:00:15,440
+wherever possible
+
+6
+00:00:13,280 --> 00:00:16,800
+to help identify project areas that
+
+7
+00:00:15,440 --> 00:00:18,560
+might work for agile
+
+8
+00:00:16,800 --> 00:00:20,240
+you and your team have done some
+
+9
+00:00:18,560 --> 00:00:22,560
+research
+
+10
+00:00:20,240 --> 00:00:24,160
+use the research results in the exercise
+
+11
+00:00:22,560 --> 00:00:26,400
+files to determine
+
+12
+00:00:24,160 --> 00:00:27,680
+how well agile methods would work on the
+
+13
+00:00:26,400 --> 00:00:31,119
+scheduling system
+
+14
+00:00:27,680 --> 00:00:33,600
+for each area of the hospital take about
+
+15
+00:00:31,119 --> 00:00:35,200
+10 minutes to identify your agile
+
+16
+00:00:33,600 --> 00:00:37,040
+candidates
+
+17
+00:00:35,200 --> 00:00:38,640
+after you identify the sections you
+
+18
+00:00:37,040 --> 00:00:41,719
+would select for agile
+
+19
+00:00:38,640 --> 00:00:44,719
+you can compare your list to the one i
+
+20
+00:00:41,719 --> 00:00:44,719
+created
+
