@@ -8,6 +8,7 @@
 \usepackage{ifthen}
 \usepackage{tikz}
 \usepackage{tkz-graph}
+\usepackage{trees}
 \usepackage[top=3cm,right=1.5cm,bottom=3cm,left=1.5cm]{geometry} 
 %%%%%%%%%%Matrix Package
 \usepackage{nicematrix}
@@ -24,6 +25,8 @@
 \usepackage{algpseudocode}
 \usepackage{algorithmicx}
 %%%%%%
+\usetikzlibrary {shapes.geometric}
+
 %%%%%%%
 \algrenewcommand\algorithmicwhile{\textbf{am\’\i g}}
 \algrenewcommand\algorithmicdo{\textbf{v\’egezd el}}
@@ -232,7 +235,7 @@
 %%%%%%%%%%%%%%%%%
 \begin{document}
 \begin{center}
-\textbf{سوالات فرد }
+\textbf{\color{blue}سوالات فرد }
 \end{center}
 \begin{questions}
 
@@ -249,11 +252,15 @@
 {c} 
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
-{$g(n)\in  \Omega(h(n))$}
+گزینه ج صحیح می باشد: {$g(n)\in  \Omega(h(n))$}
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+اگر{$f(n)\in\theta g(n) $} باشد آنگاه می توان گفت تقریباً {$g(n) , f(n) $} دو تابع هم ارز می باشند. اگر {$h(n) \in O(f(n)) $} باشد می توان گفت {$h(n) $} یک تابع کوچکتر مساوی از {$g(n) , f(n) $} می باشد. در نتیجه {$g(n) \in \Omega(h(n)) $}
 
-\vspace{0.5in}
+\vspace{0.1in}
 
 
 %Question #2
@@ -282,10 +289,15 @@ for( i := 1; i <= n; i++)
 {d} 
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
+گزینه د صحیح می باشد: 
 {$\mathbf{T}(n)\in O(n^2)$} 
-\vspace{0.5in}
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+
+\vspace{0.1in}
 
 %Question #4
 \question
@@ -298,10 +310,16 @@ for( i := 1; i <= n; i++)
 \choice{$\theta (Log n)$}{$\theta (nLog n)$}{$\theta ( n)$}{$\theta (n^2)$}{a}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
-{$\theta (Log n)$}
-\vspace{0.5in}
+گزینه الف صحیح می باشد: {$\theta (Log n)$}
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+\begin{latin}
+{$ a=1 , b=\frac{3}{2} , k=0 \Rightarrow 1=(\frac{3}{2})^0 \Rightarrow T(n\in\theta(n^0\log_{2}^{n})\Rightarrow T(n)\in (Log n) $}
+\end{latin}
+\vspace{0.1in}
 
 %Question #6
 \question 
@@ -313,10 +331,32 @@ for( i := 1; i <= n; i++)
 \choice{$\frac{28}{9}$}{$\frac{18}{9}$}{$\frac{25}{9}$}{$\frac{31}{9}$}{c}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
-{$\frac{25}{9}$}
-\vspace{0.5in}
+گزینه ج صحیح می باشد:  {$\frac{25}{9}$}
+
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+\begin{latin}
+\begin{center} 
+\begin{tabular}{| c | c | c | c | c | c | c | c | c | c |}
+\hline
+\rl{آرایه } & -6& 0 & 7 & 9 & 20 & 30 & 54 & 82 & 101 \\ 
+\hline
+\rl{تعداد مقایسه ها} & 3 & 2 & 3 & 4 & 1 & 3 & 2 & 3 & 4 \\  
+\hline
+\end{tabular}
+\end{center}
+\end{latin} 
+یک راه ساده برای به دست آوردن عدد فوق ترسیم یک درخت دودوئی کامل با ۹ گره است:
+\begin{latin}
+\begin{flushleft}
+\rl{زمان متوسط }={$\frac{1\times1+2\times2+4\times3+2\times4}{9} = \frac{25}{9}$}
+\end{flushleft}
+\end{latin}
+
+\vspace{0.1in}
 
 %Question #8
 \question 
@@ -328,12 +368,30 @@ for( i := 1; i <= n; i++)
 \choice{$392$}{$490$}{$410$}{$364$}{a}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
-{$392$}
-\vspace{0.5in}
+گزینه الف صحیح می باشد:  {$392$}
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+می دانیم تعداد ضرب ها از رابطه زیر به دست می آید:
 
-%Question #10
+\begin{latin}
+\[
+   \begin{rcases}
+     T(n) \Rightarrow T(\frac{n}{2})  \\
+   T(1)=1 
+   \end{rcases}
+\Rightarrow T(n) = n^{\log_{2}^{7}} = 7^{\log_{2}^{n}}
+\]
+\end{latin}
+هنگامی که ماتریس ها \lr{$ 2\times 2 $} شوند از روش معمولی می رویم که \lr{$8$} ضرب می خواهد پس داریم:
+\begin{latin}
+\lr{$7\times7\times8=392$}
+\end{latin}
+\vspace{0.1in}
+
+%Question #10  
 \question
 \vspace{0.5in}
 
@@ -345,14 +403,21 @@ for( i := 1; i <= n; i++)
 {الگوریتم پریم در گراف های متراکم بهتر از الگوریتم کراسکال عمل می کند.}
 {الگوریتم پریم در گراف های خلوت از مرتبه{$\theta (n\log n)$} است.}
 {الگوریتم کراسکال در گراف های کامل بهتر از الگوریتم پریم عمل می کند.}
-{الگوریتم پریم و کراسکال درخت های پوشانی را تولید می کنند که مجموع هزینه در آن ها یکسان است.}
-{d}
+{الگوریتم پریم و کراسکال درخت های پوشانی را تولید می کنند که مجموع هزینه در آن ها یکسان است.}{d}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
+\end{flushright}
+گزینه د صحیح می باشد: 
+
+{الگوریتم پریم و کراسکال درخت های پوشانی را تولید می کنند که مجموع هزینه در آن ها یکسان است.}
+
+\begin{flushright}
+\textbf{\color{green}حل :}
 \end{flushright}
 {الگوریتم پریم و کراسکال درخت های پوشانی را تولید می کنند که مجموع هزینه در آن ها یکسان است.}
-\vspace{0.5in}
+
+\vspace{0.1in}
 
 %Question #12
 \question 
@@ -374,10 +439,51 @@ for( i := 1; i <= n; i++)
 \choice{111101}{101110}{101111}{111011}{c}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
+گزینه ج صحیح می باشد: 
 {101111}
-\vspace{0.5in}
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+ابتدا با توجه به تعداد تکرار حروف درخت هافمن را ایجاد می کنیم. بعد از ایجاد درخت می توان گفت که کوتاه ترین کد برای {$ e $} می باشد و کد های {$ f , d , c , b $} دارای طول کد برابر می باشند.
+\begin{latin}
+\begin{center}
+\begin{tikzpicture}
+[level distance=10mm,
+every node/.style={fill=red!60,ellipse,inner sep=4pt},
+level 1/.style={sibling distance=30mm,nodes={fill=red!45}},
+level 2/.style={sibling distance=30mm,nodes={fill=red!30}},
+level 3/.style={sibling distance=30mm,nodes={fill=red!25}},
+level 4/.style={sibling distance=20mm,nodes={fill=red!25}}]
+\node {89}
+child {node [rectangle,draw]{e}
+child [missing]
+}
+child {node {54}
+child {node [rectangle,draw]{a}
+}
+child {node {29}
+child {node {18}
+child {node [rectangle,draw]{f}}
+child {node [rectangle,draw]{d}}
+}
+child {node {11}
+child {node [rectangle,draw]{c}}
+child {node [rectangle,draw]{b}}
+}
+}
+};
+\end{tikzpicture}
+\end{center}
+\end{latin}
+
+\begin{latin}
+\rl{کد های ایجاد شده برای حروف }{$ \Rightarrow  a=10 , b=1111 , c=1110 , d=1101 , e=0 , f=1100$}
+\end{latin}
+
+
+\vspace{0.1in}
 
 %Question #14
 \question
@@ -394,10 +500,23 @@ $A_{20\times2}$ $\times$ $B_{2\times30}$ $\times$ $C_{30\times12}$ $\times$ $D_{
 \choice{۳۱۲۰}{۱۲۳۲}{۱۳۲۳}{۲۸۸۰}{b}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
+گزینه ب صحیح می باشد: 
 {۱۲۳۲}
-\vspace{0.5in}
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+با بررسی حالت های مختلف:
+\begin{latin}
+(AB)(CD)(A(B(CD))=30$\times$12$\times$8+2$\times$30$\times$8+20$\times$2$\times$8=3680\\
+A((BC)D)=2$\times$30$\times$12+2$\times$12$\times$8+20$\times$2$\times$8=1232\\
+(AB)(CD)=20$\times$2$\times$30+30$\times$12$\times$8+20$\times$30$\times$8=8880\\
+(A(BC)D)=20$\times$2$\times$30+20$\times$30$\times$12+20$\times$12$\times$8=10320
+\end{latin}
+ملاحظه می شود گزینه ب برای ضرب این چهار ماتریس صحیح است. 
+
+\vspace{0.1in}
 
 %Question #16
 \question 
@@ -410,10 +529,30 @@ $A_{20\times2}$ $\times$ $B_{2\times30}$ $\times$ $C_{30\times12}$ $\times$ $D_{
 \choice{$1.9$}{$1.7$}{$1.6$}{$1.8$}{c}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
-{$1.6$}
-\vspace{0.5in}
+گزینه ج صحیح می باشد: {$1.6$}
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+بهترین حالت ایجاد درخت دودوئی بهینه بصورت زیر می باشد:
+\begin{latin}
+\usetikzlibrary {shapes.geometric}
+\begin{tikzpicture}[sibling distance=20mm]
+\node[ellipse,draw] {key2}
+child {node[ellipse,draw] (left node) {key1}}
+child {node[ellipse,draw] (right node) {key3}};
+\draw[dashed];
+\end{tikzpicture}
+\end{latin}
+
+\begin{latin}
+\begin{center}
+\rl{زمان میانگین جستجوی دودوئی }{$= 1 \times 0.4 + 2 \times 0.3 + 2 \times 0.3 = 1.6$}
+\end{center}
+\end{latin}
+
+\vspace{0.1in}
 
 %Question #18
 \question 
@@ -426,10 +565,18 @@ $A_{20\times2}$ $\times$ $B_{2\times30}$ $\times$ $C_{30\times12}$ $\times$ $D_{
 \choice{$5$}{$14$}{$42$}{$57$}{c}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
-{$42$}
-\vspace{0.5in}
+گزینه ج صحیح می باشد: {$42$}
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+با داشتن \lr{$n$} گره تعداد \lr{$\frac{\dbinom{2n}{n}}{n+1} $} درخت جستجوی دودوئی متفاوت می توان ساخت. حال اگر \lr{$n=5$} باشد داریم: 
+\begin{latin}
+{$ T(5)=\frac{\dbinom{10}{5}}{5+1}=\frac{10!}{6\times5!\times5!}=\frac{10\times9\times8\times7\times6\times5!}{6\times5!\times5!}=42 $}
+\end{latin}
+
+\vspace{0.1in}
 
 %Question #20
 \question
@@ -447,9 +594,16 @@ $A_{20\times2}$ $\times$ $B_{2\times30}$ $\times$ $C_{30\times12}$ $\times$ $D_{
 {b} 
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
+گزینه ب صحیح می باشد: 
 {$i>0 \& \& (!w[vindex[i-1]][vindex[i]])$}
+
+\begin{flushright}
+\textbf{\color{green}حل :}
+\end{flushright}
+یک گراف که توسط یک آرایه دو بعدی W نشان داده شده است که در آن W[i][j] در صورتی True است که بین رأس i ام و j ام یالی وجود داشته باشد و در غیر اینصورت False است.
+
 \vspace{0.5in}
 
 %Question #22
@@ -466,17 +620,30 @@ $A_{20\times2}$ $\times$ $B_{2\times30}$ $\times$ $C_{30\times12}$ $\times$ $D_{
 {روش برنامه نویسی پویا, زمان اجرا را کاهش می دهد .}{d}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
+\end{flushright}
+گزینه د صحیح می باشد: 
+
+{روش برنامه نویسی پویا, زمان اجرا را کاهش می دهد .}
+
+
+\begin{flushright}
+\textbf{\color{green}حل :}
 \end{flushright}
 {روش برنامه نویسی پویا, زمان اجرا را کاهش می دهد .}
+
 \vspace{0.5in}
 
 %Question #24
 \question
-\vspace{0.5in}
+\vspace{0.1in}
 
 %Question #25
 \question
+\begin{flushright}
+\textbf{\color{red}این برگه شامل ۲۴ سوال تستی می باشد.}
+\end{flushright}
+
 \vspace*{\stretch{1}}
 \newpage
 \end{questions}
@@ -484,7 +651,7 @@ $A_{20\times2}$ $\times$ $B_{2\times30}$ $\times$ $C_{30\times12}$ $\times$ $D_{
 %%%%%%%%%%%%%%%%
 %%%%%%%%%%%سوالات تشریحی
 \begin{center}
-\textbf{سوالات تشریحی فرد }
+\textbf{\color{blue}سوالات تشریحی فرد }
 \end{center}
 
 \begin{questions}
@@ -502,7 +669,7 @@ $A_{20\times2}$ $\times$ $B_{2\times30}$ $\times$ $C_{30\times12}$ $\times$ $D_{
 \]
 \end{latin}
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
 با انتخاب \lr{$T(n)=a_n $} داریم:
 
@@ -541,7 +708,7 @@ $}
 \end{latin}
 
 \begin{flushright}
-\textbf{پاسخ :}
+\textbf{\color{red}پاسخ :}
 \end{flushright}
 در مرحله اول کوتاه ترین مسیر از \lr{$V0$} انتخاب می شود که با توجه به گراف مشخص می شود که بهترین گره انتخابی می باشد. بنابراین این مرحله از \lr{$V0$} شروع وبه مستقیما به گره \lr{$V3$} ختم می شود هزینه این مسیر \lr{$15$} خواهد بود و گراف حاصل به صورت زیر خواهد بود:
 \begin{latin}
@@ -658,11 +825,78 @@ $}
 \question
 مساله کوله پشتی صفر و یک را برای اجسام \lr{$w1 $}  تا \lr{$w5 $} با ارزش و وزن تعریف شده به صورت زیر و کوله پشتی با وزن \lr{$15 $} کیلو گرم در نظر بگیرید. هدف پر کردن کوله پشتی با اجسام است به نحوی که بیشترین سود حاصل شود. درخت فضای حالت این مساله را با استفاده از روش انشعاب و تحدید رسم نموده و حداکثر سود ممکن را محاسبه نمایید ( اجسام در جدول بر حسب {$p_i/w_i$}مرتب هستند )؟
 
+\begin{latin}
+\begin{center}
+\begin{tabular}{ l | c | r }
+  \rl{جسم} & \rl{ارزش(p)} & \rl{وزن(w)} \\
+\hline
+  1 & 35\tiny\$ & 7 \\
+\hline
+  2 & 10\tiny\$ & 2 \\
+\hline
+  3 & 16\tiny\$ & 4 \\
+\hline
+ 4 & 15\tiny\$ & 5 \\
+\hline
+  5 & 6\tiny\$ & 6
+\end{tabular}
+\end{center}
+\end{latin}
 
+\begin{flushright}
+\textbf{\color{red}پاسخ :}
+\end{flushright}
+\begin{latin}
+\begin{center}
+\begin{tabular}{ c| c | c | c }
 
+ \rl{جسم} & \rl{ارزش(p)} & \rl{وزن(w)} & {$\frac{P_i}{W_i}$}\\ 
+\hline
+ 1 & 35\tiny\$ & 7 & 5 \\  
+ 2 & 10\tiny\$ & 2 & 5  \\ 
+ 3 & 16\tiny\$ & 4 & 4 \\ 
+ 4 & 15\tiny\$ & 5 & 3 \\ 
+ 5 & 6\tiny\$ & 6 & 1 \\ 
+\end{tabular}
+\end{center}
+\end{latin}
 
-
-
+\begin{latin}
+\begin{center}
+\begin{tikzpicture}
+[level distance=15mm,
+every node/.style={fill=red!60,ellipse,inner sep=4pt},
+level 1/.style={sibling distance=50mm,nodes={fill=red!45}},
+level 2/.style={sibling distance=45mm,nodes={fill=red!30}},
+level 3/.style={sibling distance=25mm,nodes={fill=red!30}},
+level 4/.style={sibling distance=20mm,nodes={fill=red!30}},
+level 5/.style={sibling distance=20mm,nodes={fill=red!30}},
+level 6/.style={sibling distance=5mm,nodes={fill=red!25}}]
+\node {0,0,115}
+child {node {35,7,}
+child {node {45,9,}
+child {node {61,13,}
+child {node [ellipse,draw]{76,18,}}
+child {node [ellipse,draw]{4,2,0}
+child {node [ellipse,draw]{5,2,0}}
+child {node [ellipse,draw]{5,3,0}}
+}
+}
+child {node [ellipse,draw]{3,2,0}}
+}
+child {node {2,2,0}
+child {node {3,3,0}
+child {node [ellipse,draw]{4,3,0}}
+child {node [ellipse,draw]{4,4,0}}
+}
+child {node {3,4,0}}
+}
+}
+child {node {0,0,1}
+};
+\end{tikzpicture}
+\end{center}
+\end{latin}
 
 \vspace*{\stretch{1}}
 \newpage
@@ -674,7 +908,7 @@ $}
 
 \bigskip
 \begin{center}
-\textbf{ پاسخ سوالات تستی فرد }
+\textbf{\color{blue} پاسخ سوالات تستی فرد }
 \end{center}
 \bigskip  
 
