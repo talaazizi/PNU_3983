@@ -76,7 +76,7 @@ In the pairs <math>f/c</math> written on the edges, <math>f</math> is the curren
 = & \min(3,2,1) = 1
 \end{align}</math>
 |align="center"| <math>A,D,E,G</math>
-| [[Image:Edmonds-Karp flow example 1.svg|300px]]</td>
+| [[]]</td>
 |-
 | <math>\begin{align}
   & \min(c_f(A,D),c_f(D,F),c_f(F,G)) \\
@@ -84,7 +84,7 @@ In the pairs <math>f/c</math> written on the edges, <math>f</math> is the curren
 = & \min(2,6,9) = 2
 \end{align}</math>
 |align="center"| <math>A,D,F,G</math>
-| [[Image:Edmonds-Karp flow example 2.svg|300px]]</td>
+| [[]]</td>
 |-
 | <math>\begin{align}
   & \min(c_f(A,B),c_f(B,C),c_f(C,D),c_f(D,F),c_f(F,G)) \\
@@ -92,7 +92,7 @@ In the pairs <math>f/c</math> written on the edges, <math>f</math> is the curren
 = & \min(3,4,1,4,7) = 1
 \end{align}</math>
 |align="center"| <math>A,B,C,D,F,G</math>
-| [[Image:Edmonds-Karp flow example 3.svg|300px]]</td>
+| [[]]</td>
 |-
 | <math>\begin{align}
   & \min(c_f(A,B),c_f(B,C),c_f(C,E),c_f(E,D),c_f(D,F),c_f(F,G)) \\
@@ -100,7 +100,7 @@ In the pairs <math>f/c</math> written on the edges, <math>f</math> is the curren
 = & \min(2,3,2,1,3,6) = 1
 \end{align}</math>
 |align="center"| <math>A,B,C,E,D,F,G</math>
-| [[Image:Edmonds-Karp flow example 4.svg|300px]]</td>
+| [[]]</td>
 |}
 
 Notice how the length of the [[augmenting path]] found by the algorithm (in red) never decreases. The paths found are the shortest possible. The flow found is equal to the capacity across the [[max flow min cut theorem|minimum cut]] in the graph separating the source and the sink. There is only one minimal cut in this graph, partitioning the nodes into the sets <math>\{A,B,C,E\}</math> and <math>\{D,F,G\}</math>, with the capacity
