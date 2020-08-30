@@ -1,15 +1,17 @@
 
 
-فصل ۱ -روشهای تحلیل الگوریتم
+Chapter 1: Algorithm Analysis Methods
 
 
++ [algorithms running time ]()
+  - [@Insertion sort]()
+  - [@Sبررسی حالت های مختلف یک الگوریتم]()
+  
 
-
-+ [زمان اجرای الگوریتم ها]( )
-
-
-
-+ [مرتبه اجرای الگوریتم]()
++ [مرتبه اجرایی]()
+  - [@Big-oh]()
+  - [@Big-omega]()
+  - [@θ]()
 
 
 
@@ -17,6 +19,12 @@
 + [لینک ارائه  ](http://dl1.abrim.ir/Videos/FMP/Algorithm/SZ-980173622-Algorithm.mp4) 
 
 
++ [لینک فیلم های آموزشی رایگان طراحی الگوریتم]()
+  - [@1](http://minidars.ir/videos_categories/algorithm/)
+  - [@2](https://www.aparat.com/v/AG6Pu?playlist=455888)
+  - [@3](https://www.aparat.com/EhsanYasrebi)
+
++ [لینک pdfهای دانشگاه MIT]()
 ----------------------------------------------------------------------------------------------------------
 
 
