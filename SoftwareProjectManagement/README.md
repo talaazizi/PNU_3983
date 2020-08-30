@@ -14,18 +14,18 @@
 
 ۱. 
 [مبانی مدیریت پروژه نرم افزار](https://git.ir/linkedin-software-project-management-foundations/)
-- [_02_linkedin-software-project-management-foundations](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_02_linkedin-software-project-management-foundations/en) : 20 videos
+- [_02_linkedin-software-project-management-foundations](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_02_linkedin-software-project-management-foundations/en) : 20 videos - Duration: 00:54:51
 
 <br>
 
 ۲. [مقایسه مدیریت پروژه اجایل در مقابل واترفال](https://git.ir/linkedin-comparing-agile-versus-waterfall-project-management/)
 
-- [_03_linkedin-comparing-agile-versus-waterfall-project-management](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_03_linkedin-comparing-agile-versus-waterfall-project-management/en) : 24 videos
+- [_03_linkedin-comparing-agile-versus-waterfall-project-management](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_03_linkedin-comparing-agile-versus-waterfall-project-management/en) : 24 videos - Duration: 01:55:34
 
 <br>
 
 ۳. [آموزش گردش کار تولید کارامد برای پایتون](https://git.ir/linkedin-efficient-python-production-workflows)
-- [_04_linkedin-efficient-python-production-workflows](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_04_linkedin-efficient-python-production-workflows) : 40 videos
+- [_04_linkedin-efficient-python-production-workflows](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_04_linkedin-efficient-python-production-workflows) : 40 videos - Duration: 00:54:20
 
 <br>
 
@@ -35,47 +35,47 @@
 <br>
 
 ۵. [آموزش ترکیب متدهای مدیریت پروژه](https://git.ir/linkedin-blending-project-management-methods)
-- [_06_linkedin-blending-project-management-methods](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_06_linkedin-blending-project-management-methods) : 17 videos
+- [_06_linkedin-blending-project-management-methods](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_06_linkedin-blending-project-management-methods) : 17 videos - Duration: 01:00:39
 
 <br>
 
 ۶. [مدیریت پروژه های پایتون](https://git.ir/linkedin-managing-python-projects)
-- [_08_linkedin-managing-python-projects](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_08_linkedin-managing-python-projects) : 37 videos
+- [_08_linkedin-managing-python-projects](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_08_linkedin-managing-python-projects) : 37 videos - Duration: 00:48:02
 
 <br>
 
 ۷. [آموزش مدیریت پروژه Agile و Agile Delivery](https://git.ir/packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery-video)
-- [_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery) : 12 videos
+- [_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_09_packtpub-an-agile-crash-course-agile-project-management-and-agile-delivery) : 12 videos - Duration: 01:05:00
 
 <br>
 
 ۸. [آموزش اصولی مدیریت Product Backlog در Scrum](https://git.ir/skillshare-scrum-product-backlog-management-the-essentials)
-- [_10_skillshare-scrum-product-backlog-management-the-essentials](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_10_skillshare-scrum-product-backlog-management-the-essentials) : 7 videos
+- [_10_skillshare-scrum-product-backlog-management-the-essentials](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_10_skillshare-scrum-product-backlog-management-the-essentials) : 7 videos - Duration: 00:17:06
 
 <br>
 
 ۹. [آموزش اصول مدیریت پروژه](https://git.ir/linkedin-project-management-foundations)
-- [_11_linkedin-project-management-foundations](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_11_linkedin-project-management-foundations) : 81 videos
+- [_11_linkedin-project-management-foundations](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_11_linkedin-project-management-foundations) : 81 videos - Duration: 03:20:46
 
 <br>
 
 ۱۰. [همکاری تحلیلگر کسب و کار با مدیر پروژه](https://git.ir/linkedin-business-analyst-and-project-manager-collaboration)
-- [_12_linkedin-business-analyst-and-project-manager-collaboration](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_12_linkedin-business-analyst-and-project-manager-collaboration) : 19 videos
+- [_12_linkedin-business-analyst-and-project-manager-collaboration](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_12_linkedin-business-analyst-and-project-manager-collaboration) : 19 videos - Duration: 00:59:27
 
 <br>
 
 ۱۱. [آموزش استخدام و مدیریت متخصصان UX](https://git.ir/linkedin-hiring-and-managing-ux-professionals)
-- [_17_linkedin-hiring-and-managing-ux-professionals](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_17_linkedin-hiring-and-managing-ux-professionals) : 27 videos
+- [_17_linkedin-hiring-and-managing-ux-professionals](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_17_linkedin-hiring-and-managing-ux-professionals) : 27 videos - Duration: 01:07:33
 
 <br>
 
 ۱۲. [آموزش مدیریت تغییر Agile برای تولید کنندگان](https://git.ir/linkedin-agile-change-management-for-manufacturers)
-- [_19_linkedin-agile-change-management-for-manufacturers](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_19_linkedin-agile-change-management-for-manufacturers) : 24 videos
+- [_19_linkedin-agile-change-management-for-manufacturers](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_19_linkedin-agile-change-management-for-manufacturers) : 24 videos - Duration: 00:56:07
 
 <br>
 
 ۱۳. [آموزش ایجاد و مدیریت کانال یوتیوب](https://git.ir/lynda-creating-and-managing-a-youtube-channel)
-- [_20_lynda-creating-and-managing-a-youtube-channel](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_20_lynda-creating-and-managing-a-youtube-channel) : 54 videos
+- [_20_lynda-creating-and-managing-a-youtube-channel](https://github.com/AliRazavi-edu/PNU_3983/tree/master/SoftwareProjectManagement/_20_lynda-creating-and-managing-a-youtube-channel) : 54 videos - Duration: 04:25:00
 
 <br>
 <br>
