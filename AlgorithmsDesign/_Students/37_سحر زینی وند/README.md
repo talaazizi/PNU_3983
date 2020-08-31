@@ -5,7 +5,7 @@ Chapter 1: Algorithm Analysis Methods
 
 + [algorithms running time ]()
   - [@Insertion sort]()
-  - [@Sبررسی حالت های مختلف یک الگوریتم]()
+  - [@بررسی حالت های مختلف یک الگوریتم]()
   
 
 + [مرتبه اجرایی]()
