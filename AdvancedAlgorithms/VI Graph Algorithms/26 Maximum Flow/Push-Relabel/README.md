@@ -46,6 +46,9 @@ var graph = [
 console.log("The maximum possible flow is " +
 	pushRelabel.PushRelabel(graph, 0, 5));
 ```
+## Usefull Videos
+https://www.youtube.com/watch?v=i_sAVvVZ2sI
+https://www.youtube.com/watch?v=0hI89H39USg
 
 ## Usage
 
