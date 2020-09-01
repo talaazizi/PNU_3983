@@ -27,12 +27,12 @@
 
 *Consider the following graph*
 
-<img src="/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow/Push-Relabel/images/push-relabel.png">
+<img src="https://github.com/fmohammadipour/push-relabel/blob/master/images/push-relabel.png">
 
 *Maximum possible flow in the given graph is 23*
 
 ```javascript
-var pushRelabel = require('graph-theory-push-relabel');
+var pushRelabel = require('push-relabel');
 
 var graph = [
 	[ 0, 16,  13, 0,  0,  0 ],
@@ -49,7 +49,7 @@ console.log("The maximum possible flow is " +
 
 ## Usage
 
-#### `require('graph-theory-push-relabel')( graph, source, sink )`
+#### `require('push-relabel')( graph, source, sink )`
 Compute the maximum flow in a flow network between source node `source` and sink node `sink`.
 
 **Arguments:**
@@ -61,7 +61,7 @@ Compute the maximum flow in a flow network between source node `source` and sink
 
 ## Installation
 
-	npm install graph-theory-push-relabel
+	npm install push-relabel
 
 ## License
 
