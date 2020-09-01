@@ -1,6 +1,4 @@
-/**
- * Created by prabod on 2/17/16.
- */
+
 module.exports = function PushRelabel(graph, s, t) {
 
 	if (s < 0 || t < 0 || s > graph.length - 1 || t > graph.length - 1) {
