@@ -1,2 +1,2 @@
-GitHub address: 
+Resume address: 
 https://fatemehvakili.github.io/
