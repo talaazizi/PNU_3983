@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="multithread.js"></script>
+
+    <script>
+        function test(){
+            var num_threads = 2;
+            var MT = new Multithread(num_threads);
+
+            MT.process(function(){ }, callback)(arg1, arg2, argN);
+
+            var funcInADifferentThread = MT.process(
+                function(a, b) { return a + b; },
+                function(r) { console.log(r) }
+            );
+
+
+            funcInADifferentThread(1, 2);
+            console.log('Before or after?');
+
+            // Only deal with 32-bit signed integers...
+            var threadedInt32Func = MT.processInt32(
+                function(int32_arg1, int32_arg2, int32_argN) {
+                    /* function body */
+                },
+                function(int32_returnValue1, int32_returnValue2,  int32_returnValueN) {
+                    /* main thread callback */
+                }
+            );
+
+            var threadedFloat64Func = MT.processFloat64(
+                function(float64_arg1, float64_arg2,  float64_argN) {
+                    /* function body */
+                },
+                function(float64_returnValue1, float64_returnValue2,  float64_returnValueN) {
+                    /* main thread callback */
+                }
+            );
+            // Use Function.apply to send arguments as an array
+            threadedInt32Func.apply(null, [32, 64, 128, 256])
+
+            // your callback
+            function callback() {
+                var argumentArray = [].slice.call(arguments);
+                /* do something with your argumentArray here */
+            }
+            function scopeCheck() {
+                var scopeVar = 2;
+                MT.process(
+                    function() { return scopeVar + 2; },
+                    function(r) { console.log('Cool'); }
+                )();
+            }
+            scopeCheck();
+            MT.process(
+                function Recurse(m, n) {
+                    if(n>0) {
+                        return Recurse(m + 1, n--);
+                    } else {
+                        return m;
+                    }
+                },
+                function(r) {
+                    console.log(r);
+                }
+            )(5, 2);
+
+            // This will increase m twice recursively and log "7"
+
+        }
+
+
+    </script>
+
+</head>
+<body>
+
+</body>
+</html>
