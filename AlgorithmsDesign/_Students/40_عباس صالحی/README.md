@@ -17,3 +17,7 @@ Chapter 1: Algorithm Analysis Methods
   - [@1](http://minidars.ir/videos_categories/algorithm/)
   - [@2](https://www.aparat.com/v/AG6Pu?playlist=455888)
   - [@3](https://www.aparat.com/EhsanYasrebi)
+
+
++ [عباس صالحی](https://soheilemail.github.io/ )  
+  - [@soheilemail](https://github.com/soheilemail)
