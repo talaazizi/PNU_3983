@@ -1,0 +1,602 @@
+\documentclass{book}
+\usepackage[fleqn]{amsmath}
+\usepackage{amssymb,mathrsfs,amscd,mathtools,nccmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata,positioning,shapes,fit,calc}
+\usepackage[top=3cm,right=3.5cm,bottom=3cm,left=3cm]{geometry}
+\usepackage{color,graphicx} 
+\usepackage{xepersian} 
+\settextfont[]{Arial}
+\renewcommand{\baselinestretch}{1.7}
+\parindent=0pt
+
+\begin{document}
+
+\begin{center}
+\textbf{بهاره برادران سلماس\\ 970015624\\ طراحي الگوريتم ها}\\
+\end{center}
+\begin{center}
+\textbf{سوالات نيمسال $97-98-2$}\\
+\end{center}
+2- مرتبه زماني قطعه كد زير چيست؟\\
+\[
+\begin{align*}
+for(i=0;i<=n; i+=2)\\
+for(j=1 ; j>i ;j++)\\
+x++;
+\end{align*}
+\]
+1.$O(n^3)$ \\
+2.$O(n)$ \\
+3.$O(nlogn)$ \\
+4.$O(n^2)$\\
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه4}\\
+در بد ترین حالت شرط حلقه دوم به صورت $j>n$ خ.اهد بود.(ما بدترین حالت را در نظر میگیریم)\\
+لذا حلقه اول n بار حلقه دوم را تکرار خواهد کرد(افزایش دو گام در هر اجرا تاثیری روی مرتبه زمانی ندارد)\\
+از طرفی حلقه دوم در بدترین حالت n بار دستور خود را اجرا می کند لذا $n*n=n^2$ بار آخرین دستور اجرا خواهد شد پس مرتبه زمانی برابرست با $O(n^2)$\\
+
+4- تابع پیچیدگی زمانی تابع زیر کدام است؟ \\
+
+\[
+\begin{align*}
+void \quad f(int\quad a[\quad], int\quad n) \lbrace \\
+if(n==1)\quad return \quad a[0]; \\
+f(a,n-2)\\
+a[n-1]=a[n-2]\\
+f(a,n-2)\\
+\rbrace
+\end{align*}
+\]
+1.$
+T(n) =\begin{cases}
+1 \quad n=1 \\
+2T(n-2) + T(n-1) \quad n>1\\
+    \end{cases}
+    $
+    \\
+2.$
+T(n) =\begin{cases}
+1 \quad n=1 \\
+2T(n-2) +1\quad n>1\\
+\end{cases}
+$
+\\
+3.$
+T(n) =\begin{cases}
+1 \quad n=1 \\
+T(n-2) + T(n-1)+1 \quad n>1\\
+\end{cases}
+$
+\\
+4.$
+T(n) =\begin{cases}
+1 \quad n=1 \\
+T(n-2) +1\quad n>1\\
+\end{cases}
+$
+\\
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه2}\\
+همانطور که در کد مشاهده می شود در تابع f، دو بار تابع با پارامتر $n-2$ فراخوانی می شود و مابین آن یک دستور اجرا خواهد شد لذا میتوان نوشت
+$T(n)=2T(n-2)+1$
+
+6. کدام گزینه صحیح است؟ \\
+1.\begin{align*}
+T(n) =2T(n-1) + 1 \in \Theta (2^{\Pi}/2) \\
+    \end{align*}
+    \\
+2.\begin{align*}
+T(n) =3T(\frac{n}{5}) + n^2 \in \Theta (n^{log53}) \\
+\end{align*}
+\\
+3.\begin{align*}
+T(n) =T(n-1) + 1 \in \Theta (n) \\
+\end{align*}
+\\
+4.\begin{align*}
+T(n) =T(\frac{n}{2}) + n \in \Theta (n^{log n}) \\
+\end{align*}
+\\
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه3}\\
+\begin{align*}
+T(n)=aT(\frac{n}{b})+F(n) (F(n) \in n^k)\\
+\end{align*}
+در صورتی که n یک عدد طبیعی و $b>1$ و $a>=1$ باشد، به صورت زیر بیان می شود:\\
+\begin{align*}
+T(n) =\begin{cases}
+\Theta (n^{log b^a}) \quad\quad\quad\quad a > b^k\\
+\Theta (n^k log n) \quad\quad\quad\quad a = b^k\\
+\Theta (n^k) \quad\quad\quad\quad a < b^k\\
+\end{cases}
+\end{align*}
+در گزینه 2) $f(n)=n^2, b=5,a=3$  لذا$a^b^k$ پس $\Theta (n^2)$\\
+در گزینه 4) $f(n)=n , b=2,a=1$ لذا $a<b^k$ پس $\Theta (n)$\\
+\begin{align*}
+T(n)=aT(n-b)  \rightarrow \Theta (a^{\frac{n}{b}}) \\
+if (a=1) \rightarrow \Theta (n) \\
+\end{align*}
+در گزینه 1) a=2 , b=1 لذا $\Theta(2^n)$\\ 
+در گزینه 3) 
+$a=1$ لذا $\Theta(n)$\\
+8. آرایه نه عنصری a مفروض است. اگر این آرایه به روش مرتب سازی سریع مرتب شود، خروجی تابع partition در مرحله اول چیست؟\\
+    \begin{align*}
+\begin{table}[htp]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+9 & 2 & 41 & 32 & 5 & 18 & 7 & 25 & 14 \\ \hline
+\end{tabular}
+\end{table}
+\end{align*}
+1.
+\begin{align*}
+[5 \quad 9 \quad 7 \quad 2 \quad 14 \quad 32 \quad 41 \quad 18 \quad 25 ] 
+\end{align*}
+
+2.
+\begin{align*}
+[7 \quad 5 \quad 2 \quad 9 \quad 14 \quad 25 \quad 18 \quad 32 \quad 41 ] 
+\end{align*}
+3.
+\begin{align*}
+[2 \quad 5 \quad 7 \quad 9 \quad 14 \quad 18 \quad 25 \quad 32 \quad 41 ] 
+\end{align*}
+4.
+\begin{align*}
+[9 \quad 7 \quad 5 \quad 2 \quad 14 \quad 32 \quad 41 \quad 18 \quad 25 ] 
+\end{align*}
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه4}\\
+i در عنصر بزرگتر از 14 و j در عناصر کوچک تر از 14 متوقف شده و عناصر تعویض می شوند.\\
+در مرحله اول جای 25 و 7 عوض میشود در مرحله بعدی 25 18 5 پشت هم  قرار میگیرند و جای 25 و 5 عوض میشود. و بعد جای 18 و 2 عوض میشود سپش جای جدید 25 با 9 تعویض میشود.\\
+زمانی که j پیمایش خود را به اتمام می رساند محل عنصر i با اولین خانه جا به جا میشود.\\
+سپس  جای 14 با 9 عوض می شود. \\ 
+10. پیچیدگی زمانی الگوریتم mergesort چقدر است ؟
+\\
+1. $O(log n)$ \\
+2. $O(n logn)$ \\
+3. $O(n^2 log n)$ \\
+4.$O(n^2)$ \\ 
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه2}\\
+پیچیدگی زمانی الگوریتم mergesort  برابر با $\Theta (n log n)$ است.\\
+\\
+ 12. اگر برای یافتن بیشترین و کمترین مقدار یک آرایه 10 عنصری از الگوریتم زیر استفاده شود، تعداد مقایسه ها چقدر است ؟\\
+
+\begin{align*}
+ void \quad MaxMin(int a[], int \quad low , int \quad high , int \quad min , int \quad max) \lbrace \\
+ if(low==high) \quad min=max=a[low]; \\
+ else\quad if \quad (low==high-1) \lbrace \\
+ if \quad (a[low] < a[high]) \lbrace \\
+ max = a[high]; min= a[low];  \rbrace \\
+ else \lbrace \\
+ max=a[low]; min=a[high]; \rbrace \\
+ else \lbrace \\
+ int mid = (low+high)/2 , max1,min1;\\ 
+ MaxMin(a,low,mid,min,max); \\
+ MaxMin(a,mid+1,high,min1,max1);\\
+ if(min1<min) min=min1 ; \\
+  if(max1> max) max=max1 ; \\
+ \rbrace \\
+\end{align*}
+
+1. 5 \\
+2. 10 \\
+3. 12 \\
+4. 13 \\
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه4}\\
+الگوریتم مربوط به پیدا کردن ماکزیمم و مینیمم در لیست، مربوط به minmax می باشد.که رابطه آن به صورت $T(n)=\frac{3n}{2}-2$ می باشدبنابراین برای 10 عنصر $T(n)=\frac{30}{2}-2=13$ مقایسه خواهیم داشت.\\
+نکته: اگر عناصر فرد باشد تعداد مقایسه ها برابراست با : $ 
+T(n)=\frac{3n}{2}-\frac{3}{2}$
+\\
+\\
+14. در صورتی که متن زیر به روش هافمن کد گذاری شود، کد حرف b کدام خواهد بود؟ \\
+\begin{align*}
+abaaccdbabcaccc \\
+\end{align*}
+1. 100 \\ 2. 001 \\ 3. 01 \\ 4. 101 \\
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه4}\\
+در کد هافمن، دو کاراکتر با تعداد کمتر باهم تشکیل گره ای را داده و مجموع تعداد آنها در آن گره ثبت میشود سپس عدد این گره در لیست تعداد کاراکترها قرار میگیرد. این روند را تا ریشه درخت ادامه می دهیم بعد از تشکیل درخت، از ریشه یال های سمت چپ را 0 و یال های سمت راست را 1 میگذاریم پس از آن برای هر کاراکتر از ریشه شروع کرده عدد بدست آمده از ریشه تا آن کاراکتر را از روی یالها می نویسیم: تعداد: $a=5, b=3, c=6, d=1$
+\begin{align*}
+\begin{tikzpicture}[>=latex',shorten >=1pt,node distance=3cm,on grid,auto]
+    \node[state] (q0) {$15$};
+    \node[state] (q1) [below right=of q0] {$9$};
+    \node[state] (q2) [below left=of q0] {$ c $};
+    \node[state] (q3) [below right=of q1] {$a$};
+    \node[state] (q4) [below left=of q1] {$ 4 $};
+    \node[state] (q5) [below right=of q4] {$b$};
+    \node[state] (q6) [below left=of q4] {$d$};
+    \path[--] (q0) edge node {$1$} (q1);
+    \path[--] (q0) edge node {$0$} (q2);
+    \path[--] (q1) edge node {$1 $} (q3);
+    \path[--] (q1) edge node {$ 0$} (q4);
+    \path[--] (q4) edge node {$ 1$} (q5);
+    \path[--] (q4) edge node {$0 $} (q6);
+  \end{tikzpicture}\\
+  \end{align*}
+  a=11 , b=101 , c=0 , d=100 \\
+16. تعداد حالات مختلف ضرب زنجیره ای 5 ماتریس کدام است؟ \\
+1. 14 \\ 2. 5 \\\ 3. 30 \\ 4. 10\\
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه1}\\
+تعداد حالات ممکن برای ضرب زنجیره ای ماتریس ها از رابطه زیر بدست می آید. \\
+\begin{align*}
+T(n)=\Sigma_{i=1}^{n-1}T(i)T(n-i)=\frac{1}{n}(2(n-1)\\n-1)=\frac{1}{5}(2(5-1)\\5-1)=\frac{1}{5}\frac{8!}{4!4!}=14 \\
+\end{align*}
+میانگین تعداد مقایسه های جستجوی ناموفق= $\frac{2*3+4*4}{5+1}=\frac{22}{6}=3.67$\\
+توجه کنید که از فرمول های ذیل استفاده کردیم:\\
+میانگین تعداد مقایسه ها برای جستجوی موفق= $\frac{\Sigma d(x) \rightarrow \text{مجموع گره های داخلی}}{n \rightarrow \text{تعداد کل گره} 
+}$\\
+میانگین تعداد مقایسه ها برای جستجوی ناموفق =  $\frac{\Sigma dx \rightarrow \text{طول مجموع  گره های خارجی}}{n+1}
+$\\
+18 . مرتبه زمانی مسله کوله پشتی صفر و یک با استفاده از روش برنامه نویسی پویا چقدر است؟ \\
+\begin{align*}
+1. \Theta (n) \\ 2. \Theta (n^n) \\ 3. \Theta (2^n) \\ 4. \Theta (n^2) \\
+\end{align*}
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه3}\\
+مرتبه زمانی کوله پشتی صفرویک در بدترین حالت $\Theta(2^n)$  می باشد.\\
+
+20. دو رشته X=ABCBDAB و Y=BDCABA را در نظر بگیرید. اگر برای یافتن طولانی ترین زیر رشته مشترک بین XوY از روش برنامه نویسی پویا استفاده شود، b[3][3] چقدر است ؟
+\\ 
+1. 0 \\ 2. 1 \\ 3.2\\ 4.3 \\
+22- گرافی با ماتریس مجاورت زیر مفروض است. برای رنگ آمیزی این گراف با سه رنگ چند پاسخ وجود دارد ؟ \\
+\[
+\begin{bmatrix}
+  000    \\
+  000   \\
+  000    \\
+  000    \\
+\end{bmatrix}
+\]
+\\
+1.3 \\ 2.2 \\ 3.1 \\ 4.0 \\
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه4}\\
+چون همه رئوس بر هم منطبق هستند و وزن یال بین رئوس 0 است لذا نمی توان گراف را طوری رنگ آمیزی کرد که هیچ دو راس مجاوری همرنگ نباشد.\\
+
+24. در مساله کوله پشتی صفر و یک مقدار Bound,profit,weight در یک گروه مفروض به ترتیب معادل گزینه است؟\\
+1. حد بالایی از بهره قابل دستیابی ، حاصل جمع ارزش قطعات و  حاصل جمع اوزان قطعات \\
+2.  حاصل جمع ارزش قطعات ، حد بالایی از بهره قابل دستیابی و  حاصل جمع اوزان قطعات \\
+3.حد بالایی از بهره قابل دستیابی ، حاصل جمع اوزان قطعات و  حاصل جمع ارزش قطعات \\
+4. حاصل جمع اوزان قطعات، حد بالایی از بهره قابل دستیابی و حاصل جمع ارزش قطعات \\
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه1}\\
+:profit حاصل جمع ارزش قطعات \\
+:bound    حد بالا از بهره قابل دستیابی
+\\
+:weight حاصلجمع اوزان قطعات
+\\
+\begin{center}
+\textbf{سوالات تشریحی}\\
+\end{center}
+2- در الگوریتم جستجوی دودویی، متوسط تعداد مقایسه ها در جستجوی موفق و ناموفق برای یک آرایه 5 عنصری را به کمک درخت تصمیم گیری بدست آورید.\\
+\textbf{حل}:\\
+درصورتی که الگوریتم جستجوی دودویی را برای جستجوی عناصر آرایه $A[ \quad  ]= \lbrace a1, a2, a3, a4, a5\rbrace$ به کار ببریم، میانگین تعداد مقایسه ها در جستجوی موفق و جستجوی ناموفق را به دست می آوریم:
+برای محاسبه میانگین جستجوی موفق تعداد گره های پر هر سطح، را در شماره سطح آن ضرب میکنیم و جمع می نماییم سپس بر تعداد گره های پر تقسیم میکنیم:
+
+\begin{align*}
+\begin{tikzpicture}[>=latex',shorten >=1pt,node distance=3cm,on grid,auto]
+    \node[state] (q0) {$a_3 $};
+    \node[state] (q2) [below left=of q0] {$ $};
+    \node[state] (q1) [below right=of q0] {$a_4 $};
+    \node[state] (q6) [below left=of q2] {$ $};
+    \node[state] (q5) [ right=of q6] {$ $};
+    \node[state] (q4) [ left=of q3] {$ $};
+   \node[state] (q3) [below right=of q1] {$ a_5$};
+    \node[state] (q8) [below left=of q6] {$ $};
+    \node[state] (q7) [below right=of q6] {$ $};
+    \node[state] (q10) [below left=of q3] {$ $};
+    \node[state] (q9) [below right=of q3] {$ $};
+    \path[--] (q0) edge node {$ $} (q1);
+    \path[--] (q0) edge node {$ $} (q2);
+    \path[--] (q1) edge node {$ $} (q3);
+    \path[--] (q1) edge node {$ $} (q4);
+    \path[--] (q3) edge node {$ $} (q9);
+    \path[--] (q3) edge node {$ $} (q10);
+    \path[--] (q2) edge node {$ $} (q5);
+    \path[--] (q2) edge node {$ $} (q6);
+    \path[--] (q6) edge node {$ $} (q7);
+    \path[--] (q6) edge node {$ $} (q8);
+  \end{tikzpicture}\\
+    \end{align*}
+    میانگین مقایسه های جستجوی موفق=  $\frac{1 +2*2 + 2*3}{5}=\frac{11}{3}=2/2$ \\
+برای محاسبه میانگین جستجوی ناموفق تعداد گره های خالی هر سطح را در شماره سطح آن ضرب میکنیم و جمع می نماییم سپس بر تعداد گره های پر تقسیم میکنیم
+\\
+4- در مساله حاصل جمع زیر مجموعه ها، اگر n=5 و w=12 باشد، برای $w_i$ های داده شده زیر، با استفاده از تکنیک عقبگرد چند جواب وجود دارد؟ درخت فضای حالت آن را رسم کنید. \\
+$w_1=2 , w_2=5 , w_3=7 , w_4 = 10 , w_5=12 $ \\
+\textbf{حل}:\\
+در مسئله حاصل جمع زیر مجموعه ها، n عدد مثبت و صحیح $w_i$ (وزن ها) و یک عدد صحیح مثبت w داده
+شده و هدف، یافتن همه زیرمجموعه هایی از این اعداد صحیح است که حاصل جمع آنها برابر W بشود، مسلما اگر این مسئله را به مسئله دزد و کوله پشتی تشبیه کنیم، تنها یافتن یک جواب کافی خواهد بود.
+اگر weight مجموع وزن های جمع آوری شده تاکنون و $w_{i+1}$ وزن قطعه بعدی، total مجموع وزن های ‍پیمایش نشده (باقی مانده) باشد داریم:\\
+شروط امید بخش بودن مسئله حاصل جمع زیر مجموعه ها:
+\begin{align*}
+weight + W_{i+1} \leq W \\
+weight + total \geq W 
+\end{align*}
+شروط نا امید بخش بودن مسئله حاصل جمع زیر مجموعه ها:
+\begin{align*}
+weight + W_{i+1} > W \\
+weight + total < W 
+\end{align*}
+برای رسم درخت فضای حالت: اگر از ریشه به طرف چپ برویم یعنی w1 را انتخاب کرده ایم و اگر به سمت راست برویم یعنی w1 انتخاب نشده است. به طریق مشابه اگر از یک گره در سطح ۱ به سمت چپ رفتیم به این معنی خواهد بود که w2 را انتخاب کرده ایم و اگر به طرف راست رفتیم آن را انتخاب نکرده ایم و...
+هر مسیر از ریشه به برگ معرف یک زیرمجموعه است.\\
+
+\begin{align*}
+\begin{tikzpicture}[>=latex',shorten >=1pt,node distance=3cm,on grid,auto]
+    \node[state] (q0) {$0 $};
+    \node[state] (q1) [below left=of q0] {$2 $};
+    \node[state] (q2) [below right=of q0] {$0 $};
+    \node[state] (q3) [below left=of q1] {$7 $};
+    \node[state] (q4) [right=of q3] {$ 2 $};
+    \node[state] (q5) [ left=of q6] {$ 5 $};
+    \node[state] (q6) [below right=of q2] {$0 $};
+    \node[state] (q7) [below left=of q4] {$ 9$};
+    \node[state] (q8) [right=of q7] {$2 $};
+    \node[state] (q9) [below left=of q5] {$12 $};
+    \node[state] (q10) [right=of q9] {$5 $};
+    \node[state] (q11) [left=of q12] {$ 7$};
+    \node[state] (q12) [below right=of q6] {$0 $};
+    \node[state] (q13) [ left=of q14] {$12 $};
+   \node[state] (q14) [below right=of q8] {$2 $};
+   \node[state] (q15) [left=of q16] {$10 $};
+   \node[state] (q16) [below right=of q12] {$0 $};
+   \node[state] (q17) [ left=of q18] {$12 $};
+   \node[state] (q18) [below right=of q16] {$ 0$};
+    \path[--] (q0) edge node {$y $} (q1);
+    \path[--] (q0) edge node {$ n$} (q2);
+    \path[--] (q1) edge node {$ y$} (q3);
+    \path[--] (q1) edge node {$ n$} (q4);
+    \path[--] (q2) edge node {$ y$} (q5);
+    \path[--] (q2) edge node {$ n$} (q6);
+    \path[--] (q4) edge node {$ y$} (q7);
+    \path[--] (q4) edge node {$ n$} (q8);
+    \path[--] (q5) edge node {$ y$} (q9);
+    \path[--] (q5) edge node {$ n$} (q10);
+    \path[--] (q6) edge node {$ y$} (q11);
+    \path[--] (q6) edge node {$ n$} (q12);
+    \path[--] (q8) edge node {$ y$} (q13);
+    \path[--] (q8) edge node {$ n$} (q14);
+    \path[--] (q12) edge node {$ y$} (q15);
+    \path[--] (q12) edge node {$n $} (q16);
+    \path[--] (q16) edge node {$ y$} (q17);
+    \path[--] (q16) edge node {$ n$} (q18);
+   \end{tikzpicture}\\
+     \end{align*}
+     y=yes \\
+     n=no\\
+     $w_1=2 \\ w_2=5 \\ w_3=7 \\ w_4=10 \\ w_5=12 \\ $
+\begin{center}
+\textbf{سوالات تابستان $94$}\\
+\end{center}
+1- از میان سه رابطه زیر چه تعداد درست است؟\\
+\begin{align*}
+5n + 10 log n^4 \in o(n^2) \\
+n^3 2^n + 6 n^23^n \in o(n^4 2^n) \\ 
+log 2^n \in \Omega(logn^{\sqrt{n}}) \\
+\end{align*}
+1. صفر \\ 2. 1 \\ 3. 2 \\ 4. 3 \\
+ 3- مرتبه اجرای قطعه کد زیر کدام است؟
+\begin{align*}
+i=n; \\
+while(i\geq 1)\lbrace\\
+j=i; \\
+while(j\leq n)\lbrace \\
+j=j*2; \\
+\rbrace \\
+i=i-2; \\
+\rbrace \\
+\end{align*}
+
+1.$\Theta ((log \quad n)^2)$\\
+2.$\Theta(n \quad log \quad n)$\\
+3.$\Theta (n^2)$\\
+4.$\Theta(n+log \quad n)$\\
+\textbf{حل:}\\
+\textbf{پاسخ صحیح : گزینه4}\\
+تحلیل را به صورت زیر انجام می دهیم، فرض کنیم $n=2^k$ پس
+\begin{align*}\\
+T(n)=log^1_2 +1 + log^2_2 +1+log^4_2 +1+... + log^n_2 +1 \\
+=(log^1_2  + log^2_2 +log^4_2 +... + log^n_2)+(1+1+...+1)\\
+(0+1+2+...+k)+(k+1)=\frac{k(k+1)}{2}+(k+1) \\
+\frac{k(k+1)+2(k+1)}{2}=\frac{(k+1)(k+2)}{2}=\frac{1}{2}(log^n_2+1)(log^2_n+2) \quad \in \Theta ((log^n_2)^2)\\
+\end{align*}
+5- مرتبه اجرای الگوریتم بازگشتی زیر چیست؟\\
+\begin{align*}
+int func(int \quad n , int \quad m)\lbrace \\
+if (n==2) \\
+return n-m; \\
+else \\
+return m\times func(n-2,m-1)+1 ;\\
+\rbrace \\
+\end{align*}
+1.$o(\sqrt{n})$\\
+2.$o(n)$\\
+3.$o(n^2)$ \\
+4.$o(nlogn)$ \\
+
+7- مرتبه رابطه بازگشتی زیر چیست؟\\
+\begin{align*} T(n)=T(2n/3) +1 \end{align*} \\
+1.$\Theta(n^{2/3})$\\
+2.$\Theta(n^{3/2})$\\
+3.$\Theta(log n)$\\
+4.$\Theta(n log n)$\\
+
+9- اگر برای مرتب سازی آرایه زیر از الگوریتم Quick Sort  استفاده کرده و عنصر اول را به عنوان عنصر محور انتخاب کنیم، خروجی مرحله اول الگوریتم چه خواهد بود؟\\
+\begin{table}[htp]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+20 & 3 & 10 & 16 & 22 & 12 & 7 & 20 & 15 \\ \hline
+\end{tabular}
+\end{table}
+\\
+1. $10 ,7,12,3,15,22,20,16,20$ \\
+2.$3,7,12,10,15,20,16,22,20$ \\
+3.$10,7,3,12,15,16,20,22,20 $\\
+4.$3,7,12,10,15,16,20,22,20$ \\
+
+11. اگر در استفاده از الگوریتم پریم برای بدست درخت پوشای بهینه گراف زیر، راس a را به عنوان راس شروع در نظر بگیریم، ترتیب انتخاب راس ها را به ترتیب از چپ به راست چه خواهد بود؟\\
+\begin{tikzpicture}[>=latex',shorten >=1pt,node distance=4cm,on grid,auto]
+  \node[state] (q0) {$a$};
+  \node[state] (q1) [below right=of q0] {$b$};
+   \node[state] (q2) [below=of q0] {$c$};
+     \node[state] (q3) [left=of q2] {$d$};
+       \node[state] (q4) [below right=of q3] {$f$};
+         \node[state] (q5) [right=of q4] {$e$};
+    \path[--] (q0) edge node {$13$} (q1);
+      \path[--] (q0) edge node {$32$} (q3);
+  \path[--] (q1) edge node {$38$} (q2);
+    \path[--] (q1) edge node {$22$} (q5);
+      \path[--] (q5) edge node {$43$} (q0);
+        \path[--] (q2) edge node {$26$} (q5);
+          \path[--] (q4) edge node {$34$} (q5);
+            \path[--] (q2) edge node {$9$} (q4);
+                \path[--] (q3) edge node {$11$} (q4);
+                  \path[--] (q1) edge [bend left=1000]  node {$18$} (q3);
+  \end{tikzpicture}\\
+  
+1.a,b,d,c,f,e \\
+2.a,b,d,f,c,e \\
+3.a,b,d,e,f,c \\
+4.a,b,e,c,f,d \\
+
+13. چنانچه مجموعه قطعات شامل هفت قطعه با وزن و قیمت زیر باشد. در مساله کوله پشتی کسری با حداکثر ظرفیت برابر با 10، سود بهینه چقدر است؟\\
+\begin{table}[htp]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+ 1 & 4 & 1 & 7 & 5 & 3 & 2 & وزن \\ \hline
+\hline
+ 3 & 18 & 6 & 7 & 15 & 6 & 10 & قیمت \\ \hline
+\end{tabular}
+\end{table}
+\\
+
+1.34 \\ 2.53 \\ 3.49\\ 4.43\\
+
+15- اگر زنجیره ضرب ماتریس ها شامل چهار ماتریس به شکل زیر باشد، پرانتز گذاری بهینه به چه صورت خواهد بود؟
+\begin{align*}
+A_{5*10} \times B_{10*8} \times C_{8*2} \times D_{2*20}
+\end{align*}
+1.$(A\times B)\times(C\times D)$  \\ 2.$(A\times (B\times C)\times D)$\\3.$((A\times B)\times C)\times D$\\4.$(A\times (B\times C))\times D$  \\ 
+
+17- اگر ماتریس مجاورت (w) برای یک گراف به صورت زیر باشد، در محاسبه کوتاه ترین مسیر ها به کمک الگوریتم فلوید، مقادیر اولین سطر ماتریس $D^{(4)}$ کدام است؟\\
+\[
+\begin{bmatrix}
+  0 & 5 & \infty & \infty    \\
+  50 & 0 & 15 & 5    \\
+  30 & \infty & 0 & 15   \\
+  15 & \infty & 5 & 0    \\
+\end{bmatrix}
+\] 
+\\
+1.$[0 \quad 5 \quad \infty \quad \infty ]$ \\ 2. $[0 \quad 5 \quad 15 \quad 10]$ \\ 3.$ [0 \quad 5 \quad 20 \quad10 ]$ \\ 4. $[0 \quad 5 \quad \infty \quad 10 ]$\\
+
+
+19- مرتبه هزینه زمانی T(n) و مرتبه هزینه حافظه مصرفی M(n) برای مسیله فروشنده دوره گرد در یک گراف n  راسی کدام است؟\\
+\begin{align*}
+1.M(n) \in \Theta (n2^n) , T(n) \in \Theta (n2^n) \\ 
+2.M(n) \in \Theta (n2^n) , T(n) \in \Theta (n^2 2^n)\\
+3.M(n) \in \Theta (n^2 2^n) , T(n) \in \Theta (n 2^n)\\
+4.M(n) \in \Theta (n^2 2^n) , T(n) \in \Theta (n^2 2^n)\\
+\end{align*}
+21- کدام یک از عبارات زیر در مورد راهبرد پویا درست است؟\\
+1.اغلب مسائل راهبرد پویا  مسائل بهینه سازی هستند\\
+2.راهبرد برنامه نویسی پویا یک راهبرد بالا به پایین است.\\
+3.میزان حافظه مصرفی در الگوریتم های راهبرد پویا متر از راهبرد تقسیم و حل است.\\
+4.زمان  اجرای الگوریتم محاسبه جمله n ام سری فیبونانچی در راهبرد پویا بیشتر از راهبرد تقسیم و حل است.\\
+
+23- الگوریتم عقبگرد برای مسئله مدار های همیلتونی از کدام مرتبه زمانی است؟\\
+\begin{align*}
+1.\Theta(2^n) \\
+2.\Theta (n2^n)\\
+3. \Theta(n^n)\\
+4.\Theta(n!)\\
+\end{align*}
+25- در حل مسئله کوله پشتی صفر و یک در راهبرد انشعاب و تحدید، اگر بخشی از درحت فضای حالت به صورت زیر باشد، با توجه به قطعات داده شده، در مرحله بعد کدام گره باید توسعه یابد؟(ظرفیت کوله پشتی = 16)\\
+\begin{tikzpicture}[>=latex',shorten >=1pt,node distance=3cm,on grid,auto]
+    \node[state] (q0) {$ $};
+    \node[state] (q1) [below right=of q0] {$D$};
+    \node[state] (q2) [below left=of q0] {$ $};
+    \node[state] (q3) [below right=of q2] {$C$};
+    \node[state] (q4) [below left=of q2] {$ $};
+    \node[state] (q5) [below right=of q4] {$B$};
+    \node[state] (q6) [below left=of q4] {$A$};
+    \path[--] (q0) edge node {$ $} (q1);
+    \path[--] (q0) edge node {$ $} (q2);
+    \path[--] (q2) edge node {$ $} (q3);
+    \path[--] (q2) edge node {$ $} (q4);
+    \path[--] (q4) edge node {$ $} (q5);
+    \path[--] (q4) edge node {$ $} (q6);
+  \end{tikzpicture}\\
+  
+\begin{table}[htp]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+ 4 & 3 & 2 & 1 & قطعه \\ 
+\hline
+ 5 & 1 & 5 & 2 & وزن \\ 
+\hline
+ 1 & 5 & 30 & 40 & قیمت \\ \hline
+\end{tabular}
+\end{table}
+\\
+\\
+\\
+\\
+\\
+\\
+1.A \\ 2.B \\ 3.C \\ 4.D \\
+
+\begin{center}
+\textbf{سوالات تشریحی}\\
+\end{center}
+1- رابطه بازگشتی زیر را حل کنید.\\
+\begin{align*}
+T(n)=\begin{cases}
+ 2T (\sqrt{n}) + n^2 \quad\quad\quad n>1 \\ 1 \quad\quad\quad\quad\quad\quad\quad\quad n=1 \\
+    \end{cases}
+\end{align*}
+\\
+\textbf{حل:}\\
+\begin{align*}
+T(2^k)=2T(2^{\frac{k}{2}}) + 4^k\\
+S(k)=2S(\frac{k}{2})+4^k \\
+S(k) \in \Theta (4^k) \\
+T(n) \in \Theta (n^2) \\
+\end{align*}
+3- چنانچه متنی شامل کاراکتر های A,B,C,D,E,F,G  با نرخ تکرار زیر باشد، پس از رسم درخت هافمن، کد مربوط به هر کارکتر را بدست آورده و طول فایل کد شده را نیز محاسبه کنید.\\
+\begin{table}[htp]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+ G&F&E&D & C & B & A & کاراکتر \\ 
+\hline
+23&12&10 & 35 &28   &14 & 8 & نرخ تکرار\\ 
+\hline
+
+\end{tabular}
+\end{table}
+\\
+\\
+
+\\
+\textbf{حل:}\\
+A=1100 \\ B=001\\ C=01 \\ D=10 \\ E=1101 \\ F=000 \\ g=111 \\
+
+طول کل :
+ \begin{align*}
+23*3+12*3+10*4+35*2+28*2+14*3+8*4=345 \\ 
+\end{align*}
+5- الف) در مساله n وزیر، شرط اینکه دو وزیر مورد حمله یکدیگر قرار گیرند چیست؟\\
+ب) الگوریتم عقبگرد برای مسئله n وزیر را نوشته و پیچیدگی زمانی آنرا تحلیل نمایید؟\\
+ج) تابع امید بخشی این الگوریتم آن را نیز بنویسید.\\
+\textbf{حل:}\\
+
+\end{document}
