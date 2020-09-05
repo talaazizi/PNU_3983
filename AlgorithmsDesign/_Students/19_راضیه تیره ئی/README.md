@@ -1,4 +1,3 @@
 
-+[راضیه تیره ئی](http://github.com/Raziyehtirehei/special potato)
-+ [کاوه حاج صادقی](https://kavehhajsadeghi.github.io/ )  
-  - [@kavehhajsadeghi](https://github.com/kavehhajsadeghi)
++[راضیه تیره ئی](https://github.com/Raziyehtirehei/special-potato)
++ [@Raziyehtirehei](https://github.com/Raziyehtirehei)
